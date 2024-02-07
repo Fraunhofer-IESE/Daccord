@@ -1,0 +1,28 @@
+---
+---
+
+$header-bg-color: #44546A;
+$header-bg-color-secondary: #44546A;
+
+$section-headings-color: #70AD47;
+
+@import "{{ site.theme }}";
+
+#content {
+	max-width: 96rem;
+}
+
+.breadcrumbs ul {
+	list-style: none;
+	padding: 0;
+}
+
+.breadcrumbs li {
+	display: inline;
+}
+
+.breadcrumbs li+li:before {
+	padding: 1rem;
+	color: #606c71;
+	content: "/\00a0";
+}
