@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+
+title: D'accord
+description: D'accord - Adaptive Datenschutz-Cockpits in digitalen Ökosystemen
+use_breadcrumbs: true
+
+plugins:
+  - jemoji
