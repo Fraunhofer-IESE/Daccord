@@ -12,13 +12,13 @@
 
 [Zum Kapitel "Datenökonomie trifft Datenschutz"](<Datenökonomie trifft Datenschutz>)
 
-## **![](../assets/images/gavel.svg) Daten, Daten, Daten: ** Welche Daten werden wie verarbeitet und warum?
+## **![](../assets/images/gavel.svg) Daten, Daten, Daten:** Welche Daten werden wie verarbeitet und warum?
 
 <mark>tbd.</mark>
 
 [Zum Kapitel "Datenverarbeitungen in digitalen Ökosystemen"](<Datenverarbeitungen in digitalen Ökosystemen>)
 
-## **![](../assets/images/list.svg) Glossar: ** Was verstehen wir unter verschiedenen Begriffen?
+## **![](../assets/images/list.svg) Glossar:** Was verstehen wir unter verschiedenen Begriffen?
 
 <mark>tbd.</mark>
 
