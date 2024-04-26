@@ -33,7 +33,7 @@
 
 [Zum Kapitel "Anforderungen"](Anforderungen/)
 
-## ![](./assets/images/gears.svg) Realisierung: Wie kann man als Unternehmen Datenschutz-Cockpits realisieren?
+## ![](./assets/images/gears.svg) **Realisierung:** Wie kann man als Unternehmen Datenschutz-Cockpits realisieren?
 
 <mark>tbd.</mark>
 
