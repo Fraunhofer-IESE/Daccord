@@ -1,10 +1,10 @@
 # Anforderungen
 
-## **![](../../assets/images/arrow-pointer.svg) Interaktionsanfordrungen** 
+## **![](../../assets/images/arrow-pointer.svg) Interaktionsanforderungen** 
 
 <mark>tbd.</mark>
 
-[Zum Kapitel "Interaktionsanfordrungen"](<Interaktionsanfordrungen>)
+[Zum Kapitel "Interaktionsanforderungen"](<Interaktionsanforderungen>)
 
 ## **![](../../assets/images/process.svg) Prozessanforderungen** 
 
