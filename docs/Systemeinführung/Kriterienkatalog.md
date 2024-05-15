@@ -1,3 +1,0 @@
-# Kriterienkatalog
-
-<mark>tbd.</mark>

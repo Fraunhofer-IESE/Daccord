@@ -12,8 +12,8 @@
 
 [Zum Kapitel "Befähigungskonzept"](<Befähigungskonzept>)
 
-## **![](../assets/images/teacher.svg) Lehr- und Lern-Formate:** Gibt es Schulungsmaterialien, die man direkt verwenden kann?
+## **![](../assets/images/teacher.svg) Lehr- und Lernformate:** Gibt es Schulungsmaterialien, die man direkt verwenden kann?
 
 <mark>tbd.</mark>
 
-[Zum Kapitel "Evaluationskonzept"](<Evaluationskonzept>)
+[Zum Kapitel "Lehr- und Lernformate"](<Lehr- und Lernformate>)
