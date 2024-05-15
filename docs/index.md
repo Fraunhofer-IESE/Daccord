@@ -55,8 +55,7 @@
 
 <mark>tbd.</mark>
 
-- [Unsere Veröffentlichungen: Was wurde in D'accord publiziert?](<Lesestoff/Unsere Veröffentlichungen>)
-- [Verwandte Projekte: Woran arbeiten andere Projekte?](<Lesestoff/Verwandte Projekte>)
+[Zum Kapitel "Weiterer Lesestoff"](<Lesestoff/>)
 
 ## **![](./assets/images/team.svg) Autoren**
 
