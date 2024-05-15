@@ -1,0 +1,3 @@
+# Architekturkonzept
+
+<mark>tbd.</mark>
