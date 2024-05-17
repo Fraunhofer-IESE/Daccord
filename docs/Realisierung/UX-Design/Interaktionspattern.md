@@ -39,13 +39,6 @@ Mit einem Privacy Dashboard können digitale Ökosysteme ihren Nutzenden detaill
 * [privacypatterns.org: Privacy Dashboard](https://privacypatterns.org/patterns/Privacy-dashboard)
 
 
-### Strukturiertes Layout (Structured Layout / Chunking)
-<mark>TBD</mark>
-#### Quellen
-* [vmware.github.io: App-Layout](https://vmware.github.io/clarity/documentation/v0.11/app-layout)
-* [ui-patterns.com: Chunking](https://ui-patterns.com/patterns/Chunking)
-* [nngroup.com: Chunking](https://www.nngroup.com/articles/chunking)
-
 
 ### Datenschutzerklärung darstellen
 <mark>TBD</mark>
@@ -120,7 +113,9 @@ Nutzende sollten selbst wählen können, welche erweiterten Funktionen sie nutze
 
 
 ### Privatheitsfreundliche Voreinstellungen (Good Defaults)
-<mark>TBD</mark>
+Bei der Einrichtung eines Accounts in einem digitalen Ökosystems müssen häufig initial zahlreiche Einstellungen getätigt werden. Da Nutzende meist möglichst schnell die Dienste in Anspruch nehmen möchten, bleiben wenig Zeit und kognitive Ressourcen für potenziell privatheitsrelevante Entscheidungen.
+
+Durch privatheitsfreundliche Voreinstellungen können Nutzende beim Einrichtungsprozess unterstütz werden. Vorausgefüllte Optionen können sich dabei auch an fundierte Vermutungen über die wahrscheinliche Wahl der Nutzenden orientieren.
 #### Quellen
 * [ui-patterns.com: Good Defaults](https://ui-patterns.com/patterns/GoodDefaults)
 * [ui-patterns.com: Status-qou-Bias](https://ui-patterns.com/patterns/Statusquo-bias)
@@ -150,7 +145,9 @@ Wenn möglich, soll Nutzenden die Möglichkeit eingeräumt werden, nicht benöti
 
 
 ### Action Buttons
-<mark>TBD</mark>
+Einige Aktionen in digitalen Ökosystemen erfordern eine Bestätigung durch die Nutzenden. Das bestätigen von Aktionen kann in einigen Fällen (beispielsweise Finanztransaktionen) schwerwiegendere Konsequenzen haben als andere (beispielsweise da Speichern von geänderten Profilinformationen).
+
+Um Nutzenden eindeutig zu signalisieren, welche Auswirkung eine Aktion hat, sollten Buttons verwendet werden, die mit entsprechenden, eindeutigen Verben beschriftet sind. Buttons mit besonderer Bedeutung können farblich hervorgehoben können. Der Einsatz von Farben soll aber auf das notwendigste beschränkt werden.
 #### Quelle
 * [welie.com: Action Button](http://www.welie.com/patterns/showPattern.php?patternID=action-button)
 
@@ -181,3 +178,14 @@ Wenn möglich, soll Nutzenden die Möglichkeit eingeräumt werden, nicht benöti
 #### Quelle
 * [catalogue.projectsbyif.com: Notice of upcoming action](https://catalogue.projectsbyif.com/patterns/notice-of-upcoming-action/)
 * [ui-patterns.com: Notifications](https://ui-patterns.com/patterns/notifications)
+
+
+### Strukturiertes Layout (Structured Layout / Chunking)
+Der große Funktionsumfang digitaler Ökosystemen kann dazu führen, dass große Mengen Informationen für die Nutzenden bereitgestellt werden müssen. Um die Verständlichkeit dieser Informationen zu gewährleisten, müssen diese möglichst strukturiert aufbereitet werden.
+
+Das Unterteilen von Informationen in thematisch zusammenhängende Gruppen kann die Erfassbarkeit erleichtern. Prägnante Überschriften ermöglichen dabei ein einfaches Auffinden.  Auch mehrspaltige Formatierungen können die Übersichtlichkeit verbessern. Hier werden prägnante Schlagworte in der ersten Spalte, und zugehörige Informationen oder Einstellmöglichkeiten in der zweiten Spalte platziert.
+#### Quellen
+* [vmware.github.io: App-Layout](https://vmware.github.io/clarity/documentation/v0.11/app-layout)
+* [ui-patterns.com: Chunking](https://ui-patterns.com/patterns/Chunking)
+* [nngroup.com: Chunking](https://www.nngroup.com/articles/chunking)
+
