@@ -24,10 +24,10 @@
         <td>
           <ul>
             <li> 
-              [ui-patterns.com](https://ui-patterns.com/patterns/settings)
+              <a href="https://ui-patterns.com/patterns/settings" target=”_blank” rel="noopener noreferrer">ui-patterns.com</a>
             </li>
             <li> 
-              [socialpatterns.adl.org](https://socialpatterns.adl.org/patterns/account-privacy-setting/) 
+              <a href="https://socialpatterns.adl.org/patterns/account-privacy-setting/" target=”_blank” rel="noopener noreferrer">socialpatterns.adl.org</a>
             </li>
           </ul> 
         </td>
