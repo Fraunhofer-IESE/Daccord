@@ -1,4 +1,4 @@
-# Interaktionspattern
+# Interaktionspatterns
 
 <mark>Intro to interaction patterns</mark>
 
@@ -22,15 +22,19 @@ Ein Aktivitätsverlauf soll alle auf dem digitalen Ökosystems ausgeführten Akt
 * [catalogue.projectsbyif.com: Activity-log](https://catalogue.projectsbyif.com/patterns/activity-log/)
 
 
-### Eingebettete Hinweise (Inline Help)
-<mark>TBD</mark>
+### Eingebettete Hilfsfunktionen (Inline Help)
+In digitalen Ökosystemen werden Nutzende mit einer Vielzahl von Diensteanbietern verbunden. Dies ist häufig nicht einfach zu überschauen und kann zu datenschutzbezogenen Fragen führen. Um Antworten zu erhalten, müssen Nutzende meist den aktuellen Kontext (z.B. tätigen eines Einkaufs) verlassen und auf entsprechenden Hilfeseiten nach den gesuchten Informationen recherchieren. 
+
+Eingebettete Hilfsfunktionen sollen die benötigten Informationen bereitstellen, ohne dass Nutzenden den aktuellen Kontext verlassen müssen. Die Hinweise sollen dabei bestmöglich mit Bezug zur aktuell von den Nutzenden ausgeführten Aktion konkretisiert sein.
 #### Quellen
 * [ui-patterns.com: Inline Help Box](https://ui-patterns.com/patterns/InlineHelpBox)
 * [ui-patterns.com: Inline Hints](https://ui-patterns.com/patterns/inline-hints)
 
 
 ### Privacy Dashboard 
-<mark>TBD</mark>
+Ein digitales Ökosystem, dass personenbezogene Daten von Nutzenden verarbeitet, muss den betroffenen Personen Auskunft darüber geben, welche Daten konkret vom digitalen Ökosystem genutzt werden. Insbesondere bei großen Datenmengen wie beispielsweise Nutzungsdaten kann dies schnell unübersichtlich werden.
+
+Mit einem Privacy Dashboard können digitale Ökosysteme ihren Nutzenden detaillierte und einfach verständliche Informationen über die verarbeiteten Daten anbieten. Hierbei können auch Visualisierungen oder Statistiken angewendet werden. 
 #### Quellen
 * [privacypatterns.org: Privacy Dashboard](https://privacypatterns.org/patterns/Privacy-dashboard)
 
@@ -106,7 +110,9 @@ Um die Informiertheit der Nutzenden bei der Erteilung oder Verweigerung einer Ei
 
 
 ### Funktionen steuern (Opt-in / Opt-out)
-<mark>TBD</mark>
+Neben den Kernfunktionen bieten digitale Ökosystem meist zahlreiche weitere Funktionen an, mit denen häufig auch personenbezogene Daten verarbeitet werden. Nicht alle Nutzenden benötigen jedoch den vollen Funktionsumfang eines digitalen Ökosystems und könnten somit die Menge der Verarbeitungen ihrer personenbezogenen Daten einschränken.
+
+Nutzende sollten selbst wählen können, welche erweiterten Funktionen sie nutzen möchten. Dafür muss zu jeder Funktion dargestellt werden, welche Datenverarbeitungen dabei stattfinden.
 #### Quellen
 * [privacypatterns.org: Enable-Disable Functions](https://privacypatterns.org/patterns/Enable-Disable-Functions)
 * Baraki, H., Geihs, K., Hoffmann, A., Voigtmann, C., Kniewel, R., Macek, B. E., & Zirfas, J. (2014). Towards Interdisciplinary Design Patterns for Ubiquitous Computing Applications. Kassel, Germany. Retrieved from https://books.google.nl/books?id=D40vBgAAQBAJ
@@ -120,10 +126,12 @@ Um die Informiertheit der Nutzenden bei der Erteilung oder Verweigerung einer Ei
 * [ui-patterns.com: Status-qou-Bias](https://ui-patterns.com/patterns/Statusquo-bias)
 
 
-### Masking of Personal Data
-<mark>TBD</mark>
-#### Quelle
-* [mydata-control](https://www.mydata-control.de/)
+### Maskieren (Masquerade)
+Digitale Ökosysteme verlangen meist die Angabe einer Mindestmenge personenbezogener Daten, um sich zu registrieren. Während der Nutzung möchten Nutzenden jedoch möglicherweise frei entscheiden, welche Daten sie an welche Empfänger freigeben.
+
+Wenn möglich, soll Nutzenden die Möglichkeit eingeräumt werden, nicht benötigte Daten für eine bestimmte Aktion zu maskieren und die Verarbeitung somit dynamisch einzuschränken. Hierzu soll den Nutzenden ein geeignetes Bedienfeld geboten werden, mit dem Daten beispielsweis nach Kategorie oder dem Potential einer Identifizierung zur Maskierung ausgewählt werden können.
+#### Quellen
+* [privacypatterns.org: Masquerade](https://privacypatterns.org/patterns/Masquerade)
 
 
 ### Neue Berechtigunsanfragen zuerst (Setting new permissions up-front)
@@ -140,11 +148,6 @@ Um die Informiertheit der Nutzenden bei der Erteilung oder Verweigerung einer Ei
 ## Allgemeine Patterns
 
 
-### Maskieren (Masquerade)
-<mark>TBD</mark>
-#### Quellen
-* [privacypatterns.org: Masquerade](https://privacypatterns.org/patterns/Masquerade)
-
 
 ### Action Buttons
 <mark>TBD</mark>
@@ -156,6 +159,12 @@ Um die Informiertheit der Nutzenden bei der Erteilung oder Verweigerung einer Ei
 <mark>TBD</mark>
 #### Quellen
 * [welie.com: Topic-Pages](http://www.welie.com/patterns/showPattern.php?patternID=topic-pages)
+
+
+### Masking of Personal Data
+<mark>TBD</mark>
+#### Quelle
+* [mydata-control](https://www.mydata-control.de/)
 
 
 ### Symbolsprache (Privacy Icons)
