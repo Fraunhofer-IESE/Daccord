@@ -3,6 +3,7 @@
 <mark>Intro to interaction patterns</mark>
 
 
+
 ## Transparenz-Patterns
 
 
@@ -188,4 +189,5 @@ Das Unterteilen von Informationen in thematisch zusammenhängende Gruppen kann d
 * [vmware.github.io: App-Layout](https://vmware.github.io/clarity/documentation/v0.11/app-layout)
 * [ui-patterns.com: Chunking](https://ui-patterns.com/patterns/Chunking)
 * [nngroup.com: Chunking](https://www.nngroup.com/articles/chunking)
+
 
