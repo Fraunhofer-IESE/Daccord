@@ -10,7 +10,7 @@ Um zu identifizieren, welche Interaktionspatterns zur Umsetzung von Datenschutz-
 
 
 ### Transparenz über berechtigte Interessen (Informed Implicit Consent)
-In Fällen, in denen die Verarbeitung von personenbezogenen Daten auf einem legetimen Interesse basiert, müssen die betroffenen Personen vor Beginn der Verarbeitung umfassend über diese informiert werden.
+In Fällen, in denen die Verarbeitung von personenbezogenen Daten auf einem legitimen Interesse basiert, müssen die betroffenen Personen vor Beginn der Verarbeitung umfassend über diese informiert werden.
 
 In digitalen Ökosystemen müssen Nutzende beispielweise vor Beginn der Nutzung über die mit einhergehenden Datenverarbeitungen informiert werden, um Gelegenheit zu geben von der Nutzung der Angebote abzusehen. Dabei müssen alle rechtlich vorgeschriebenen Informationen in einfacher und präziser Form präsentiert werden, um die Informiertheit der Nutzenden zu gewährleisten.
 #### Quelle
