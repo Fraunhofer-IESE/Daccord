@@ -117,7 +117,7 @@ Voreinstellungen, die auf dem bisherigem Nutzerverhalten oder kontextabhängigen
 * [privacypatterns.org: Selective Access-Control](https://privacypatterns.org/patterns/Selective-Access-Control)
 
 
-### Individueller Funktionsumfang (Opt-in / Opt-out)
+### Funktionen steuern (Opt-in / Opt-out)
 Neben den Kernfunktionen bieten digitale Ökosystem meist zahlreiche weitere Funktionen an, mit denen häufig auch personenbezogene Daten verarbeitet werden. Nicht alle Nutzenden benötigen jedoch den vollen Funktionsumfang eines digitalen Ökosystems und könnten somit die Menge der Verarbeitungen ihrer personenbezogenen Daten einschränken.
 
 Nutzende sollten selbst wählen können, welche erweiterten Funktionen sie nutzen möchten. Dafür muss zu jeder Funktion dargestellt werden, welche Datenverarbeitungen dabei stattfinden.
