@@ -11,9 +11,10 @@ $(document).ready(function(){
   $("#toc").html(toc);
 });
 </script>
-<div id="toc">Inhaltsverzeichnis</div>
-
 # Glossar
+
+**Inhaltsverzeichnis**
+<div id="toc">Inhaltsverzeichnis</div>
 
 ## Bedarf (GB7)
 
