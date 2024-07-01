@@ -2,7 +2,7 @@
 <script>
 $(document).ready(function(){
   var toc = "<ul>";
-  $("h2").each(function(i, el){
+  $("h2").slice(1).each(function(i, el){
     var current = $(el);
     current.attr("id", "heading" + i);
     toc += "<li><a href='#heading" + i + "'>" + current.text() + "</a></li>";
@@ -11,6 +11,7 @@ $(document).ready(function(){
   $("#toc").html(toc);
 });
 </script>
+
 # Glossar
 
 **Inhaltsverzeichnis**
@@ -1178,10 +1179,6 @@ Ein Szenario beschreibt einen Handlungsablauf. Ein Szenario ist somit eine Verke
 - besteht aus Handlungsschritten;  
 - kann eine aktuelle (↑Ist-Szenario) oder anvisierte (↑Soll-Szenario) Situation beschreiben.
 
-### Synonyme
-
-### Übersetzung
-
 ## Technische und organisatorische Maßnahmen (TOM) (GB59)
 
 ### Beschreibung
@@ -1270,8 +1267,6 @@ Usable Privacy bezieht sich auf inter- und transdisziplinäre Methoden, um Maßn
 - die Nutzer und Entwickler der Maßnahmen in ihren datenschutzrelevanten Zielen und Projekten bestmöglich unterstützt werden und  
 - die Maßnahmen zu einer durchgehend positiven ↑User Experience (UX) beitragen.
 
-### Übersetzung
-
 ## Usable Security (GB4)
 
 ### Beschreibung
@@ -1319,10 +1314,6 @@ Analog zur Definition des Art. 4 Nr. 2 DSGVO werden in D'accord 17 verschiedene 
 - die Einschränkung,  
 - das Löschen und  
 - die Vernichtung.
-
-### Synonyme
-
-### Übersetzung
 
 ## Verarbeitungsgrundsätze (GB50)
 
