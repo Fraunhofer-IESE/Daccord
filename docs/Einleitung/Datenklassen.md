@@ -8,7 +8,7 @@ Wie der Grafik zu entnehmen ist, unterschieden wir Daten nach ihrer Kritikalitä
 
 ## Kritikalitätsklassen
 
-### DK1 - Daten ohne Personenbezug
+### Daten ohne Personenbezug (DK1)
 
 #### Beschreibung
 
@@ -23,7 +23,7 @@ Organisationsanweisungen
 
 auf verschiedenen Wegen erfasst
 
-### DK2 - Personenbezogene Daten
+### Personenbezogene Daten (DK2)
 
 #### Beschreibung
 
@@ -37,7 +37,7 @@ siehe Unterklassen der Kategorie
 
 auf verschiedenen Wegen erfasst
 
-### DK3 - Besondere Kategorien personenbezogener Daten
+### Besondere Kategorien personenbezogener Daten (DK3)
 
 #### Beschreibung
 
@@ -51,7 +51,7 @@ siehe Unterklassen der Kategorie
 
 auf verschiedenen Wegen erfasst
 
-### DK4 - Gewerkschaftszugehörigkeit
+### Gewerkschaftszugehörigkeit (DK4)
 
 #### Beschreibung
 
@@ -65,7 +65,7 @@ Streikteilnahme
 
 nicht erfasst
 
-### DK5 - Rassische und ethnische Herkunft
+### Rassische und ethnische Herkunft (DK5)
 
 #### Beschreibung
 
@@ -79,7 +79,7 @@ Herkunft („asiatisch“)
 
 nicht erfasst
 
-### DK6 - Politische Meinungen
+### Politische Meinungen (DK6)
 
 #### Beschreibung
 
@@ -94,7 +94,7 @@ Zugehörigkeit zu Gruppen (u. a. auf der Plattform)
 
 nicht erfasst
 
-### DK7 - Religiöse oder weltanschauliche Überzeugungen
+### Religiöse oder weltanschauliche Überzeugungen (DK7)
 
 #### Beschreibung
 
@@ -109,7 +109,7 @@ Zugehörigkeit zu Gruppen (u. a. auf der Plattform)
 
 nicht erfasst
 
-### DK8 - Genetische Daten
+### Genetische Daten (DK8)
 
 #### Beschreibung
 
@@ -122,7 +122,7 @@ DNA-Profile, die von Polizisten erfasst werden, um diese bei der Untersuchung vo
 
 vom Betroffenem explizit bereitgestellt
 
-### DK9 - Biometrische Daten
+### Biometrische Daten (DK9)
 
 #### Beschreibung
 
@@ -137,7 +137,7 @@ Irismuster
 
 auf verschiedenen Wegen erfasst
 
-### DK10 - Gesundheitsdaten
+### Gesundheitsdaten (DK10)
 
 #### Beschreibung
 
@@ -154,7 +154,7 @@ Wearable-Daten (z. B. Fitness-Tracker)
 
 auf verschiedenen Wegen erfasst
 
-### DK11 - Daten zum Sexualleben oder der sexuellen Orientierung
+### Daten zum Sexualleben oder der sexuellen Orientierung (DK11)
 
 #### Beschreibung
 
@@ -168,7 +168,7 @@ Fotos
 
 nicht erfasst
 
-### DK12 - Einfache personenbezogene Daten
+### Einfache personenbezogene Daten (DK12)
 
 #### Beschreibung
 
@@ -180,7 +180,7 @@ Personenbezogene Daten, bei denen kein erhöhter Schutzbedarf vorliegt.
 
 auf verschiedenen Wegen erfasst
 
-### DK13 - Individuell besonders schützenswerte Daten
+### Individuell besonders schützenswerte Daten (DK13)
 
 #### Beschreibung
 
@@ -195,7 +195,7 @@ Kommunikationsdaten
 auf verschiedenen Wegen erfasst
 
 ## Fachliche Klassen
-### DK14 - Stammdaten
+### Stammdaten (DK14)
 
 #### Beschreibung
 
@@ -209,7 +209,7 @@ Login
 
 auf verschiedenen Wegen erfasst
 
-### DK15 - Finanzdaten
+### Finanzdaten (DK15)
 
 #### Beschreibung
 
@@ -223,7 +223,7 @@ Abbuchungen
 
 vom Betroffenem explizit bereitgestellt
 
-### DK16 - Kommunikationsdaten
+### Kommunikationsdaten (DK16)
 
 #### Beschreibung
 
@@ -238,7 +238,7 @@ Garantieabwicklung
 
 vom Betroffenem explizit bereitgestellt
 
-### DK17 - Allgemeine Präferenzen
+### Allgemeine Präferenzen (DK17)
 
 #### Beschreibung
 
@@ -253,7 +253,7 @@ Benachrichtigungseinstellungen
 
 vom Betroffenem explizit bereitgestellt
 
-### DK18 - Einwilligungen
+### Einwilligungen (DK18)
 
 #### Beschreibung
 
@@ -266,7 +266,7 @@ Cookie-Einwilligungen
 
 vom Betroffenem explizit bereitgestellt
 
-### DK19 - Transaktionsdaten
+### Transaktionsdaten (DK19)
 
 #### Beschreibung
 
@@ -282,7 +282,7 @@ Gekaufte Waren
 
 automatisiert aufgrund von Aktionen des Betroffenen erhoben
 
-### DK20 - Auf der Plattform gespeicherte Daten
+### Auf der Plattform gespeicherte Daten (DK20)
 
 #### Beschreibung
 
@@ -297,7 +297,7 @@ Datentreuhänder
 
 vom Betroffenem explizit bereitgestellt
 
-### DK21 - Nutzungsdaten
+### Nutzungsdaten (DK21)
 
 #### Beschreibung
 
@@ -311,7 +311,7 @@ Nutzungsverhalten
 
 automatisiert aufgrund von Aktionen des Betroffenen erhoben
 
-### DK22 - Datenschutzdaten
+### Datenschutzdaten (DK22)
 
 #### Beschreibung
 
