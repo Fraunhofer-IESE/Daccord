@@ -19,9 +19,10 @@ In a data ecosystem, data is the core asset exchanged among participants through
 
 **The DSC is a software component integrated into the digital platform where privacy-related data is exchanged among participants.** It gives participants (providers and consumers) a central point for managing data-related requests (e.g., information, access grants).
 
+
 ## Constraints
 
-The DSC shall support compliance with GDPR.
+The DSC shall support legal compliance with data protection regulations (e.g., GDPR).
 
 ## Stakeholders
 
