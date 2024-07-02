@@ -1,4 +1,4 @@
-# Architekturkonzept
+# Architectural concept
 
 This section introduces a reference architecture for realizing a Data Protection Cockpit (DPC, also referred to as DSC from the German "Datenschutz-Cockpit").
 
