@@ -42,7 +42,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung der UI für Güterkonsumenten|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-up-solid.svg) häufig|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Betroffener|
-| **Einfluss** | ![](../../assets/images/circle-solid.svg) kaum|
+| **Einfluss** | ![](../../assets/images/angle-down-solid.svg) kaum|
 | **Wichtigkeit** | ![](../../assets/images/angles-up-solid.svg) hoch |
 
 
@@ -53,7 +53,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | Ein Datennutzer ist eine Person, die personenbezogene Daten eines Betroffenen verarbeitet|
 | **Rolle im digitalen Ökosystem** | Benutzergruppenprofil|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung der UI für Güterkonsumenten|
-| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/circle-solid.svg) gelegentlich|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-down-solid.svg) gelegentlich|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Datennutzer|
 | **Einfluss** | ![](../../assets/images/angle-up-solid.svg) teilweise|
 | **Wichtigkeit** | ![](../../assets/images/angles-up-solid.svg) hoch |
@@ -81,7 +81,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung der UI für Güteranbieter|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-up-solid.svg) häufig|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Kontextabhängig|
-| **Einfluss** | ![](../../assets/images/circle-solid.svg) kaum|
+| **Einfluss** | ![](../../assets/images/angle-down-solid.svg) kaum|
 | **Wichtigkeit** | ![](../../assets/images/angles-up-solid.svg) hoch |
 
 ### Güteranbieter (zukünftig) (STH19)
@@ -117,7 +117,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#externer-anbieter-gb95) |
 | **Rolle im digitalen Ökosystem** | zusätzlicher Dienstanbieter|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung der UI für Güteranbieter|
-| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/circle-solid.svg) gelegentlich|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-down-solid.svg) gelegentlich|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Datennutzer|
 | **Einfluss** | ![](../../assets/images/angle-up-solid.svg) teilweise|
 | **Wichtigkeit** | ![](../../assets/images/angle-up-solid.svg) teilweise |
@@ -132,8 +132,8 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Kein Bezug|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-down-solid.svg) nie / nicht zutreffend|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Datennutzer|
-| **Einfluss** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg)|
-| **Wichtigkeit** | ![](../../assets/images/circle-solid.svg) kaum |
+| **Einfluss** | ![](../../assets/images/angles-down-solid.svg) gar kein(e)|
+| **Wichtigkeit** | ![](../../assets/images/angle-down-solid.svg) kaum |
 
 ## Betreiber & Umfeld
 
@@ -146,7 +146,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Überprüfung / Sicherstellung der Einhaltung des Datenschutzes|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-down-solid.svg) nie / nicht zutreffend|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
-| **Einfluss** | ![](../../assets/images/circle-solid.svg) kaum|
+| **Einfluss** | ![](../../assets/images/angle-down-solid.svg) kaum|
 | **Wichtigkeit** | ![](../../assets/images/angles-up-solid.svg) hoch
 
 
@@ -185,7 +185,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Überprüfung / Sicherstellung der Einhaltung des Datenschutzes|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-down-solid.svg) selten|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
-| **Einfluss** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg)|
+| **Einfluss** | ![](../../assets/images/angles-down-solid.svg) gar kein(e)|
 | **Wichtigkeit** | ![](../../assets/images/angle-up-solid.svg) teilweise
 
 
@@ -198,7 +198,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung der UI für Güteranbieter|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-down-solid.svg) selten|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Datennutzer|
-| **Einfluss** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg)|
+| **Einfluss** | ![](../../assets/images/angles-down-solid.svg) gar kein(e)|
 | **Wichtigkeit** | ![](../../assets/images/angle-up-solid.svg) teilweise
 
 
@@ -209,7 +209,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | Ein Datenschutzbeauftragter ist eine Person, die sich beim Betreiber um die Einhaltung des Datenschutzes kümmert. Abhängig von der Größe und Kerntätigkeit ist der Betreiber ggf. gesetzlich dazu verpflichtet, einen Datenschutzbeauftragten zu benennen|
 | **Rolle im digitalen Ökosystem** | Betreiber|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Überprüfung / Sicherstellung der Einhaltung des Datenschutzes|
-| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/circle-solid.svg) gelegentlich|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-down-solid.svg) gelegentlich|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Verantwortlicher|
 | **Einfluss** | ![](../../assets/images/angle-up-solid.svg) teilweise|
 | **Wichtigkeit** | ![](../../assets/images/angle-up-solid.svg) teilweise
@@ -224,8 +224,8 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Kommunikation zu Dritten|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-up-solid.svg) häufig|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
-| **Einfluss** | ![](../../assets/images/circle-solid.svg) kaum|
-| **Wichtigkeit** | ![](../../assets/images/circle-solid.svg) kaum
+| **Einfluss** | ![](../../assets/images/angle-down-solid.svg) kaum|
+| **Wichtigkeit** | ![](../../assets/images/angle-down-solid.svg) kaum
 
 
 ### Kundenservice (STH16)
@@ -237,8 +237,8 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung einer zusätzlichen UI (Demo, Kundenservice, et cetera)|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-up-solid.svg) häufig|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Datennutzer|
-| **Einfluss** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg)|
-| **Wichtigkeit** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg)
+| **Einfluss** | ![](../../assets/images/angles-down-solid.svg) gar kein(e)|
+| **Wichtigkeit** | ![](../../assets/images/angles-down-solid.svg) gar kein(e)
 
 
 ### Externer Anbieter (Cloudservice / -infrastruktur) (STH15)
@@ -251,7 +251,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-down-solid.svg) nie / nicht zutreffend|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Verantwortlicher|
 | **Einfluss** | ![](../../assets/images/angles-up-solid.svg) hoch|
-| **Wichtigkeit** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg)
+| **Wichtigkeit** | ![](../../assets/images/angles-down-solid.svg) gar kein(e)
 
 
 ### Wettbewerber (STH14)
@@ -263,8 +263,8 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Kein Bezug|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-down-solid.svg) nie / nicht zutreffend|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
-| **Einfluss** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg)|
-| **Wichtigkeit** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg)
+| **Einfluss** | ![](../../assets/images/angles-down-solid.svg) gar kein(e)|
+| **Wichtigkeit** | ![](../../assets/images/angles-down-solid.svg) gar kein(e)
 
 
 ### Plattformentwickler (STH9)
@@ -277,7 +277,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-down-solid.svg) nie / nicht zutreffend|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
 | **Einfluss** | ![](../../assets/images/angles-up-solid.svg) hoch|
-| **Wichtigkeit** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg)
+| **Wichtigkeit** | ![](../../assets/images/angles-down-solid.svg) gar kein(e)
 
 
 ### Wartungspersonal (STH8)
@@ -290,7 +290,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-down-solid.svg) nie / nicht zutreffend|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
 | **Einfluss** | ![](../../assets/images/angle-up-solid.svg) teilweise|
-| **Wichtigkeit** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg) |
+| **Wichtigkeit** | ![](../../assets/images/angles-down-solid.svg) gar kein(e) |
 
 ## Güterkonsument
 
@@ -342,7 +342,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Kein Bezug|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-down-solid.svg) nie / nicht zutreffend|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Betroffener|
-| **Einfluss** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg)|
+| **Einfluss** | ![](../../assets/images/angles-down-solid.svg) gar kein(e)|
 | **Wichtigkeit** | ![](../../assets/images/angle-up-solid.svg) teilweise |
 
 ## Quellen
