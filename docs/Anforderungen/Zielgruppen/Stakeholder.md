@@ -25,8 +25,8 @@ Entsprechend wurde die Entscheidung getroffen, die Stakeholder nicht nach dem Zw
 Eine erste Beschreibung der Stakeholder nach den genannten Dimensionen lag vor, wodurch die Anwendbarkeit der Dimensionen bestätigt wurde. In der zweiten Iteration wurden die Stakeholder in das Requirements-Management-Tool ReqSuite aufgenommen und dort anhand dieser Kategorien beschrieben.
 
 Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieben werden. Das in der Abbildung gezeigte Persona-Template nennt relevante Eigenschaften eines Stakeholders und zeigt, wie diese dokumentiert werden können. Es wurde im Konsortium entwickelt und greift unter anderem Eigenschaften aus dem Nutzergruppen-Template des DsiN-Sicherheitsindex[^4] auf. Zudem sind Eigenschaften eingeflossen, die das Projektteam aufgrund der Erfahrungen aus früheren Projekten im Bereich Usable Security & Privacy als relevant erachtet.
-## Benutzergruppenprofile
 
+## Benutzergruppenprofile
 
 ### Betroffener (STH4)
 
@@ -38,7 +38,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Häufigkeit der Nutzung der Cockpit-UI | (b) häufig|
 | Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Betroffener|
 | Einfluss | (c) kaum|
-| Wichtigkeit | (a) hoch
+| Wichtigkeit | (a) hoch |
 
 
 ### Datennutzer (STH3)
@@ -51,7 +51,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Häufigkeit der Nutzung der Cockpit-UI | (c) gelegentlich|
 | Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Datennutzer|
 | Einfluss | (b) teilweise|
-| Wichtigkeit | (a) hoch
+| Wichtigkeit | (a) hoch |
 
 
 ### Verantwortlicher (STH2)
@@ -64,7 +64,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Häufigkeit der Nutzung der Cockpit-UI | (a) sehr häufig|
 | Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Verantwortlicher|
 | Einfluss | (a) hoch|
-| Wichtigkeit | (a) hoch
+| Wichtigkeit | (a) hoch |
 
 
 ### Cockpit-Nutzer (STH1)
@@ -77,7 +77,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Häufigkeit der Nutzung der Cockpit-UI | (b) häufig|
 | Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Kontextabhängig|
 | Einfluss | (c) kaum|
-| Wichtigkeit | (a) hoch
+| Wichtigkeit | (a) hoch |
 
 ### Güteranbieter (zukünftig) (STH19)
 
@@ -89,7 +89,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Häufigkeit der Nutzung der Cockpit-UI | <tbd>|
 | Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | kein direkter Bezug zu den Daten|
 | Einfluss | <tbd>|
-| Wichtigkeit | <tbd>
+| Wichtigkeit | <tbd> |
 
 
 ### Güteranbieter (gegenwärtig) (STH17)
@@ -102,7 +102,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Häufigkeit der Nutzung der Cockpit-UI | <tbd>|
 | Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | <tbd>|
 | Einfluss | <tbd>|
-| Wichtigkeit | <tbd>
+| Wichtigkeit | <tbd> |
 
 
 ### Externer Anbieter (Dienstleister auf der Plattform) (STH18)
@@ -115,7 +115,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Häufigkeit der Nutzung der Cockpit-UI | (c) gelegentlich|
 | Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Datennutzer|
 | Einfluss | (b) teilweise|
-| Wichtigkeit | (b) teilweise
+| Wichtigkeit | (b) teilweise |
 
 
 ### Externer Anbieter (B2B-Zulieferer) (STH20)
@@ -128,7 +128,8 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Häufigkeit der Nutzung der Cockpit-UI | (e) nie / nicht zutreffend|
 | Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Datennutzer|
 | Einfluss | (d) gar kein(e)|
-| Wichtigkeit | (c) kaum
+| Wichtigkeit | (c) kaum |
+
 ## Betreiber & Umfeld
 
 ### Aufsichtsbehörde (STH13)
@@ -284,9 +285,9 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Häufigkeit der Nutzung der Cockpit-UI | (e) nie / nicht zutreffend|
 | Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | kein direkter Bezug zu den Daten|
 | Einfluss | (b) teilweise|
-| Wichtigkeit | (d) gar kein(e)
-### Güterkonsument
+| Wichtigkeit | (d) gar kein(e) |
 
+## Güterkonsument
 
 ### Güterkonsument (zukünftig) (STH24)
 
@@ -298,7 +299,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Häufigkeit der Nutzung der Cockpit-UI | (d) selten|
 | Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | kein direkter Bezug zu den Daten|
 | Einfluss | <tbd>|
-| Wichtigkeit | <tbd>
+| Wichtigkeit | <tbd> |
 
 
 ### Externer Anbieter (Dienstleistung für Güterkonsument außerhalb der Plattform) (STH23)
@@ -311,7 +312,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Häufigkeit der Nutzung der Cockpit-UI | <tbd>|
 | Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | kein direkter Bezug zu den Daten|
 | Einfluss | <tbd>|
-| Wichtigkeit | <tbd>
+| Wichtigkeit | <tbd> |
 
 
 ### Güterkonsument (gegenwärtig) (STH21)
@@ -324,7 +325,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Häufigkeit der Nutzung der Cockpit-UI | <tbd>|
 | Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Betroffener|
 | Einfluss | <tbd>|
-| Wichtigkeit | <tbd>
+| Wichtigkeit | <tbd> |
 
 
 ### Anwender (STH22)
@@ -337,7 +338,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Häufigkeit der Nutzung der Cockpit-UI | (e) nie / nicht zutreffend|
 | Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Betroffener|
 | Einfluss | (d) gar kein(e)|
-| Wichtigkeit | (b) teilweise
+| Wichtigkeit | (b) teilweise |
 
 ## Quellen
 
