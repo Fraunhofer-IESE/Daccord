@@ -40,10 +40,10 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#betroffene-person-gb60) |
 | **Rolle im digitalen Ökosystem** | Benutzergruppenprofil|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung der UI für Güterkonsumenten|
-| **Häufigkeit der Nutzung der Cockpit-UI** | (b) häufig|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-up-solid.svg) häufig|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Betroffener|
-| **Einfluss** | (c) kaum|
-| **Wichtigkeit** | (a) hoch |
+| **Einfluss** | ![](../../assets/images/circle-solid.svg) kaum|
+| **Wichtigkeit** | ![](../../assets/images/angles-up-solid.svg) hoch |
 
 
 ### Datennutzer (STH3)
@@ -53,10 +53,10 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | Ein Datennutzer ist eine Person, die personenbezogene Daten eines Betroffenen verarbeitet|
 | **Rolle im digitalen Ökosystem** | Benutzergruppenprofil|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung der UI für Güterkonsumenten|
-| **Häufigkeit der Nutzung der Cockpit-UI** | (c) gelegentlich|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/circle-solid.svg) gelegentlich|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Datennutzer|
-| **Einfluss** | (b) teilweise|
-| **Wichtigkeit** | (a) hoch |
+| **Einfluss** | ![](../../assets/images/angle-up-solid.svg) teilweise|
+| **Wichtigkeit** | ![](../../assets/images/angles-up-solid.svg) hoch |
 
 
 ### Verantwortlicher (STH2)
@@ -66,10 +66,10 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#verantwortlicher-gb51) |
 | **Rolle im digitalen Ökosystem** | Betreiber|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Überprüfung / Sicherstellung der Einhaltung des Datenschutzes|
-| **Häufigkeit der Nutzung der Cockpit-UI** | (a) sehr häufig|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-up-solid.svg) sehr häufig|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Verantwortlicher|
-| **Einfluss** | (a) hoch|
-| **Wichtigkeit** | (a) hoch |
+| **Einfluss** | ![](../../assets/images/angles-up-solid.svg) hoch|
+| **Wichtigkeit** | ![](../../assets/images/angles-up-solid.svg) hoch |
 
 
 ### Cockpit-Nutzer (STH1)
@@ -79,10 +79,10 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | Der Cockpit-Nutzer ist eine Person, die mit dem Front-End des Datenschutz-Cockpits interagiert|
 | **Rolle im digitalen Ökosystem** | Benutzergruppenprofil|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung der UI für Güteranbieter|
-| **Häufigkeit der Nutzung der Cockpit-UI** | (b) häufig|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-up-solid.svg) häufig|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Kontextabhängig|
-| **Einfluss** | (c) kaum|
-| **Wichtigkeit** | (a) hoch |
+| **Einfluss** | ![](../../assets/images/circle-solid.svg) kaum|
+| **Wichtigkeit** | ![](../../assets/images/angles-up-solid.svg) hoch |
 
 ### Güteranbieter (zukünftig) (STH19)
 
@@ -117,10 +117,10 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#externer-anbieter-gb95) |
 | **Rolle im digitalen Ökosystem** | zusätzlicher Dienstanbieter|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung der UI für Güteranbieter|
-| **Häufigkeit der Nutzung der Cockpit-UI** | (c) gelegentlich|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/circle-solid.svg) gelegentlich|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Datennutzer|
-| **Einfluss** | (b) teilweise|
-| **Wichtigkeit** | (b) teilweise |
+| **Einfluss** | ![](../../assets/images/angle-up-solid.svg) teilweise|
+| **Wichtigkeit** | ![](../../assets/images/angle-up-solid.svg) teilweise |
 
 
 ### Externer Anbieter (B2B-Zulieferer) (STH20)
@@ -130,10 +130,10 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#externer-anbieter-gb95) |
 | **Rolle im digitalen Ökosystem** | externer Dienstleister oder Anwender (indirekter Einfluss)|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Kein Bezug|
-| **Häufigkeit der Nutzung der Cockpit-UI** | (e) nie / nicht zutreffend|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-down-solid.svg) nie / nicht zutreffend|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Datennutzer|
-| **Einfluss** | (d) gar kein(e)|
-| **Wichtigkeit** | (c) kaum |
+| **Einfluss** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg)|
+| **Wichtigkeit** | ![](../../assets/images/circle-solid.svg) kaum |
 
 ## Betreiber & Umfeld
 
@@ -144,10 +144,10 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | Eine Aufsichtsbehörde ist eine Organisation, die als Behörde eine Aufsichtsfunktion über privatrechtliche oder staatliche Institutionen ausführt. Je nach Domäne sind unterschiedliche Aufsichtsbehörden für den Betreiber eines digitalen Ökosystems zuständig|
 | **Rolle im digitalen Ökosystem** | nur prüfend / regulatorisch|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Überprüfung / Sicherstellung der Einhaltung des Datenschutzes|
-| **Häufigkeit der Nutzung der Cockpit-UI** | (e) nie / nicht zutreffend|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-down-solid.svg) nie / nicht zutreffend|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
-| **Einfluss** | (c) kaum|
-| **Wichtigkeit** | (a) hoch
+| **Einfluss** | ![](../../assets/images/circle-solid.svg) kaum|
+| **Wichtigkeit** | ![](../../assets/images/angles-up-solid.svg) hoch
 
 
 ### Initiator (STH11)
@@ -157,10 +157,10 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | Der Initiator ist eine Person oder Organisation, die die Initiative zur Entwicklung eines digitalen Ökosystems ergreift und die Konzipierung, Finanzierung und Geschäftsentwicklung begleitet, bis der Betreiber diese Aufgaben eigenständig ausüben kann|
 | **Rolle im digitalen Ökosystem** | Initiator|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Kein Bezug|
-| **Häufigkeit der Nutzung der Cockpit-UI** | (e) nie / nicht zutreffend|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-down-solid.svg) nie / nicht zutreffend|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
-| **Einfluss** | (a) hoch|
-| **Wichtigkeit** | (a) hoch
+| **Einfluss** | ![](../../assets/images/angles-up-solid.svg) hoch|
+| **Wichtigkeit** | ![](../../assets/images/angles-up-solid.svg) hoch
 
 
 ### Betreiber (STH5)
@@ -170,10 +170,10 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#betreiber-eines-digitalen-ökosystems-gb83) |
 | **Rolle im digitalen Ökosystem** | Betreiber|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Bereitstellung des Datenschutz-Cockpits / Infrastruktur|
-| **Häufigkeit der Nutzung der Cockpit-UI** | (a) sehr häufig|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-up-solid.svg) sehr häufig|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Verantwortlicher|
-| **Einfluss** | (a) hoch|
-| **Wichtigkeit** | (a) hoch
+| **Einfluss** | ![](../../assets/images/angles-up-solid.svg) hoch|
+| **Wichtigkeit** | ![](../../assets/images/angles-up-solid.svg) hoch
 
 
 ### Auditor/Gutachter (STH12)
@@ -183,10 +183,10 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | Ein Auditor ist eine Organisation, die das Qualitätsmanagement des Betreibers überprüft|
 | **Rolle im digitalen Ökosystem** | nur prüfend / regulatorisch|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Überprüfung / Sicherstellung der Einhaltung des Datenschutzes|
-| **Häufigkeit der Nutzung der Cockpit-UI** | (d) selten|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-down-solid.svg) selten|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
-| **Einfluss** | (d) gar kein(e)|
-| **Wichtigkeit** | (b) teilweise
+| **Einfluss** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg)|
+| **Wichtigkeit** | ![](../../assets/images/angle-up-solid.svg) teilweise
 
 
 ### Werbetreibender (STH10)
@@ -196,10 +196,10 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | Ein Werbetreibender im Kontext eines digitalen Ökosystem ist ein Unternehmen, das für Güter auf der digitalen Plattform wirbt|
 | **Rolle im digitalen Ökosystem** | zusätzlicher Dienstanbieter|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung der UI für Güteranbieter|
-| **Häufigkeit der Nutzung der Cockpit-UI** | (d) selten|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-down-solid.svg) selten|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Datennutzer|
-| **Einfluss** | (d) gar kein(e)|
-| **Wichtigkeit** | (b) teilweise
+| **Einfluss** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg)|
+| **Wichtigkeit** | ![](../../assets/images/angle-up-solid.svg) teilweise
 
 
 ### Datenschutzbeauftragter (STH6)
@@ -209,10 +209,10 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | Ein Datenschutzbeauftragter ist eine Person, die sich beim Betreiber um die Einhaltung des Datenschutzes kümmert. Abhängig von der Größe und Kerntätigkeit ist der Betreiber ggf. gesetzlich dazu verpflichtet, einen Datenschutzbeauftragten zu benennen|
 | **Rolle im digitalen Ökosystem** | Betreiber|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Überprüfung / Sicherstellung der Einhaltung des Datenschutzes|
-| **Häufigkeit der Nutzung der Cockpit-UI** | (c) gelegentlich|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/circle-solid.svg) gelegentlich|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Verantwortlicher|
-| **Einfluss** | (b) teilweise|
-| **Wichtigkeit** | (b) teilweise
+| **Einfluss** | ![](../../assets/images/angle-up-solid.svg) teilweise|
+| **Wichtigkeit** | ![](../../assets/images/angle-up-solid.svg) teilweise
 
 
 ### Onboarding-Verantwortlicher (STH7)
@@ -222,10 +222,10 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | Ein Onboarding-Verantwortlicher ist eine Person, die beim Betreiber für die praktisch-organisatorische, vertragliche und technische Integration der Beteiligten in das digitale Ökosystem zuständig ist|
 | **Rolle im digitalen Ökosystem** | Broker|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Kommunikation zu Dritten|
-| **Häufigkeit der Nutzung der Cockpit-UI** | (b) häufig|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-up-solid.svg) häufig|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
-| **Einfluss** | (c) kaum|
-| **Wichtigkeit** | (c) kaum
+| **Einfluss** | ![](../../assets/images/circle-solid.svg) kaum|
+| **Wichtigkeit** | ![](../../assets/images/circle-solid.svg) kaum
 
 
 ### Kundenservice (STH16)
@@ -235,10 +235,10 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | Der Kundenservice des Betreibers ist eine Personengruppe, die technische und fachliche (interne oder externe) Unterstützung bietet, den Beteiligten des digitalen Ökosystems und entsprechend den Cockpit-Nutzern für Rückfragen zur Verfügung steht und diese bei Problemen rund um die Nutzung unterstützt|
 | **Rolle im digitalen Ökosystem** | Betreiber|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung einer zusätzlichen UI (Demo, Kundenservice, et cetera)|
-| **Häufigkeit der Nutzung der Cockpit-UI** | (b) häufig|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-up-solid.svg) häufig|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Datennutzer|
-| **Einfluss** | (d) gar kein(e)|
-| **Wichtigkeit** | (d) gar kein(e)
+| **Einfluss** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg)|
+| **Wichtigkeit** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg)
 
 
 ### Externer Anbieter (Cloudservice / -infrastruktur) (STH15)
@@ -248,10 +248,10 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#externer-anbieter-gb95) |
 | **Rolle im digitalen Ökosystem** | zusätzlicher Dienstanbieter|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Bereitstellung des Datenschutz-Cockpits / Infrastruktur|
-| **Häufigkeit der Nutzung der Cockpit-UI** | (e) nie / nicht zutreffend|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-down-solid.svg) nie / nicht zutreffend|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Verantwortlicher|
-| **Einfluss** | (a) hoch|
-| **Wichtigkeit** | (d) gar kein(e)
+| **Einfluss** | ![](../../assets/images/angles-up-solid.svg) hoch|
+| **Wichtigkeit** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg)
 
 
 ### Wettbewerber (STH14)
@@ -261,10 +261,10 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | Ein Wettbewerber ist eine Organisation, die mit dem Betreiber konkurriert, insbesondere wenn sie ein anderes digitales Ökosystem betreibt, das einen vergleichbaren digitalen Ökosystemdienst anbietet|
 | **Rolle im digitalen Ökosystem** | externer Dienstleister oder Anwender (indirekter Einfluss)|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Kein Bezug|
-| **Häufigkeit der Nutzung der Cockpit-UI** | (e) nie / nicht zutreffend|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-down-solid.svg) nie / nicht zutreffend|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
-| **Einfluss** | (d) gar kein(e)|
-| **Wichtigkeit** | (d) gar kein(e)
+| **Einfluss** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg)|
+| **Wichtigkeit** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg)
 
 
 ### Plattformentwickler (STH9)
@@ -274,10 +274,10 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | Die Plattformentwickler des Betreibers sind für die (Weiter-)Entwicklung der digitalen Plattform und die Funktionen des digitalen Ökosystems zuständig|
 | **Rolle im digitalen Ökosystem** | Betreiber|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Interaktion mit Backend|
-| **Häufigkeit der Nutzung der Cockpit-UI** | (e) nie / nicht zutreffend|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-down-solid.svg) nie / nicht zutreffend|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
-| **Einfluss** | (a) hoch|
-| **Wichtigkeit** | (d) gar kein(e)
+| **Einfluss** | ![](../../assets/images/angles-up-solid.svg) hoch|
+| **Wichtigkeit** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg)
 
 
 ### Wartungspersonal (STH8)
@@ -287,10 +287,10 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | Das Wartungspersonal beim Betreiber ist eine Personengruppe, die für die Instandhaltung der digitalen Plattform Sorge trägt|
 | **Rolle im digitalen Ökosystem** | Betreiber|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Interaktion mit Backend|
-| **Häufigkeit der Nutzung der Cockpit-UI** | (e) nie / nicht zutreffend|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-down-solid.svg) nie / nicht zutreffend|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
-| **Einfluss** | (b) teilweise|
-| **Wichtigkeit** | (d) gar kein(e) |
+| **Einfluss** | ![](../../assets/images/angle-up-solid.svg) teilweise|
+| **Wichtigkeit** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg) |
 
 ## Güterkonsument
 
@@ -301,7 +301,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#güterkonsument-gb92) |
 | **Rolle im digitalen Ökosystem** | Güterkonsument|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung einer zusätzlichen UI (Demo, Kundenservice, et cetera)|
-| **Häufigkeit der Nutzung der Cockpit-UI** | (d) selten|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-down-solid.svg) selten|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
 | **Einfluss** | <tbd>|
 | **Wichtigkeit** | <tbd> |
@@ -340,10 +340,10 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Stakeholder-Beschreibung** | Ein Anwender ist eine Person oder Organisation, die kein Beteiligter des digitalen Ökosystems ist, sondern als B2B- oder B2C-Kunde vom Güterkonsument vom digitalen Ökosystemdienst profitiert|
 | **Rolle im digitalen Ökosystem** | externer Dienstleister oder Anwender (indirekter Einfluss)|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Kein Bezug|
-| **Häufigkeit der Nutzung der Cockpit-UI** | (e) nie / nicht zutreffend|
+| **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-down-solid.svg) nie / nicht zutreffend|
 | **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Betroffener|
-| **Einfluss** | (d) gar kein(e)|
-| **Wichtigkeit** | (b) teilweise |
+| **Einfluss** | ![](../../assets/images/angle-down-solid.svg) gar kein![](../../assets/images/angles-down-solid.svg)|
+| **Wichtigkeit** | ![](../../assets/images/angle-up-solid.svg) teilweise |
 
 ## Quellen
 
