@@ -1,17 +1,19 @@
-# Architectural concept
+1. Introduction
+2. [System context and domain model](system-context.md)
+3. [Architecture drivers](drivers.md)
+4. [Initial decomposition](decomposition.md)
+5. [Quality concepts](quality.md)
+6. [Further notes](conclusion.md)
 
-1. [System context and domain model](system-context.md)
-2. [Architecture drivers](drivers.md)
-3. [Initial decomposition](decomposition.md)
-4. [Quality concepts](quality.md)
-5. [Further notes](conclusion.md)
+# Architectural concept
 
 This section introduces a reference architecture for realizing a Data Protection Cockpit (DPC, also referred to as DSC from the German "Datenschutz-Cockpit").
 
-<!-- - [Business context](#business-context) -->
+<!-- - [Business context](#business-context) 
 - [System overview](#system-overview)
 - [Constraints](#constraints)
 - [Stakeholders](#stakeholders)
+-->
 
 <!--
 ## Business context
