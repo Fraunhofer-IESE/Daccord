@@ -26,11 +26,17 @@ Eine erste Beschreibung der Stakeholder nach den genannten Dimensionen lag vor, 
 
 Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieben werden. Das in der Abbildung gezeigte Persona-Template nennt relevante Eigenschaften eines Stakeholders und zeigt, wie diese dokumentiert werden können. Es wurde im Konsortium entwickelt und greift unter anderem Eigenschaften aus dem Nutzergruppen-Template des DsiN-Sicherheitsindex[^4] auf. Zudem sind Eigenschaften eingeflossen, die das Projektteam aufgrund der Erfahrungen aus früheren Projekten im Bereich Usable Security & Privacy als relevant erachtet.
 
+![Persona-Template](<Personas.png>)
+
+Im Folgenden beschreiben wir alle Stakeholder pro Kategorie, sortiert nach deren Wichtig-keit. Eine Übersicht zeigt folgende Abbildung:
+
+![Übersicht über die Stakeholder](<Stakeholders.png>)
+
 ## Benutzergruppenprofile
 
 ### Betroffener (STH4)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#betroffene-person-gb60) |
 | **Rolle im digitalen Ökosystem** | Benutzergruppenprofil|
@@ -43,7 +49,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Datennutzer (STH3)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | Ein Datennutzer ist eine Person, die personenbezogene Daten eines Betroffenen verarbeitet|
 | **Rolle im digitalen Ökosystem** | Benutzergruppenprofil|
@@ -56,7 +62,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Verantwortlicher (STH2)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#verantwortlicher-gb51) |
 | **Rolle im digitalen Ökosystem** | Betreiber|
@@ -69,7 +75,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Cockpit-Nutzer (STH1)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | Der Cockpit-Nutzer ist eine Person, die mit dem Front-End des Datenschutz-Cockpits interagiert|
 | **Rolle im digitalen Ökosystem** | Benutzergruppenprofil|
@@ -81,7 +87,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Güteranbieter (zukünftig) (STH19)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#güteranbieter-gb91) |
 | **Rolle im digitalen Ökosystem** | Güteranbieter|
@@ -94,7 +100,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Güteranbieter (gegenwärtig) (STH17)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#güteranbieter-gb91) |
 | **Rolle im digitalen Ökosystem** | <tbd>|
@@ -107,7 +113,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Externer Anbieter (Dienstleister auf der Plattform) (STH18)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#externer-anbieter-gb95) |
 | **Rolle im digitalen Ökosystem** | zusätzlicher Dienstanbieter|
@@ -120,7 +126,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Externer Anbieter (B2B-Zulieferer) (STH20)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#externer-anbieter-gb95) |
 | **Rolle im digitalen Ökosystem** | externer Dienstleister oder Anwender (indirekter Einfluss)|
@@ -134,7 +140,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Aufsichtsbehörde (STH13)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | Eine Aufsichtsbehörde ist eine Organisation, die als Behörde eine Aufsichtsfunktion über privatrechtliche oder staatliche Institutionen ausführt. Je nach Domäne sind unterschiedliche Aufsichtsbehörden für den Betreiber eines digitalen Ökosystems zuständig|
 | **Rolle im digitalen Ökosystem** | nur prüfend / regulatorisch|
@@ -147,7 +153,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Initiator (STH11)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | Der Initiator ist eine Person oder Organisation, die die Initiative zur Entwicklung eines digitalen Ökosystems ergreift und die Konzipierung, Finanzierung und Geschäftsentwicklung begleitet, bis der Betreiber diese Aufgaben eigenständig ausüben kann|
 | **Rolle im digitalen Ökosystem** | Initiator|
@@ -160,7 +166,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Betreiber (STH5)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#betreiber-eines-digitalen-ökosystems-gb83) |
 | **Rolle im digitalen Ökosystem** | Betreiber|
@@ -173,7 +179,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Auditor/Gutachter (STH12)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | Ein Auditor ist eine Organisation, die das Qualitätsmanagement des Betreibers überprüft|
 | **Rolle im digitalen Ökosystem** | nur prüfend / regulatorisch|
@@ -186,7 +192,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Werbetreibender (STH10)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | Ein Werbetreibender im Kontext eines digitalen Ökosystem ist ein Unternehmen, das für Güter auf der digitalen Plattform wirbt|
 | **Rolle im digitalen Ökosystem** | zusätzlicher Dienstanbieter|
@@ -199,7 +205,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Datenschutzbeauftragter (STH6)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | Ein Datenschutzbeauftragter ist eine Person, die sich beim Betreiber um die Einhaltung des Datenschutzes kümmert. Abhängig von der Größe und Kerntätigkeit ist der Betreiber ggf. gesetzlich dazu verpflichtet, einen Datenschutzbeauftragten zu benennen|
 | **Rolle im digitalen Ökosystem** | Betreiber|
@@ -212,7 +218,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Onboarding-Verantwortlicher (STH7)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | Ein Onboarding-Verantwortlicher ist eine Person, die beim Betreiber für die praktisch-organisatorische, vertragliche und technische Integration der Beteiligten in das digitale Ökosystem zuständig ist|
 | **Rolle im digitalen Ökosystem** | Broker|
@@ -225,7 +231,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Kundenservice (STH16)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | Der Kundenservice des Betreibers ist eine Personengruppe, die technische und fachliche (interne oder externe) Unterstützung bietet, den Beteiligten des digitalen Ökosystems und entsprechend den Cockpit-Nutzern für Rückfragen zur Verfügung steht und diese bei Problemen rund um die Nutzung unterstützt|
 | **Rolle im digitalen Ökosystem** | Betreiber|
@@ -238,7 +244,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Externer Anbieter (Cloudservice / -infrastruktur) (STH15)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#externer-anbieter-gb95) |
 | **Rolle im digitalen Ökosystem** | zusätzlicher Dienstanbieter|
@@ -251,7 +257,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Wettbewerber (STH14)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | Ein Wettbewerber ist eine Organisation, die mit dem Betreiber konkurriert, insbesondere wenn sie ein anderes digitales Ökosystem betreibt, das einen vergleichbaren digitalen Ökosystemdienst anbietet|
 | **Rolle im digitalen Ökosystem** | externer Dienstleister oder Anwender (indirekter Einfluss)|
@@ -264,7 +270,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Plattformentwickler (STH9)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | Die Plattformentwickler des Betreibers sind für die (Weiter-)Entwicklung der digitalen Plattform und die Funktionen des digitalen Ökosystems zuständig|
 | **Rolle im digitalen Ökosystem** | Betreiber|
@@ -277,7 +283,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Wartungspersonal (STH8)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | Das Wartungspersonal beim Betreiber ist eine Personengruppe, die für die Instandhaltung der digitalen Plattform Sorge trägt|
 | **Rolle im digitalen Ökosystem** | Betreiber|
@@ -291,7 +297,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Güterkonsument (zukünftig) (STH24)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#güterkonsument-gb92) |
 | **Rolle im digitalen Ökosystem** | Güterkonsument|
@@ -304,7 +310,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Externer Anbieter (Dienstleistung für Güterkonsument außerhalb der Plattform) (STH23)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#externer-anbieter-gb95) |
 | **Rolle im digitalen Ökosystem** | <tbd>|
@@ -317,7 +323,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Güterkonsument (gegenwärtig) (STH21)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#güterkonsument-gb92) |
 | **Rolle im digitalen Ökosystem** | <tbd>|
@@ -330,7 +336,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Anwender (STH22)
 
-| *Eigenschaft** | **Beschreibung** |
+| **Eigenschaft** | **Beschreibung** |
 | -- | -- |
 | **Stakeholder-Beschreibung** | Ein Anwender ist eine Person oder Organisation, die kein Beteiligter des digitalen Ökosystems ist, sondern als B2B- oder B2C-Kunde vom Güterkonsument vom digitalen Ökosystemdienst profitiert|
 | **Rolle im digitalen Ökosystem** | externer Dienstleister oder Anwender (indirekter Einfluss)|
