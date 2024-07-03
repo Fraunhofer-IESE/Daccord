@@ -9,6 +9,10 @@
 
 ## System context
 
+While the platform, at its core, is responsible for brokering data assets from providers to consumers, the DPC is a software component to be integrated into the platform to enable the participants to send data-related notifications to each other. Among these notifications, 
+
+![Context delineation](images/diagram_context-delineation_basic.svg)
+
 ![Context delineation](images/diagram_context-delineation_clean.svg)
 
 ![Context delineation](images/diagram_context-delineation.svg)
