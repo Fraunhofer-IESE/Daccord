@@ -66,7 +66,7 @@ Als Betroffener möchte ich meine Datenschutzeinstellungen unkompliziert über d
 
 ### Priorität
 
-<tbd>
+<mark>tbd.</mark>
 
 ### Beispiel
 

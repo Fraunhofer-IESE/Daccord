@@ -164,7 +164,7 @@ Als Betroffener möchte ich zum Zeitpunkt der Erhebung wissen, welche Daten zu w
 
 ### Priorität
 
-<tbd>
+<mark>tbd.</mark>
 
 ### Beispiel
 
