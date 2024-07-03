@@ -30,315 +30,315 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 ### Betroffener (STH4)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#betroffene-person-gb60) |
-| Rolle im digitalen Ökosystem | Benutzergruppenprofil|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | Nutzung der UI für Güterkonsumenten|
-| Häufigkeit der Nutzung der Cockpit-UI | (b) häufig|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Betroffener|
-| Einfluss | (c) kaum|
-| Wichtigkeit | (a) hoch |
+| **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#betroffene-person-gb60) |
+| **Rolle im digitalen Ökosystem** | Benutzergruppenprofil|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung der UI für Güterkonsumenten|
+| **Häufigkeit der Nutzung der Cockpit-UI** | (b) häufig|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Betroffener|
+| **Einfluss** | (c) kaum|
+| **Wichtigkeit** | (a) hoch |
 
 
 ### Datennutzer (STH3)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | Ein Datennutzer ist eine Person, die personenbezogene Daten eines Betroffenen verarbeitet|
-| Rolle im digitalen Ökosystem | Benutzergruppenprofil|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | Nutzung der UI für Güterkonsumenten|
-| Häufigkeit der Nutzung der Cockpit-UI | (c) gelegentlich|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Datennutzer|
-| Einfluss | (b) teilweise|
-| Wichtigkeit | (a) hoch |
+| **Stakeholder-Beschreibung** | Ein Datennutzer ist eine Person, die personenbezogene Daten eines Betroffenen verarbeitet|
+| **Rolle im digitalen Ökosystem** | Benutzergruppenprofil|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung der UI für Güterkonsumenten|
+| **Häufigkeit der Nutzung der Cockpit-UI** | (c) gelegentlich|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Datennutzer|
+| **Einfluss** | (b) teilweise|
+| **Wichtigkeit** | (a) hoch |
 
 
 ### Verantwortlicher (STH2)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#verantwortlicher-gb51) |
-| Rolle im digitalen Ökosystem | Betreiber|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | Überprüfung / Sicherstellung der Einhaltung des Datenschutzes|
-| Häufigkeit der Nutzung der Cockpit-UI | (a) sehr häufig|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Verantwortlicher|
-| Einfluss | (a) hoch|
-| Wichtigkeit | (a) hoch |
+| **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#verantwortlicher-gb51) |
+| **Rolle im digitalen Ökosystem** | Betreiber|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Überprüfung / Sicherstellung der Einhaltung des Datenschutzes|
+| **Häufigkeit der Nutzung der Cockpit-UI** | (a) sehr häufig|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Verantwortlicher|
+| **Einfluss** | (a) hoch|
+| **Wichtigkeit** | (a) hoch |
 
 
 ### Cockpit-Nutzer (STH1)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | Der Cockpit-Nutzer ist eine Person, die mit dem Front-End des Datenschutz-Cockpits interagiert|
-| Rolle im digitalen Ökosystem | Benutzergruppenprofil|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | Nutzung der UI für Güteranbieter|
-| Häufigkeit der Nutzung der Cockpit-UI | (b) häufig|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Kontextabhängig|
-| Einfluss | (c) kaum|
-| Wichtigkeit | (a) hoch |
+| **Stakeholder-Beschreibung** | Der Cockpit-Nutzer ist eine Person, die mit dem Front-End des Datenschutz-Cockpits interagiert|
+| **Rolle im digitalen Ökosystem** | Benutzergruppenprofil|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung der UI für Güteranbieter|
+| **Häufigkeit der Nutzung der Cockpit-UI** | (b) häufig|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Kontextabhängig|
+| **Einfluss** | (c) kaum|
+| **Wichtigkeit** | (a) hoch |
 
 ### Güteranbieter (zukünftig) (STH19)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#güteranbieter-gb91) |
-| Rolle im digitalen Ökosystem | Güteranbieter|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | <tbd>|
-| Häufigkeit der Nutzung der Cockpit-UI | <tbd>|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | kein direkter Bezug zu den Daten|
-| Einfluss | <tbd>|
-| Wichtigkeit | <tbd> |
+| **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#güteranbieter-gb91) |
+| **Rolle im digitalen Ökosystem** | Güteranbieter|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | <tbd>|
+| **Häufigkeit der Nutzung der Cockpit-UI** | <tbd>|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
+| **Einfluss** | <tbd>|
+| **Wichtigkeit** | <tbd> |
 
 
 ### Güteranbieter (gegenwärtig) (STH17)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#güteranbieter-gb91) |
-| Rolle im digitalen Ökosystem | <tbd>|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | <tbd>|
-| Häufigkeit der Nutzung der Cockpit-UI | <tbd>|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | <tbd>|
-| Einfluss | <tbd>|
-| Wichtigkeit | <tbd> |
+| **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#güteranbieter-gb91) |
+| **Rolle im digitalen Ökosystem** | <tbd>|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | <tbd>|
+| **Häufigkeit der Nutzung der Cockpit-UI** | <tbd>|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | <tbd>|
+| **Einfluss** | <tbd>|
+| **Wichtigkeit** | <tbd> |
 
 
 ### Externer Anbieter (Dienstleister auf der Plattform) (STH18)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#externer-anbieter-gb95) |
-| Rolle im digitalen Ökosystem | zusätzlicher Dienstanbieter|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | Nutzung der UI für Güteranbieter|
-| Häufigkeit der Nutzung der Cockpit-UI | (c) gelegentlich|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Datennutzer|
-| Einfluss | (b) teilweise|
-| Wichtigkeit | (b) teilweise |
+| **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#externer-anbieter-gb95) |
+| **Rolle im digitalen Ökosystem** | zusätzlicher Dienstanbieter|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung der UI für Güteranbieter|
+| **Häufigkeit der Nutzung der Cockpit-UI** | (c) gelegentlich|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Datennutzer|
+| **Einfluss** | (b) teilweise|
+| **Wichtigkeit** | (b) teilweise |
 
 
 ### Externer Anbieter (B2B-Zulieferer) (STH20)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#externer-anbieter-gb95) |
-| Rolle im digitalen Ökosystem | externer Dienstleister oder Anwender (indirekter Einfluss)|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | Kein Bezug|
-| Häufigkeit der Nutzung der Cockpit-UI | (e) nie / nicht zutreffend|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Datennutzer|
-| Einfluss | (d) gar kein(e)|
-| Wichtigkeit | (c) kaum |
+| **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#externer-anbieter-gb95) |
+| **Rolle im digitalen Ökosystem** | externer Dienstleister oder Anwender (indirekter Einfluss)|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Kein Bezug|
+| **Häufigkeit der Nutzung der Cockpit-UI** | (e) nie / nicht zutreffend|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Datennutzer|
+| **Einfluss** | (d) gar kein(e)|
+| **Wichtigkeit** | (c) kaum |
 
 ## Betreiber & Umfeld
 
 ### Aufsichtsbehörde (STH13)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | Eine Aufsichtsbehörde ist eine Organisation, die als Behörde eine Aufsichtsfunktion über privatrechtliche oder staatliche Institutionen ausführt. Je nach Domäne sind unterschiedliche Aufsichtsbehörden für den Betreiber eines digitalen Ökosystems zuständig|
-| Rolle im digitalen Ökosystem | nur prüfend / regulatorisch|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | Überprüfung / Sicherstellung der Einhaltung des Datenschutzes|
-| Häufigkeit der Nutzung der Cockpit-UI | (e) nie / nicht zutreffend|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | kein direkter Bezug zu den Daten|
-| Einfluss | (c) kaum|
-| Wichtigkeit | (a) hoch
+| **Stakeholder-Beschreibung** | Eine Aufsichtsbehörde ist eine Organisation, die als Behörde eine Aufsichtsfunktion über privatrechtliche oder staatliche Institutionen ausführt. Je nach Domäne sind unterschiedliche Aufsichtsbehörden für den Betreiber eines digitalen Ökosystems zuständig|
+| **Rolle im digitalen Ökosystem** | nur prüfend / regulatorisch|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Überprüfung / Sicherstellung der Einhaltung des Datenschutzes|
+| **Häufigkeit der Nutzung der Cockpit-UI** | (e) nie / nicht zutreffend|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
+| **Einfluss** | (c) kaum|
+| **Wichtigkeit** | (a) hoch
 
 
 ### Initiator (STH11)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | Der Initiator ist eine Person oder Organisation, die die Initiative zur Entwicklung eines digitalen Ökosystems ergreift und die Konzipierung, Finanzierung und Geschäftsentwicklung begleitet, bis der Betreiber diese Aufgaben eigenständig ausüben kann|
-| Rolle im digitalen Ökosystem | Initiator|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | Kein Bezug|
-| Häufigkeit der Nutzung der Cockpit-UI | (e) nie / nicht zutreffend|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | kein direkter Bezug zu den Daten|
-| Einfluss | (a) hoch|
-| Wichtigkeit | (a) hoch
+| **Stakeholder-Beschreibung** | Der Initiator ist eine Person oder Organisation, die die Initiative zur Entwicklung eines digitalen Ökosystems ergreift und die Konzipierung, Finanzierung und Geschäftsentwicklung begleitet, bis der Betreiber diese Aufgaben eigenständig ausüben kann|
+| **Rolle im digitalen Ökosystem** | Initiator|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Kein Bezug|
+| **Häufigkeit der Nutzung der Cockpit-UI** | (e) nie / nicht zutreffend|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
+| **Einfluss** | (a) hoch|
+| **Wichtigkeit** | (a) hoch
 
 
 ### Betreiber (STH5)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#betreiber-eines-digitalen-ökosystems-gb83) |
-| Rolle im digitalen Ökosystem | Betreiber|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | Bereitstellung des Datenschutz-Cockpits / Infrastruktur|
-| Häufigkeit der Nutzung der Cockpit-UI | (a) sehr häufig|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Verantwortlicher|
-| Einfluss | (a) hoch|
-| Wichtigkeit | (a) hoch
+| **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#betreiber-eines-digitalen-ökosystems-gb83) |
+| **Rolle im digitalen Ökosystem** | Betreiber|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Bereitstellung des Datenschutz-Cockpits / Infrastruktur|
+| **Häufigkeit der Nutzung der Cockpit-UI** | (a) sehr häufig|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Verantwortlicher|
+| **Einfluss** | (a) hoch|
+| **Wichtigkeit** | (a) hoch
 
 
 ### Auditor/Gutachter (STH12)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | Ein Auditor ist eine Organisation, die das Qualitätsmanagement des Betreibers überprüft|
-| Rolle im digitalen Ökosystem | nur prüfend / regulatorisch|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | Überprüfung / Sicherstellung der Einhaltung des Datenschutzes|
-| Häufigkeit der Nutzung der Cockpit-UI | (d) selten|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | kein direkter Bezug zu den Daten|
-| Einfluss | (d) gar kein(e)|
-| Wichtigkeit | (b) teilweise
+| **Stakeholder-Beschreibung** | Ein Auditor ist eine Organisation, die das Qualitätsmanagement des Betreibers überprüft|
+| **Rolle im digitalen Ökosystem** | nur prüfend / regulatorisch|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Überprüfung / Sicherstellung der Einhaltung des Datenschutzes|
+| **Häufigkeit der Nutzung der Cockpit-UI** | (d) selten|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
+| **Einfluss** | (d) gar kein(e)|
+| **Wichtigkeit** | (b) teilweise
 
 
 ### Werbetreibender (STH10)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | Ein Werbetreibender im Kontext eines digitalen Ökosystem ist ein Unternehmen, das für Güter auf der digitalen Plattform wirbt|
-| Rolle im digitalen Ökosystem | zusätzlicher Dienstanbieter|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | Nutzung der UI für Güteranbieter|
-| Häufigkeit der Nutzung der Cockpit-UI | (d) selten|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Datennutzer|
-| Einfluss | (d) gar kein(e)|
-| Wichtigkeit | (b) teilweise
+| **Stakeholder-Beschreibung** | Ein Werbetreibender im Kontext eines digitalen Ökosystem ist ein Unternehmen, das für Güter auf der digitalen Plattform wirbt|
+| **Rolle im digitalen Ökosystem** | zusätzlicher Dienstanbieter|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung der UI für Güteranbieter|
+| **Häufigkeit der Nutzung der Cockpit-UI** | (d) selten|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Datennutzer|
+| **Einfluss** | (d) gar kein(e)|
+| **Wichtigkeit** | (b) teilweise
 
 
 ### Datenschutzbeauftragter (STH6)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | Ein Datenschutzbeauftragter ist eine Person, die sich beim Betreiber um die Einhaltung des Datenschutzes kümmert. Abhängig von der Größe und Kerntätigkeit ist der Betreiber ggf. gesetzlich dazu verpflichtet, einen Datenschutzbeauftragten zu benennen|
-| Rolle im digitalen Ökosystem | Betreiber|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | Überprüfung / Sicherstellung der Einhaltung des Datenschutzes|
-| Häufigkeit der Nutzung der Cockpit-UI | (c) gelegentlich|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Verantwortlicher|
-| Einfluss | (b) teilweise|
-| Wichtigkeit | (b) teilweise
+| **Stakeholder-Beschreibung** | Ein Datenschutzbeauftragter ist eine Person, die sich beim Betreiber um die Einhaltung des Datenschutzes kümmert. Abhängig von der Größe und Kerntätigkeit ist der Betreiber ggf. gesetzlich dazu verpflichtet, einen Datenschutzbeauftragten zu benennen|
+| **Rolle im digitalen Ökosystem** | Betreiber|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Überprüfung / Sicherstellung der Einhaltung des Datenschutzes|
+| **Häufigkeit der Nutzung der Cockpit-UI** | (c) gelegentlich|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Verantwortlicher|
+| **Einfluss** | (b) teilweise|
+| **Wichtigkeit** | (b) teilweise
 
 
 ### Onboarding-Verantwortlicher (STH7)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | Ein Onboarding-Verantwortlicher ist eine Person, die beim Betreiber für die praktisch-organisatorische, vertragliche und technische Integration der Beteiligten in das digitale Ökosystem zuständig ist|
-| Rolle im digitalen Ökosystem | Broker|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | Kommunikation zu Dritten|
-| Häufigkeit der Nutzung der Cockpit-UI | (b) häufig|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | kein direkter Bezug zu den Daten|
-| Einfluss | (c) kaum|
-| Wichtigkeit | (c) kaum
+| **Stakeholder-Beschreibung** | Ein Onboarding-Verantwortlicher ist eine Person, die beim Betreiber für die praktisch-organisatorische, vertragliche und technische Integration der Beteiligten in das digitale Ökosystem zuständig ist|
+| **Rolle im digitalen Ökosystem** | Broker|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Kommunikation zu Dritten|
+| **Häufigkeit der Nutzung der Cockpit-UI** | (b) häufig|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
+| **Einfluss** | (c) kaum|
+| **Wichtigkeit** | (c) kaum
 
 
 ### Kundenservice (STH16)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | Der Kundenservice des Betreibers ist eine Personengruppe, die technische und fachliche (interne oder externe) Unterstützung bietet, den Beteiligten des digitalen Ökosystems und entsprechend den Cockpit-Nutzern für Rückfragen zur Verfügung steht und diese bei Problemen rund um die Nutzung unterstützt|
-| Rolle im digitalen Ökosystem | Betreiber|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | Nutzung einer zusätzlichen UI (Demo, Kundenservice, et cetera)|
-| Häufigkeit der Nutzung der Cockpit-UI | (b) häufig|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Datennutzer|
-| Einfluss | (d) gar kein(e)|
-| Wichtigkeit | (d) gar kein(e)
+| **Stakeholder-Beschreibung** | Der Kundenservice des Betreibers ist eine Personengruppe, die technische und fachliche (interne oder externe) Unterstützung bietet, den Beteiligten des digitalen Ökosystems und entsprechend den Cockpit-Nutzern für Rückfragen zur Verfügung steht und diese bei Problemen rund um die Nutzung unterstützt|
+| **Rolle im digitalen Ökosystem** | Betreiber|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung einer zusätzlichen UI (Demo, Kundenservice, et cetera)|
+| **Häufigkeit der Nutzung der Cockpit-UI** | (b) häufig|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Datennutzer|
+| **Einfluss** | (d) gar kein(e)|
+| **Wichtigkeit** | (d) gar kein(e)
 
 
 ### Externer Anbieter (Cloudservice / -infrastruktur) (STH15)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#externer-anbieter-gb95) |
-| Rolle im digitalen Ökosystem | zusätzlicher Dienstanbieter|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | Bereitstellung des Datenschutz-Cockpits / Infrastruktur|
-| Häufigkeit der Nutzung der Cockpit-UI | (e) nie / nicht zutreffend|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Verantwortlicher|
-| Einfluss | (a) hoch|
-| Wichtigkeit | (d) gar kein(e)
+| **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#externer-anbieter-gb95) |
+| **Rolle im digitalen Ökosystem** | zusätzlicher Dienstanbieter|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Bereitstellung des Datenschutz-Cockpits / Infrastruktur|
+| **Häufigkeit der Nutzung der Cockpit-UI** | (e) nie / nicht zutreffend|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Verantwortlicher|
+| **Einfluss** | (a) hoch|
+| **Wichtigkeit** | (d) gar kein(e)
 
 
 ### Wettbewerber (STH14)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | Ein Wettbewerber ist eine Organisation, die mit dem Betreiber konkurriert, insbesondere wenn sie ein anderes digitales Ökosystem betreibt, das einen vergleichbaren digitalen Ökosystemdienst anbietet|
-| Rolle im digitalen Ökosystem | externer Dienstleister oder Anwender (indirekter Einfluss)|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | Kein Bezug|
-| Häufigkeit der Nutzung der Cockpit-UI | (e) nie / nicht zutreffend|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | kein direkter Bezug zu den Daten|
-| Einfluss | (d) gar kein(e)|
-| Wichtigkeit | (d) gar kein(e)
+| **Stakeholder-Beschreibung** | Ein Wettbewerber ist eine Organisation, die mit dem Betreiber konkurriert, insbesondere wenn sie ein anderes digitales Ökosystem betreibt, das einen vergleichbaren digitalen Ökosystemdienst anbietet|
+| **Rolle im digitalen Ökosystem** | externer Dienstleister oder Anwender (indirekter Einfluss)|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Kein Bezug|
+| **Häufigkeit der Nutzung der Cockpit-UI** | (e) nie / nicht zutreffend|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
+| **Einfluss** | (d) gar kein(e)|
+| **Wichtigkeit** | (d) gar kein(e)
 
 
 ### Plattformentwickler (STH9)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | Die Plattformentwickler des Betreibers sind für die (Weiter-)Entwicklung der digitalen Plattform und die Funktionen des digitalen Ökosystems zuständig|
-| Rolle im digitalen Ökosystem | Betreiber|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | Interaktion mit Backend|
-| Häufigkeit der Nutzung der Cockpit-UI | (e) nie / nicht zutreffend|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | kein direkter Bezug zu den Daten|
-| Einfluss | (a) hoch|
-| Wichtigkeit | (d) gar kein(e)
+| **Stakeholder-Beschreibung** | Die Plattformentwickler des Betreibers sind für die (Weiter-)Entwicklung der digitalen Plattform und die Funktionen des digitalen Ökosystems zuständig|
+| **Rolle im digitalen Ökosystem** | Betreiber|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Interaktion mit Backend|
+| **Häufigkeit der Nutzung der Cockpit-UI** | (e) nie / nicht zutreffend|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
+| **Einfluss** | (a) hoch|
+| **Wichtigkeit** | (d) gar kein(e)
 
 
 ### Wartungspersonal (STH8)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | Das Wartungspersonal beim Betreiber ist eine Personengruppe, die für die Instandhaltung der digitalen Plattform Sorge trägt|
-| Rolle im digitalen Ökosystem | Betreiber|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | Interaktion mit Backend|
-| Häufigkeit der Nutzung der Cockpit-UI | (e) nie / nicht zutreffend|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | kein direkter Bezug zu den Daten|
-| Einfluss | (b) teilweise|
-| Wichtigkeit | (d) gar kein(e) |
+| **Stakeholder-Beschreibung** | Das Wartungspersonal beim Betreiber ist eine Personengruppe, die für die Instandhaltung der digitalen Plattform Sorge trägt|
+| **Rolle im digitalen Ökosystem** | Betreiber|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Interaktion mit Backend|
+| **Häufigkeit der Nutzung der Cockpit-UI** | (e) nie / nicht zutreffend|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
+| **Einfluss** | (b) teilweise|
+| **Wichtigkeit** | (d) gar kein(e) |
 
 ## Güterkonsument
 
 ### Güterkonsument (zukünftig) (STH24)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#güterkonsument-gb92) |
-| Rolle im digitalen Ökosystem | Güterkonsument|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | Nutzung einer zusätzlichen UI (Demo, Kundenservice, et cetera)|
-| Häufigkeit der Nutzung der Cockpit-UI | (d) selten|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | kein direkter Bezug zu den Daten|
-| Einfluss | <tbd>|
-| Wichtigkeit | <tbd> |
+| **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#güterkonsument-gb92) |
+| **Rolle im digitalen Ökosystem** | Güterkonsument|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung einer zusätzlichen UI (Demo, Kundenservice, et cetera)|
+| **Häufigkeit der Nutzung der Cockpit-UI** | (d) selten|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
+| **Einfluss** | <tbd>|
+| **Wichtigkeit** | <tbd> |
 
 
 ### Externer Anbieter (Dienstleistung für Güterkonsument außerhalb der Plattform) (STH23)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#externer-anbieter-gb95) |
-| Rolle im digitalen Ökosystem | <tbd>|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | <tbd>|
-| Häufigkeit der Nutzung der Cockpit-UI | <tbd>|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | kein direkter Bezug zu den Daten|
-| Einfluss | <tbd>|
-| Wichtigkeit | <tbd> |
+| **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#externer-anbieter-gb95) |
+| **Rolle im digitalen Ökosystem** | <tbd>|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | <tbd>|
+| **Häufigkeit der Nutzung der Cockpit-UI** | <tbd>|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | kein direkter Bezug zu den Daten|
+| **Einfluss** | <tbd>|
+| **Wichtigkeit** | <tbd> |
 
 
 ### Güterkonsument (gegenwärtig) (STH21)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#güterkonsument-gb92) |
-| Rolle im digitalen Ökosystem | <tbd>|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | <tbd>|
-| Häufigkeit der Nutzung der Cockpit-UI | <tbd>|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Betroffener|
-| Einfluss | <tbd>|
-| Wichtigkeit | <tbd> |
+| **Stakeholder-Beschreibung** | [Siehe Glossareintrag](../../Einleitung/Glossar#güterkonsument-gb92) |
+| **Rolle im digitalen Ökosystem** | <tbd>|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | <tbd>|
+| **Häufigkeit der Nutzung der Cockpit-UI** | <tbd>|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Betroffener|
+| **Einfluss** | <tbd>|
+| **Wichtigkeit** | <tbd> |
 
 
 ### Anwender (STH22)
 
-|  |  |
+| *Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| Beschreibung | Ein Anwender ist eine Person oder Organisation, die kein Beteiligter des digitalen Ökosystems ist, sondern als B2B- oder B2C-Kunde vom Güterkonsument vom digitalen Ökosystemdienst profitiert|
-| Rolle im digitalen Ökosystem | externer Dienstleister oder Anwender (indirekter Einfluss)|
-| Hauptsächlicher Bezug zum Datenschutz-Cockpit | Kein Bezug|
-| Häufigkeit der Nutzung der Cockpit-UI | (e) nie / nicht zutreffend|
-| Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Betroffener|
-| Einfluss | (d) gar kein(e)|
-| Wichtigkeit | (b) teilweise |
+| **Stakeholder-Beschreibung** | Ein Anwender ist eine Person oder Organisation, die kein Beteiligter des digitalen Ökosystems ist, sondern als B2B- oder B2C-Kunde vom Güterkonsument vom digitalen Ökosystemdienst profitiert|
+| **Rolle im digitalen Ökosystem** | externer Dienstleister oder Anwender (indirekter Einfluss)|
+| **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Kein Bezug|
+| **Häufigkeit der Nutzung der Cockpit-UI** | (e) nie / nicht zutreffend|
+| **Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit** | Betroffener|
+| **Einfluss** | (d) gar kein(e)|
+| **Wichtigkeit** | (b) teilweise |
 
 ## Quellen
 
