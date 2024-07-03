@@ -33,6 +33,19 @@ This diagram includes two platform core functions: _provide data asset_ and _get
 
 ## Domain model
 
+The DPC domain model is organized into four parts: _Participants_, _Grants_, _Notifications_, and _Logs_.
+
+
+- **Participants**
+    - **Participant:** _An ecosystem participant_. A participant can be a data provider, a data consumer, or the platform operator. 
+    - **Data Provider:** Especialization of the entity _Participant_ that represents a _data provider_.
+    - **Data Consumer:** Especialization of the entity _Participant_ that represents a _data consumer_.
+- **Grants**
+    - **Data type:** A description of data items provided by the data provider and of potential interest to data consumers. The platform operator most likely defines which data types are intermediated by the platform; however, depending on the characteristics of the data ecosystem, the definition of the data types may be flexible.
+    - **Data usage purpose:**
+
+
+
 ![Domain model](images/diagram_data-model_clean-and-complete.svg)
 
 <p align="center">
