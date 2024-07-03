@@ -26,11 +26,10 @@ Eine erste Beschreibung der Stakeholder nach den genannten Dimensionen lag vor, 
 
 Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieben werden. Das in der Abbildung gezeigte Persona-Template nennt relevante Eigenschaften eines Stakeholders und zeigt, wie diese dokumentiert werden können. Es wurde im Konsortium entwickelt und greift unter anderem Eigenschaften aus dem Nutzergruppen-Template des DsiN-Sicherheitsindex[^4] auf. Zudem sind Eigenschaften eingeflossen, die das Projektteam aufgrund der Erfahrungen aus früheren Projekten im Bereich Usable Security & Privacy als relevant erachtet.
 
-![Persona-Template](<Personas.png>)
-
 Im Folgenden beschreiben wir alle Stakeholder pro Kategorie, sortiert nach deren Wichtig-keit. Eine Übersicht zeigt folgende Abbildung:
 
 ![Übersicht über die Stakeholder](<Stakeholders.png>)
+_Abbildung 1: Übersicht über die Stakeholder_
 
 ## Benutzergruppenprofile
 
