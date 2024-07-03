@@ -38,7 +38,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 |  |  |
 | -- | -- |
-| Beschreibung | [Siehe Glossareintrag](../../Glossar#betroffene-person-gb60) |
+| Beschreibung | [Siehe Glossareintrag](../Glossar#betroffene-person-gb60) |
 | Rolle im digitalen Ökosystem | Benutzergruppenprofil|
 | Hauptsächlicher Bezug zum Datenschutz-Cockpit | Nutzung der UI für Güterkonsumenten|
 | Häufigkeit der Nutzung der Cockpit-UI | (b) häufig|
