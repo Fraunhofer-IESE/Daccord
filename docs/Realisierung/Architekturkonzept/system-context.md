@@ -33,7 +33,7 @@ This diagram includes two platform core functions: _provide data asset_ and _get
 
 ## Domain model
 
-
+![Context delineation](images/diagram_domain-model_clean-and-complete.svg)
 
 <p align="center">
     <a href="index.md">Previous: 1. Introduction</a>&nbsp; | &nbsp;<a href="drivers.md">Next: 3. Architecture drivers</a>
