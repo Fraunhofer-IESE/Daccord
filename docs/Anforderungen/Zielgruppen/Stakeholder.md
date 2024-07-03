@@ -83,7 +83,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 |  |  |
 | -- | -- |
-| Beschreibung |  [Siehe Glossareintrag](../../Einleitung/Glossar#güteranbieter-gb91) |
+| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#güteranbieter-gb91) |
 | Rolle im digitalen Ökosystem | Güteranbieter|
 | Hauptsächlicher Bezug zum Datenschutz-Cockpit | <tbd>|
 | Häufigkeit der Nutzung der Cockpit-UI | <tbd>|
@@ -96,7 +96,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 |  |  |
 | -- | -- |
-| Beschreibung | Siehe Glossareintrag (Güteranbieter)|
+| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#güteranbieter-gb91) |
 | Rolle im digitalen Ökosystem | <tbd>|
 | Hauptsächlicher Bezug zum Datenschutz-Cockpit | <tbd>|
 | Häufigkeit der Nutzung der Cockpit-UI | <tbd>|
@@ -109,7 +109,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 |  |  |
 | -- | -- |
-| Beschreibung | Siehe Glossareintrag (externer Anbieter)|
+| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#externer-anbieter-gb95) |
 | Rolle im digitalen Ökosystem | zusätzlicher Dienstanbieter|
 | Hauptsächlicher Bezug zum Datenschutz-Cockpit | Nutzung der UI für Güteranbieter|
 | Häufigkeit der Nutzung der Cockpit-UI | (c) gelegentlich|
@@ -122,7 +122,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 |  |  |
 | -- | -- |
-| Beschreibung | Siehe Glossareintrag (Externer Anbieter)|
+| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#externer-anbieter-gb95) |
 | Rolle im digitalen Ökosystem | externer Dienstleister oder Anwender (indirekter Einfluss)|
 | Hauptsächlicher Bezug zum Datenschutz-Cockpit | Kein Bezug|
 | Häufigkeit der Nutzung der Cockpit-UI | (e) nie / nicht zutreffend|
@@ -161,7 +161,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 |  |  |
 | -- | -- |
-| Beschreibung | Siehe Glossareintrag|
+| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#betreiber-eines-digitalen-ökosystems-gb83) |
 | Rolle im digitalen Ökosystem | Betreiber|
 | Hauptsächlicher Bezug zum Datenschutz-Cockpit | Bereitstellung des Datenschutz-Cockpits / Infrastruktur|
 | Häufigkeit der Nutzung der Cockpit-UI | (a) sehr häufig|
@@ -239,7 +239,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 |  |  |
 | -- | -- |
-| Beschreibung | Siehe Glossareintrag (externer Anbieter)|
+| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#externer-anbieter-gb95) |
 | Rolle im digitalen Ökosystem | zusätzlicher Dienstanbieter|
 | Hauptsächlicher Bezug zum Datenschutz-Cockpit | Bereitstellung des Datenschutz-Cockpits / Infrastruktur|
 | Häufigkeit der Nutzung der Cockpit-UI | (e) nie / nicht zutreffend|
@@ -292,7 +292,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 |  |  |
 | -- | -- |
-| Beschreibung | Siehe Glossareintrag (Güterkonsument)|
+| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#güterkonsument-gb92) |
 | Rolle im digitalen Ökosystem | Güterkonsument|
 | Hauptsächlicher Bezug zum Datenschutz-Cockpit | Nutzung einer zusätzlichen UI (Demo, Kundenservice, et cetera)|
 | Häufigkeit der Nutzung der Cockpit-UI | (d) selten|
@@ -305,7 +305,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 |  |  |
 | -- | -- |
-| Beschreibung | Siehe Glossareintrag (externer Anbieter)|
+| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#externer-anbieter-gb95) |
 | Rolle im digitalen Ökosystem | <tbd>|
 | Hauptsächlicher Bezug zum Datenschutz-Cockpit | <tbd>|
 | Häufigkeit der Nutzung der Cockpit-UI | <tbd>|
@@ -318,7 +318,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 |  |  |
 | -- | -- |
-| Beschreibung | Siehe Glossareintrag (Güterkonsument)|
+| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#güterkonsument-gb92) |
 | Rolle im digitalen Ökosystem | <tbd>|
 | Hauptsächlicher Bezug zum Datenschutz-Cockpit | <tbd>|
 | Häufigkeit der Nutzung der Cockpit-UI | <tbd>|
