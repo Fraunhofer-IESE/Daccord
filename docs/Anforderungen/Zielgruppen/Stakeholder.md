@@ -35,6 +35,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Betroffener (STH4)
+
 |  |  |
 | -- | -- |
 | Beschreibung | [../../Glossar#betroffene-person-gb60](Siehe Glossareintrag) |
@@ -48,6 +49,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Datennutzer (STH3)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Ein Datennutzer ist eine Person, die personenbezogene Daten eines Betroffenen verarbeitet|
@@ -61,6 +63,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Verantwortlicher (STH2)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Siehe Glossareintrag|
@@ -74,6 +77,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Cockpit-Nutzer (STH1)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Der Cockpit-Nutzer ist eine Person, die mit dem Front-End des Datenschutz-Cockpits interagiert|
@@ -86,6 +90,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Güteranbieter (zukünftig) (STH19)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Siehe Glossareintrag (Güteranbieter)|
@@ -99,6 +104,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Güteranbieter (gegenwärtig) (STH17)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Siehe Glossareintrag (Güteranbieter)|
@@ -112,6 +118,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Externer Anbieter (Dienstleister auf der Plattform) (STH18)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Siehe Glossareintrag (externer Anbieter)|
@@ -125,6 +132,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Externer Anbieter (B2B-Zulieferer) (STH20)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Siehe Glossareintrag (Externer Anbieter)|
@@ -139,6 +147,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Aufsichtsbehörde (STH13)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Eine Aufsichtsbehörde ist eine Organisation, die als Behörde eine Aufsichtsfunktion über privatrechtliche oder staatliche Institutionen ausführt. Je nach Domäne sind unterschiedliche Aufsichtsbehörden für den Betreiber eines digitalen Ökosystems zuständig|
@@ -152,6 +161,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Initiator (STH11)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Der Initiator ist eine Person oder Organisation, die die Initiative zur Entwicklung eines digitalen Ökosystems ergreift und die Konzipierung, Finanzierung und Geschäftsentwicklung begleitet, bis der Betreiber diese Aufgaben eigenständig ausüben kann|
@@ -165,6 +175,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Betreiber (STH5)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Siehe Glossareintrag|
@@ -178,6 +189,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Auditor/Gutachter (STH12)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Ein Auditor ist eine Organisation, die das Qualitätsmanagement des Betreibers überprüft|
@@ -191,6 +203,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Werbetreibender (STH10)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Ein Werbetreibender im Kontext eines digitalen Ökosystem ist ein Unternehmen, das für Güter auf der digitalen Plattform wirbt|
@@ -204,6 +217,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Datenschutzbeauftragter (STH6)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Ein Datenschutzbeauftragter ist eine Person, die sich beim Betreiber um die Einhaltung des Datenschutzes kümmert. Abhängig von der Größe und Kerntätigkeit ist der Betreiber ggf. gesetzlich dazu verpflichtet, einen Datenschutzbeauftragten zu benennen|
@@ -217,6 +231,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Onboarding-Verantwortlicher (STH7)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Ein Onboarding-Verantwortlicher ist eine Person, die beim Betreiber für die praktisch-organisatorische, vertragliche und technische Integration der Beteiligten in das digitale Ökosystem zuständig ist|
@@ -230,6 +245,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Kundenservice (STH16)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Der Kundenservice des Betreibers ist eine Personengruppe, die technische und fachliche (interne oder externe) Unterstützung bietet, den Beteiligten des digitalen Ökosystems und entsprechend den Cockpit-Nutzern für Rückfragen zur Verfügung steht und diese bei Problemen rund um die Nutzung unterstützt|
@@ -243,6 +259,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Externer Anbieter (Cloudservice / -infrastruktur) (STH15)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Siehe Glossareintrag (externer Anbieter)|
@@ -256,6 +273,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Wettbewerber (STH14)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Ein Wettbewerber ist eine Organisation, die mit dem Betreiber konkurriert, insbesondere wenn sie ein anderes digitales Ökosystem betreibt, das einen vergleichbaren digitalen Ökosystemdienst anbietet|
@@ -269,6 +287,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Plattformentwickler (STH9)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Die Plattformentwickler des Betreibers sind für die (Weiter-)Entwicklung der digitalen Plattform und die Funktionen des digitalen Ökosystems zuständig|
@@ -282,6 +301,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Wartungspersonal (STH8)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Das Wartungspersonal beim Betreiber ist eine Personengruppe, die für die Instandhaltung der digitalen Plattform Sorge trägt|
@@ -297,6 +317,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Güterkonsument (zukünftig) (STH24)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Siehe Glossareintrag (Güterkonsument)|
@@ -310,6 +331,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Externer Anbieter (Dienstleistung für Güterkonsument außerhalb der Plattform) (STH23)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Siehe Glossareintrag (externer Anbieter)|
@@ -323,6 +345,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Güterkonsument (gegenwärtig) (STH21)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Siehe Glossareintrag (Güterkonsument)|
@@ -336,6 +359,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 
 #### Anwender (STH22)
+
 |  |  |
 | -- | -- |
 | Beschreibung | Ein Anwender ist eine Person oder Organisation, die kein Beteiligter des digitalen Ökosystems ist, sondern als B2B- oder B2C-Kunde vom Güterkonsument vom digitalen Ökosystemdienst profitiert|
