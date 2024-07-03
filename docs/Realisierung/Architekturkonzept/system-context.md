@@ -9,7 +9,7 @@
 
 ## System context
 
-While the platform, at its core, is responsible for brokering data assets from providers to consumers, the DPC is a software component to be integrated into the platform to enable the participants to send data-related notifications to each other. Among these notifications, 
+While the platform, at its core, is responsible for brokering data assets from providers to consumers, the DPC is a software component to be integrated into the platform to enable the participants to send data-related notifications to each other. Three entities interact with the DSC: the platform core, the data provider, and the data consumer (see Figure below). Note that the platform core also gets information about grants from the DPC.
 
 ![Context delineation](images/diagram_context-delineation_basic.svg)
 
