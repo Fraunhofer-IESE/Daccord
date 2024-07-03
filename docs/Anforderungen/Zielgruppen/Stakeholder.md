@@ -83,7 +83,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 |  |  |
 | -- | -- |
-| Beschreibung |  [Siehe Glossareintrag](../../Einleitung/Glossar#guteranbieter-gb91) |
+| Beschreibung |  [Siehe Glossareintrag](../../Einleitung/Glossar#güteranbieter-gb91) |
 | Rolle im digitalen Ökosystem | Güteranbieter|
 | Hauptsächlicher Bezug zum Datenschutz-Cockpit | <tbd>|
 | Häufigkeit der Nutzung der Cockpit-UI | <tbd>|
