@@ -25,16 +25,10 @@ Entsprechend wurde die Entscheidung getroffen, die Stakeholder nicht nach dem Zw
 Eine erste Beschreibung der Stakeholder nach den genannten Dimensionen lag vor, wodurch die Anwendbarkeit der Dimensionen bestätigt wurde. In der zweiten Iteration wurden die Stakeholder in das Requirements-Management-Tool ReqSuite aufgenommen und dort anhand dieser Kategorien beschrieben.
 
 Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieben werden. Das in der Abbildung gezeigte Persona-Template nennt relevante Eigenschaften eines Stakeholders und zeigt, wie diese dokumentiert werden können. Es wurde im Konsortium entwickelt und greift unter anderem Eigenschaften aus dem Nutzergruppen-Template des DsiN-Sicherheitsindex[^4] auf. Zudem sind Eigenschaften eingeflossen, die das Projektteam aufgrund der Erfahrungen aus früheren Projekten im Bereich Usable Security & Privacy als relevant erachtet.
-
-## Ergebnisse
-
+## Benutzergruppenprofile
 
 
-### Benutzergruppenprofile
-
-
-
-#### Betroffener (STH4)
+### Betroffener (STH4)
 
 |  |  |
 | -- | -- |
@@ -47,8 +41,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Wichtigkeit | (a) hoch
 
 
-
-#### Datennutzer (STH3)
+### Datennutzer (STH3)
 
 |  |  |
 | -- | -- |
@@ -61,12 +54,11 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Wichtigkeit | (a) hoch
 
 
-
-#### Verantwortlicher (STH2)
+### Verantwortlicher (STH2)
 
 |  |  |
 | -- | -- |
-| Beschreibung | Siehe Glossareintrag|
+| Beschreibung | [Siehe Glossareintrag](../Glossar#verantwortlicher-gb51) |
 | Rolle im digitalen Ökosystem | Betreiber|
 | Hauptsächlicher Bezug zum Datenschutz-Cockpit | Überprüfung / Sicherstellung der Einhaltung des Datenschutzes|
 | Häufigkeit der Nutzung der Cockpit-UI | (a) sehr häufig|
@@ -75,8 +67,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Wichtigkeit | (a) hoch
 
 
-
-#### Cockpit-Nutzer (STH1)
+### Cockpit-Nutzer (STH1)
 
 |  |  |
 | -- | -- |
@@ -88,12 +79,11 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Einfluss | (c) kaum|
 | Wichtigkeit | (a) hoch
 
-
-#### Güteranbieter (zukünftig) (STH19)
+### Güteranbieter (zukünftig) (STH19)
 
 |  |  |
 | -- | -- |
-| Beschreibung | Siehe Glossareintrag (Güteranbieter)|
+| Beschreibung |  [Siehe Glossareintrag](../Glossar#guteranbieter-gb91) |
 | Rolle im digitalen Ökosystem | Güteranbieter|
 | Hauptsächlicher Bezug zum Datenschutz-Cockpit | <tbd>|
 | Häufigkeit der Nutzung der Cockpit-UI | <tbd>|
@@ -102,8 +92,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Wichtigkeit | <tbd>
 
 
-
-#### Güteranbieter (gegenwärtig) (STH17)
+### Güteranbieter (gegenwärtig) (STH17)
 
 |  |  |
 | -- | -- |
@@ -116,8 +105,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Wichtigkeit | <tbd>
 
 
-
-#### Externer Anbieter (Dienstleister auf der Plattform) (STH18)
+### Externer Anbieter (Dienstleister auf der Plattform) (STH18)
 
 |  |  |
 | -- | -- |
@@ -130,8 +118,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Wichtigkeit | (b) teilweise
 
 
-
-#### Externer Anbieter (B2B-Zulieferer) (STH20)
+### Externer Anbieter (B2B-Zulieferer) (STH20)
 
 |  |  |
 | -- | -- |
@@ -142,11 +129,9 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | Datennutzer|
 | Einfluss | (d) gar kein(e)|
 | Wichtigkeit | (c) kaum
+## Betreiber & Umfeld
 
-### Betreiber & Umfeld
-
-
-#### Aufsichtsbehörde (STH13)
+### Aufsichtsbehörde (STH13)
 
 |  |  |
 | -- | -- |
@@ -159,8 +144,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Wichtigkeit | (a) hoch
 
 
-
-#### Initiator (STH11)
+### Initiator (STH11)
 
 |  |  |
 | -- | -- |
@@ -173,8 +157,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Wichtigkeit | (a) hoch
 
 
-
-#### Betreiber (STH5)
+### Betreiber (STH5)
 
 |  |  |
 | -- | -- |
@@ -187,8 +170,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Wichtigkeit | (a) hoch
 
 
-
-#### Auditor/Gutachter (STH12)
+### Auditor/Gutachter (STH12)
 
 |  |  |
 | -- | -- |
@@ -201,8 +183,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Wichtigkeit | (b) teilweise
 
 
-
-#### Werbetreibender (STH10)
+### Werbetreibender (STH10)
 
 |  |  |
 | -- | -- |
@@ -215,8 +196,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Wichtigkeit | (b) teilweise
 
 
-
-#### Datenschutzbeauftragter (STH6)
+### Datenschutzbeauftragter (STH6)
 
 |  |  |
 | -- | -- |
@@ -229,8 +209,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Wichtigkeit | (b) teilweise
 
 
-
-#### Onboarding-Verantwortlicher (STH7)
+### Onboarding-Verantwortlicher (STH7)
 
 |  |  |
 | -- | -- |
@@ -243,8 +222,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Wichtigkeit | (c) kaum
 
 
-
-#### Kundenservice (STH16)
+### Kundenservice (STH16)
 
 |  |  |
 | -- | -- |
@@ -257,8 +235,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Wichtigkeit | (d) gar kein(e)
 
 
-
-#### Externer Anbieter (Cloudservice / -infrastruktur) (STH15)
+### Externer Anbieter (Cloudservice / -infrastruktur) (STH15)
 
 |  |  |
 | -- | -- |
@@ -271,8 +248,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Wichtigkeit | (d) gar kein(e)
 
 
-
-#### Wettbewerber (STH14)
+### Wettbewerber (STH14)
 
 |  |  |
 | -- | -- |
@@ -285,8 +261,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Wichtigkeit | (d) gar kein(e)
 
 
-
-#### Plattformentwickler (STH9)
+### Plattformentwickler (STH9)
 
 |  |  |
 | -- | -- |
@@ -299,8 +274,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Wichtigkeit | (d) gar kein(e)
 
 
-
-#### Wartungspersonal (STH8)
+### Wartungspersonal (STH8)
 
 |  |  |
 | -- | -- |
@@ -311,12 +285,10 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Rolle bzgl. personenbezogener Daten im Datenschutz-Cockpit | kein direkter Bezug zu den Daten|
 | Einfluss | (b) teilweise|
 | Wichtigkeit | (d) gar kein(e)
-
-#### Güterkonsument
-
+### Güterkonsument
 
 
-#### Güterkonsument (zukünftig) (STH24)
+### Güterkonsument (zukünftig) (STH24)
 
 |  |  |
 | -- | -- |
@@ -329,8 +301,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Wichtigkeit | <tbd>
 
 
-
-#### Externer Anbieter (Dienstleistung für Güterkonsument außerhalb der Plattform) (STH23)
+### Externer Anbieter (Dienstleistung für Güterkonsument außerhalb der Plattform) (STH23)
 
 |  |  |
 | -- | -- |
@@ -343,8 +314,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Wichtigkeit | <tbd>
 
 
-
-#### Güterkonsument (gegenwärtig) (STH21)
+### Güterkonsument (gegenwärtig) (STH21)
 
 |  |  |
 | -- | -- |
@@ -357,8 +327,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 | Wichtigkeit | <tbd>
 
 
-
-#### Anwender (STH22)
+### Anwender (STH22)
 
 |  |  |
 | -- | -- |
