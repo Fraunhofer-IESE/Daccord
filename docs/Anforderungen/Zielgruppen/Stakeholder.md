@@ -32,7 +32,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 |  |  |
 | -- | -- |
-| Beschreibung | [Siehe Glossareintrag](../../Einführung/Glossar#betroffene-person-gb60) |
+| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#betroffene-person-gb60) |
 | Rolle im digitalen Ökosystem | Benutzergruppenprofil|
 | Hauptsächlicher Bezug zum Datenschutz-Cockpit | Nutzung der UI für Güterkonsumenten|
 | Häufigkeit der Nutzung der Cockpit-UI | (b) häufig|
@@ -58,7 +58,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 |  |  |
 | -- | -- |
-| Beschreibung | [Siehe Glossareintrag](../../Einführung/Glossar#verantwortlicher-gb51) |
+| Beschreibung | [Siehe Glossareintrag](../../Einleitung/Glossar#verantwortlicher-gb51) |
 | Rolle im digitalen Ökosystem | Betreiber|
 | Hauptsächlicher Bezug zum Datenschutz-Cockpit | Überprüfung / Sicherstellung der Einhaltung des Datenschutzes|
 | Häufigkeit der Nutzung der Cockpit-UI | (a) sehr häufig|
@@ -83,7 +83,7 @@ Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieb
 
 |  |  |
 | -- | -- |
-| Beschreibung |  [Siehe Glossareintrag](../../Einführung/Glossar#guteranbieter-gb91) |
+| Beschreibung |  [Siehe Glossareintrag](../../Einleitung/Glossar#guteranbieter-gb91) |
 | Rolle im digitalen Ökosystem | Güteranbieter|
 | Hauptsächlicher Bezug zum Datenschutz-Cockpit | <tbd>|
 | Häufigkeit der Nutzung der Cockpit-UI | <tbd>|
