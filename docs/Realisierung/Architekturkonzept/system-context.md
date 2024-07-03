@@ -9,19 +9,19 @@
 
 ## System context
 
-While the platform, at its core, is responsible for brokering data assets from providers to consumers, the DPC is a software component to be integrated into the platform to enable the participants to send data-related notifications to each other. Three entities interact with the DSC: the platform core, the data provider, and the data consumer (see figure below). Note that the platform core also gets information about grants from the DPC.
+While the platform, at its core, is responsible for brokering data assets from providers to consumers, the DPC is a software component integrated into the platform to enable the participants to send data-related messages to each other. We refer to these messages generically as _notifications_. If a participant wants to request something from another participant, or inform another participant about something, the participant sends a _notification_.
+
+Three entities interact with the DSC: the platform core, the data provider, and the data consumer (see figure below). Note that the platform core also gets information about grants from the DPC.
 
 ![Context delineation](images/diagram_context-delineation_basic.svg)
 
-The data provider, the data consumer, and the platform core are "Ecosystem participants" and share the functions "send notification" and "get notification" as they notify each other via the DPC. While these functions have named in generic terms, there are different types of notifications sent from participant to participant. For example:
+There are different types of notifications sent from participant to participant. For example:
 
 - the data provider can _request data access_ (notification of type "data access request") from the data consumer;
-- the data consumer can _request data modification_ from the platform core;
+- the data consumer can _request data modification_ (type: "data modification request") from the platform core;
+- the data consumer can _report a data-leak incident_ (type: "incident report") to data providers;
 
-
-The diagram below details the functions used by the 
-
-"Send notification" and "get notification" are general terms for the different types of notifications sent from participant to participant via the DPC. 
+The diagram below features the role "Ecosystem participant" as a generalization for each participant. Furthermore, this diagram illustrates functions specific to each participant, reflecting different notification types.
 
 ![Context delineation](images/diagram_context-delineation_clean.svg)
 
