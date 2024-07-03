@@ -9,7 +9,7 @@
 
 ## System context
 
-
+![Context delineation](images/diagrams_context-delineation.svg)
 
 ## Domain model
 
