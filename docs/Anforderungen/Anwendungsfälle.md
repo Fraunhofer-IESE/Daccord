@@ -13,7 +13,6 @@ Der Cockpit-Nutzer verschafft sich einen Überblick über seine aktuellen Aufgab
 [STH1. Cockpit-Nutzer](./Zielgruppen/Stakeholder#cockpit-nutzer-sth1)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
 
 #### Ablauf
@@ -24,7 +23,6 @@ Der Cockpit-Nutzer verschafft sich einen Überblick über seine aktuellen Aufgab
 5. Der Cockpit-Nutzer bearbeitet das Formular und schließt die Aufgabe ab (Zustand: abgeschlossen).
 
 #### Nachbedingungen
-
 - Die Aufgabe ist abgeschlossen und verschwindet aus dem Cockpit (d. h., sie wird versteckt).
 
 #### Anmerkungen
@@ -32,31 +30,23 @@ Der Cockpit-Nutzer verschafft sich einen Überblick über seine aktuellen Aufgab
 Zustände einer Aufgabe können (mindestens) sein: Neu, In Bearbeitung, Abgeschlossen.
 
 #### Alternativen
-
 - Der Cockpit-Nutzer wird über neue Aufgaben per Benachrichtigung (siehe AF3) informiert und gelangt per Link direkt zur Aufgabe.
-
 - Der Nutzer kann die Aufgabe (weiter) bearbeiten ohne sie abzuschließen.
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Im Datenschutz-Cockpit des Anbieters erscheint ein Auskunftsersuch eines Reisenden.
-
 - Der Anbieter stellt die Daten zusammen, lädt sie in der Aufgabe hoch und markiert diese als abgeschlossen.
 
 SLR:
-
 - Im Datenschutz-Cockpit eines Lösungsanbieters erscheint ein Auskunftsersuch eines Bürgers.
-
 - Der Lösungsanbieter stellt die Daten zusammen, lädt sie in der Aufgabe hoch und markiert diese als abgeschlossen.
 
 HKBS:
-
 - Im Datenschutz-Cockpit des Admins sind die Benutzer-Datensätze, die Änderungs- bzw. Löschvorschläge der Betroffenen enthalten, markiert, so dass der Admin diese leicht identifizieren und abarbeiten kann.
 
 #### Phasen
-
 - 3.1 Daten bearbeiten
 - 3.2 Daten lesen
 - 3.3 Daten löschen
@@ -73,7 +63,6 @@ Der Cockpit-Nutzer durchsucht das Datenschutz-Cockpit nach Daten, Funktionen ode
 [STH1. Cockpit-Nutzer](./Zielgruppen/Stakeholder#cockpit-nutzer-sth1)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
 
 #### Ablauf
@@ -89,33 +78,24 @@ Der Cockpit-Nutzer durchsucht das Datenschutz-Cockpit nach Daten, Funktionen ode
 4. Der Cockpit-Nutzer klickt auf die passenden Ergebnisse und wird zur entsprechenden Seite des Datenschutz-Cockpits geleitet.
 
 #### Nachbedingungen
-
 - Alle passenden Informationen und Funktionen werden als Ergebnisliste angezeigt.
 
 #### Alternativen
-
 - Der Cockpit-Nutzer navigiert durch das Datenschutz-Cockpit.
-
 - Der Cockpit-Nutzer liest die Dokumentationen des Datenschutz-Cockpits (FAQ, Benutzerhandbuch).
-
 - Der Cockpit-Nutzer nutzt die Suchfunktion des Browsers auf bestimmten Seiten.
-
 - Der Cockpit-Nutzer sucht über eine externe Suchmaschine (nur öffentliche Bereiche und Datenschutzinformationen).
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Aktuell setzt Airbnb eine Suchfunktion auf manchen Seiten um (z. B. im Hilfebereich).
-
 - Man könnte die Suchfunktion auf den gesamten Bereich "Konto" ausweiten.
 
 SLR:
-
 - In der aktuellen Form der Huhu-Plattform sollte sich die Suchfunktion mindestens auf die gebuchten Lösungen, den Hilfebereich und die Datenschutzerklärung erstrecken.
 
 HKBS:
-
 - Es gibt im Datenschutz-Cockpit eine Volltextsuche, die die gesamten Inhalte durchsucht.
 
 #### Phase
@@ -130,7 +110,6 @@ Der Cockpit-Nutzer konfiguriert Benachrichtigungen, damit er über genau die Ere
 [STH1. Cockpit-Nutzer](./Zielgruppen/Stakeholder#cockpit-nutzer-sth1)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
 
 #### Ablauf
@@ -140,7 +119,6 @@ Der Cockpit-Nutzer konfiguriert Benachrichtigungen, damit er über genau die Ere
 4. Das Datenschutz-Cockpit speichert die Einstellungen.
 
 #### Nachbedingungen
-
 - Das Datenschutz-Cockpit versendet basierend auf den Einstellungen Benachrichtigungen.
 
 #### Anmerkungen
@@ -148,21 +126,16 @@ Der Cockpit-Nutzer konfiguriert Benachrichtigungen, damit er über genau die Ere
 Mögliche Benachrichtigungskanäle sind: Im Datenschutz-Cockpit als Popup, E-Mail, SMS etc.
 
 #### Alternativen
-
 - Der Nutzer kann über einen Link in der Benachrichtigung diese direkt abbestellen.
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Unter den Account-Einstellungen befinden sich auch die Benachrichtigungseinstellungen.
-
 - Details:[Verwalte deine Benachrichtigungen – Airbnb-Hilfecenter](https://www.airbnb.de/help/article/14)
 
 SLR:
-
 - Der Bürger kann in seinem Konto zentral die Benachrichtigungen verwalten.
-
 - Es kann sich anbieten, dass einzelne Lösungen die Benachrichtigungseinstellungen übernehmen oder dass diese einen zentralen Benachrichtigungsdienst der Plattform nutzen.
 
 #### Phase
@@ -180,11 +153,8 @@ Der Betreiber prüft einen Verdachtsfall eines Betroffenen, damit Datenschutzvor
 [STH5. Betreiber](./Zielgruppen/Stakeholder#betreiber-sth5)
 
 #### Vorbedingung
-
 - Ein Betroffener hat einen Verdachtsfall gemeldet (AF43).
-
 - Der Cockpit-Nutzer ist eingeloggt.
-
 - Der Cockpit-Nutzer hat die Rolle "Betreiber".
 
 #### Ablauf
@@ -201,21 +171,16 @@ Der Betreiber prüft einen Verdachtsfall eines Betroffenen, damit Datenschutzvor
 5. Das Datenschutz-Cockpit informiert den Betroffenen, der den Verdachtsfall gemeldet hat, über das Ergebnis.
 
 #### Nachbedingungen
-
 - Der Verdachtsfall ist beantwortet.
-
 - Systemkorrekturen sind ggf. eingeleitet.
-
 - Datenschutzvorfälle sind ggf. gemeldet (AF25).
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Airbnb klärt den Verdachtsfall (ggf. mit den Anbietern) und leitet ggf. entsprechende Schritte ein.
 
 SLR:
-
 - SLR klärt den Verdachtsfall (ggf. mit den Lösungsanbietern) und leitet ggf. entsprechende Schritte ein.
 
 #### Phase
@@ -230,11 +195,8 @@ Der Betreiber definiert die Taxonomie des Datenschutz-Cockpits, damit Zusammenh�
 [STH5. Betreiber](./Zielgruppen/Stakeholder#betreiber-sth5)
 
 #### Vorbedingung
-
 - Die Interaktionen der Akteure innerhalb der Domäne sind definiert (Use Cases o. Ä. liegen vor).
-
 - Die Domäne ist beschrieben.
-
 - Die Grenzen der Plattform sind klar definiert (z. B. nur 90 % der Domäne sollen abgebildet werden).
 
 #### Ablauf
@@ -252,35 +214,24 @@ Der Betreiber definiert die Taxonomie des Datenschutz-Cockpits, damit Zusammenh�
 4. Das Datenschutz-Cockpit speichert die Taxonomie als Grundlage für die anderen Anwendungsfälle.
 
 #### Nachbedingungen
-
 - Eine einheitliche und verständliche Terminologie für alle Akteure liegt vor.
-
 - Die Plattform kann von allen Akteuren genutzt werden.
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Der Kontext der Gütervermittlung in Form von Übernachtungen ist beschrieben.
-
 - Die Rollen (v. a. des Güteranbieters und Güterkonsumenten) sind voneinander abgegrenzt.
-
 - Die Datenkategorien und Datenarten sind definiert: benötigte Stammdaten der Plattform-Nutzer, Daten zur Beschreibung eines Guts (d.h. einer Übernachtungsmöglichkeit), Transaktionsdaten (Daten der Buchung eines Guts).
-
 - Mögliche Besonderheiten: offizielle Papiere als Stammdaten (z. B. Personalausweis), bildlastige Beschreibung von Gütern, Transaktionsdaten umfassen sowohl Vergangenheit, Gegenwart als auch Zukunft.
 
 SLR:
-
 - 
-
 - Die Gütervermittlung in Form von abonnierbaren Diensten ist beschrieben.
-
 - Die Rollen von Güteranbieter, Güterkonsument (Landkreis) und Nutzer eines Guts (Endnutzer) sind voneinander abgegrenzt.
-
 - Die Datenkategorien und Datenarten sind definiert: Daten zur Beschreibung eines Guts (also eines Dienstes), Abonnement- und Nutzungsmöglichkeiten eines Guts, Daten zum Buchen eines Guts (Zahlungsarten und -vorgänge),...
 
 Weitere Umsetzungsmöglichkeiten:
-
 - Man kann sich auf generische Datenkategorien, Verarbeitungszwecke, Datennutzerkategorien und Verarbeitungsarten beschränken, was jedoch ggf. die Verständlichkeit und Aussagekraft anderer Anwendungsfälle negativ beeinflusst.
 
 #### Phase
@@ -298,9 +249,7 @@ Der Betroffene berichtigt Daten, damit deren Aktualität und Korrektheit gewähr
 [STH4. Betroffener](./Zielgruppen/Stakeholder#betroffener-sth4)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
-
 - Es werden Daten über den Betroffenen von Datennutzern gespeichert.
 
 #### Ablauf
@@ -312,7 +261,6 @@ Der Betroffene berichtigt Daten, damit deren Aktualität und Korrektheit gewähr
 6. Das Datenschutz-Cockpit führt die Änderung durch.
 
 #### Nachbedingungen
-
 - Die geänderten Daten sind umgehend in jeder relevanten Ansicht sichtbar.
 
 #### Anmerkungen
@@ -320,27 +268,20 @@ Der Betroffene berichtigt Daten, damit deren Aktualität und Korrektheit gewähr
 Dieser Anwendungsfall ist Teil des Rechts auf Berichtigung (DSGVO Art. 16).
 
 #### Alternativen
-
 - Der Betroffene kann die Berichtigung der Daten beantragen, falls er sie nicht direkt selbst ändern kann (AF3)
-
 - Schlägt eine Validierung fehl (z. B. aufgrund falscher Daten), wird der Nutzer gebeten korrekte Daten einzugeben.
-
 - Kann eine Validierung nicht durchgeführt werden (z. B. da ein Dienst nicht erreichbar ist), wird der Anwendungsfall abgebrochen ODER der Nutzer muss stattdessen AF3 durchführen.
-
 - Ist die Änderung nicht erfolgreich (z. B., weil ein Dienst sie ablehnt oder aus technischen Gründen), muss der Betroffene darauf hingewiesen werden.
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Der Nutzer ändert Daten in seinem Konto (z. B. E-Mail-Adresse).
 
 SLR:
-
 - Der Nutzer ändert Daten in seinem Konto (z. B. E-Mail-Adresse).
 
 HKBS:
-
 - Um Missbrauch vorzubeugen, können die Betroffenen ihre Daten (z. B. E-Mail-Adresse, Postanschrift) im Datenschutz-Cockpit nicht selbst ändern. Sie können einen entsprechenden Änderungsvorschlag hinterlegen, inkl. Rückfrage/Kommentar-Funktion.
 
 #### Phase
@@ -355,11 +296,8 @@ Der Betroffene stößt die Berichtigung seiner Daten an, damit deren Aktualität
 [STH4. Betroffener](./Zielgruppen/Stakeholder#betroffener-sth4)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
-
 - Es werden Daten über den Betroffenen von Datennutzern gespeichert.
-
 - Betroffener kann das Datum nicht selbst ändern (AF6).
 
 #### Ablauf
@@ -375,7 +313,6 @@ Der Betroffene stößt die Berichtigung seiner Daten an, damit deren Aktualität
     b. sendet dem/den Datennutzern den Änderungsantrag.
 
 #### Nachbedingungen
-
 - Der Berichtigungsantrag wurde gestellt und liegt dem Verantwortlichen zur Bearbeitung vor (siehe AF23).
 
 #### Anmerkungen
@@ -385,29 +322,21 @@ Dieser Anwendungsfall ist Teil des Rechts auf Berichtigung (DSGVO Art. 16).
 Verantwortliche können die Plattform, aber auch Güteranbieter und Güterkonsumenten sein.
 
 #### Alternativen
-
 - Der Nutzer kann Daten direkt ändern (AF6).
-
 - Schlägt eine Validierung fehl (z. B. aufgrund falscher Daten), wird der Nutzer gebeten korrekte Daten einzugeben.
-
 - Kann eine Validierung nicht durchgeführt werden (z. B. da ein Dienst nicht erreichbar ist), wird der Anwendungsfall abgebrochen ODER der Nutzer muss stattdessen AF7 durchführen.
-
 - Ist die Änderung nicht erfolgreich (z. B. weil ein Dienst sie ablehnt oder aus technischen Gründen) muss der Nutzer darauf hingewiesen werden.
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Bei Airbnb können alle Daten im Konto geändert werden. Ein Berichtigungsantrag ist also nicht notwendig.
 
 SLR:
-
 - Bei manchen Lösungen könnte die E-Mail-Adresse des Betroffenen ein eigentlich unveränderlicher Identifikator sein.
-
 - Ändert der Nutzer seine E-Mail-Adresse, kann dies dazu führen, dass ein manueller Prozess bei solchen Lösungen angestoßen wird.
 
 HKBS:
-
 - Um Missbrauch vorzubeugen, können die Betroffenen ihre Daten (z. B. E-Mail-Adresse, Postanschrift) im Datenschutz-Cockpit nicht selbst ändern. Sie können einen entsprechenden Änderungsvorschlag hinterlegen, inkl. Rückfrage/Kommentar-Funktion.
 
 #### Phase
@@ -422,7 +351,6 @@ Der Betroffene sieht die Datenübersicht an, damit er weiß, welche Daten von ih
 [STH4. Betroffener](./Zielgruppen/Stakeholder#betroffener-sth4)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
 
 #### Ablauf
@@ -430,29 +358,22 @@ Der Betroffene sieht die Datenübersicht an, damit er weiß, welche Daten von ih
 2. Das Datenschutz-Cockpit zeigt die Kategorien von Daten an, die auf der Plattform und bei den Datennutzern verarbeitet werden.
 
 #### Nachbedingungen
-
 - keine
 
 #### Alternativen
-
 - Bei auf der Plattform gespeicherten Daten kann der Betroffene sich zusätzlich zu den Kategorien die Daten selbst ansehen (AF18) und ggf. direkt bearbeiten (AF2).
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Unter "Konto" kann sich der Betroffene seine Daten, gegliedert nach Kategorien bzw. Funktionen ansehen.
-
 - Zusätzlich könnte unter dem Punkt "Datenschutz" eine Übersicht über alle Kategorien zentral einsehbar sein.
 
 SLR:
-
 - Daten können unter dem "HuhuKonto" unter "Profil" / "Organisationen" eingesehen werden.
 
 HKBS:
-
 - Unter "Daten bearbeiten" können Betroffene ein PDF generieren (Button "Daten exportieren"), das alle aktuellen personenbezogenen Daten (Adressdaten usw.) sowie Informationen zu erteilten und nicht erteilten Einwilligungen enthält.
-
 - In den Rubriken "Datenkategorien" und "Dienste und Zwecke" können Betroffene einsehen, welche Daten die HKBS generell verarbeitet.
 
 #### Phase
@@ -467,7 +388,6 @@ Der Betroffene stößt den Export seiner personenbezogenen Daten an, damit er di
 [STH4. Betroffener](./Zielgruppen/Stakeholder#betroffener-sth4)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
 
 #### Ablauf
@@ -484,7 +404,6 @@ Der Betroffene stößt den Export seiner personenbezogenen Daten an, damit er di
 5. Der Betroffene klickt auf den "Download"-Button, um den Export herunterzuladen.
 
 #### Nachbedingungen
-
 - Der Betroffene hat seine Daten erhalten.
 
 #### Anmerkungen
@@ -508,23 +427,16 @@ Sollte der Download nicht direkt möglich sein, da die Zusammenstellung der Date
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Der Betroffene kann unter "Konto" -> "Datenschutz und Freigabe" seine persönlichen Daten anfordern.
-
 - Der Betroffene wählt den Zweck der Anfrage aus. Dies dient vermutlich dazu, das Format zu bestimmen.
 
 SLR:
-
 - Der Betroffene kann unter "MeinKonto" seine persönlichen Daten anfordern.
-
 - Die Huhu-Plattform stellt im Namen des Betroffenen einen Antrag an alle seine Lösungen.
-
 - Alternative 1: Die Plattform "sammelt" die Exporte und stellt sie dem Nutzer zentral zum Download zur Verfügung. Vorteil: Usability. Nachteil: Die Plattform hat dann Zugriff auf Daten, die ursprünglich nicht auf der Plattform verortet waren.
-
 - Alternative 2: Die Lösungen stellen dem Nutzer direkt die Exporte zur Verfügung. Vorteil: Vertraulichkeit; Nachteil: eingeschränkte Usability.
 
 HKBS:
-
 - Unter "Daten bearbeiten" können Betroffene ein PDF generieren (Button "Daten exportieren"), das alle aktuellen personenbezogenen Daten (Adressdaten usw.) sowie Informationen zu erteilten und nicht erteilten Einwilligungen enthält.
 
 #### Phase
@@ -539,7 +451,6 @@ Der Betroffener sieht die Datenschutzerklärung eines Datennutzers ein, damit er
 [STH4. Betroffener](./Zielgruppen/Stakeholder#betroffener-sth4)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
 
 #### Ablauf
@@ -549,39 +460,27 @@ Der Betroffener sieht die Datenschutzerklärung eines Datennutzers ein, damit er
 4. Das Datenschutz-Cockpit zeigt die entsprechende Datenschutzerklärung an.
 
 #### Nachbedingungen
-
 - Die ausgewählte Datenschutzerklärung wird angezeigt.
 
 #### Alternativen
-
 - Der Betroffene sieht sich die Datenschutzerklärung direkt auf der Website des Datennutzers an.
-
 - Es gibt eine Übersicht über alle Datennutzer und Datenschutzerklärungen als zentralen Einstiegspunkt.
-
 - Das Datenschutz-Cockpit bietet die Option, vergangene Datenschutzerklärungen des Güteranbieters anzuzeigen (Historie) und diese miteinander zu vergleichen.
-
 - Je nach Ökosystem und Gut können auch einzelne Datennutzer unterschiedliche Datenschutzerklärungen haben, z. B. zur Erbringung individueller Dienstleistungen. In diesem Fall bietet das Datenschutz-Cockpit die Option sich diese ebenfalls anzeigen zu lassen.
-
 - Es gibt nur eine zentrale Datenschutzerklärung, die einzelnen Teilnehmer haben keine eigene Datenschutzerklärung (z. B. im C2C-Fall).
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Die Gastgeber stellen keine individuelle Datenschutzerklärung bereit.
-
 - In der allgemeinen Datenschutzerklärung ist geregelt, welche Daten der Gastgeber von den Gästen bekommt und umgekehrt.
 
 SLR:
-
 - Die Dienst-Anbieter stellen eigene Datenschutzerklärungen/-informationen über die Huhu-Plattform bereit.
-
 - Die Dienst-Nutzer können diese über die Huhu-Plattform einsehen.
 
 HKBS:
-
 - Die wichtigsten Informationen sind in den Rubriken "Datenschutz bei HKBS", "Datenkategorien" und "Dienste und Zwecke" aufbereitet.
-
 - Die allgemeine Datenschutzerklärung der HKBS-Website ist in der Fußzeile des Datenschutz-Cockpits verlinkt.
 
 #### Phase
@@ -596,7 +495,6 @@ Der Betroffene verschafft sich eine Übersicht über die Datenbedarfe eines Date
 [STH4. Betroffener](./Zielgruppen/Stakeholder#betroffener-sth4)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
 
 #### Ablauf
@@ -606,7 +504,6 @@ Der Betroffene verschafft sich eine Übersicht über die Datenbedarfe eines Date
 4. Das Datenschutz-Cockpit zeigt die Datenbedarfe des Datennutzers an.
 
 #### Nachbedingungen
-
 - Der Betroffene hat einen Überblick über die Datenbedarfe der Datennutzer bzw. Güteranbieter.
 
 #### Anmerkungen
@@ -614,21 +511,17 @@ Der Betroffene verschafft sich eine Übersicht über die Datenbedarfe eines Date
 In diesem AF geht es darum, sich über Datenbedarfe zu informieren, bevor man sich für einen Güteranbeiter (bzw. Datennutzer) entscheidet – also bevor man Berechtigungen vergibt. Im Gegensatz hierzu geht es in AF29 darum, sich über die bereits erteilten Berechtigungen zu informieren – also nachdem man die Berechtigungen vergeben hat.
 
 #### Alternativen
-
 - Das Datenschutz-Cockpit zeigt eine vollständige "Kreuzmatrix" (Bedarfe x Datennutzer) an.
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Vor der Buchung einer Unterkunft wird dem Betroffenen dargestellt, auf welche Daten der Anbieter Zugriff bekommt.
 
 SLR:
-
 - Die Huhu-Plattform zeigt vor der Buchung einer Lösung an, welche Berechtigungen diese Lösung benötigt.
 
 App-Store:
-
 - Bevor eine App aus dem App-Store (z. B. Play Store, Apple App Store) installiert wird, muss der Nutzer die Berechtigungen akzeptieren.
 
 #### Phase
@@ -643,7 +536,6 @@ Der Betroffene verschafft sich einen Überblick über die Datennutzungsregelunge
 [STH4. Betroffener](./Zielgruppen/Stakeholder#betroffener-sth4)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
 
 #### Ablauf
@@ -653,7 +545,6 @@ Der Betroffene verschafft sich einen Überblick über die Datennutzungsregelunge
 4. Das Datenschutz-Cockpit zeigt die entsprechenden Datennutzungsregelungen an.
 
 #### Nachbedingungen
-
 - Der Betroffene bzw. Güterkonsument hat einen Überblick über seine erteilten Berechtigungen.
 
 #### Anmerkungen
@@ -661,17 +552,14 @@ Der Betroffene verschafft sich einen Überblick über die Datennutzungsregelunge
 "Datennutzer" ist hier, je nach Ökosystem, organisatorisch (Personen, Unternehmen) oder technisch (Anwendungen) zu verstehen. Der Bereich "Meine Datennutzer" sollte entsprechend je nach Ökosystem konkretisiert werden, z. B. zu "Meine Reisen" (Airbnb) oder "Meine Lösungen" (SLR).
 
 #### Alternativen
-
 - Das Datenschutz-Cockpit zeigt eine vollständige "Kreuzmatrix" (Berechtigungen x Datennutzer) an.
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Der Reisende sieht unter "Deine Reisen" die jeweiligen Datennutzungsregelungen für seine Buchungen.
 
 SLR:
-
 - Der Bürger sieht unter "Lösungen verwalten" die Datennutzungsregelungen aller gebuchten Lösungen.
 
 #### Phase
@@ -686,7 +574,6 @@ Der Betroffene verschafft sich einen Überblick über die Datenflüsse im digita
 [STH4. Betroffener](./Zielgruppen/Stakeholder#betroffener-sth4)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
 
 #### Ablauf
@@ -708,35 +595,25 @@ Der Betroffene verschafft sich einen Überblick über die Datenflüsse im digita
     c. Welche Daten wurden an einen bestimmten Datennutzer übertragen (Meine Datennutzer)?
 
 #### Nachbedingungen
-
 - Der Betroffene erhält ein "Protokoll" basierend auf seiner Anfrage.
 
 #### Alternativen
-
 - Der Betroffene stellt eine Datenauskunft bei bestimmten Datennutzern (Teil von AF22).
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Der Reisende wählt eine Buchung aus "Deine Reisen" aus und erhält die Liste an Zugriffen bzw. Weitergaben von Daten an Anbieter im Zusammenhang mit der Buchung.
-
 - Der Reisende wählt unter "Konto" eine Datenkategorie aus und erhält die Liste an Zugriffen bzw. Weitergaben dieser Datenkategorie an Anbieter.
-
 - Eigene Funktion "Activity Log".
 
 SLR:
-
 - Der Bürger wählt eine seiner gebuchten Lösungen aus und erhält die Liste an Zugriffen bzw. Weitergaben von Daten an diese Lösung.
-
 - Der Bürger wählt unter "HuhuKonto" eine Datenkategorie aus und erhält die Liste an Zugriffen bzw. Weitergaben dieser Datenkategorie an die Lösungen.
-
 - Eigene Funktion "Activity Log".
 
 HKBS:
-
 - In der Übersicht "Datenkategorien" ist pro Datenkategorie jeweils der "Empfänger" genannt.
-
 - Unter "Verträge mit Dritten" können Betroffene einsehen, mit welchen Dritten es Auftragsverarbeitungsverträge es gibt.
 
 #### Phase
@@ -751,9 +628,7 @@ Der Betroffene erteilt eine Datennutzungsregelung, damit er seine Selbstbestimmu
 [STH4. Betroffener](./Zielgruppen/Stakeholder#betroffener-sth4)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
-
 - Der Betroffene nutzt bereits ein Gut oder der Betroffene beantragt gerade die Nutzung.
 
 #### Ablauf
@@ -762,13 +637,9 @@ Der Betroffene erteilt eine Datennutzungsregelung, damit er seine Selbstbestimmu
 3. Das Datenschutz-Cockpit überführt die Datennutzungsregelung in technische Berechtigungen zum Datenzugriff über die Plattform oder informiert den Datennutzer über die Datennutzungsregelungen (je nach Ökosystem).
 
 #### Nachbedingungen
-
 - Der Datennutzer ist über die Datennutzungsregelung informiert.
-
 - Es sind technische Berechtigungen entsprechend den Datennutzungsregelungen umgesetzt.
-
 - Der Datennutzer kann die Daten entsprechend den Datennutzungsregelungen nutzen (oder eben nicht).
-
 - Eine Datennutzungsregelung kann auch aussagen, dass eine Nutzung nicht gestattet ist.
 
 #### Anmerkungen
@@ -777,23 +648,17 @@ Datennutzungsregelungen können vergleichsweise einfach (z. B. eine reine Ja/Nei
 Einwilligungen nach DSGVO oder TTDSG sind ein Spezialfall von Datennutzungsregelungen.
 
 #### Alternativen
-
 - Manche der vom Datennutzer gewünschten Daten sind für die Erbringung des Guts essenziell. Ein Verweigern der Nutzung führt dazu, dass das Gut nicht verwendet werden kann.
-
 - Das Datenschutz-Cockpit erstellt einen Vorschlag für Datennutzungsregelungen basierend auf den Datenschutzpräferenzen des Betroffenen (Datenschutzassistent).
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Wenn ein Nutzer eine Wohnung bucht, kann er entscheiden, welche Daten er dem Vermieter freigibt.
-
 - Manche Datenkategorien sind dafür essenziell, wie z. B. der Name und die Telefonnummer des Betroffenen. Andere, wie z. B. das Profilbild des Nutzers, könnten aber optional sein.
 
 SLR:
-
 - Wenn der Nutzer eine Lösung bucht, zeigt die Huhu-Plattform ihm die Datenkategorien an, auf die die Lösung gerne Zugriff hätte.
-
 - Manche Datenkategorien sind für die Lösungen essenziell, wie z. B. die E-Mail-Adresse und die Heimatgemeinde zur Zuordnung und Abrechnung mit der Gemeinde. Andere, wie z. B. das Profilbild des Nutzers, könnten aber optional sein.
 
 #### Phase
@@ -808,11 +673,8 @@ Der Betroffene bearbeitet eine erteilte Datennutzungsregelung, damit er sein Rec
 [STH4. Betroffener](./Zielgruppen/Stakeholder#betroffener-sth4)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
-
 - Der Nutzer hat mindestens eine Datennutzungsregelung erteilt (AF34).
-
 - Der Nutzer sieht eine Übersicht über die von ihm erteilten Datennutzungsregelungen (AF29)
 
 #### Ablauf
@@ -824,11 +686,8 @@ Der Betroffene bearbeitet eine erteilte Datennutzungsregelung, damit er sein Rec
 6. Das Datenschutz-Cockpit aktualisiert die Berechtigungen zum Datenzugriff gemäß der neuen Datennutzungsregelung oder informiert den Datennutzer über die neue Datennutzungsregelung (je nach Ökosystem).
 
 #### Nachbedingungen
-
 - Der Datennutzer ist über die neue Datennutzungsregelung informiert.
-
 - Technische Berechtigungen wurden entsprechend den neuen Datennutzungsregelungen aktualisiert.
-
 - Der Datennutzer kann die Daten entsprechend den Datennutzungsregelungen nutzen (oder eben nicht mehr).
 
 #### Anmerkungen
@@ -836,17 +695,14 @@ Der Betroffene bearbeitet eine erteilte Datennutzungsregelung, damit er sein Rec
 Handelt es sich bei den Datennutzungsregelungen um Einwilligungen gemäß DSGVO hat der Nutzer das Recht diese zu widerrufen. Bei anderen Arten von Datennutzungsregelungen besteht dieses Recht ggf. nicht.
 
 #### Alternativen
-
 - Das Zurückziehen einer Einwilligung kann mit der Löschung der Daten verknüpft werden (AF 61).
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Der Nutzer entschließt sich nachträglich einem Vermieter den Zugriff auf gewisse Daten, z. B. sein Profilbild, zu verbieten.
 
 SLR:
-
 - Der Nutzer entschließt sich nachträglich einer gebuchten Lösung den Zugriff auf gewisse Daten, z. B. sein Profilbild, zu verbieten.
 
 #### Phase
@@ -861,9 +717,7 @@ Der Betroffene stellt den Daten-Archivierungszeitraum für eine Datenkategorie e
 [STH4. Betroffener](./Zielgruppen/Stakeholder#betroffener-sth4)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
-
 - Der Nutzer hat die Rolle "Betroffener".
 
 #### Ablauf
@@ -878,9 +732,7 @@ Der Betroffene stellt den Daten-Archivierungszeitraum für eine Datenkategorie e
 5. Der Cockpit-Nutzer bestätigt die Selektion.
 
 #### Nachbedingungen
-
 - Der Archivierungszeitraum für die ausgewählte Datenkategorie ist gespeichert.
-
 - Daten der gewählten Kategorie werden sofort gelöscht, falls sie älter als der eingestellte Zeitraum sind.
 
 #### Anmerkungen
@@ -890,11 +742,9 @@ Der Defaultwert könnte "Unendlich" sein (falls keine gesetzliche Vorgabe existi
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Unter "Datenschutz und Freigabe" könnten Daten-Archivierungszeiträume eingestellt werden (z. B. für Chat- oder Suchverläufe).
 
 SLR:
-
 - Daten-Archivierungszeiträume können unter dem "HuhuKonto" unter "Profil" angepasst werden.
 
 #### Phase
@@ -909,11 +759,8 @@ Der Betroffener stellt eine Anfrage für eine Aufklärung eines möglichen Daten
 [STH4. Betroffener](./Zielgruppen/Stakeholder#betroffener-sth4)
 
 #### Vorbedingung
-
 - Der Betroffene vermutet, dass seine Daten unberechtigt verwendet wurden.
-
 - Der Cockpit-Nutzer ist eingeloggt.
-
 - Der Nutzer hat die Rolle "Betroffener".
 
 #### Ablauf
@@ -925,9 +772,7 @@ Der Betroffener stellt eine Anfrage für eine Aufklärung eines möglichen Daten
 6. Das Datenschutz-Cockpit erzeugt eine Anfrage mit Status "offen" für den Datenschutzbeauftragten der Plattform / des Ökosystems.
 
 #### Nachbedingungen
-
 - Die Anfrage ist gestellt und an den Datenschutzbeauftragten der Plattform weitergeleitet. Dieser kümmert sich um die Aufklärung (AF57).
-
 - Der Betroffene erhält eine Bestätigung seiner Anfrage.
 
 #### Anmerkungen
@@ -937,11 +782,9 @@ Ggf. kann man das betroffene Datum konkret auswählbar machen (anstatt es nur be
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Der Reisende wählt im Hilfe-Bereich die entsprechende Funktion aus. Dort kann er beschreiben, mit welchem Anbieter welches Problem besteht.
 
 SLR:
-
 - Der Bürger wählt im Hilfe-Bereich die entsprechende Funktion aus. Dort kann er beschreiben, mit welchem Lösungsanbieter welches Problem besteht.
 
 #### Phase
@@ -956,11 +799,8 @@ Der Betroffene löscht ein Datum, damit er seine Selbstbestimmung wahrnehmen kan
 [STH4. Betroffener](./Zielgruppen/Stakeholder#betroffener-sth4)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
-
 - Der Cockpit-Nutzer hat die Rolle "Betroffener".
-
 - Es werden Daten über den Betroffenen von Datennutzern gespeichert.
 
 #### Ablauf
@@ -970,7 +810,6 @@ Der Betroffene löscht ein Datum, damit er seine Selbstbestimmung wahrnehmen kan
 4. Das Datenschutz-Cockpit führt die Löschung durch.
 
 #### Nachbedingungen
-
 - Nach der Löschung ist das Datum aus jeder Ansicht entfernt und nicht mehr einsehbar.
 
 #### Anmerkungen
@@ -978,23 +817,18 @@ Der Betroffene löscht ein Datum, damit er seine Selbstbestimmung wahrnehmen kan
 Dieser Anwendungsfall ist Teil des Rechts auf Löschung (DSGVO Art. 17).
 
 #### Alternativen
-
 - Der Betroffene kann die Löschung der Daten beantragen, falls er sie nicht direkt selbst löschen kann (AF61).
-
 - Ist die Löschung nicht erfolgreich (z. B., weil ein Dienst sie ablehnt, oder aus technischen Gründen) muss der Betroffene darauf hingewiesen werden.
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Der Nutzer löscht Daten in seinem Konto (z. B. Kontonummer).
 
 SLR:
-
 - Der Nutzer löscht Daten in seinem Konto.
 
 HKBS:
-
 - Um Missbrauch vorzubeugen, können die Betroffenen ihre Daten (z. B. E-Mail-Adresse, Postanschrift) im Datenschutz-Cockpit nicht selbst löschen. Sie können einen entsprechenden Änderungsvorschlag (in diesem Fall Löschvorschlag) hinterlegen, inkl. Rückfrage/Kommentar-Funktion.
 
 #### Phase
@@ -1009,11 +843,8 @@ Der Betroffene stößt die Löschung seiner Daten an, damit er seine Selbstbesti
 [STH4. Betroffener](./Zielgruppen/Stakeholder#betroffener-sth4)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
-
 - Der Cockpit-Nutzer hat die Rolle "Betroffener".
-
 - Es werden Daten über den Betroffenen von Datennutzern gespeichert.
 
 #### Ablauf
@@ -1024,7 +855,6 @@ Der Betroffene stößt die Löschung seiner Daten an, damit er seine Selbstbesti
 5. Das Datenschutz-Cockpit informiert den Betroffenen nach Abschluss über die Löschung.
 
 #### Nachbedingungen
-
 - Der Löschantrag wurde gestellt und liegt dem Verantwortlichen zur Bearbeitung vor (siehe AF9).
 
 #### Anmerkungen
@@ -1032,25 +862,19 @@ Der Betroffene stößt die Löschung seiner Daten an, damit er seine Selbstbesti
 Dieser Anwendungsfall ist Teil des Rechts auf Löschung (DSGVO Art. 17).
 
 #### Alternativen
-
 - Bei Daten, die auf der Plattform gespeichert sind, können statt Kategorien auch direkt Daten selbst zur Löschung angezeigt werden.
-
 - Sollten sich Daten während des Prozesses als "nicht löschbar" herausstellen, wird der Nutzer hierüber informiert.
-
 - Alternative (Daten löschen) ist in AF60 beschrieben.
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Unter "Reisen" könnte der Reisende Reisen selektieren, die er löschen möchte.
 
 SLR:
-
 - Nutzungsdaten (z. B., welche App ich wann gebucht habe) können selektiert und gelöscht werden.
 
 HKBS:
-
 - Um Missbrauch vorzubeugen, können die Betroffenen ihre Daten (z. B. E-Mail-Adresse, Postanschrift) im Datenschutz-Cockpit nicht selbst löschen. Sie können einen entsprechenden Änderungsvorschlag (in diesem Fall Löschvorschlag) hinterlegen, inkl. Rückfrage/Kommentar-Funktion.
 
 #### Phase
@@ -1065,11 +889,8 @@ Der Betroffene nimmt initiale Datenschutzpräferenzen vor, damit er später bei 
 [STH4. Betroffener](./Zielgruppen/Stakeholder#betroffener-sth4)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
-
 - Der Cockpit-Nutzer hat die Rolle "Betroffener".
-
 - Es liegen noch keine initialen Datenschutzpräferenzen vor.
 
 #### Ablauf
@@ -1088,7 +909,6 @@ Der Betroffene nimmt initiale Datenschutzpräferenzen vor, damit er später bei 
     b. speichert die Datenschutzpräferenzen.
 
 #### Nachbedingungen
-
 - Die initialen Datenschutzpräferenzen sind gespeichert.
 
 #### Anmerkungen
@@ -1098,35 +918,24 @@ Unter Datenschutzpräferenzen verstehen wir allgemeine Sichtweisen ("Attitudes")
 #### Alternativen
 
 Schritt 5: Bei der Überprüfung stellt das Datenschutz-Cockpit fest, dass die Datenschutzpräferenzen mit mindestens einer vorliegenden Einwilligung in Widerspruch stehen:
-
 - 5.1.1 Das Datenschutz-Cockpit weist auf den Widerspruch hin und ermöglicht es dem Betroffenen, (1) die Datenschutzpräferenzen automatisch oder manuell anzupassen, (2) die widersprüchliche Einwilligungen als Ausnahme hinzuzufügen, (3) die widersprüchliche Einwilligungen zurückzuziehen oder (4) im Einzelfall zu entscheiden.
-
 - 5.1.2 Der Betroffene wählt eine der Lösungen aus und macht ggf. Anpassungen.
-
 - Weiter mit Schritt 5 (wiederholte Überprüfung).
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Erstmalige Ausführung des Wizards nach Registrierung auf der Plattform.
-
 - Danach ist der Wizard über das Datenschutz-Cockpit abrufbar.
-
 - Deckt Güteranbieter und Güterkonsument ab.
 
 SLR:
-
 - Vergleichbar wie bei Airbnb für den Güterkonsument.
 
 Beispiele anderer Lösungsmoglichkeiten:
-
 - "Nein, danke"-Button.
-
 - Empfehlungen einer NGO o. Ä. übernehmen.
-
 - Einstellungen aus einem PIMS o. Ä. übernehmen.
-
 - Das Datenschutz-Cockpit erlernt die Datenschutzpräferenzen aus dem Verhalten des Betroffenen.
 
 #### Phase
@@ -1141,11 +950,8 @@ Der Betroffene ändert seine Datenschutzpräferenzen, damit er diese seinen geä
 [STH4. Betroffener](./Zielgruppen/Stakeholder#betroffener-sth4)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
-
 - Der Cockpit-Nutzer hat die Rolle "Betroffener".
-
 - Initiale Einstellungen sind vorgenommen worden (AF63).
 
 #### Ablauf
@@ -1165,13 +971,10 @@ Der Betroffene ändert seine Datenschutzpräferenzen, damit er diese seinen geä
 8. Das Datenschutz-Cockpit speichert die neuen Datenschutzpräferenzen.
 
 #### Nachbedingungen
-
 - Die Datenschutzpräferenzen sind aktualisiert.
 
 #### Alternativen
-
 - Der Betroffene startet AF63 neu.
-
 - Das Datenschutz-Cockpit "lernt" die Präferenzen anhand des Verhaltens oder der Datennutzungsregelungen des Betroffenen und ändert die Präferenzen dadurch selbstständig.
 
 #### Anwendungsbeispiele
@@ -1190,11 +993,8 @@ Der Datennutzer löscht personenbezogene Daten eines Betroffenen, damit er dem R
 [STH3. Datennutzer](./Zielgruppen/Stakeholder#datennutzer-sth3)
 
 #### Vorbedingung
-
 - Eine Löschung von Daten wurde gemäß AF61 angestoßen.
-
 - Der Cockpit-Nutzer ist eingeloggt.
-
 - Der Nutzer hat die Rolle "Datennutzer".
 
 #### Ablauf
@@ -1211,9 +1011,7 @@ Der Datennutzer löscht personenbezogene Daten eines Betroffenen, damit er dem R
 5. Das Datenschutz-Cockpit sendet eine Bestätigung zum Betroffenen.
 
 #### Nachbedingungen
-
 - Die Daten sind gelöscht oder die Begründung, warum dies nicht möglich ist, ist eingetragen.
-
 - Der Betroffene wurde informiert.
 
 #### Anmerkungen
@@ -1225,17 +1023,13 @@ Dieser Anwendungsfall ist Teil des Rechts auf Löschung (DSGVO Art. 17).
 Beispiel: Löschantrag durch Betroffenen für Chat- und Suchverlauf
 
 Airbnb:
-
 - Kein internes Wissen.
 
 SLR:
-
 - Überprüfung auf Rechtsgrundlage für die Löschung.
-
 - Manuelle Löschung von den Daten (Chat- und Suchverlauf), wenn keine rechtlichen Gründe dagegensprechen.
 
 HKBS:
-
 - Im Datenschutz-Cockpit des Admins erscheinen die Vorschläge der Betroffenen auf Berichtigung bzw. Löschung von Daten.
 
 #### Phase
@@ -1250,11 +1044,8 @@ Der Datennutzer berichtigt personenbezogene Daten eines Betroffenen, damit er de
 [STH3. Datennutzer](./Zielgruppen/Stakeholder#datennutzer-sth3)
 
 #### Vorbedingung
-
 - Die Berichtigung von Daten wurde gemäß AF3 angestoßen.
-
 - Der Cockpit-Nutzer ist eingeloggt.
-
 - Der Nutzer hat die Rolle "Datennutzer".
 
 #### Ablauf
@@ -1270,7 +1061,6 @@ Der Datennutzer berichtigt personenbezogene Daten eines Betroffenen, damit er de
     c. markiert die Aufgabe als erledigt.
 
 #### Nachbedingungen
-
 - Die Daten sind geändert oder die Begründung, warum dies nicht möglich ist, ist eingetragen.
 
 #### Anmerkungen
@@ -1284,17 +1074,13 @@ Ein generelles Ändern oder Ablehnen ist nicht immer möglich. Wenn der Betroffe
 Beispiel: Änderung von falsch erfassten Transaktionsdaten
 
 Airbnb:
-
 - Kein internes Wissen.
 
 SLR:
-
 - Manuelle Überprüfung der Korrektheit der Anfrage.
-
 - Manuelle Berichtigung in der entsprechenden Datenbank oder Angabe der Begründung, warum dies nicht geschieht.
 
 HKBS:
-
 - Im Datenschutz-Cockpit des Admins erscheinen die Vorschläge der Betroffenen auf Berichtigung bzw. Löschung von Daten.
 
 #### Phase
@@ -1309,11 +1095,8 @@ Der Datennutzer stellt personenbezogene Daten eines Betroffenen zusammen, damit 
 [STH3. Datennutzer](./Zielgruppen/Stakeholder#datennutzer-sth3)
 
 #### Vorbedingung
-
 - Ein Export von Daten gemäß AF22 wurde angestoßen.
-
 - Der Cockpit-Nutzer ist eingeloggt.
-
 - Der Nutzer hat die Rolle "Datennutzer".
 
 #### Ablauf
@@ -1327,31 +1110,23 @@ Der Datennutzer stellt personenbezogene Daten eines Betroffenen zusammen, damit 
     b. lädt den Export in der Aufgabe hoch und markiert diese dadurch als erledigt.
 
 #### Nachbedingungen
-
 - Die Daten wurden zusammengestellt und dem Betroffenen direkt oder über das Datenschutz-Cockpit verfügbar gemacht.
 
 #### Alternativen
-
 - Der Datennutzer stellt dem Betroffenen die Daten über einen anderen Weg bereit (z. B. Versenden eines Download-Links). In diesem Fall markiert er die Aufgabe als abgeschlossen ohne die Daten über das Datenschutz-Cockpit bereitzustellen.
-
 - Der Datennutzer stellt eine API für einen automatischen Export bereit, sodass der Betroffene diese direkt über die Plattform downloaden kann.
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Es es unklar, ob Airbnb die Anfragen überhaupt an Anbieter weiterleitet.
 
 SLR:
-
 - Der Lösungsanbieter stellt Daten zusammen und versendet direkt einen Link an den Bürger.
-
 - Die Plattform stellt die Daten der Plattform über das Cockpit als Download bereit.
 
 HKBS:
-
 - Da die Betroffenen unter "Daten bearbeiten" selbst ein PDF generieren können (Button "Daten exportieren"), das alle aktuellen personenbezogenen Daten (Adressdaten usw.) sowie Informationen zu erteilten und nicht erteilten Einwilligungen enthält, ist keine Bearbeitung von Exportanträgen im Datenschutz-Cockpit vorgesehen.
-
 - Alternativ können Betroffene die HKBS direkt kontaktieren.
 
 #### Phase
@@ -1366,11 +1141,8 @@ Der Datennutzer meldet eine Verletzung des Schutzes personenbezogener Daten, dam
 [STH3. Datennutzer](./Zielgruppen/Stakeholder#datennutzer-sth3)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
-
 - Der Cockpit-Nutzer hat die Rolle "Datennutzer".
-
 - Eine kürzlich identifizierte Verletzung des Schutzes personenbezogener Daten liegt vor (z. B. auf Basis einer Meldung eines Verdachtsfalls; siehe AF17). Die Meldung einer Verletzung des Schutzes personenbezogener Daten (und somit dieser Anwendungsfall) muss binnen 72 Stunden, nachdem diese dem Datennutzer bekannt wurde, erfolgen.
 
 #### Ablauf
@@ -1384,19 +1156,15 @@ Der Datennutzer meldet eine Verletzung des Schutzes personenbezogener Daten, dam
 4. Das Datenschutz-Cockpit benachrichtigt alle von der Verletzung betroffenen Personen.
 
 #### Nachbedingungen
-
 - Alle betroffenen Personen wurden über die Verletzung des Schutzes personenbezogener Dateninformiert.
-
 - Auch der Betreiber prüft die Verletzung des Schutzes personenbezogener Daten und leitet ggf. Schritte ein.
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Wenn ein Anbieter eine Verletzung des Schutzes personenbezogener Daten bemerkt, muss dieser alle betroffenen Reisenden informieren.
 
 SLR:
-
 - Wenn ein Lösungsanbieter eine Verletzung des Schutzes personenbezogener Daten bemerkt, muss dieser alle betroffenen Bürger informieren.
 
 #### Phase
@@ -1412,9 +1180,7 @@ Der Güteranbieter pflegt seine Anbieterprofildaten (z. B. Adressdaten, AGB) ein
 [STH19. Güteranbieter (zukünftig)](./Zielgruppen/Stakeholder#güteranbieter-zukünftig-sth19)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
-
 - Der Cockpit-Nutzer hat die Rolle "Güteranbieter".
 
 #### Ablauf
@@ -1424,27 +1190,20 @@ Der Güteranbieter pflegt seine Anbieterprofildaten (z. B. Adressdaten, AGB) ein
 4. Das Datenschutz-Cockpit speichert die eingegebenen Daten.
 
 #### Nachbedingungen
-
 - Die angegebenen Profildaten wurden erfasst.
-
 - Gegebenenfalls werden, je nach Daten, verschiedene Prozesse gestartet (z. B. Benachrichtigung der Betroffenen).
 
 #### Alternativen
-
 - Manuelle Aktualisierung durch den Plattformbetreiber.
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Unter "Become-a-host" wird ein Plattform-Nutzer zum Güteranbieter.
-
 - Mithilfe eines Wizards gibt er alle relevanten Daten ein.
 
 SLR:
-
 - Option 1: Der B2B-Güteranbieter pflegt alle Daten denzentral auf einer eigenen Website ein.
-
 - Option 2: Die SLR-Plattform stellt dem B2B-Güteranbieter ein Portal zur Verfügung, in dem er alle relevanten Daten einpflegen kann (ggfs. ebenfalls mit Wizard). Diese könnte er dann auf seiner Seite einbinden (z. B. mithilfe von generiertem HTML-Code oder generiertem Text).
 
 #### Phase
@@ -1459,11 +1218,8 @@ Der Datennutzer pflegt die zur Erbringung eines Guts notwendigen Daten(-kategori
 [STH3. Datennutzer](./Zielgruppen/Stakeholder#datennutzer-sth3)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
-
 - Der Cockpit-Nutzer hat die Rolle "Güteranbieter".
-
 - Der Güteranbieter hat mindestens ein Gut auf der digitalen Plattform angelegt.
 
 #### Ablauf
@@ -1473,7 +1229,6 @@ Der Datennutzer pflegt die zur Erbringung eines Guts notwendigen Daten(-kategori
 4. Das Datenschutz-Cockpit speichert die Auswahl.
 
 #### Nachbedingungen
-
 - Die erforderlichen Daten mit Zweckbindung sind erfasst.
 
 #### Anmerkungen
@@ -1483,15 +1238,11 @@ Dienste sind auch Güter (siehe Glossar).
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Die Plattform legt fest, welche Daten zur Gütervermittlung notwendig sind (standardisiert, da nur eine Kategorie von Gütern angeboten wird).
-
 - Der Güteranbieter kann ggf. Spezifika auswählen (besondere benötigte Dokumente, benötigte Daten für gewisse Zahlungsarten).
 
 SLR:
-
 - Beim Einpflegen eines Guts (d. h. eines Dienstes) gibt der B2B-Güteranbieter bei der Plattform an, welche Daten er zur Nutzung des Guts vom Nutzer eines Gutes (d. h. dem Endnutzer) benötigt.
-
 - Dafür kann er auf vom Plattform-Betreiber festgelegte Datenkategorien zurückgreifen (siehe AF5).
 
 #### Phase
@@ -1506,9 +1257,7 @@ Der Datennutzer stellt eine Datenschutzerklärung bereit, damit er Betroffene ge
 [STH3. Datennutzer](./Zielgruppen/Stakeholder#datennutzer-sth3)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
-
 - Der Cockpit-Nutzer hat die Rolle "Datennutzer".
 
 #### Ablauf
@@ -1518,27 +1267,21 @@ Der Datennutzer stellt eine Datenschutzerklärung bereit, damit er Betroffene ge
 4. Das Datenschutz-Cockpit speichert die neue Datenschutzerklärung und informiert die Betroffenen.
 
 #### Nachbedingungen
-
 - Die Datenschutzerklärung kann von Nutzern eingesehen werden.
 
 #### Alternativen
-
 - Vorhandene Datenschutzerklärungen können aktualisiert werden. Dadurch entsteht eine neue "Version" der Datenschutzerklärung.
-
 - Je nach Domäne kann ein Datennutzer unterschiedliche Datenschutzerklärungen für unterschiedliche Güter bereitstellen.
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Datenschutzerklärungen der Wohnungsanbieter.
 
 SLR:
-
 - Jeder Lösungsanbieter muss mindestens eine Datenschutzerklärung bereitstellen, ggf. für jede Lösung individuell.
 
 HKBS:
-
 - Die wichtigsten Informationen sind in den Rubriken "Datenschutz bei HKBS", "Datenkategorien" und "Dienste und Zwecke" aufbereitet; diese Informationen können vom Admin aktualisiert werden (WYSIWIG-Editor). Die allgemeine Datenschutzerklärung auf der HKBS-Website ist in der Fußzeile des Datenschutz-Cockpits verlinkt.
 
 #### Phase
@@ -1553,9 +1296,7 @@ Der Datennutzer stellt eine Anfrage zur Nutzung von Daten, damit er diese verarb
 [STH3. Datennutzer](./Zielgruppen/Stakeholder#datennutzer-sth3)
 
 #### Vorbedingung
-
 - Der Cockpit-Nutzer ist eingeloggt.
-
 - Der Cockpit-Nutzer hat die Rolle "Datennutzer".
 
 #### Ablauf
@@ -1577,33 +1318,24 @@ Der Datennutzer stellt eine Anfrage zur Nutzung von Daten, damit er diese verarb
 8. Das Datenschutz-Cockpit informiert den Datennutzer über die Entscheidung des Betroffenen.
 
 #### Nachbedingungen
-
 - Der Betroffene hat eine Datennutzungsanfrage erhalten und bearbeitet.
-
 - Eine neue Datennutzungsregelung wurde erstellt. Diese kann auch lauten, dass die Nutzung nicht gestattet wird.
-
 - Der Datennutzer wurde über die Entscheidung informiert und hat entsprechend der Datennutzungsregelung Zugriff auf die Daten.
 
 #### Alternativen
-
 - Der Betroffene kann die Regelung von sich aus treffen, also ohne eine vorherige Anfrage des Datennutzers (AF34)
 
 #### Anwendungsbeispiele
 
 Airbnb:
-
 - Ein Vermieter hätte gerne Zugriff auf die Mobilfunknummer des Reisenden, um ihn im Notfall kontaktieren zu können.
 
 SLR:
-
 - Nach Änderungen am Funktionsumfang einer Lösung benötigt diese Zugriff auf Daten, die sie initial nicht benötigte (z. B. das Profilbild des Betroffenen).
 
 HKBS:
-
 - Datennutzer können in der entsprechenden Rubrik neue Nutzungsanfragen erstellen. Diese Anfragen sind immer an eine bestimmte Person gerichtet.
-
 - Alle Nutzungsanfragen können nachträglich bearbeitet werden (inkl. Statusänderung) oder gelöscht werden.
-
 - Für Betroffene ist der aktuelle Status aller an sie gerichteten Nutzungsanfragen in der entsprechenden Rubrik sowie im "Datenexport" ersichtlich.
 
 #### Phase
