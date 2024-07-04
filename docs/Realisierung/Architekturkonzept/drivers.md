@@ -19,16 +19,16 @@ This section presents DPC's  _key functional requirements (KFR) and the _quality
 
 ### Requests
 
-**KFR.1.** The DPC shall provide one-side participants (e.g., data providers) with the ability to request data-related actions from other participants (e.g., data consumers). 
+- **KFR.1.** The DPC shall provide one-side participants (e.g., data providers) with the ability to request data-related actions from other participants (e.g., data consumers). 
 
 ### Notifications
 
-**KFR.2.** When a request (see KFR.1) is triggered, the DPC shall notify the concerned party. 
-**KFR.3.** When a user acts upon a notification that requires a response, the DSC shall notify the party who triggered the notification.
+- **KFR.2.** When a request (see KFR.1) is triggered, the DPC shall notify the concerned party. 
+- **KFR.3.** When a user acts upon a notification that requires a response, the DSC shall notify the party who triggered the notification.
 
 ### Grants
 
-**KFR.4.** The DPC shall provide data providers with the ability to manage (i.e., view, grant, decline, and revoke) their data-related grants.
+- **KFR.4.** The DPC shall provide data providers with the ability to manage (i.e., view, grant, decline, and revoke) their data-related grants.
 
 ## Quality scenarios
 
