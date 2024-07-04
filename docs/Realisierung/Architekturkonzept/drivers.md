@@ -10,9 +10,11 @@
 
 ## Key functional requirements
 
+
+
 ## Quality scenarios
 
 
 <p align="center">
-    <a href="system-context.md">Previous: 1. Introduction</a>&nbsp; | &nbsp;<a href="decomposition.md">Next: 3. Architecture drivers</a>
+    <a href="system-context.md">Previous: 1. System context and domain model</a>&nbsp; | &nbsp;<a href="decomposition.md">Next: 3. Initial decomposition</a>
 </p>
