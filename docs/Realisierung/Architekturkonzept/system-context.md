@@ -31,7 +31,7 @@ This diagram includes two platform core functions: _provide data asset_ and _get
 
 ![Context delineation](images/diagram_context-delineation.svg)
 
-## Base domain model
+## Domain model
 
 The DPC domain model is organized into four parts: _Participants_, _Grants_, _Notifications_, and _Logs_.
 
