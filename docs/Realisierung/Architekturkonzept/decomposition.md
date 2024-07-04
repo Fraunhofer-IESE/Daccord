@@ -7,6 +7,14 @@
 
 # System decomposition
 
+# Structure
+
+The figure below shows the initial functional decomposition of the DPC.
+
+
+
+# Behavior
+
 <p align="center">
     <a href="system-context.md">Previous: 3. Architecture drivers</a>&nbsp; | &nbsp;<a href="decomposition.md">Next: 5. Quality concepts</a>
 </p>
