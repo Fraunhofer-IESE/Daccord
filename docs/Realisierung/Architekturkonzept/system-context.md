@@ -51,6 +51,17 @@ The DPC domain model is organized into four parts: _Participants_, _Grants_, _No
 
 ![Domain model participants](images/diagram_data-model_participants-grants.svg)
 
+- **Notifications**
+    - **Notification**: A message sent from one ecosystem participant to another. It may be purely informative or may require action from the receiver.
+    - **Notification Type**: The category of the notification (e.g., Information, Request).
+    - **Request**: A specific type of notification that requires action from the receiver. Example: "data access request".
+    - **Request Status**: The current state of the request (e.g., Pending, Replied).
+    - **Request Type**: The category of the request (e.g., Grant, Information, Data deletion, Data modification, Incident report, Contact).
+
+
+![Domain model participants](images/diagram_data-model_participants-grants-notifications.svg)
+
+
 ![Domain model](images/diagram_data-model_clean-and-complete.svg)
 
 <p align="center">
