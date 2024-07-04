@@ -153,7 +153,7 @@ Der Betreiber prüft einen Verdachtsfall eines Betroffenen, damit Datenschutzvor
 [STH5. Betreiber](./Zielgruppen/Stakeholder#betreiber-sth5)
 
 #### Vorbedingung
-- Ein Betroffener hat einen Verdachtsfall gemeldet (AF43).
+- Ein Betroffener hat einen Verdachtsfall gemeldet (AF17).
 - Der Cockpit-Nutzer ist eingeloggt.
 - Der Cockpit-Nutzer hat die Rolle "Betreiber".
 
@@ -165,7 +165,7 @@ Der Betreiber prüft einen Verdachtsfall eines Betroffenen, damit Datenschutzvor
 
     a. prüft den Verdachtsfall und klärt ihn ggf. mit dem Betroffenen ab;
 
-    b. meldet ggf. einen Datenschutzvorfall (siehe AF25) oder stimmt mit dem Betroffenen ab, dass er dies macht;
+    b. meldet ggf. einen Datenschutzvorfall (siehe AF53) oder stimmt mit dem Betroffenen ab, dass er dies macht;
 
     c. dokumentiert das Ergebnis der Prüfung im Datenschutz-Cockpit.
 5. Das Datenschutz-Cockpit informiert den Betroffenen, der den Verdachtsfall gemeldet hat, über das Ergebnis.
@@ -173,7 +173,7 @@ Der Betreiber prüft einen Verdachtsfall eines Betroffenen, damit Datenschutzvor
 #### Nachbedingungen
 - Der Verdachtsfall ist beantwortet.
 - Systemkorrekturen sind ggf. eingeleitet.
-- Datenschutzvorfälle sind ggf. gemeldet (AF25).
+- Datenschutzvorfälle sind ggf. gemeldet (AF53).
 
 #### Anwendungsbeispiele
 
@@ -253,7 +253,7 @@ Der Betroffene berichtigt Daten, damit deren Aktualität und Korrektheit gewähr
 - Es werden Daten über den Betroffenen von Datennutzern gespeichert.
 
 #### Ablauf
-1. Der Betroffene stellt fest, dass ein Datum nicht korrekt oder nicht aktuell ist (z. B. AF16).
+1. Der Betroffene stellt fest, dass ein Datum nicht korrekt oder nicht aktuell ist (z. B. AF8).
 2. Das Datenschutz-Cockpit bietet die Möglichkeit zum Ändern.
 3. Der Betroffene gibt den neuen Wert ein.
 4. Das Datenschutz-Cockpit / die Plattform validiert den neuen Wert und bittet den Betroffenen um eine Bestätigung.
@@ -268,9 +268,9 @@ Der Betroffene berichtigt Daten, damit deren Aktualität und Korrektheit gewähr
 Dieser Anwendungsfall ist Teil des Rechts auf Berichtigung (DSGVO Art. 16).
 
 #### Alternativen
-- Der Betroffene kann die Berichtigung der Daten beantragen, falls er sie nicht direkt selbst ändern kann (AF3)
+- Der Betroffene kann die Berichtigung der Daten beantragen, falls er sie nicht direkt selbst ändern kann (AF7)
 - Schlägt eine Validierung fehl (z. B. aufgrund falscher Daten), wird der Nutzer gebeten korrekte Daten einzugeben.
-- Kann eine Validierung nicht durchgeführt werden (z. B. da ein Dienst nicht erreichbar ist), wird der Anwendungsfall abgebrochen ODER der Nutzer muss stattdessen AF3 durchführen.
+- Kann eine Validierung nicht durchgeführt werden (z. B. da ein Dienst nicht erreichbar ist), wird der Anwendungsfall abgebrochen ODER der Nutzer muss stattdessen AF7 durchführen.
 - Ist die Änderung nicht erfolgreich (z. B., weil ein Dienst sie ablehnt oder aus technischen Gründen), muss der Betroffene darauf hingewiesen werden.
 
 #### Anwendungsbeispiele
@@ -301,7 +301,7 @@ Der Betroffene stößt die Berichtigung seiner Daten an, damit deren Aktualität
 - Betroffener kann das Datum nicht selbst ändern (AF6).
 
 #### Ablauf
-1. Der Nutzer stellt fest, dass ein Datum nicht korrekt oder nicht aktuell ist (z. B. AF8).
+1. Der Nutzer stellt fest, dass ein Datum nicht korrekt oder nicht aktuell ist.
 2. Das Datenschutz-Cockpit bietet die Möglichkeit, eine Änderung der Daten zu beantragen.
 3. Der Betroffene gibt den neuen Wert ein.
 4. Das Datenschutz-Cockpit validiert, falls möglich, den neuen Wert und bittet den Betroffenen um eine Bestätigung.
@@ -354,14 +354,14 @@ Der Betroffene sieht die Datenübersicht an, damit er weiß, welche Daten von ih
 - Der Cockpit-Nutzer ist eingeloggt.
 
 #### Ablauf
-1. Der Betroffene ruft eine Übersicht mit allen Datenkategorien bzw. mit seinen personenbezogenen Daten auf oder gelangt über die Suchfunktion (AF17) zu den Daten.
+1. Der Betroffene ruft eine Übersicht mit allen Datenkategorien bzw. mit seinen personenbezogenen Daten auf oder gelangt über die Suchfunktion zu den Daten.
 2. Das Datenschutz-Cockpit zeigt die Kategorien von Daten an, die auf der Plattform und bei den Datennutzern verarbeitet werden.
 
 #### Nachbedingungen
 - keine
 
 #### Alternativen
-- Bei auf der Plattform gespeicherten Daten kann der Betroffene sich zusätzlich zu den Kategorien die Daten selbst ansehen (AF18) und ggf. direkt bearbeiten (AF2).
+- Bei auf der Plattform gespeicherten Daten kann der Betroffene sich zusätzlich zu den Kategorien die Daten selbst ansehen (AF18) und ggf. direkt bearbeiten.
 
 #### Anwendungsbeispiele
 
@@ -396,7 +396,7 @@ Der Betroffene stößt den Export seiner personenbezogenen Daten an, damit er di
 3. Der Betroffene füllt das Formular aus und drückt auf den "Export"-Button.
 4. Das Datenschutz-Cockpit:
 
-    a. stellt Daten aus der Plattform zusammen (führt zu AF48);
+    a. stellt Daten aus der Plattform zusammen;
 
     b. fragt den Export von Daten bei anderen Datennutzern (z. B. Güteranbieter) an;
 
@@ -508,7 +508,7 @@ Der Betroffene verschafft sich eine Übersicht über die Datenbedarfe eines Date
 
 #### Anmerkungen
 
-In diesem AF geht es darum, sich über Datenbedarfe zu informieren, bevor man sich für einen Güteranbeiter (bzw. Datennutzer) entscheidet – also bevor man Berechtigungen vergibt. Im Gegensatz hierzu geht es in AF29 darum, sich über die bereits erteilten Berechtigungen zu informieren – also nachdem man die Berechtigungen vergeben hat.
+In diesem AF geht es darum, sich über Datenbedarfe zu informieren, bevor man sich für einen Güteranbeiter (bzw. Datennutzer) entscheidet – also bevor man Berechtigungen vergibt. Im Gegensatz hierzu geht es in AF12 darum, sich über die bereits erteilten Berechtigungen zu informieren – also nachdem man die Berechtigungen vergeben hat.
 
 #### Alternativen
 - Das Datenschutz-Cockpit zeigt eine vollständige "Kreuzmatrix" (Bedarfe x Datennutzer) an.
@@ -598,7 +598,7 @@ Der Betroffene verschafft sich einen Überblick über die Datenflüsse im digita
 - Der Betroffene erhält ein "Protokoll" basierend auf seiner Anfrage.
 
 #### Alternativen
-- Der Betroffene stellt eine Datenauskunft bei bestimmten Datennutzern (Teil von AF22).
+- Der Betroffene stellt eine Datenauskunft bei bestimmten Datennutzern.
 
 #### Anwendungsbeispiele
 
@@ -674,8 +674,8 @@ Der Betroffene bearbeitet eine erteilte Datennutzungsregelung, damit er sein Rec
 
 #### Vorbedingung
 - Der Cockpit-Nutzer ist eingeloggt.
-- Der Nutzer hat mindestens eine Datennutzungsregelung erteilt (AF34).
-- Der Nutzer sieht eine Übersicht über die von ihm erteilten Datennutzungsregelungen (AF29)
+- Der Nutzer hat mindestens eine Datennutzungsregelung erteilt.
+- Der Nutzer sieht eine Übersicht über die von ihm erteilten Datennutzungsregelungen.
 
 #### Ablauf
 1. Der Betroffene wählt eine Datennutzungsregelung zur Bearbeitung aus.
@@ -695,7 +695,7 @@ Der Betroffene bearbeitet eine erteilte Datennutzungsregelung, damit er sein Rec
 Handelt es sich bei den Datennutzungsregelungen um Einwilligungen gemäß DSGVO hat der Nutzer das Recht diese zu widerrufen. Bei anderen Arten von Datennutzungsregelungen besteht dieses Recht ggf. nicht.
 
 #### Alternativen
-- Das Zurückziehen einer Einwilligung kann mit der Löschung der Daten verknüpft werden (AF 61).
+- Das Zurückziehen einer Einwilligung kann mit der Löschung der Daten verknüpft werden.
 
 #### Anwendungsbeispiele
 
@@ -772,7 +772,7 @@ Der Betroffener stellt eine Anfrage für eine Aufklärung eines möglichen Daten
 6. Das Datenschutz-Cockpit erzeugt eine Anfrage mit Status "offen" für den Datenschutzbeauftragten der Plattform / des Ökosystems.
 
 #### Nachbedingungen
-- Die Anfrage ist gestellt und an den Datenschutzbeauftragten der Plattform weitergeleitet. Dieser kümmert sich um die Aufklärung (AF57).
+- Die Anfrage ist gestellt und an den Datenschutzbeauftragten der Plattform weitergeleitet. Dieser kümmert sich um die Aufklärung.
 - Der Betroffene erhält eine Bestätigung seiner Anfrage.
 
 #### Anmerkungen
@@ -804,7 +804,7 @@ Der Betroffene löscht ein Datum, damit er seine Selbstbestimmung wahrnehmen kan
 - Es werden Daten über den Betroffenen von Datennutzern gespeichert.
 
 #### Ablauf
-1. Der Betroffene stellt fest, dass er ein Datum löschen will (z. B. AF16).
+1. Der Betroffene stellt fest, dass er ein Datum löschen will.
 2. Das Datenschutz-Cockpit bietet die Möglichkeit zum Löschen.
 3. Der Betroffene bestätigt die gewünschte Löschung.
 4. Das Datenschutz-Cockpit führt die Löschung durch.
@@ -817,7 +817,7 @@ Der Betroffene löscht ein Datum, damit er seine Selbstbestimmung wahrnehmen kan
 Dieser Anwendungsfall ist Teil des Rechts auf Löschung (DSGVO Art. 17).
 
 #### Alternativen
-- Der Betroffene kann die Löschung der Daten beantragen, falls er sie nicht direkt selbst löschen kann (AF61).
+- Der Betroffene kann die Löschung der Daten beantragen, falls er sie nicht direkt selbst löschen kann.
 - Ist die Löschung nicht erfolgreich (z. B., weil ein Dienst sie ablehnt, oder aus technischen Gründen) muss der Betroffene darauf hingewiesen werden.
 
 #### Anwendungsbeispiele
@@ -851,11 +851,11 @@ Der Betroffene stößt die Löschung seiner Daten an, damit er seine Selbstbesti
 1. Der Betroffene ruft die Lösch-Funktion auf.
 2. Das Datenschutz-Cockpit zeigt eine Eingabemaske mit einer Übersicht über Datenkategorien, die der Betroffene zur Löschung auswählen kann. Für spezifische Daten (z. B. eine konkrete Adresse) gibt es ein Freitextfeld.
 3. Der Betroffene wählt die Daten aus, die er löschen möchte und klickt auf den "Löschen"-Button.
-4. Das Datenschutz-Cockpit stößt die Löschung der Daten an (führt zu AF22).
+4. Das Datenschutz-Cockpit stößt die Löschung der Daten an.
 5. Das Datenschutz-Cockpit informiert den Betroffenen nach Abschluss über die Löschung.
 
 #### Nachbedingungen
-- Der Löschantrag wurde gestellt und liegt dem Verantwortlichen zur Bearbeitung vor (siehe AF9).
+- Der Löschantrag wurde gestellt und liegt dem Verantwortlichen zur Bearbeitung vor.
 
 #### Anmerkungen
 
@@ -864,7 +864,7 @@ Dieser Anwendungsfall ist Teil des Rechts auf Löschung (DSGVO Art. 17).
 #### Alternativen
 - Bei Daten, die auf der Plattform gespeichert sind, können statt Kategorien auch direkt Daten selbst zur Löschung angezeigt werden.
 - Sollten sich Daten während des Prozesses als "nicht löschbar" herausstellen, wird der Nutzer hierüber informiert.
-- Alternative (Daten löschen) ist in AF60 beschrieben.
+- Daten können direkt gelöscht werden.
 
 #### Anwendungsbeispiele
 
@@ -952,7 +952,7 @@ Der Betroffene ändert seine Datenschutzpräferenzen, damit er diese seinen geä
 #### Vorbedingung
 - Der Cockpit-Nutzer ist eingeloggt.
 - Der Cockpit-Nutzer hat die Rolle "Betroffener".
-- Initiale Einstellungen sind vorgenommen worden (AF63).
+- Initiale Einstellungen sind vorgenommen worden.
 
 #### Ablauf
 1. Der Betroffene öffnet seine Datenschutzpräferenzen.
@@ -965,7 +965,7 @@ Der Betroffene ändert seine Datenschutzpräferenzen, damit er diese seinen geä
 
     a. Er bestätigt die neuen Datenschutzpräferenzen ohne die Datennutzungsregelungen anzupassen, die hierzu im Widerspruch stehen.
 
-    b. Er passt die Datennutzungsregelungen an (vgl. AF37) und bestätigt anschließend die neuen Datenschutzpräferenzen.
+    b. Er passt die Datennutzungsregelungen an und bestätigt anschließend die neuen Datenschutzpräferenzen.
 
     c. Er bricht den Vorgang ab.
 8. Das Datenschutz-Cockpit speichert die neuen Datenschutzpräferenzen.
@@ -974,7 +974,7 @@ Der Betroffene ändert seine Datenschutzpräferenzen, damit er diese seinen geä
 - Die Datenschutzpräferenzen sind aktualisiert.
 
 #### Alternativen
-- Der Betroffene startet AF63 neu.
+- Der Betroffene startet AF20 neu.
 - Das Datenschutz-Cockpit "lernt" die Präferenzen anhand des Verhaltens oder der Datennutzungsregelungen des Betroffenen und ändert die Präferenzen dadurch selbstständig.
 
 #### Anwendungsbeispiele
@@ -993,7 +993,7 @@ Der Datennutzer löscht personenbezogene Daten eines Betroffenen, damit er dem R
 [STH3. Datennutzer](./Zielgruppen/Stakeholder#datennutzer-sth3)
 
 #### Vorbedingung
-- Eine Löschung von Daten wurde gemäß AF61 angestoßen.
+- Eine Löschung von Daten wurde angestoßen.
 - Der Cockpit-Nutzer ist eingeloggt.
 - Der Nutzer hat die Rolle "Datennutzer".
 
@@ -1044,7 +1044,7 @@ Der Datennutzer berichtigt personenbezogene Daten eines Betroffenen, damit er de
 [STH3. Datennutzer](./Zielgruppen/Stakeholder#datennutzer-sth3)
 
 #### Vorbedingung
-- Die Berichtigung von Daten wurde gemäß AF3 angestoßen.
+- Die Berichtigung von Daten wurde angestoßen.
 - Der Cockpit-Nutzer ist eingeloggt.
 - Der Nutzer hat die Rolle "Datennutzer".
 
@@ -1095,7 +1095,7 @@ Der Datennutzer stellt personenbezogene Daten eines Betroffenen zusammen, damit 
 [STH3. Datennutzer](./Zielgruppen/Stakeholder#datennutzer-sth3)
 
 #### Vorbedingung
-- Ein Export von Daten gemäß AF22 wurde angestoßen.
+- Ein Export von Daten wurde angestoßen.
 - Der Cockpit-Nutzer ist eingeloggt.
 - Der Nutzer hat die Rolle "Datennutzer".
 
@@ -1143,7 +1143,7 @@ Der Datennutzer meldet eine Verletzung des Schutzes personenbezogener Daten, dam
 #### Vorbedingung
 - Der Cockpit-Nutzer ist eingeloggt.
 - Der Cockpit-Nutzer hat die Rolle "Datennutzer".
-- Eine kürzlich identifizierte Verletzung des Schutzes personenbezogener Daten liegt vor (z. B. auf Basis einer Meldung eines Verdachtsfalls; siehe AF17). Die Meldung einer Verletzung des Schutzes personenbezogener Daten (und somit dieser Anwendungsfall) muss binnen 72 Stunden, nachdem diese dem Datennutzer bekannt wurde, erfolgen.
+- Eine kürzlich identifizierte Verletzung des Schutzes personenbezogener Daten liegt vor (z. B. auf Basis einer Meldung eines Verdachtsfalls). Die Meldung einer Verletzung des Schutzes personenbezogener Daten (und somit dieser Anwendungsfall) muss binnen 72 Stunden, nachdem diese dem Datennutzer bekannt wurde, erfolgen.
 
 #### Ablauf
 1. Der Datennutzer wählt "Verletzung des Schutzes personenbezogener Daten melden".
@@ -1243,7 +1243,7 @@ Airbnb:
 
 SLR:
 - Beim Einpflegen eines Guts (d. h. eines Dienstes) gibt der B2B-Güteranbieter bei der Plattform an, welche Daten er zur Nutzung des Guts vom Nutzer eines Gutes (d. h. dem Endnutzer) benötigt.
-- Dafür kann er auf vom Plattform-Betreiber festgelegte Datenkategorien zurückgreifen (siehe AF5).
+- Dafür kann er auf vom Plattform-Betreiber festgelegte Datenkategorien zurückgreifen.
 
 #### Phase
 
@@ -1313,8 +1313,8 @@ Der Datennutzer stellt eine Anfrage zur Nutzung von Daten, damit er diese verarb
 
     d. Gültigkeit / Dauer der Datennutzung.
 5. Der Betroffene füllt die Eingabemaske aus und speichert sie.
-6. Das Datenschutz-Cockpit benachrichtigt den Betroffenen und bittet ihn, die Anfrage zu prüfen (AF13).
-7. Der Betroffene prüft die Anfrage und erteilt eine Datennutzungsregelung (AF34).
+6. Das Datenschutz-Cockpit benachrichtigt den Betroffenen und bittet ihn, die Anfrage zu prüfen.
+7. Der Betroffene prüft die Anfrage und erteilt eine Datennutzungsregelung.
 8. Das Datenschutz-Cockpit informiert den Datennutzer über die Entscheidung des Betroffenen.
 
 #### Nachbedingungen
@@ -1323,7 +1323,7 @@ Der Datennutzer stellt eine Anfrage zur Nutzung von Daten, damit er diese verarb
 - Der Datennutzer wurde über die Entscheidung informiert und hat entsprechend der Datennutzungsregelung Zugriff auf die Daten.
 
 #### Alternativen
-- Der Betroffene kann die Regelung von sich aus treffen, also ohne eine vorherige Anfrage des Datennutzers (AF34)
+- Der Betroffene kann die Regelung von sich aus treffen, also ohne eine vorherige Anfrage des Datennutzers
 
 #### Anwendungsbeispiele
 
