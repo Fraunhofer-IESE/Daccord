@@ -60,9 +60,9 @@ HKBS:
 - 3.1 Daten bearbeiten
 - 3.2 Daten lesen
 - 3.3 Daten löschen
-- 4. Berechtigungen
-- 5. Benachrichtungen
-- 6. Vorfälle
+- 4 Berechtigungen
+- 5 Benachrichtungen
+- 6 Vorfälle
 
 ### AF2 - Datenschutz-Cockpit durchsuchen
 
