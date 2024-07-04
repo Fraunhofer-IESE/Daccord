@@ -30,7 +30,15 @@ This section presents DPC's  _key functional requirements (KFR) and the _quality
 
 - **KFR.4.** The DPC shall provide data providers with the ability to manage (i.e., view, grant, decline, and revoke) their data-related grants.
 
-## Quality scenarios
+## Quality requirements
+
+### QR.1: Adaptability
+
+|  | Description | Quantification |
+|----------|----------|----------|
+| Environment   | Existing two-sided platforms intermediate the exchange of data assets between participants. From the data provider side, participants are end users; from the data consumer side, participants are services operated by third-party companies.     | • Number of existing plat-forms > 1 <br/> • Each platform is implemented using a distinct programming language <br/> • Each third-party service is implemented using a distinct programming language     |
+| Stimulus | The operator of an arbitrary existing platform wants to integrate the DPC.     |      |
+| Response    | The DPC is integrated into the platform     | No dev time modifications are required in the DPC     |
 
 ****
 
