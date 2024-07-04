@@ -61,10 +61,10 @@ The DPC domain model is organized into four parts: _Participants_, _Grants_, _No
 ![Domain model participants grants notifications](images/diagram_data-model_participants-grants-notifications.svg)
 
 - **Logs**
-    - **Log**: A record of events, actions, or transactions that occur within the system, typically used for monitoring and auditing purposes.
-    - **Notification Log**: A specific type of log that records all notifications sent and received within the ecosystem, including details such as timestamps and statuses.
-    - **Grant Log**: A specific type of log that records all data grants given and received within the ecosystem, including details such as the data subject, terms, and conditions.
-    - **Log Type**: The category of the log (e.g., System Log, Access Log, Notification Log, Grant Log).
+    - **Log**: A record of events, actions, or transactions that occur within the DPC, typically used for monitoring and auditing purposes.
+    - **Notification Log**: A specific type of log that records all notifications sent and received within the DPC, including notification-specific details.
+    - **Grant Log**: A specific type of log that records all data grants given and received within DPC, including details such as the data subject, terms, and conditions.
+    - **Log Type**: The category of the log (e.g., Info, Warning, etc.).
 
 ![Domain model](images/diagram_data-model_clean-and-complete.svg)
 
