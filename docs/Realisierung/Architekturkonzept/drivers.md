@@ -30,6 +30,11 @@ This section presents DPC's  _key functional requirements (KFR) and the _quality
 
 - **KFR.4.** The DPC shall provide data providers with the ability to manage (i.e., view, grant, decline, and revoke) their data-related grants.
 
+### Logs
+
+- **KFR.5.** The DPC shall log all notifications and grant-related actions that occur in the DPC.
+- **KFR.5.** The DPC shall provide the users with the ability to know that their data has been sent to data consumers via the platform.
+
 ## Quality requirements
 
 ### QR.1: Adaptability
