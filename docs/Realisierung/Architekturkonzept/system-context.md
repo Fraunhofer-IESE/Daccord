@@ -1,7 +1,7 @@
 1. [Introduction](index.md)
 2. System context and domain model
 3. [Architecture drivers](drivers.md)
-4. [Initial decomposition](decomposition.md)
+4. [System decomposition](decomposition.md)
 5. [Quality concepts](quality.md)
 6. [Further notes](conclusion.md)
 
