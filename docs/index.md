@@ -1,8 +1,5 @@
 # Willkommen beim Projekt "D'accord"
 
-<mark>tbd.</mark>
-
-
 ## Motivation
 
 Digitale Plattformen und Ökosysteme werden immer populärer. Durch die COVID-19-Pandemie und die Verlagerung vieler Geschäftsmodelle ins Internet wurde dieser Trend nochmals verstärkt und auch kleinere Unternehmen bieten zunehmend digitale Dienste an. Allerdings ist das Potenzial noch größer, denn viele Unternehmen nehmen Datenschutz heute noch als digitale Innovationsbremse wahr. Es fehlt an Richtlinien, Werkzeugen und Lösungen, um die gesetzlichen Vorgaben, beispielsweise die Datenschutz-Grundverordnung, einfach und wirksam umzusetzen. Erschwerend kommt hinzu, dass die Umsetzung von Datenschutzvorgaben umso komplexer wird, je mehr Unternehmen beteiligt sind und je intensiver sie personenbezogene Daten austauschen. Bei Online-Bestellungen beispielsweise geben Händler die Daten zu den Bestellungen sowie den Kundinnen und Kunden oft an wechselnde Finanz- und Transportdienstleister weiter, die diese Daten ihrerseits an Subunternehmen übermitteln. Hier ist es für die Betroffenen aktuell nahezu unmöglich, sich ein umfassendes Bild über die tatsächliche Verwendung ihrer Daten zu verschaffen. Praxistaugliche Datenschutzkonzepte sind sowohl für Unternehmen als auch Bürgerinnen und Bürger wichtiger denn je.
@@ -28,12 +25,13 @@ Auf dieser Seite führen wir Sie durch die Ergebnisse des Projekts.
 	}
 </style>
 <div class="image">
-	<img src="./assets/images/Übersichtsgrafik.png" style="width: 100%; height:auto;"/>
-	<a href="https://www.daccord-projekt.de/" style="top: 37%; left: 5%; width: 17%; height: 57%;"></a>
-	<a href="" style="top: 6.5%; left: 23%; width: 17%; height: 57%;"></a>
-	<a href="" style="top: 37%; left: 41%; width: 17%; height: 57%;"></a>
-	<a href="" style="top: 6.5%; left: 60%; width: 17%; height: 57%;"></a>
-	<a href="" style="top: 37%; left: 78%; width: 17%; height: 57%;"></a>
+	<img src="./Übersicht_Werkzeugkasten.png" style="width: 100%; height:auto;"/>
+	<a href="Einleitung" style="left: 3.6%; top: 22.29%; width: 16.16%; height: 55%;"></a>
+	<a href="Anforderungen" style="left: 19.75%; top: 22.29%; width: 16.16%; height: 55%;"></a>
+	<a href="Realisierung" style="left: 35.9%; top: 22.29%; width: 16.16%; height: 55%;"></a>
+	<a href="Bewertung" style="left: 52%; top: 22.29%; width: 16.16%; height: 55%;"></a>
+	<a href="Systemeinführung" style="left: 68.22%; top: 22.29%; width: 16.16%; height: 55%;"></a>
+	<a href="Lesestoff" style="left: 84.38%; top: 22.29%; width: 16.16%; height: 55%;"></a>
 </div>
 
 ## **![](./assets/images/bolt.svg) Einleitung:** Worum geht es hier?
