@@ -50,5 +50,5 @@ This section presents DPC's  _key functional requirements_ (KFR) and the _qualit
 ****
 
 <p align="center">
-    <a href="system-context.md">Previous: 1. System context and domain model</a>&nbsp; | &nbsp;<a href="decomposition.md">Next: 3. System decomposition</a>
+    <a href="system-context.md">Previous: 2. System context and domain model</a>&nbsp; | &nbsp;<a href="decomposition.md">Next: 4. System decomposition</a>
 </p>
