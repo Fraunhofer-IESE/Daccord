@@ -40,13 +40,16 @@ The DPC domain model is organized into four parts: _Participants_, _Grants_, _No
     - **Participant:** _An ecosystem participant_. A participant can be a data provider, a data consumer, or the platform operator. 
     - **Data Provider:** Especialization of the entity _Participant_ that represents a _data provider_.
     - **Data Consumer:** Especialization of the entity _Participant_ that represents a _data consumer_.
+ 
+![Domain model participants](images/diagram_data-model_participants.svg)
+
 - **Grants**
     - **Data type:** A description of data items provided by the data provider and of potential interest to data consumers. The platform operator most likely defines which data types are intermediated by the platform; however, depending on the characteristics of the data ecosystem, the definition of the data types may be flexible.
     - **Data usage purpose:** It contains information about what purpose data can be used for. Depending on the characteristics of the data ecosystem, data usage purposes may be either predefined by the platform operator or by other participants, particularly the data consumer. For example, while in some ecosystems, the data usage purpose can be predetermined for each type of data being brokered via the platform, in some other ecosystems, the purpose might be tightly related to the particular use case implemented by the data consumer.
     - **Grant**: A _grant_ is an authorization provided by a data provider allowing a data consumer to collect, process, or share personal data under specific terms and conditions.
     - **Grant status**: The status of a grant. For example, when requested, the grant can be "Pending;" if accepted, it can become "Granted;" if later revoked, "Revoked," etc.
 
-
+![Domain model participants](images/diagram_data-model_participants-grants.svg)
 
 ![Domain model](images/diagram_data-model_clean-and-complete.svg)
 
