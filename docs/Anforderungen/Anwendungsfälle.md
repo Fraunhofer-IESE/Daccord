@@ -4,7 +4,7 @@ Ein Anwendungsfall ist eine Aktivität eines Anwenders, welche das Datenschutz-C
 
 ## Allgemeine Anwendungsfälle
 
-### AF1 - Aufgaben ansehen und bearbeiten
+### Aufgaben ansehen und bearbeiten (AF1)
 
 Der Cockpit-Nutzer verschafft sich einen Überblick über seine aktuellen Aufgaben und Informationen, damit er diese bearbeiten kann.
 
@@ -64,7 +64,7 @@ HKBS:
 - 5 Benachrichtungen
 - 6 Vorfälle
 
-### AF2 - Datenschutz-Cockpit durchsuchen
+### Datenschutz-Cockpit durchsuchen (AF2)
 
 Der Cockpit-Nutzer durchsucht das Datenschutz-Cockpit nach Daten, Funktionen oder Datenschutz-Informationen, damit er diese prüfen oder verwenden kann.
 
@@ -121,7 +121,7 @@ HKBS:
 #### Phase
 
 3.2 - Daten lesen
-### AF3 - Benachrichtigungen konfigurieren
+### Benachrichtigungen konfigurieren (AF3)
 
 Der Cockpit-Nutzer konfiguriert Benachrichtigungen, damit er über genau die Ereignisse informiert wird, die für ihn relevant sind.
 
@@ -171,7 +171,7 @@ SLR:
 
 ## Betreibersicht
 
-### AF4 - Verdachtsfall prüfen
+### Verdachtsfall prüfen (AF4)
 
 Der Betreiber prüft einen Verdachtsfall eines Betroffenen, damit Datenschutzvorfälle erkannt und aufgeklärt werden.
 
@@ -221,7 +221,7 @@ SLR:
 #### Phase
 
 6 - Vorfälle
-### AF5 - Taxonomie definieren
+### Taxonomie definieren (AF5)
 
 Der Betreiber definiert die Taxonomie des Datenschutz-Cockpits, damit Zusammenhänge in der Domäne abgebildet werden können.
 
@@ -289,7 +289,7 @@ Weitere Umsetzungsmöglichkeiten:
 
 ## Betroffenensicht
 
-### AF6 - Daten berichtigen
+### Daten berichtigen (AF6)
 
 Der Betroffene berichtigt Daten, damit deren Aktualität und Korrektheit gewährleistet ist.
 
@@ -346,7 +346,7 @@ HKBS:
 #### Phase
 
 3.1 - Daten bearbeiten
-### AF7 - Berichtigungsantrag stellen
+### Berichtigungsantrag stellen (AF7)
 
 Der Betroffene stößt die Berichtigung seiner Daten an, damit deren Aktualität und Korrektheit gewährleistet ist.
 
@@ -413,7 +413,7 @@ HKBS:
 #### Phase
 
 3.1 - Daten bearbeiten
-### AF8 - Überblick über Daten verschaffen
+### Überblick über Daten verschaffen (AF8)
 
 Der Betroffene sieht die Datenübersicht an, damit er weiß, welche Daten von ihm aktuell gespeichert sind bzw. verarbeitet werden.
 
@@ -458,7 +458,7 @@ HKBS:
 #### Phase
 
 3.2 - Daten lesen
-### AF9 - Daten exportieren
+### Daten exportieren (AF9)
 
 Der Betroffene stößt den Export seiner personenbezogenen Daten an, damit er diese sichern oder übertragen kann.
 
@@ -530,7 +530,7 @@ HKBS:
 #### Phase
 
 3.2 - Daten lesen
-### AF10 - Datenschutzerklärung einsehen
+### Datenschutzerklärung einsehen (AF10)
 
 Der Betroffener sieht die Datenschutzerklärung eines Datennutzers ein, damit er sich über die Verarbeitung seiner Daten informieren kann.
 
@@ -587,7 +587,7 @@ HKBS:
 #### Phase
 
 4 - Berechtigungen
-### AF11 - Überblick über Datenbedarfe verschaffen
+### Überblick über Datenbedarfe verschaffen (AF11)
 
 Der Betroffene verschafft sich eine Übersicht über die Datenbedarfe eines Datennutzers, die für die Bereitstellung eines konkreten Guts notwendig sind, damit er entscheiden kann, ob er das Gut zu diesen Bedingungen konsumieren möchte.
 
@@ -634,7 +634,7 @@ App-Store:
 #### Phase
 
 4 - Berechtigungen
-### AF12 - Überblick über Datennutzungsregelungen verschaffen
+### Überblick über Datennutzungsregelungen verschaffen (AF12)
 
 Der Betroffene verschafft sich einen Überblick über die Datennutzungsregelungen, damit er diese prüfen und ggf. anpassen kann.
 
@@ -677,7 +677,7 @@ SLR:
 #### Phase
 
 4 - Berechtigungen
-### AF13 - Überblick über Datenflüsse verschaffen
+### Überblick über Datenflüsse verschaffen (AF13)
 
 Der Betroffene verschafft sich einen Überblick über die Datenflüsse im digitalen Ökosystem, damit er prüfen kann, wie seine Daten weitergegeben wurden.
 
@@ -742,7 +742,7 @@ HKBS:
 #### Phase
 
 3.2 - Daten lesen
-### AF14 - Datennutzungsregelung einstellen
+### Datennutzungsregelung einstellen (AF14)
 
 Der Betroffene erteilt eine Datennutzungsregelung, damit er seine Selbstbestimmung ausüben kann.
 
@@ -799,7 +799,7 @@ SLR:
 #### Phase
 
 4 - Berechtigungen
-### AF15 - Datennutzungsregelung ändern / widerrufen
+### Datennutzungsregelung ändern / widerrufen (AF15)
 
 Der Betroffene bearbeitet eine erteilte Datennutzungsregelung, damit er sein Recht auf Selbstbestimmung wahrnehmen kann.
 
@@ -852,7 +852,7 @@ SLR:
 #### Phase
 
 4 - Berechtigungen
-### AF16 - Daten-Archivierungszeitraum einstellen
+### Daten-Archivierungszeitraum einstellen (AF16)
 
 Der Betroffene stellt den Daten-Archivierungszeitraum für eine Datenkategorie ein, damit Daten nach einem für ihn angemessenen Zeitraum gelöscht werden.
 
@@ -900,7 +900,7 @@ SLR:
 #### Phase
 
 4 - Berechtigungen
-### AF17 - Verdachtsfall melden
+### Verdachtsfall melden (AF17)
 
 Der Betroffener stellt eine Anfrage für eine Aufklärung eines möglichen Datenschutzproblems (Verdachtsfall), damit er nachvollziehen kann, wie / wofür / wann /... seine Daten verwendet wurden.
 
@@ -947,7 +947,7 @@ SLR:
 #### Phase
 
 6 - Vorfälle
-### AF18 - Daten löschen
+### Daten löschen (AF18)
 
 Der Betroffene löscht ein Datum, damit er seine Selbstbestimmung wahrnehmen kann.
 
@@ -1000,7 +1000,7 @@ HKBS:
 #### Phase
 
 3.3 - Daten löschen
-### AF19 - Löschantrag stellen
+### Löschantrag stellen (AF19)
 
 Der Betroffene stößt die Löschung seiner Daten an, damit er seine Selbstbestimmung wahrnehmen kann.
 
@@ -1056,7 +1056,7 @@ HKBS:
 #### Phase
 
 3.3 - Daten löschen
-### AF20 - Datenschutzpräferenzen initial erfassen
+### Datenschutzpräferenzen initial erfassen (AF20)
 
 Der Betroffene nimmt initiale Datenschutzpräferenzen vor, damit er später bei seinen Datenschutzeinstellungen unterstützt werden kann.
 
@@ -1132,7 +1132,7 @@ Beispiele anderer Lösungsmoglichkeiten:
 #### Phase
 
 2 - Onboarding
-### AF21 - Datenschutzpräferenzen ändern
+### Datenschutzpräferenzen ändern (AF21)
 
 Der Betroffene ändert seine Datenschutzpräferenzen, damit er diese seinen geänderten Bedürfnissen anpassen kann.
 
@@ -1181,7 +1181,7 @@ Der Betroffene ändert seine Datenschutzpräferenzen, damit er diese seinen geä
 4 - Berechtigungen
 
 ## Datennutzersicht
-### AF22 - Löschantrag bearbeiten
+### Löschantrag bearbeiten (AF22)
 
 Der Datennutzer löscht personenbezogene Daten eines Betroffenen, damit er dem Recht auf Löschung nachkommt.
 
@@ -1241,7 +1241,7 @@ HKBS:
 #### Phase
 
 3.3 - Daten löschen
-### AF23 - Berichtigungsantrag bearbeiten
+### Berichtigungsantrag bearbeiten (AF23)
 
 Der Datennutzer berichtigt personenbezogene Daten eines Betroffenen, damit er dem Betroffenenrecht nach Berichtigung nachkommt und stets aktuelle Daten nutzen kann.
 
@@ -1300,7 +1300,7 @@ HKBS:
 #### Phase
 
 3.1 - Daten bearbeiten
-### AF24 - Auskunfts- / Exportantrag bearbeiten
+### Auskunfts- / Exportantrag bearbeiten (AF24)
 
 Der Datennutzer stellt personenbezogene Daten eines Betroffenen zusammen, damit er dem Betroffenenrecht nach Datenauskunft / Datenübertragbarkeit nachkommt.
 
@@ -1357,7 +1357,7 @@ HKBS:
 #### Phase
 
 3.2 - Daten lesen
-### AF25 - Verletzung des Schutzes personenbezogener Daten melden
+### Verletzung des Schutzes personenbezogener Daten melden (AF25)
 
 Der Datennutzer meldet eine Verletzung des Schutzes personenbezogener Daten, damit er seinen gesetzlichen Pflichten nachkommt.
 
@@ -1402,7 +1402,7 @@ SLR:
 #### Phase
 
 6 - Vorfälle
-### AF26 - Güteranbieterdaten einpflegen
+### Güteranbieterdaten einpflegen (AF26)
 
 Der Güteranbieter pflegt seine Anbieterprofildaten (z. B. Adressdaten, AGB) ein, damit er seinen Pflichten (gesetzlich oder ökosystemspezifisch) nachkommt und Betroffene diese Informationen einsehen können.
 
@@ -1450,7 +1450,7 @@ SLR:
 #### Phase
 
 2 - Onboarding
-### AF27 - Für ein Gut erforderliche Daten angeben
+### Für ein Gut erforderliche Daten angeben (AF27)
 
 Der Datennutzer pflegt die zur Erbringung eines Guts notwendigen Daten(-kategorien) und Zwecke ein, damit Betroffene einsehen können, welche ihrer Daten für das Konsumieren des Guts notwendig sind.
 
@@ -1497,7 +1497,7 @@ SLR:
 #### Phase
 
 2 - Onboarding
-### AF28 - Datenschutzerklärung bereitstellen
+### Datenschutzerklärung bereitstellen (AF28)
 
 Der Datennutzer stellt eine Datenschutzerklärung bereit, damit er Betroffene gemäß den gesetzlichen Aufklärungspflichten informiert.
 
@@ -1544,7 +1544,7 @@ HKBS:
 #### Phase
 
 2 - Onboarding
-### AF29 - Datennutzungsanfrage stellen
+### Datennutzungsanfrage stellen (AF29)
 
 Der Datennutzer stellt eine Anfrage zur Nutzung von Daten, damit er diese verarbeiten darf (Legitimation) und kann (technische Berechtigung).
 
