@@ -11,7 +11,8 @@ Darüber hinaus bezeichnet der Begriff „Privatheit“ einen (Ziel-)Zustand unv
 
 Um dies zu verdeutlichen, zeigt Abbildung 1, wie Menschen (grün), Gesetzgebung (orange) und Technologie (blau) in Bezug auf Privatsphäre und Datenschutz zueinanderstehen.
 
-Abbildung 1 - Zusammenhänge zwischen menschlichen (grün), technologischen (blau) und regulatorischen Aspekten (orange) beim Schutz personenbezogener Daten (grau)
+![Zusammenhänge zwischen menschlichen (grün), technologischen (blau) und regulatorischen Aspekten (orange) beim Schutz personenbezogener Daten (grau)](<Zusammenhänge.jpg>)
+_Abbildung 1 - Zusammenhänge zwischen menschlichen (grün), technologischen (blau) und regulatorischen Aspekten (orange) beim Schutz personenbezogener Daten (grau)_
 
 Wenn von Datenschutz die Rede ist, sind das zentrale Element „personenbezogene Daten“ (grau), also nach Art. 4 DSGVO „alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden „betroffene Person“) beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind, identifiziert werden kann“.
 
