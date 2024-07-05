@@ -1,8 +1,11 @@
 # Willkommen beim Projekt "D'accord"
 
+
 ## Motivation
 
 Digitale Plattformen und Ökosysteme werden immer populärer. Durch die COVID-19-Pandemie und die Verlagerung vieler Geschäftsmodelle ins Internet wurde dieser Trend nochmals verstärkt und auch kleinere Unternehmen bieten zunehmend digitale Dienste an. Allerdings ist das Potenzial noch größer, denn viele Unternehmen nehmen Datenschutz heute noch als digitale Innovationsbremse wahr. Es fehlt an Richtlinien, Werkzeugen und Lösungen, um die gesetzlichen Vorgaben, beispielsweise die Datenschutz-Grundverordnung, einfach und wirksam umzusetzen. Erschwerend kommt hinzu, dass die Umsetzung von Datenschutzvorgaben umso komplexer wird, je mehr Unternehmen beteiligt sind und je intensiver sie personenbezogene Daten austauschen. Bei Online-Bestellungen beispielsweise geben Händler die Daten zu den Bestellungen sowie den Kundinnen und Kunden oft an wechselnde Finanz- und Transportdienstleister weiter, die diese Daten ihrerseits an Subunternehmen übermitteln. Hier ist es für die Betroffenen aktuell nahezu unmöglich, sich ein umfassendes Bild über die tatsächliche Verwendung ihrer Daten zu verschaffen. Praxistaugliche Datenschutzkonzepte sind sowohl für Unternehmen als auch Bürgerinnen und Bürger wichtiger denn je.
+
+![](./assets/images/Daccord_Key_Visual.png) 
 
 ## Ziele 
 
