@@ -13,7 +13,7 @@ The figure below features the _Data Intermediation Platform_ composed of two ele
 
 ![first decomposition](images/diagram_decomposition-1.svg)
 
-The next figure further decomposes the DPC component and features not only the external but also the internal dependencies among components in the ecosystem. In this representation, we colored some 
+The next figure further decomposes the DPC component and features not only the external but also the internal dependencies among components in the ecosystem. In this representation, we colored the components _Participant Service_, _Log Service_, _Notification Service_, and _Grant Service_ matching the corresponding areas in the [domain model](system-context#domain-model).
 
 ![first decomposition](images/diagram_decomposition-2.svg)
 
