@@ -10,8 +10,6 @@ Wie der Grafik zu entnehmen ist, unterschieden wir Daten nach ihrer Kritikalitä
 
 ### Daten ohne Personenbezug (DK1)
 
-#### Beschreibung
-
 Daten, welche sich nicht auf eine Person beziehen bzw. ihr nicht zugeordnet werden können. Der Personenbezug kann auch entfernt worden sein, z. B. durch Anonymisierung.
 
 #### Beispiele
@@ -25,8 +23,6 @@ auf verschiedenen Wegen erfasst
 
 ### Personenbezogene Daten (DK2)
 
-#### Beschreibung
-
 Nach Art. 4 DSGVO bezeichnet der Begriff personenbezogene Daten alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen.
 
 #### Beispiele
@@ -38,8 +34,6 @@ siehe Unterklassen der Kategorie
 auf verschiedenen Wegen erfasst
 
 ### Besondere Kategorien personenbezogener Daten (DK3)
-
-#### Beschreibung
 
 In Art. 9 DSGVO ist die Verarbeitung „besonderer Kategorien personenbezogener Daten“ geregelt. Dies sind Daten, aus denen die rassische und ethnische Herkunft, politische Meinungen, religiöse oder weltanschauliche Überzeugungen oder die Gewerkschaftszugehörigkeit hervorgehen, sowie genetische Daten, biometrische Daten zur eindeutigen Identifizierung einer natürlichen Person, Gesundheitsdaten oder Daten zum Sexualleben oder der sexuellen Orientierung einer natürlichen Person.
 
@@ -53,8 +47,6 @@ auf verschiedenen Wegen erfasst
 
 ### Gewerkschaftszugehörigkeit (DK4)
 
-#### Beschreibung
-
 Daten, die auf die Zugehörigkeit eines Betroffenen zu einer Gewerkschaft schließen lassen.
 
 #### Beispiele
@@ -67,8 +59,6 @@ nicht erfasst
 
 ### Rassische und ethnische Herkunft (DK5)
 
-#### Beschreibung
-
 Daten, die auf die rassische bzw. ethnische Herkunft des Betroffenen schließen lassen.
 
 #### Beispiele
@@ -80,8 +70,6 @@ Herkunft („asiatisch“)
 nicht erfasst
 
 ### Politische Meinungen (DK6)
-
-#### Beschreibung
 
 Daten, die auf politische Meinungen oder eine Parteizugehörigkeit schließen lassen.
 
@@ -96,8 +84,6 @@ nicht erfasst
 
 ### Religiöse oder weltanschauliche Überzeugungen (DK7)
 
-#### Beschreibung
-
 Daten, die auf die Meinung oder Zugehörigkeit eines Betroffenen zu einer religiösen oder weltanschaulichen Vereinigung schließen lassen.
 
 #### Beispiele
@@ -111,8 +97,6 @@ nicht erfasst
 
 ### Genetische Daten (DK8)
 
-#### Beschreibung
-
 Genetische Daten des Betroffenen.
 
 #### Beispiele
@@ -123,8 +107,6 @@ DNA-Profile, die von Polizisten erfasst werden, um diese bei der Untersuchung vo
 vom Betroffenem explizit bereitgestellt
 
 ### Biometrische Daten (DK9)
-
-#### Beschreibung
 
 Biometrische Daten eines Betroffenen.
 
@@ -138,8 +120,6 @@ Irismuster
 auf verschiedenen Wegen erfasst
 
 ### Gesundheitsdaten (DK10)
-
-#### Beschreibung
 
 Daten, die auf den vergangenen oder aktuellen Gesundheitszustand eines Betroffenen schließen lassen.
 
@@ -156,8 +136,6 @@ auf verschiedenen Wegen erfasst
 
 ### Daten zum Sexualleben oder der sexuellen Orientierung (DK11)
 
-#### Beschreibung
-
 Daten, welche auf Sexualleben oder die sexuelle Orientierung eines Betroffenen schließen lassen.
 
 #### Beispiele
@@ -170,8 +148,6 @@ nicht erfasst
 
 ### Einfache personenbezogene Daten (DK12)
 
-#### Beschreibung
-
 Personenbezogene Daten, bei denen kein erhöhter Schutzbedarf vorliegt.
 
 #### Beispiele
@@ -181,8 +157,6 @@ Personenbezogene Daten, bei denen kein erhöhter Schutzbedarf vorliegt.
 auf verschiedenen Wegen erfasst
 
 ### Individuell besonders schützenswerte Daten (DK13)
-
-#### Beschreibung
 
 Personenbezogene Daten, die nicht in die besonderen Kategorien fallen, aber dennoch einen höheren Schutzbedarf für einen Betroffenen haben.
 
@@ -197,8 +171,6 @@ auf verschiedenen Wegen erfasst
 ## Fachliche Klassen
 ### Stammdaten (DK14)
 
-#### Beschreibung
-
 Allgemeine Daten zum Nutzer.
 
 #### Beispiele
@@ -211,8 +183,6 @@ auf verschiedenen Wegen erfasst
 
 ### Finanzdaten (DK15)
 
-#### Beschreibung
-
 Daten, die sich auf die Bezahlung von Waren und Dienstleistungen beziehen.
 
 #### Beispiele
@@ -224,8 +194,6 @@ Abbuchungen
 vom Betroffenem explizit bereitgestellt
 
 ### Kommunikationsdaten (DK16)
-
-#### Beschreibung
 
 Kommunikation mit der Plattform und mit anderen Teilnehmern des Ökosystems.
 
@@ -240,8 +208,6 @@ vom Betroffenem explizit bereitgestellt
 
 ### Allgemeine Präferenzen (DK17)
 
-#### Beschreibung
-
 Einstellungen, die der Nutzer auf der Plattform vornimmt.
 
 #### Beispiele
@@ -255,8 +221,6 @@ vom Betroffenem explizit bereitgestellt
 
 ### Einwilligungen (DK18)
 
-#### Beschreibung
-
 Erteilte / nicht erteilte / widerrufene Einwilligungen.
 
 #### Beispiele
@@ -267,8 +231,6 @@ Cookie-Einwilligungen
 vom Betroffenem explizit bereitgestellt
 
 ### Transaktionsdaten (DK19)
-
-#### Beschreibung
 
 Daten, die sich auf das Vermitteln des Guts beziehen (Brokering).
 
@@ -284,8 +246,6 @@ automatisiert aufgrund von Aktionen des Betroffenen erhoben
 
 ### Auf der Plattform gespeicherte Daten (DK20)
 
-#### Beschreibung
-
 Nutzdaten, die die Plattform im Auftrag des Datengebers speichert.
 
 #### Beispiele
@@ -299,8 +259,6 @@ vom Betroffenem explizit bereitgestellt
 
 ### Nutzungsdaten (DK21)
 
-#### Beschreibung
-
 Daten, die sich auf die Nutzung der Plattform bzw. der Dienste durch einen Nutzer beziehen.
 
 #### Beispiele
@@ -312,8 +270,6 @@ Nutzungsverhalten
 automatisiert aufgrund von Aktionen des Betroffenen erhoben
 
 ### Datenschutzdaten (DK22)
-
-#### Beschreibung
 
 Daten, die lediglich für den Datenschutz anfallen.
 

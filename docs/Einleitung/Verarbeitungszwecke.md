@@ -8,8 +8,6 @@ Im Folgenden beschreiben wir die Verarbeitungszwecke pro Kategorie.
 
 ### Abrechnung (VEZ1)
 
-#### Beschreibung
-
 Rechnerische Ermittlung und Rechenschaftslegung über die Ergebnisse von durchgeführten Geschäften u. ä.
 
 #### Beispiele
@@ -18,8 +16,6 @@ Verwaltung einer Eigentümergemeinschaft in einem digitalen Ökosystem (hier: Ve
 
 
 ### Bonitätsprüfung (VEZ12)
-
-#### Beschreibung
 
 Beurteilung der Kreditwürdigkeit von natürlichen oder juristischen Personen.
 
@@ -30,8 +26,6 @@ Auskünfte über Güterkonsumenten eines digitalen Ökosystems (hier: Name, Bank
 
 ### Elektronischer Zahlungsverkehr (VEZ17)
 
-#### Beschreibung
-
 Abwicklung und Durchführung bargeldloser Zahlungsvorgänge, Ausgleich von Verbindlichkeiten.
 
 #### Beispiele
@@ -40,8 +34,6 @@ Verarbeitung personenbezogener Daten von Güterkonsumenten und -anbietern eines 
 
 
 ### Inkasso (VEZ26)
-
-#### Beschreibung
 
 Geltendmachung und Durchsetzung von Zahlungsansprüchen.
 
@@ -52,8 +44,6 @@ Verarbeitung personenbezogener Daten von Güterkonsumenten eines digitalen Ökos
 
 ### Kostenabrechnung (VEZ33)
 
-#### Beschreibung
-
 Erfassung, Verteilung und Abrechnung von Kosten innerhalb einer Organisation.
 
 #### Beispiele
@@ -63,8 +53,6 @@ Erfassung und Abrechnung von Kosten innerhalb eines digitalen Ökosystems (hier:
 
 ### Rechnungslegung (VEZ52)
 
-#### Beschreibung
-
 Systematische Erfassung der anfallenden Einnahmen und Ausgaben einer Organisation während einer bestimmten Periode einschließlich der Zuordnung der jeweiligen Belege.
 
 #### Beispiele
@@ -73,8 +61,6 @@ Verarbeitung von Kundendaten in einem digitalen Ökosystem (hier: Name, Anschrif
 
 
 ### Zahlungsabwicklung (VEZ66)
-
-#### Beschreibung
 
 Überweisung von Geldbeträgen durch eine juristische oder natürliche Person.
 
@@ -87,8 +73,6 @@ Zahlungen für Güter und erbrachte Dienstleistungen in einem digitalen Ökosyst
 
 ### Erbringung von Dienstleistungen (VEZ19)
 
-#### Beschreibung
-
 Dokumentation der Verträge mit internen oder externen Dienstleistern bzw. von deren Tätigkeiten.
 
 #### Beispiele
@@ -100,8 +84,6 @@ Verarbeitung personenbezogener Daten von Güterkonsumenten und -anbietern eines 
 
 ### Audits (VEZ6)
 
-#### Beschreibung
-
 Durchführung interner Audits und Überprüfung der Rechtskonformität von Prozessen in einer Organisation.
 
 #### Beispiele
@@ -110,8 +92,6 @@ Durchführung interner Audits und Überprüfung der Rechtskonformität von Proze
 
 
 ### Wahrung von Betroffenenrechten (VEZ63)
-
-#### Beschreibung
 
 Identitätsfeststellung, Prüfung, Bearbeitung und Dokumentation von Aktivitäten der verantwortlichen Stelle einer Organisation zur Gewährung der Betroffenenrechte nach Art. 15–18 DSGVO.
 
@@ -124,8 +104,6 @@ Verarbeitung der personenbezogenen Daten von Güterkonsumenten eines digitalen �
 
 ### Befragungen, Umfragen (VEZ9)
 
-#### Beschreibung
-
 Durchführung und Auswertung von Befragungen durch eine Organisation.
 
 #### Beispiele
@@ -137,8 +115,6 @@ Verarbeitung personenbezogener Daten der Befragungsteilnehmer, z. B. Güterkonsu
 
 ### Datenarchivierung (VEZ15)
 
-#### Beschreibung
-
 Sammlung älterer Datenbestände und Verschiebung an einen sicheren Ort.
 
 #### Beispiele
@@ -147,8 +123,6 @@ Archivierte Buchhaltungsdaten und Geschäftsunterlagen einschließlich personenb
 
 
 ### Kommunikation im Ökosystem (VEZ27)
-
-#### Beschreibung
 
 Kommunikation der Beteiligten eines digitalen Ökosystems.
 
@@ -159,8 +133,6 @@ Nutzung von Chat-Tools, Video-Calls, Berichtdiensten und ähnlichen Kommunikatio
 
 ### IT-Administration (VEZ28)
 
-#### Beschreibung
-
 Bereitstellung, Wartung und Pflege von IT-Systemen.
 
 #### Beispiele
@@ -169,8 +141,6 @@ Nutzerverwaltung, Zugriffsberechtigungen und Verwaltung von Verzeichnisdiensten 
 
 
 ### IT-Sicherheit (VEZ29)
-
-#### Beschreibung
 
 Durchführung von technischen und organisatorischen Maßnahmen zur Aufrechterhaltung der IT-Sicherheit.
 
@@ -181,8 +151,6 @@ Verarbeitung personenbezogener Daten von Nutzer*innen bei einem Sicherheitsvorfa
 
 ### IT-Support (VEZ30)
 
-#### Beschreibung
-
 Support- und Wartungsservice zur Aufrechterhaltung bzw. Wiederherstellung des IT-Betriebs.
 
 #### Beispiele
@@ -191,8 +159,6 @@ Verarbeitung personenbezogener Daten von Nutzer*innen bei einem Supportfall in e
 
 
 ### Nutzungsprotokollierung (VEZ41)
-
-#### Beschreibung
 
 Protokollierung der IT-, Internet-, E-Mail-Nutzung von Angehörigen einer Organisation.
 
@@ -205,8 +171,6 @@ Klickverhalten von Newsletterempfängern eines digitalen Ökosystems (hier: IP-A
 
 ### E-Mail-Kommunikation (VEZ18)
 
-#### Beschreibung
-
 Elektronische Kommunikation über das Internet via E-Mail.
 
 #### Beispiele
@@ -215,8 +179,6 @@ Verarbeitung personenbezogener Daten der Güterkonsumenten und -anbieter eines d
 
 
 ### Newsletter (VEZ40)
-
-#### Beschreibung
 
 Registrierung und Verwaltung von Newsletterempfängern.
 
@@ -229,8 +191,6 @@ Personenbezogene Daten der Newsletterempfänger in einem digitalen Ökosystem (h
 
 ### Bearbeiten allgemeiner Anfragen (VEZ8)
 
-#### Beschreibung
-
 Bearbeitung der Anfragen von Personen innerhalb oder außerhalb einer Organisation.
 
 #### Beispiele
@@ -239,8 +199,6 @@ Verarbeitung personenbezogener Daten der Beteiligten eines digitalen Ökosystems
 
 
 ### Kundenbetreuung (VEZ34)
-
-#### Beschreibung
 
 Pflege von Kundenbeziehungen und Beziehungen zu Interessenten, Kundenkommunikation.
 
@@ -251,8 +209,6 @@ Verwaltung personenbezogener Daten von Güterkonsumenten und Güteranbietern ein
 
 ### Marketing, Werbung (VEZ38)
 
-#### Beschreibung
-
 Marketing- und Werbemaßnahmen zur Kundengewinnung und -bindung von Güteranbietern und Güterkonsumenten.
 
 #### Beispiele
@@ -261,8 +217,6 @@ Onlinemarketing-Kampagne eines digitalen Ökosystems bzw. einer beteiligten Orga
 
 
 ### Webauftritt (VEZ64)
-
-#### Beschreibung
 
 Betrieb eines Webauftritts zur Außendarstellung einer Organisation und zur Kontaktaufnahme.
 
@@ -275,8 +229,6 @@ Verarbeitung personenbezogener Daten von Webseitenbesuchern bzw. Interessenten e
 
 ### Allgemeine Verwaltung (VEZ2)
 
-#### Beschreibung
-
 Administrative Tätigkeiten in Unternehmen, öffentlichen Einrichtungen u. ä.
 
 #### Beispiele
@@ -286,8 +238,6 @@ Unterstützung der Büroorganisation und des Empfangs durch ein digitales Ökosy
 
 ### Antragsbearbeitung (VEZ4)
 
-#### Beschreibung
-
 Bearbeitung von Anträgen in einem digitalen Ökosystem.
 
 #### Beispiele
@@ -296,8 +246,6 @@ Bauanträge, Wohngeldanträge, Anträge auf Prüfungsfreistellung durch Beteilig
 
 
 ### Kontaktverwaltung (VEZ32)
-
-#### Beschreibung
 
 Verwaltung und Bereitstellung von Kontaktmöglichkeiten von Personen und Organisationen.
 
@@ -310,8 +258,6 @@ Verarbeitung personenbezogener Daten der Kontaktpersonen, z. B. Güterkonsumente
 
 ### Angebotserstellung (VEZ3)
 
-#### Beschreibung
-
 Erstellung personalisierter bzw. individueller Angebote.
 
 #### Beispiele
@@ -321,8 +267,6 @@ Individuelles Auftragsangebot für Güterkonsumenten eines digitalen Ökosystems
 
 ### Auftragsverwaltung (VEZ7)
 
-#### Beschreibung
-
 Bearbeitung von Aufträgen und Bestellungen einschließlich Rechnungstellung.
 
 #### Beispiele
@@ -331,8 +275,6 @@ Verarbeitung personenbezogener Daten von Güterkonsumenten (hier: Namen, Kontakt
 
 
 ### Verkauf, Vertrieb (VEZ59)
-
-#### Beschreibung
 
 Verkauf und Vertrieb von Gütern durch eine Organisation.
 
