@@ -13,6 +13,16 @@ The figure below features the <kbd>Data Intermediation Platform</kbd> composed o
 
 ![first decomposition](images/diagram_decomposition-1.svg)
 
+## First-level decomposition: Layers
+
+Internally, the compositing components of the DPC are organized into three layers: 
+
+- <kbd>Interface</kdb> contains the components responsible for interfacing the DPC with the external world;
+- <kbd>Service</kdb> contains the components that implement the functionalities of the DPC; and
+- <kbd>Repository</kdb> contains the components responsible for managing DPC's data storage.
+
+![first decomposition](images/diagram_decomposition-layers.svg)
+
 The next figure further decomposes the DPC component and features not only the external but also the internal dependencies among components in the ecosystem. In this representation, we colored the components <kbd>Participant Service</kbd>, <kbd>Log Service</kbd>, <kbd>Notification Service</kbd>, and <kbd>Grant Service</kbd> matching the corresponding areas in the [domain model](system-context.md#domain-model).
 
 ![first decomposition](images/diagram_decomposition-2.svg)
