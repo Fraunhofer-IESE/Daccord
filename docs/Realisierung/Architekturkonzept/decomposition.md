@@ -9,7 +9,7 @@
 
 # Structure
 
-The figure below features the _Data Intermediation Platform_ composed by two elements: the _Platform Core_ and the _DPC_. On the left side, a human actor represents a _data provider_; on the right side, an external third-party system and its user compose the _data consumer_. The data provider sends data assets to and the data provider gets data assets from the platform core. That means that the flow of the data assets happens via the core platform and does not belong to the scope of the DPC. The DPC contributes, to the dataflow, though, for the information about grants belong to the DPC and therefore the platform core must check the DPC for grant information before forwarding data assets to a data consumer.
+The figure below features the _Data Intermediation Platform_ composed of two elements: the _Platform Core_ and the _DPC_. On the left side, a human actor represents a _data provider_; on the right side, an external third-party system and its user compose the _data consumer_. The data provider sends data assets to, and the data provider gets data assets from, the platform core. That means that the flow of the data assets happens via the core platform and does not belong to the scope of the DPC (note the data flow area in the figure). The DPC contributes to the data, though, for the information about grants belongs to the DPC. Therefore, the platform core must check the DPC for grant information before forwarding data assets to a data consumer.
 
 ![first decomposition](images/diagram_decomposition-1.svg)
 
