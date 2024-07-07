@@ -13,7 +13,7 @@ The figure below features the <kbd>Data Intermediation Platform</kbd> composed o
 
 ![first decomposition](images/diagram_decomposition-1.svg)
 
-## First-level decomposition: Layers
+## Layers
 
 Internally, the compositing components of the DPC are organized into three layers: 
 
@@ -23,9 +23,18 @@ Internally, the compositing components of the DPC are organized into three layer
 
 ![first decomposition](images/diagram_decomposition-layers.svg)
 
-The next figure further decomposes the DPC component and features not only the external but also the internal dependencies among components in the ecosystem. In this representation, we colored the components <kbd>Participant Service</kbd>, <kbd>Log Service</kbd>, <kbd>Notification Service</kbd>, and <kbd>Grant Service</kbd> matching the corresponding areas in the [domain model](system-context.md#domain-model).
+## DPC's internal components
+
+The next figure further decomposes the DPC component and features the external and internal dependencies among components in the ecosystem. In this representation, we colored the components <kbd>Participant Service</kbd>, <kbd>Log Service</kbd>, <kbd>Notification Service</kbd>, and <kbd>Grant Service</kbd> matching the corresponding areas in the [domain model](system-context.md#domain-model).
+
+There are two components in the interface layer: <kbd>UI</kbd> and <kbd>API</kbd>.
+
+- <kbd>UI</kbd> is responsible for implementing the user interface and user experience of the DPC. More information about it can be found on the [UX Design page](../UX-Design/index.md).
+- <kbd>API</kbd> is responsible for exposing the internal functionality of the DPC to the external world. The component <kbd>UI</kbd> depends on it
 
 ![first decomposition](images/diagram_decomposition-2.svg)
+
+
 
 # Behavior
 
