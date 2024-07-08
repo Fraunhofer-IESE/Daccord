@@ -7,6 +7,8 @@
 
 # System decomposition
 
+The DPC uses an event-driven architectural style to manage the data exchanged among participants, whether general notifications, data-related requests, or other messages. In this reference architecture, the <kbd>Message Broker</kbd> (a key component of any event-driven architecture) is depicted as part of the DPC. A concrete architecture could, however, feature the <kbd>Message Broker</kbd> outside the DPC (i.e., as part of the main platform). This brings no issues to the design as the <kbd>Message Broker</kbd> does not depend on any other component.
+
 # Structure
 
 The figure below features the <kbd>Data Intermediation Platform</kbd> composed of two elements: the <kbd>Platform Core</kbd> and the <kbd>DPC</kbd>. On the left side, a human actor represents a _data provider_; on the right side, an external third-party system and its user compose the _data consumer_. The data provider sends data assets to, and the data provider gets data assets from, the platform core. That means that the flow of the data assets happens via the core platform and does not belong to the scope of the DPC (note the data flow area in the figure). The DPC contributes to the data for the information about grants is managed by the DPC. Therefore, the platform core must check the DPC for grant information before forwarding data assets to a data consumer.
