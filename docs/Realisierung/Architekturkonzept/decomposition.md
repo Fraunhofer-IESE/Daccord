@@ -40,13 +40,13 @@ There are two components in the interface layer: <kbd>UI</kbd> and <kbd>API</kbd
     - Depends on: <kbd>API</kbd>.
 - <kbd>API</kbd>
     - Responsibilities: Exposing the internal functionality of the DPC to the UI and external components.
-    - Depends on: <kbd>Grant Service</kbd>, <kbd>Log Service</kbd>, <kbd>Notification Service</kbd>, and <kbd>Event Broker Service</kbd>.
+    - Depends on: <kbd>Grant Service</kbd>, <kbd>Log Service</kbd>, <kbd>Notification Service</kbd>, and <kbd>Event Broker Service</kbd>, as these components provide the actual functionalities of the DPC.
 
 The service layer contains six components:
 
 - <kbd>Grant Service</kbd>
     - Responsibilities: managing the storage of grant permissions. This component exposes functionalities to create grant requests, approve grant requests, and find grants and revoke grants.
-    - Depends on:
+    - Depends on: <kbd>Log Service</kbd> (all grant-related operations must be logged), <kbd>Participant Service</kbd> (grants connect two participants: a data provider and a data consumer), and <kbd>Event Broker Service</kbd> (all messages, including grant requests and notifications, are exchanged via the event broker).
 - <kbd>Notification Service</kbd>
     - Responsibilities:
     - Depends on:
