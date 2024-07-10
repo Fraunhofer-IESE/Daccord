@@ -9,7 +9,7 @@
 
 The DPC uses an event-driven architectural style to manage the data exchanged among participants, whether general notifications, data-related requests, or any other message type.
 
-In this reference architecture, the <kbd>Message Broker</kbd> (a key component of any event-driven architecture) is depicted as part of the DPC. A concrete architecture could, however, feature the <kbd>Message Broker</kbd> outside the DPC (i.e., as part of the main platform). This brings no issues to the design as the <kbd>Message Broker</kbd> does not depend on any other component.
+> In this reference architecture, the <kbd>Message Broker</kbd> (a key component of any event-driven architecture) is depicted as part of the DPC. A concrete architecture could, however, feature the <kbd>Message Broker</kbd> outside the DPC (i.e., as part of the main platform). This brings no issues to the design as the <kbd>Message Broker</kbd> does not depend on any other component.
 
 # Structure
 
