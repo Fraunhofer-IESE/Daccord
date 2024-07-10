@@ -35,33 +35,17 @@ The next figure further decomposes the DPC component and features the external a
 
 There are two components in the interface layer: <kbd>UI</kbd> and <kbd>API</kbd>.
 
-- <kbd>UI</kbd>
-    - Responsibilities: Implementing the DPC's user interface (UI) and user experience (UX). More information about this can be found on the [UX Design page](../UX-Design/index.md).
-    - Depends on: <kbd>API</kbd>.
-- <kbd>API</kbd>
-    - Responsibilities: Exposing the internal functionality of the DPC to the UI and external components.
-    - Depends on: <kbd>Grant Service</kbd>, <kbd>Log Service</kbd>, <kbd>Notification Service</kbd>, and <kbd>Event Broker Service</kbd>, as these components provide the actual functionalities of the DPC.
+- The <kbd>UI</kbd> component is responsible for implementing the DPC's user interface (UI) and user experience (UX). Additional details regarding this can be found on the [UX Design page](../UX-Design/index.md). It is dependent on the **API** component for its functionality.
+- The <kbd>API</kbd> component is responsible for exposing the internal functionality of the DPC to the UI and external components. It depends on the <kbd>Grant Service</kbd>, <kbd>Log Service</kbd>, <kbd>Notification Service</kbd>, and <kbd>Event Broker Service</kbd> components, as these components provide the actual functionalities of the DPC.
 
 The service layer contains six components:
 
-- <kbd>Grant Service</kbd>
-    - Responsibilities: managing the storage of grant permissions. This component exposes functionalities to create grant requests, approve grant requests, and find grants and revoke grants.
-    - Depends on: <kbd>Log Service</kbd> (all grant-related operations must be logged), <kbd>Participant Service</kbd> (grants connect two participants: a data provider and a data consumer), and <kbd>Event Broker Service</kbd> (all messages, including grant requests and notifications, are exchanged via the event broker).
-- <kbd>Notification Service</kbd>
-    - Responsibilities:
-    - Depends on:
-- <kbd>Log Service</kbd>
-    - Responsibilities:
-    - Depends on:
-- <kbd>Participant Service</kbd>
-    - Responsibilities:
-    - Depends on:
-- <kbd>Log Service</kbd>
-    - Responsibilities:
-    - Depends on:
-- <kbd>Grant Service</kbd>
-    - Responsibilities:
-    - Depends on:
+- The <kbd>Grant Service</kbd> component is responsible for managing the storage of grant permissions. It exposes functionalities to create grant requests, approve grant requests, and find and revoke grants. This component depends on <kbd>Log Service</kbd> for logging all grant-related operations, <kbd>Participant Service</kbd> for connecting two participants (a data provider and a data consumer), and <kbd>Event Broker Service</kbd> for exchanging all messages, including grant requests and notifications, via the event broker.
+- The <kbd>Notification Service</kbd> component is responsible for creating and searching notifications of all types, such as grant requests, information, and confirmations. It depends on the <kbd>Log Service</kbd> for logging all notifications to ensure proper tracking and record-keeping.
+- The <kbd>Log Service</kbd> component is responsible for logging all operations within the DPC, particularly focusing on activities related to grants and notifications.
+- The <kbd>Participant Service</kbd> component is tasked with maintaining a record of existing participants, including data providers and data consumers, within the platform core. This component stores information about the origin and destination of all notifications. It also provides a function to locate participants. The <kbd>Participant Service</kbd> depends on the <kbd>Event Broker Service</kbd> to receive information about participants, whose records are managed in the Platform Core.
+- The <kbd>Event Broker Service</kbd> is responsible for maintaining a list of events within the DPC that are of interest to enable components to publish and subscribe to messages related to these events. For instance, the <kbd>Platform Core</kbd> can publish an event to notify that a new data consumer has joined the platform, while the <kbd>Notification Service</kbd> can publish an information request on behalf of a data provider to all data consumers who have access to the provider's data, and so on.
+
 
 ![first decomposition](images/diagram_decomposition-2.svg)
 
