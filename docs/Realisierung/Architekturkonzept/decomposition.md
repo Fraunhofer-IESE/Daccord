@@ -33,12 +33,12 @@ The next figure further decomposes the DPC component and features the external a
 
 ![first decomposition](images/diagram_decomposition-layers-components.svg)
 
-There are two components in the interface layer: <kbd>UI</kbd> and <kbd>API</kbd>.
+**There are two components in the interface layer:**
 
 - The <kbd>UI</kbd> component is responsible for implementing the DPC's user interface (UI) and user experience (UX). Additional details regarding this can be found on the [UX Design page](../UX-Design/index.md). It is dependent on the **API** component for its functionality.
 - The <kbd>API</kbd> component is responsible for exposing the internal functionality of the DPC to the UI and external components. It depends on the <kbd>Grant Service</kbd>, <kbd>Log Service</kbd>, <kbd>Notification Service</kbd>, and <kbd>Event Broker Service</kbd> components, as these components provide the actual functionalities of the DPC.
 
-The service layer contains six components:
+**The service layer contains six components:**
 
 - The <kbd>Grant Service</kbd> component is responsible for managing the storage of grant permissions. It exposes functionalities to create grant requests, approve grant requests, and find and revoke grants. This component depends on <kbd>Log Service</kbd> for logging all grant-related operations, <kbd>Participant Service</kbd> for connecting two participants (a data provider and a data consumer), and <kbd>Event Broker Service</kbd> for exchanging all messages, including grant requests and notifications, via the event broker.
 - The <kbd>Notification Service</kbd> component is responsible for creating and searching notifications of all types, such as grant requests, information, and confirmations. It depends on the <kbd>Log Service</kbd> for logging all notifications to ensure proper tracking and record-keeping.
