@@ -35,8 +35,16 @@ The next figure further decomposes the DPC component and features the external a
 
 There are two components in the interface layer: <kbd>UI</kbd> and <kbd>API</kbd>.
 
-- <kbd>UI</kbd> is responsible for implementing the user interface and user experience of the DPC. More information about it can be found on the [UX Design page](../UX-Design/index.md).
-- <kbd>API</kbd> is responsible for exposing the internal functionality of the DPC to the external world. The component <kbd>UI</kbd> depends on it
+- <kbd>UI</kbd>
+    Responsibilities: Implementing the DPC's user interface (UI) and user experience (UX). More information about this can be found on the [UX Design page](../UX-Design/index.md).
+    - Depends on: <kbd>API</kbd>.
+- <kbd>API</kbd>
+    - Responsibilities: Exposing the internal functionality of the DPC to the UI and external components.
+    - Depends on: <kbd>Grant Service</kbd>, <kbd>Log Service</kbd>, <kbd>Notification Service</kbd>, and <kbd>Event Broker Service</kbd>.
+
+The service layer contains six components:
+
+- <kbd>
 
 ![first decomposition](images/diagram_decomposition-2.svg)
 
