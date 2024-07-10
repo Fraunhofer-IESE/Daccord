@@ -36,7 +36,7 @@ The next figure further decomposes the DPC component and features the external a
 There are two components in the interface layer: <kbd>UI</kbd> and <kbd>API</kbd>.
 
 - <kbd>UI</kbd>
-    Responsibilities: Implementing the DPC's user interface (UI) and user experience (UX). More information about this can be found on the [UX Design page](../UX-Design/index.md).
+    - Responsibilities: Implementing the DPC's user interface (UI) and user experience (UX). More information about this can be found on the [UX Design page](../UX-Design/index.md).
     - Depends on: <kbd>API</kbd>.
 - <kbd>API</kbd>
     - Responsibilities: Exposing the internal functionality of the DPC to the UI and external components.
@@ -44,7 +44,24 @@ There are two components in the interface layer: <kbd>UI</kbd> and <kbd>API</kbd
 
 The service layer contains six components:
 
-- <kbd>
+- <kbd>Grant Service</kbd>
+    - Responsibilities: managing the storage of grant permissions. This component exposes functionalities to create grant requests, approve grant requests, and find grants and revoke grants.
+    - Depends on:
+- <kbd>Notification Service</kbd>
+    - Responsibilities:
+    - Depends on:
+- <kbd>Log Service</kbd>
+    - Responsibilities:
+    - Depends on:
+- <kbd>Participant Service</kbd>
+    - Responsibilities:
+    - Depends on:
+- <kbd>Log Service</kbd>
+    - Responsibilities:
+    - Depends on:
+- <kbd>Grant Service</kbd>
+    - Responsibilities:
+    - Depends on:
 
 ![first decomposition](images/diagram_decomposition-2.svg)
 
