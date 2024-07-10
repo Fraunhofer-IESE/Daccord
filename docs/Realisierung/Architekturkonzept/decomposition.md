@@ -31,6 +31,8 @@ Internally, the compositing components of the DPC are organized into three layer
 
 The next figure further decomposes the DPC component and features the external and internal dependencies among components in the ecosystem. In this representation, we colored the components <kbd>Participant Service</kbd>, <kbd>Log Service</kbd>, <kbd>Notification Service</kbd>, and <kbd>Grant Service</kbd> matching the corresponding areas in the [domain model](system-context.md#domain-model).
 
+![first decomposition](images/diagram_decomposition-layers-components.svg)
+
 There are two components in the interface layer: <kbd>UI</kbd> and <kbd>API</kbd>.
 
 - <kbd>UI</kbd> is responsible for implementing the user interface and user experience of the DPC. More information about it can be found on the [UX Design page](../UX-Design/index.md).
