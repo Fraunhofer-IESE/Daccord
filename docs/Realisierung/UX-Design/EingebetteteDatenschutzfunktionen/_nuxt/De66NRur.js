@@ -1,1 +1,0 @@
-import{_ as t,o,c as s,v as n}from"./BMSvwMrE.js";const c={},r={style:{"padding-left":"20px","padding-top":"10px"}};function a(e,d){return o(),s("div",r,[n(e.$slots,"default")])}const l=t(c,[["render",a]]);export{l as default};
