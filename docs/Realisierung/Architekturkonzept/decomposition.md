@@ -53,6 +53,9 @@ The next figure further decomposes the DPC component and features the external a
         - create notifications of several types (e.g., information, confirmation, warning, risk) from one participant to another;
         - create requests of several types (e.g., data deletion request, data report request, grant request -- the interplay between <kbd>Grant Service</kbd> and <kbd>Notification Service</kbd> on the creation of grant request is detailed in the section "Behavior") from one participant to another;
     - Dependencies: It depends on the <kbd>Log Service</kbd> to log notifications to ensure proper tracking and record-keeping.
+ 
+![diagram notification service](images/diagram_component-notification-service.svg)
+
 - The <kbd>Log Service</kbd> component is responsible for logging all operations within the DPC, mainly focusing on activities related to grants and notifications. It is worth noting that not only <kbd>Grant Service</kbd> and <kbd>Notification Service</kbd> depend on it (to create logs concerning grants and notifications, respectively), but the <kbd>API</kbd> also depends on it because there are data-related events of interest (i.e., which should be logged) that happen in the <kbd>Platform Core</kbd>, not in the DPC -- a prominent example is the occurrence of a data flow.
     - Exposed functionalities:
         - create log entry for any arbitrary operation;
