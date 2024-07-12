@@ -82,7 +82,7 @@ Auf dieser Seite führen wir Sie durch die Ergebnisse des Projekts.
   - Eddy Groen
   - Patrick Müller 
   - Stefanie Ludborzs
-  - Rodrigo Falcao
+  - Rodrigo Falcão
 - **Hochschule Bonn-Rhein-Sieg**
   - Luigi Lo Iacono
   - Florian Dehling
