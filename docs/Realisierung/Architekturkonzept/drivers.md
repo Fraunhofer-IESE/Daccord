@@ -14,7 +14,7 @@ At least three relevant stakeholders can be named in two-sided digital data plat
 
 This section presents DPC's  _key functional requirements_ (KFR) and the _quality requirements_ (QR). The former refers to _what_ functions the system performs; the latter refers to _how well_ the system works. To document the quality requirement, we used _architecture scenarios_, where the driver is described as a concrete scenario with a well-defined environment, a stimulus, a response, and quantifications of the previous ones. We use a formal requirements template for the key functional requirements.
 
-> **Note:** This section focuses on the _architecture-relevant requirements_. For a comprehensive view on all system requirements, you can visit the [Requirements page](../../Anforderungen/index.md).
+> **Note:** For a comprehensive view of all system requirements, visit the [Requirements page](../../Anforderungen/index.md).
 
 
 ## Key functional requirements
