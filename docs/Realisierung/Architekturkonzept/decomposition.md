@@ -57,10 +57,12 @@ The next figure further decomposes the DPC component and features the external a
         - create log entry for any arbitrary operation;
         - retrieve log entries.
     
-- The <kbd>Participant Service</kbd> component maintains a record of existing participants, including data providers and data consumers, within the <kbd>Platform Core</kbd>. Its functionalities include create, update, select, and delete participants (which are informed by the <kbd>Platform Core</kbd>.
+- The <kbd>Participant Service</kbd> component maintains a record of existing participants, including data providers and data consumers, within the <kbd>Platform Core</kbd>.
+    - Exposed functionalities:
+        - create, retrieve, update, and delete participants (which are informed by the <kbd>Platform Core</kbd>).
 
 ![first decomposition](images/diagram_decomposition-2.svg)
-s
+
 
 # Behavior
 
