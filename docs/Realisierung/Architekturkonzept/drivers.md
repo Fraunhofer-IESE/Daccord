@@ -21,21 +21,22 @@ This section presents DPC's  _key functional requirements_ (KFR) and the _qualit
 
 ### Requests
 
-- **KFR.1.** The DPC shall provide one-side participants (e.g., data providers) with the ability to request data-related actions from other participants (e.g., data consumers). 
+- **KFR.1.** The DPC shall provide one-side participants (e.g., data providers) with the ability to request data-related actions from other participants (e.g., data consumers). Requests are a special type of notification that requires action from the recipient.
 
 ### Notifications
 
-- **KFR.2.** When a request (see KFR.1) is triggered, the DPC shall notify the concerned party. 
-- **KFR.3.** When a user acts upon a notification that requires a response, the DSC shall notify the party who triggered the notification.
+- **KFR.2.** The DPC shall provide participants with the ability to send data-related notifications to other participants, where these notifications may or may not require action from the recipient.
+- **KFR.3.** When a request (see KFR.1) is triggered, the DPC shall notify the concerned party. 
+- **KFR.4.** When a user acts upon a notification that requires a response, the DSC shall notify the party who triggered the notification.
 
 ### Grants
 
-- **KFR.4.** The DPC shall provide data providers with the ability to manage (i.e., view, grant, decline, and revoke) their data-related grants.
+- **KFR.5.** The DPC shall provide data providers with the ability to manage (i.e., view, grant, decline, and revoke) their data-related grants.
 
 ### Logs
 
-- **KFR.5.** The DPC shall log all notifications and grant-related actions that occur in the DPC.
-- **KFR.5.** The DPC shall provide the users with the ability to know that their data has been sent to data consumers via the platform.
+- **KFR.6.** The DPC shall log all notifications and grant-related actions that occur in the DPC.
+- **KFR.7.** The DPC shall provide the users with the ability to know that their data has been sent to data consumers via the platform.
 
 ## Quality requirements
 
