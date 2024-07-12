@@ -37,9 +37,22 @@ The next figure further decomposes the DPC component and features the external a
 
 **The service layer contains four components:**
 
-- The <kbd>Grant Service</kbd> component is responsible for managing the storage of grant permissions. It exposes functionalities to create grant requests, approve grant requests, and find and revoke grants. This component depends on <kbd>Log Service</kbd> for logging all grant-related operations and <kbd>Participant Service</kbd> for connecting two participants (a data provider and a data consumer).
-- The <kbd>Notification Service</kbd> component is responsible for creating and searching notifications of all types, such as grant requests, information, and confirmations. It depends on the <kbd>Log Service</kbd> for logging all notifications to ensure proper tracking and record-keeping.
-- The <kbd>Log Service</kbd> component is responsible for logging all operations within the DPC, particularly focusing on activities related to grants and notifications.
+> In this section, whenever a component's functionality includes _"manage X"_, it implies offering functions to _"create, retrieve, update, and delete X"_.
+
+- The <kbd>Grant Service</kbd> component is responsible for managing the storage of grant permissions.
+    - Exposed functionalities:
+        - create grant requests, approve grant requests, retrieve grants, and revoke grants;
+        - create, retrieve, update, and delete data types;
+        - create, retrieve, update, and delete data usage purposes;
+        - create, retrieve, update, and delete data privileges required by data consumers (see entity _Consumer Usage Purpose_ in the [domain model](system-context.md));
+    - Dependencies: This component depends on <kbd>Log Service</kbd> for logging all grant-related operations and <kbd>Participant Service</kbd> for connecting two participants (a data provider and a data consumer).
+
+- The <kbd>Notification Service</kbd> component is responsible for creating and searching notifications of all types, such as grant requests, information, and confirmations.
+    - Exposed functionalities:
+        - create notifications of several types (e.g., information, confirmation, warning, risk) from one participant to another;
+        - create requests of several types (e.g., data deletion request, data report request, grant request -- the interplay between <kbd>Grant Service</kbd> and <kbd>Notification Service<kbd> on the creation of grant request is detailed in the section "Behavior") from one participant to another;
+    - Dependencies: It depends on the <kbd>Log Service</kbd> to log notifications to ensure proper tracking and record-keeping.
+- The <kbd>Log Service</kbd> component is responsible for logging all operations within the DPC, mainly focusing on activities related to grants and notifications.
 - The <kbd>Participant Service</kbd> component maintains a record of existing participants, including data providers and data consumers, within the <kbd>Platform Core</kbd>. Its functionalities include create, update, select, and delete participants (which are informed by the <kbd>Platform Core</kbd>.
 
 ![first decomposition](images/diagram_decomposition-2.svg)
