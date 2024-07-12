@@ -60,12 +60,13 @@ The next figure further decomposes the DPC component and features the external a
     - Exposed functionalities:
         - create log entry for any arbitrary operation;
         - retrieve log entries.
+![diagram notification service](images/diagram_component-log-service.svg)
     
 - The <kbd>Participant Service</kbd> component maintains a record of existing participants, including data providers and data consumers, within the <kbd>Platform Core</kbd>.
     - Exposed functionalities:
         - create, retrieve, update, and delete participants (which are informed by the <kbd>Platform Core</kbd>).
 
-![first decomposition](images/diagram_decomposition-2.svg)
+![diagram notification service](images/diagram_component-participant-service.svg)
 
 
 # Behavior
