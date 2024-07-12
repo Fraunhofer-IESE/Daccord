@@ -7,10 +7,6 @@
 
 # System decomposition
 
-The DPC uses an event-driven architectural style to manage the data exchanged among participants, whether general notifications, data-related requests, or any other message type.
-
-> In this reference architecture, the <kbd>Message Broker</kbd> (a key component of any event-driven architecture) is depicted as part of the DPC. A concrete architecture could, however, feature the <kbd>Message Broker</kbd> outside the DPC (i.e., as part of the main platform). This brings no issues to the design as the <kbd>Message Broker</kbd> does not depend on any other component.
-
 # Structure
 
 The figure below features the <kbd>Data Intermediation Platform</kbd> composed of two elements: the <kbd>Platform Core</kbd> and the <kbd>DPC</kbd>. On the left side, a human actor represents a _data provider_; on the right side, an external third-party system and its user compose the _data consumer_. The data provider sends data assets to, and the data provider gets data assets from, the platform core. That means that the flow of the data assets happens via the core platform and does not belong to the scope of the DPC (note the _data asset flow_ area in the figure). The DPC contributes to the data flow, though, for the information about grants is managed by the DPC. Therefore, the platform core must check the DPC for grant information before forwarding data assets to a data consumer.
@@ -36,6 +32,7 @@ The next figure further decomposes the DPC component and features the external a
 **There are two components in the interface layer:**
 
 - The <kbd>UI</kbd> component is responsible for implementing the DPC's user interface (UI) and user experience (UX). Additional details regarding this can be found on the [UX Design page](../UX-Design/index.md). It is dependent on the **API** component for its functionality.
+> For example, the <kbd>UI</kbd> component can be implemented as a Single-Page Application using React that interacts with DPC's backend through a RESP API.
 - The <kbd>API</kbd> component is responsible for exposing the internal functionality of the DPC to the UI and external components. It depends on the <kbd>Grant Service</kbd>, <kbd>Log Service</kbd>, <kbd>Notification Service</kbd>, and <kbd>Event Broker Service</kbd> components, as these components provide the actual functionalities of the DPC.
 
 **The service layer contains six components:**
