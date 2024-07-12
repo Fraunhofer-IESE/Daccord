@@ -37,8 +37,6 @@ The next figure further decomposes the DPC component and features the external a
 
 **The service layer contains four components:**
 
-> In this section, whenever a component's functionality includes _"manage X"_, it implies offering functions to _"create, retrieve, update, and delete X"_.
-
 - The <kbd>Grant Service</kbd> component is responsible for managing the storage of grant permissions.
     - Exposed functionalities:
         - create grant requests, approve grant requests, retrieve grants, and revoke grants;
@@ -47,6 +45,8 @@ The next figure further decomposes the DPC component and features the external a
         - create, retrieve, update, and delete data usage purposes;
         - create, retrieve, update, and delete data privileges required by data consumers (see entity _Consumer Usage Purpose_ in the [domain model](system-context.md));
     - Dependencies: This component depends on <kbd>Log Service</kbd> for logging all grant-related operations and <kbd>Participant Service</kbd> for connecting two participants (a data provider and a data consumer).
+
+![diagram grant service](images/diagram_component-grant-service.svg)
 
 - The <kbd>Notification Service</kbd> component is responsible for creating and searching notifications of all types, such as grant requests, information, and confirmations.
     - Exposed functionalities:
