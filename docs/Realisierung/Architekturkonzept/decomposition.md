@@ -43,6 +43,7 @@ The next figure further decomposes the DPC component and features the external a
     - Exposed functionalities:
         - create grant requests, approve grant requests, retrieve grants, and revoke grants;
         - create, retrieve, update, and delete data types;
+        - create, retrieve, update, and delete legal base;
         - create, retrieve, update, and delete data usage purposes;
         - create, retrieve, update, and delete data privileges required by data consumers (see entity _Consumer Usage Purpose_ in the [domain model](system-context.md));
     - Dependencies: This component depends on <kbd>Log Service</kbd> for logging all grant-related operations and <kbd>Participant Service</kbd> for connecting two participants (a data provider and a data consumer).
