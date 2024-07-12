@@ -76,5 +76,5 @@ The next figure further decomposes the DPC component and features the external a
 
 
 <p align="center">
-    <a href="system-context.md">Previous: 3. Architecture drivers</a>&nbsp; | &nbsp;<a href="decomposition.md">Next: 5. Quality concepts</a>
+    <a href="drivers.md">Previous: 3. Architecture drivers</a>&nbsp; | &nbsp;<a href="quality.md">Next: 5. Quality concepts</a>
 </p>
