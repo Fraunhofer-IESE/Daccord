@@ -37,7 +37,7 @@ The next figure further decomposes the DPC component and features the external a
 
 **The service layer contains four components:**
 
-- The <kbd>Grant Service</kbd> component is responsible for managing the storage of grant permissions.
+- The <kbd>Grant Service</kbd> component is responsible for managing the storage of all data necessary to handle grant permissions.
     - Exposed functionalities:
         - create grant requests, approve grant requests, retrieve grants, and revoke grants;
         - create, retrieve, update, and delete data types;
