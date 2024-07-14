@@ -71,8 +71,16 @@ The next figure further decomposes the DPC component and features the external a
 
 # Behavior
 
+This section contains comportamental diagrams that depict the interaction among DPC components, the <kbd>Platform Core</kbd>, data consumers, and data providers when key actions are performed.
+
+<!--
 - grant request, interplay between grant and notification services
 - data flow, including authorization (grant verification) and log
+-->
+
+## Create data deletion request
+
+In this interaction, a 
 
 ![sequence diagram 1](images/sequence-diagram_1_create-data-modification-request.svg)
 
