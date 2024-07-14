@@ -89,12 +89,11 @@ This interaction is depicted in four steps:
 
 These steps are enumerated in the sequence diagram below.
 
+![sequence diagram 1](images/sequence-diagram_1_create-data-modification-request.svg)
+
 > **A note on logs:** Events that are relevant to the DPC can happen inside and outside the DPC. For example, consider a grant authorization flow: As the data involved is managed via the DPC (grant requests, approvals, revocations, etc.), all logs concerning the grant authorization flow can be created internally (e.g., <kbd>Grant Service</kbd> calls the <kbd>Log Service</kbd> whenever necessary). When it comes to modification of personal data, this happens outside the DPC: the <kbd>Platform Core</kbd> is responsible for storing data providers' personal data. Therefore, in these cases, the <kbd>Platform Core</kbd> must inform the DPC via its <kbd>API</kbd> component.
 
 > **Getting notified:** Participants send notifications to each other, where each notification comprises two participants: a sender (or originator) and a recipient (or destination). When the notification involves a data provider and a data consumer, both participants interact with the DPC via the <kbd>UI</kbd> component. Therefore, these participants can see their new notifications on screen by accessing the DPC's user interface. However, there are more possibilities when the notification involves the platform owner (e.g., the data provider requests the platform owner to update their data). Certain predefined types of notifications can be processed by the <kbd>Platform Core</kbd> automatically, whereas generic requests may require human intervention. When a notification is created by the <kbd>Platform Core</kbd>, the sender calls an operation exposed by the <kbd>API</kbd> to create the notification in the DPC; when a notification is created by another participant, the <kbd>Platform Core</kbd> must pull the notification from the DPC, which can be done via an operation exposed by the <kbd>API</kbd>. Concrete implementations of the pulling can vary, depending on the concrete architecture and requirements of the concrete platform. The sequence diagram below features an optional callback function through which the DPC could inform the <kbd>Platform Core</kbd> about a new notification, which could be employed in scenarios involving time-sensitive messages.
-
-
-![sequence diagram 1](images/sequence-diagram_1_create-data-modification-request.svg)
 
 <p align="center">
     <a href="drivers.md">Previous: 3. Architecture drivers</a>&nbsp; | &nbsp;<a href="quality.md">Next: 5. Quality concepts</a>
