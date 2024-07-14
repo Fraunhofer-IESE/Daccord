@@ -87,7 +87,9 @@ This interaction is depicted in four steps:
 3. The platform modifies the data as requested
 4. The data provider is notified about the update of their data.
 
-These steps are enumerated in the sequence diagram below. Note that in step 1, the <kbd>Notification Service</kbd> calls the <kbd>Log Service</kbd> to log the operation. That means that a relevant operation happened inside the DPC, and therefore should be logged. In step 3, the <kbd>Platform Core</kbd> calls an API of the DPC to create the data modification log. In this case, a relevant operation happened outside the DPC, but as the DPC should know it, it is informed by the <kbd>Platform Core</kbd>.
+These steps are enumerated in the sequence diagram below.
+
+> **A note on logs:** Events that are relevant to the DPC can happen inside and outside the DPC. For example, consider a grant authorization flow: As the data involved is managed via the DPC (grant requests, approvals, revocations, etc.), all logs concerning the grant authorization flow can be created internally (e.g., <kbd>Grant Service</kbd> calls the <kbd>Log Service</kbd> whenever necessary). When it comes to modification of personal data, this happens outside the DPC: the <kbd>Platform Core</kbd> is responsible for storing data providers' personal data. Therefore, in these cases, the <kbd>Platform Core</kbd> must inform the DPC via its <kbd>API</kbd> component.
 
 ![sequence diagram 1](images/sequence-diagram_1_create-data-modification-request.svg)
 
