@@ -74,6 +74,7 @@ The next figure further decomposes the DPC component and features the external a
 - grant request, interplay between grant and notification services
 - data flow, including authorization (grant verification) and log
 
+![sequence diagram 1](images/sequence-diagram_1_create-data-modification-request.svg)
 
 <p align="center">
     <a href="drivers.md">Previous: 3. Architecture drivers</a>&nbsp; | &nbsp;<a href="quality.md">Next: 5. Quality concepts</a>
