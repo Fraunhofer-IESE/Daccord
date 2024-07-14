@@ -71,16 +71,23 @@ The next figure further decomposes the DPC component and features the external a
 
 # Behavior
 
-This section contains comportamental diagrams that depict the interaction among DPC components, the <kbd>Platform Core</kbd>, data consumers, and data providers when key actions are performed.
+This section contains behavioral diagrams depicting the interaction among DPC components, the <kbd>Platform Core</kbd>, data consumers, and data providers when performing key actions.
 
 <!--
 - grant request, interplay between grant and notification services
 - data flow, including authorization (grant verification) and log
 -->
 
-## Create data deletion request
+## Create data update request
 
-In this interaction, a 
+This interaction is depicted in four steps:
+
+1. A data provider requests the platform owner to update personal data.
+2. The platform pulls the request notification
+3. The platform modifies the data as requested
+4. The data provider is notified about the update of their data.
+
+These steps are enumerated in the sequence diagram below. Note that in step 1, the <kbd>Notification Service</kbd> calls the <kbd>Log Service</kbd> to log the operation. That means that a relevant operation happened inside the DPC, and therefore should be logged. In step 3, the <kbd>Platform Core</kbd> calls an API of the DPC to create the data modification log. In this case, a relevant operation happened outside the DPC, but as the DPC should know it, it is informed by the <kbd>Platform Core</kbd>.
 
 ![sequence diagram 1](images/sequence-diagram_1_create-data-modification-request.svg)
 
