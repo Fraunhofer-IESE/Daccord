@@ -51,7 +51,7 @@ The next figure further decomposes the DPC component and features the external a
 - The <kbd>Notification Service</kbd> component is responsible for creating and searching notifications of all types, such as grant requests, information, and confirmations.
     - Exposed functionalities:
         - create notifications of several types (e.g., information, confirmation, warning, risk) from one participant to another;
-        - create requests of several types (e.g., data deletion request, data report request, grant request -- the interplay between <kbd>Grant Service</kbd> and <kbd>Notification Service</kbd> on the creation of grant request is detailed in the section "Behavior") from one participant to another;
+        - create requests of several types (e.g., data deletion request, data report request, grant request -- the interplay between <kbd>Grant Service</kbd> and <kbd>Notification Service</kbd> on the creation of grant request is detailed in the section [Behavior](#behavior) from one participant to another;
     - Dependencies: It depends on the <kbd>Log Service</kbd> to log notifications to ensure proper tracking and record-keeping and <kbd>Grant Service</kbd> to create grant-related notifications (e.g., when creating a grant request notification in <kbd>Notification Service</kbd>, a grant request with status "pending" is created in <kbd>Grant Service</kbd>).
  
 ![diagram notification service](images/diagram_component-notification-service.svg)
