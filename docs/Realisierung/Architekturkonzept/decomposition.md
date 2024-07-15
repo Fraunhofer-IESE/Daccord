@@ -107,7 +107,7 @@ This interaction is depicted in four steps:
 
 These steps are enumerated in the sequence diagram below.
 
-![sequence diagram 2](image/sequence-diagram_2_create-incident-report-notification.svg)
+![sequence diagram 2](images/sequence-diagram_2_create-incident-report-notification.svg)
 
 
 <p align="center">
