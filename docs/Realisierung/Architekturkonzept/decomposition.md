@@ -109,7 +109,7 @@ These steps are enumerated in the sequence diagram below.
 
 > **A note on recipients:** In this example, the data consumer wants to notify all data providers about an incident involving a data leak of emails. When the data consumer created the incident notification in the DPC, it does not inform who will receive the notification. The <kbd>Notification Service</kbd> obtains this information in the <kbd>Grant Service</kbd> and creates one incident notification for each affected data provider.
 
-## Create grant (and approve) request
+## Create (and approve) grant request
 
 
 
