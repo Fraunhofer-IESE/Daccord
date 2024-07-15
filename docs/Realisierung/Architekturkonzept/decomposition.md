@@ -7,13 +7,13 @@
 
 # System decomposition
 
-# Structure
+## Structure
 
 The figure below features the <kbd>Data Intermediation Platform</kbd> composed of two elements: the <kbd>Platform Core</kbd> and the <kbd>DPC</kbd>. On the left side, a human actor represents a _data provider_; on the right side, an external third-party system and its user compose the _data consumer_. The data provider sends data assets to, and the data provider gets data assets from, the platform core. That means that the flow of the data assets happens via the core platform and does not belong to the scope of the DPC (note the _data asset flow_ area in the figure). The DPC contributes to the data flow, though, for the information about grants is managed by the DPC. Therefore, the platform core must check the DPC for grant information before forwarding data assets to a data consumer.
 
 ![first decomposition](images/diagram_decomposition-1.svg)
 
-## Layers
+### Layers
 
 Internally, the compositing components of the DPC are organized into three layers: 
 
@@ -23,7 +23,7 @@ Internally, the compositing components of the DPC are organized into three layer
 
 ![first decomposition](images/diagram_decomposition-layers.svg)
 
-## DPC's internal components
+### DPC's internal components
 
 The next figure further decomposes the DPC component and features the external and internal dependencies among components in the ecosystem. In this representation, we colored the components <kbd>Participant Service</kbd>, <kbd>Log Service</kbd>, <kbd>Notification Service</kbd>, and <kbd>Grant Service</kbd> matching the corresponding areas in the [domain model](system-context.md#domain-model).
 
@@ -69,7 +69,7 @@ The next figure further decomposes the DPC component and features the external a
 ![diagram notification service](images/diagram_component-participant-service.svg)
 
 
-# Behavior
+## Behavior
 
 This section contains behavioral diagrams depicting the interaction among DPC components, the <kbd>Platform Core</kbd>, data consumers, and data providers when performing key actions.
 
@@ -78,7 +78,7 @@ This section contains behavioral diagrams depicting the interaction among DPC co
 - data flow, including authorization (grant verification) and log
 -->
 
-## Create data update request
+### Create data update request
 
 This interaction is depicted in four steps:
 
@@ -96,7 +96,7 @@ These steps are enumerated in the sequence diagram below.
 > **Getting notified:** Participants send notifications to each other, where each notification comprises two participants: a sender (or originator) and a recipient (or destination). When the notification involves a data provider and a data consumer, both participants interact with the DPC via the <kbd>UI</kbd> component. Therefore, these participants can see their new notifications on screen by accessing the DPC's user interface. However, there are more possibilities when the notification involves the platform owner (e.g., the data provider requests the platform owner to update their data). Certain predefined types of notifications can be processed by the <kbd>Platform Core</kbd> automatically, whereas generic requests may require human intervention. When a notification is created by the <kbd>Platform Core</kbd>, the sender calls an operation exposed by the <kbd>API</kbd> to create the notification in the DPC; when a notification is created by another participant, the <kbd>Platform Core</kbd> must pull the notification from the DPC, which can be done via an operation exposed by the <kbd>API</kbd>. Concrete implementations of the pulling can vary, depending on the concrete architecture and requirements of the concrete platform. The sequence diagram below features an optional callback function through which the DPC could inform the <kbd>Platform Core</kbd> about a new notification, which could be employed in scenarios involving time-sensitive messages.
 
 
-## Create incident notification
+### Create incident notification
 
 This interaction is depicted in two steps:
 
@@ -109,7 +109,7 @@ These steps are enumerated in the sequence diagram below.
 
 > **A note on recipients:** In this example, the data consumer wants to notify all data providers about an incident involving a data leak of emails. When the data consumer created the incident notification in the DPC, it does not inform who will receive the notification. The <kbd>Notification Service</kbd> obtains this information in the <kbd>Grant Service</kbd> and creates one incident notification for each affected data provider.
 
-## Create (and approve) grant request
+### Create (and approve) grant request
 
 This interaction is depicted in two steps:
 
