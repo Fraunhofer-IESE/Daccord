@@ -52,7 +52,7 @@ The next figure further decomposes the DPC component and features the external a
     - Exposed functionalities:
         - create notifications of several types (e.g., information, confirmation, warning, risk) from one participant to another;
         - create requests of several types (e.g., data deletion request, data report request, grant request -- the interplay between <kbd>Grant Service</kbd> and <kbd>Notification Service</kbd> on the creation of grant request is detailed in the section "Behavior") from one participant to another;
-    - Dependencies: It depends on the <kbd>Log Service</kbd> to log notifications to ensure proper tracking and record-keeping.
+    - Dependencies: It depends on the <kbd>Log Service</kbd> to log notifications to ensure proper tracking and record-keeping and <kbd>Grant Service</kbd> to create grant-related notifications (e.g., when creating a grant request notification in <kbd>Notification Service</kbd>, a grant request with status "pending" is created in <kbd>Grant Service</kbd>).
  
 ![diagram notification service](images/diagram_component-notification-service.svg)
 
@@ -97,8 +97,6 @@ These steps are enumerated in the sequence diagram below.
 
 
 ## Create incident notification
-
-TODO: consider case when the destination is not clear (e.g., the data consumer wants to notify all its data providers without naming the individual data providers).
 
 This interaction is depicted in four steps:
 
