@@ -44,7 +44,7 @@ This section presents DPC's  _key functional requirements_ (KFR) and the _qualit
 
 |  | Description | Quantification |
 |----------|----------|----------|
-| Environment   | Existing two-sided platforms intermediate the exchange of data assets between participants. From the data provider side, participants are end users; from the data consumer side, participants are services operated by third-party companies.     | • Number of existing plat-forms > 1 <br/> • Each platform is implemented using a distinct programming language <br/> • Each third-party service is implemented using a distinct programming language     |
+| Environment   | Existing two-sided platforms intermediate the exchange of data assets between participants. From the data provider side, participants are end users; from the data consumer side, participants are services operated by third-party companies.     | • Number of existing platforms > 1 <br/> • Each platform is implemented using a distinct programming language <br/> • Each third-party service is implemented using a distinct programming language     |
 | Stimulus | The operator of an arbitrary existing platform wants to integrate the DPC.     |      |
 | Response    | The DPC is integrated into the platform     | No dev time modifications are required in the DPC     |
 
