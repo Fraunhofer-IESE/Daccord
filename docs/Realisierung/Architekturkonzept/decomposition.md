@@ -109,6 +109,7 @@ These steps are enumerated in the sequence diagram below.
 
 ![sequence diagram 2](images/sequence-diagram_2_create-incident-report-notification.svg)
 
+> **A note on recipients:** In this example, the data consumer wants to notify all data providers about an incident involving a data leak of emails. When the data consumer created the incident notification in the DPC, it does not inform who will receive the notification. The <kbd>Notification Service</kbd> obtains this information in the <kbd>Grant Service</kbd> and creates one incident notification for each affected data provider.
 
 <p align="center">
     <a href="drivers.md">Previous: 3. Architecture drivers</a>&nbsp; | &nbsp;<a href="quality.md">Next: 5. Quality concepts</a>
