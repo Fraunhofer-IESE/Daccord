@@ -102,12 +102,12 @@ TODO: consider case when the destination is not clear (e.g., the data consumer w
 
 This interaction is depicted in four steps:
 
-1. A data provider requests the platform owner to update personal data.
-2. The platform pulls the request notification
-3. The platform modifies the data as requested
-4. The data provider is notified about the update of their data.
+1. Data consumer creates an incident report notification to data providers
+2. Data provider is informed about the incident
 
 These steps are enumerated in the sequence diagram below.
+
+![sequence diagram 2](image/sequence-diagram_2_create-incident-report-notification.svg)
 
 
 <p align="center">
