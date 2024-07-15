@@ -121,7 +121,13 @@ This interaction is depicted in two steps:
 
 These steps are enumerated in the sequence diagram below.
 
-![sequence diagram 2](images/sequence-diagram_3_create-grant-requests.svg)
+![sequence diagram 3](images/sequence-diagram_3_create-grant-requests.svg)
+
+### Data asset flow
+
+Although the actual data asset flow occurs in the <kbd>Platform Core</kbd> (therefore, out of DPC's scope), the DPC contributes to it by providing the <kbd>Platform Core</kbd> with information about the existence of valid grants for the requested dataflow. The interaction is illustrated in the sequence diagram below, whicha assumes that the <kbd>Data Consumer System</kbd> gets data assets by accessing an operation exposed by the <kbd>Platform Core</kbd>.
+
+![sequence diagram 4](images/sequence-diagram_4_data-asset-flow.svg)
 
 <p align="center">
     <a href="drivers.md">Previous: 3. Architecture drivers</a>&nbsp; | &nbsp;<a href="quality.md">Next: 5. Quality concepts</a>
