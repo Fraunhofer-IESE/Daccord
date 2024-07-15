@@ -98,6 +98,8 @@ These steps are enumerated in the sequence diagram below.
 
 ## Create incident notification
 
+TODO: consider case when the destination is not clear (e.g., the data consumer wants to notify all its data providers without naming the individual data providers).
+
 This interaction is depicted in four steps:
 
 1. A data provider requests the platform owner to update personal data.
