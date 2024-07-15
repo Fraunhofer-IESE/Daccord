@@ -125,14 +125,16 @@ These steps are enumerated in the sequence diagram below.
 
 ### Data asset flow
 
-Although the actual data asset flow occurs in the <kbd>Platform Core</kbd> (therefore, out of DPC's scope), the DPC contributes to it by providing the <kbd>Platform Core</kbd> with information about the existence of valid grants for the requested dataflow. The interaction is illustrated in the sequence diagram below, whicha assumes that the <kbd>Data Consumer System</kbd> gets data assets by accessing an operation exposed by the <kbd>Platform Core</kbd>.
+Although the actual data asset flow happens in the <kbd>Platform Core</kbd> (and therefore is out of the scope of the DPC), the data asset flow is a relevant event in such an ecosystem and the DPC contributes to it by providing the <kbd>Platform Core</kbd> with information about the existence of valid grants for the requested dataflow. The interaction is illustrated in the sequence diagram below, which assumes that the <kbd>Data Consumer System</kbd> gets data assets by accessing an operation exposed by the <kbd>Platform Core</kbd>.
 
 ![sequence diagram 4](images/sequence-diagram_4_data-asset-flow.svg)
+
+> **Logging the data flow:** Note that when the <kbd>Grant Service</kbd> is asked for the existence of grants for data flow, it assumes that the <kbd>Platform Core</kbd> will perform a data flow if a grant is found. For this reason, this read operation is logged, as these logs can serve as a proxy for data providers to know when a data flow has occurred (as in the example).
 
 <p align="center">
     <a href="drivers.md">Previous: 3. Architecture drivers</a>&nbsp; | &nbsp;<a href="quality.md">Next: 5. Quality concepts</a>
 </p>
 
-### Data asset flow
 
-Although the actual data asset flow happens in the <kbd>Platform Core</kbd> (and therefore is out of the scope of the DPC), the data asset flow is a relevant event in such an ecosystem and the DPC contributes to it.
+
+
