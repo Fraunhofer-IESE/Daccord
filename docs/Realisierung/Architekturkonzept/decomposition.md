@@ -98,7 +98,7 @@ These steps are enumerated in the sequence diagram below.
 
 ## Create incident notification
 
-This interaction is depicted in four steps:
+This interaction is depicted in two steps:
 
 1. Data consumer creates an incident report notification to data providers
 2. Data provider is informed about the incident
@@ -111,7 +111,14 @@ These steps are enumerated in the sequence diagram below.
 
 ## Create (and approve) grant request
 
+This interaction is depicted in two steps:
 
+1. Data consumer creates a grant request
+2. Data provider approves the grant request
+
+These steps are enumerated in the sequence diagram below.
+
+![sequence diagram 2](images/sequence-diagram_3_create-grant-requests.svg)
 
 <p align="center">
     <a href="drivers.md">Previous: 3. Architecture drivers</a>&nbsp; | &nbsp;<a href="quality.md">Next: 5. Quality concepts</a>
