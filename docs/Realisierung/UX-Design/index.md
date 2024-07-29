@@ -12,12 +12,12 @@ UX Design geht über die rein funktionale Ebene hinaus und berücksichtigt auch 
 
 ## **![](../../assets/images/process.svg) Interaktionsdesigns für eingebettete Datenschutzfunktionen** 
 
-<mark>tbd.</mark>
+
+Komponenten eines Datenschutzcockpits können auch dezentral in ein digitales Ökosystem integriert werden. Die <strong>Eingebetteten Datenschutzfunktionen</strong> ermöglichen Nutzenden Zugriff auf Informationen und Kontrollfunktionen, ohne den aktuellen Anwendungskontext verlassen zu müssen.
+
 
 [Zum Kapitel "Interaktionsdesigns für eingebettete Datenschutzfunktionen"](<Eingebettete Datenschutzfunktionen>)
 
 ## **![](../../assets/images/puzzle.svg) Interaktionspattern**
-
-Komponenten eines Datenschutzcockpits können auch dezentral in ein digitales Ökosystem integriert werden. Die <strong>Eingebetteten Datenschutzfunktionen</strong> ermöglichen Nutzenden Zugriff auf Informationen und Kontrollfunktionen, ohne den aktuellen Anwendungskontext verlassen zu müssen.
 
 [Zum Kapitel "Interaktionspattern"](<Interaktionspattern>)
