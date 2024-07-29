@@ -19,5 +19,6 @@ Komponenten eines Datenschutzcockpits können auch dezentral in ein digitales Ö
 [Zum Kapitel "Interaktionsdesigns für eingebettete Datenschutzfunktionen"](<Eingebettete Datenschutzfunktionen>)
 
 ## **![](../../assets/images/puzzle.svg) Interaktionspattern**
+Interaktionspatterns sind etablierte UX-Lösungen die für die Umsetzung gebrauchstauglicher Benutzerschnittstellen dienen. Im Projekt D’accord wurden eine Liste existierende Interaktionspatterns für die Verwendung in Datenschutzcockpits kuratiert.
 
 [Zum Kapitel "Interaktionspattern"](<Interaktionspattern>)
