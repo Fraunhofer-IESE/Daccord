@@ -59,7 +59,7 @@ Auf dieser Seite führen wir Sie durch die Ergebnisse des Projekts.
 
 <mark>tbd.</mark>
 
-[Zum Kapitel "Überprüfung"](<Überprüfung/>)
+[Zum Kapitel "Überprüfung"](Überprüfung/)
 
 ## **![](./assets/images/play.svg) Systemeinführung:** Wie stellt man sicher, dass die Nutzer Datenschutz-Cockpits akzeptieren und verstehen?
 
@@ -82,7 +82,7 @@ Auf dieser Seite führen wir Sie durch die Ergebnisse des Projekts.
   - Eddy Groen
   - Patrick Müller 
   - Stefanie Ludborzs
-  - Rodrigo Falcao
+  - Rodrigo Falcão
 - **Hochschule Bonn-Rhein-Sieg**
   - Luigi Lo Iacono
   - Florian Dehling
