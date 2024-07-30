@@ -4,7 +4,7 @@ Stand: Juli 2024
 
 ## **Verarbeitung** (_processing_)
 
-**Oberbegriff** für sämtliche Verarbeitungsarten. Meint jeden mit oder ohne Hilfe automatisierter Verfahren (1) ausgeführten Vorgang oder jede solche Vorgangsreihe (2) im Zusammenhang mit personenbezogenen Daten (3) (eingehend zu den drei Bestandteilen _Herbst_ Rn. 13 ff.). Der Begriff ist weit auszulegen (_Reimer_ Rn. 43). Ein Verarbeitungswille (subjektives Element) muss nicht vorliegen, der Begriff ist also rein objektiv zu verstehen (_Schild_ Rn. 29, **andere Ansicht** wohl _Reimer_ Rn. 50, der darauf abstellt, dass die Verarbeitung willensgetragen sein muss. Verarbeitung kann ebenso nicht-technisch, nicht automatisiert, also manuell erfolgen (_Herbst_ Rn. 16). Von der nicht-automatisierten Verarbeitung werden Dateisysteme (Art. 4 Nr. 6 DSGVO) erfasst, nicht dagegen unstrukturierte Akten, Aufzeichnungen, oder Notizen (_Herbst_ Rn. 18 f., _Schild_ Rn. 33).
+**Oberbegriff** für sämtliche Verarbeitungsarten. Meint jeden mit oder ohne Hilfe automatisierter Verfahren (1) ausgeführten Vorgang oder jede solche Vorgangsreihe (2) im Zusammenhang mit personenbezogenen Daten (3) (eingehend zu den drei Bestandteilen _Herbst_ Rn. 13 ff.). Der Begriff ist weit auszulegen (_Reimer_ Rn. 43). Ein Verarbeitungswille (subjektives Element) muss nicht vorliegen, der Begriff ist also rein objektiv zu verstehen (_Schild_ Rn. 29); **andere Ansicht** wohl _Reimer_ Rn. 50, der darauf abstellt, dass die Verarbeitung willensgetragen sein muss. Verarbeitung kann ebenso nicht-technisch, nicht automatisiert, also manuell erfolgen (_Herbst_ Rn. 16). Von der nicht-automatisierten Verarbeitung werden Dateisysteme (Art. 4 Nr. 6 DSGVO) erfasst, nicht dagegen unstrukturierte Akten, Aufzeichnungen, oder Notizen (_Herbst_ Rn. 18 f., _Schild_ Rn. 33).
 
 Die aufgezählten Verarbeitungsarten sind nicht abschließend (z. B. werden die **Anonymisierung** und die **Pseudonymisierung** nicht extra genannt, obwohl letztere in Art. 4 Nr. 5 DSGVO als Verarbeitung definiert wird, _Herbst_ Rn. 20, _Reimer_ Rn. 54, _Roßnagel_ Rn. 12) und überschneiden sich teilweise (_Ernst_ Rn. 20, _Roßnagel_ Rn. 14).
 
@@ -31,7 +31,7 @@ Der englische Gesetzestext spricht hier von Strukturierung, was in der deutschen
 
 ## **Speicherung** (_storage_)
 
-Aufbewahrung der Daten in verkörperter Form auf einem Datenträger (auch in einer Cloud, Roßnagel Rn. 19) mit dem Ziel, die Daten später weiterzuverarbeiten oder auszulesen. Auch Notizblöcke, Karteikästen und eine Sammlung Aktenordner können Datenträger sein (_Herbst_ Rn. 24). Die Aufbewahrung eines Datenträgers stellt ebenfalls eine Speicherung dar (_Herbst_ Rn. 24). **Strittig** ist, ob die Aufbewahrung von Akten zur Lagerung (die Archivierung) ein Speichern darstellt (dafür _Schild_ Rn. 42, dagegen [HmbOVG Beschl. v. 15.10.2020 - 5 Bs 152/20, Rn. 24](https://www.landesrecht-hamburg.de/bsha/document/NJRE001442904), auf den Umstand der bloßen Lagerung als Zustand ohne menschliche Aktivität abstellend). Auch die Aufbewahrung einer Gewebeprobe stellt ein Speichern dar (_Ernst_ Rn. 25).
+Aufbewahrung der Daten in verkörperter Form auf einem Datenträger (auch in einer Cloud, _Roßnagel_ Rn. 19) mit dem Ziel, die Daten später weiterzuverarbeiten oder auszulesen. Auch Notizblöcke, Karteikästen und eine Sammlung Aktenordner können Datenträger sein (_Herbst_ Rn. 24). Die Aufbewahrung eines Datenträgers stellt ebenfalls eine Speicherung dar (_Herbst_ Rn. 24). **Strittig** ist, ob die Aufbewahrung von Akten zur Lagerung (die Archivierung) ein Speichern darstellt (dafür _Schild_ Rn. 42, dagegen [HmbOVG Beschl. v. 15.10.2020 - 5 Bs 152/20, Rn. 24](https://www.landesrecht-hamburg.de/bsha/document/NJRE001442904), auf den Umstand der bloßen Lagerung als Zustand ohne menschliche Aktivität abstellend). Auch die Aufbewahrung einer Gewebeprobe stellt ein Speichern dar (_Ernst_ Rn. 25).
 
 ## **Anpassung** (_adaption_)
 
@@ -41,7 +41,7 @@ Umgestaltung des Inhalts der in einem Datum enthaltenen Information in einer Art
 
 Umgestaltung des Informationsgehalts der Daten, z. B. in Form einer Korrektur (_Arning/Rothkegel_ Rn. 78). Eine Reduktion ist nicht ausreichend (_Arning/Rothkegel_ Rn. 78, _Reimer_ Rn. 62, _Schild_  Rn. 45), ebenso wenig das Umorganisieren oder Neuordnen (_Herbst_ Rn. 25). Die Daten müssen einen neuen Informationswert erhalten (_Schild_ Rn. 45). Bezeichnet nicht das Hinzufügen weiterer personenbezogener Daten, das eine Ergänzung darstellt (_Schild_ Rn. 45).
 
-Die **Anonymisierung** und **Pseudonymisierung** könnten als Unterfälle der Veränderung gefasst werden (so _Gola_ Rn. 52; diskutierend aber im Ergebnis ablehnend _Roßnagel_ Rn. 20; ebenfalls ablehnend _Arning/Rothkegel_ Rn. 78; _Schild_ Rn. 45).
+Die **Anonymisierung** und **Pseudonymisierung** könnten als Unterfälle der Veränderung gefasst werden (so _Gola_ Rn. 52; diskutierend aber im Ergebnis ablehnend _Roßnagel_ Rn. 20; ebenfalls ablehnend _Arning/Rothkegel_ Rn. 78, _Schild_ Rn. 45).
 
 ## **Auslesung** (_retrieval_)
 
@@ -53,11 +53,11 @@ Gezieltes Durchsuchen eines Datenträgers anhand bestimmter Kriterien. Der Unter
 
 ## **Verwendung** (_use_)
 
-Jeder Umgang mit personenbezogenen Daten (außer der Erhebung (_Arning/Rothkegel_ Rn. 81, _Roßnagel_ Rn. 24, der auch die Erfassung ausschließt, **strittig**, nicht explizit ausschließend _Ernst_ Rn. 29, _Herbst_ Rn. 28; _Reimer_ schließt dagegen das Auslesen und das Abfragen aus, Rn. 67); auch die Anonymisierung (_Arning/Rothkegel_ Rn. 82). (**Auffangtatbestand**, _Arning/Rothkegel_ Rn. 81, _Schild_  Rn. 48, **andere Ansicht** _Reimer_ Rn. 67).
+Jeder Umgang mit personenbezogenen Daten (außer der Erhebung (_Arning/Rothkegel_ Rn. 81, _Roßnagel_ Rn. 24, der auch die Erfassung ausschließt; **strittig**, nicht explizit ausschließend _Ernst_ Rn. 29, _Herbst_ Rn. 28; _Reimer_ schließt dagegen das Auslesen und das Abfragen aus, Rn. 67); auch die Anonymisierung (_Arning/Rothkegel_ Rn. 82). (**Auffangtatbestand**, _Arning/Rothkegel_ Rn. 81, _Schild_  Rn. 48, **andere Ansicht** _Reimer_ Rn. 67).
 
 ## **Offenlegung** (_disclosure_)
 
-Vorgang der Zugänglichmachung von Daten, sodass andere die Möglichkeit der Kenntnisnahme des Informationsgehalts erhalten. Ob der Adressat ein Empfänger i. S. d. Art. 4 Nr. 9 DSGVO sein muss oder ob er auch Dritter i. S. d. Art. 4 Nr. 10 DSGVO sein kann, ist strittig (vgl. _Arning/Rothkegel_ Rn. 84, _Herbst_ Rn. 29, _Roßnagel_ Rn. 26, _Schild_ Rn. 49).
+Vorgang der Zugänglichmachung von Daten, sodass andere die Möglichkeit der Kenntnisnahme des Informationsgehalts erhalten. Ob der Adressat ein Empfänger i. S. d. Art. 4 Nr. 9 DSGVO sein muss oder ob er auch Dritter i. S. d. Art. 4 Nr. 10 DSGVO sein kann, ist **strittig** (vgl. _Arning/Rothkegel_ Rn. 84, _Herbst_ Rn. 29, _Roßnagel_ Rn. 26, _Schild_ Rn. 49).
 
 **Unterbegriffe der Offenlegung** sind:  
 - **Übermittlung** (_transmission_):  
@@ -94,18 +94,18 @@ Physische Zerstörung des Datenträgers, auf dem sich Daten befinden (**Unterbeg
 
 Wird in der DSGVO selbst nicht definiert. Laut Erwägungsgrund 26 zur DSGVO liegt eine Anonymisierung vor, wenn die Identifizierbarkeit nicht mehr gegeben ist.
 
-Wird in der Literatur zum Teil als eigener, unbenannter Verarbeitungspunkt gesehen, zum Teil unter „Veränderung“, „Verwendung“ oder „Löschung“ gefasst (ausführlich _Arning/Rothkegel_ Rn. 47–54, 143, 154, 156; _Ernst_ Rn. 48-51; _Gola_ Rn. 51–54; _Hansen_ Rn. 23–24; _Herbst_ Rn. 37b; _Klabunde/Horváth_ Rn. 20, 34–35; _Klar/Kühling_ Art. 4 Nr. 1 Rn. 31–34; _Schild_ Rn. 15–15a, 45–45a, 68; _Spindler/Dalby_ Rn. 14–16; _Ziebarth_ Rn. 24–32, 95-98).
+Wird in der Literatur zum Teil als eigener, unbenannter Verarbeitungspunkt gesehen, zum Teil unter „Veränderung“, „Verwendung“ oder „Löschung“ gefasst (ausführlich _Arning/Rothkegel_ Rn. 47–54, 143, 154, 156; _Ernst_ Rn. 48-51; _Gola_ Rn. 51–54; _Hansen_ Rn. 23–24; _Herbst_ Rn. 37b; _Klabunde/Horváth_ Rn. 20, 34–35; _Klar/Kühling_ Rn. 31–34; _Schild_ Rn. 15–15a, 45–45a, 68; _Spindler/Dalby_ Rn. 14–16; _Ziebarth_ Rn. 24–32, 95-98).
 
 ## **Pseudonymisierung** (_pseudonymisation_)
 
-Ist zwar nicht in der beispielhaften Aufzählung in Art. 4 Nr. 2 DSGVO enthalten, wird aber in Art. 4 Nr. 5 DSGVO ausdrücklich als Verarbeitung bezeichnet. Meint die Verarbeitung in einer Weise, dass die Daten ohne Hinzuziehung zusätzlicher Informationen nicht mehr einer spezifischen betroffenen Person zugeordnet werden können, sofern diese zusätzlichen Informationen gesondert aufbewahrt werden und technischen und organisatorischen Maßnahmen unterliegen, die gewährleisten, dass die personenbezogenen Daten nicht einer identifizierten oder identifizierbaren natürlichen Person zugewiesen werden (ausführlich _Arning/Rothkegel_ Rn. 55, 124–156; _Ernst_ Rn. 40–47; _Gola_ Rn. 46–55; _Hansen_ Rn. 1–57; _Herbst_ Rn. 37a; _Klabunde/Horváth_ Rn. 33–­35; _Klar/Kühling_ Art. 4 Nr. 5 Rn. 1–14; _Schild_ Rn. 68–80; _Spindler/Dalby_ Rn. 13–16; _Ziebarth_ Rn. 90–106).
+Ist zwar nicht in der beispielhaften Aufzählung in Art. 4 Nr. 2 DSGVO enthalten, wird aber in Art. 4 Nr. 5 DSGVO ausdrücklich als Verarbeitung bezeichnet. Meint die Verarbeitung in einer Weise, dass die Daten ohne Hinzuziehung zusätzlicher Informationen nicht mehr einer spezifischen betroffenen Person zugeordnet werden können, sofern diese zusätzlichen Informationen gesondert aufbewahrt werden und technischen und organisatorischen Maßnahmen unterliegen, die gewährleisten, dass die personenbezogenen Daten nicht einer identifizierten oder identifizierbaren natürlichen Person zugewiesen werden (ausführlich _Arning/Rothkegel_ Rn. 55, 124–156; _Ernst_ Rn. 40–47; _Gola_ Rn. 46–55; _Hansen_ Rn. 1–57; _Herbst_ Rn. 37a; _Klabunde/Horváth_ Rn. 33–­35; _Klar/Kühling_ Rn. 1–14; _Schild_ Rn. 68–80; _Spindler/Dalby_ Rn. 13–16; _Ziebarth_ Rn. 90–106).
 
 ## **Profiling** (_profiling_)
 
 Ist zwar nicht in der beispielhaften Aufzählung in Art. 4 Nr. 2 DSGVO enthalten, wird aber in Art. 4 Nr. 4 DSGVO ausdrücklich als Verarbeitung bezeichnet.
 Meint jede Art der automatisierten Verarbeitung, die darin besteht, dass die personenbezogenen Daten verwendet werden, um bestimmte persönliche Aspekte, die sich auf eine natürliche Person beziehen, zu bewerten, insb. um Aspekte bezüglich Arbeitsleistung, wirtschaftliche Lage, Gesundheit, persönliche Vorlieben, Interessen, Zuverlässigkeit, Verhalten, Aufenthaltsort oder Ortswechsel dieser natürlichen Person zu analysieren oder vorherzusagen (**Unterfall der automatisierten Entscheidungsfindung**,  vgl. Art. 13 Abs. 2 lit. f, Art. 14 Abs. 2 lit. g, Art. 15 Abs. 1 lit. h, Art. 22 Abs. 1, Art. 35 Abs. 3 lit. a, Art. 47 Abs. 2 lit. e und Erwägungsgrund 71 zur DSGVO sowie _Arning/Rothkegel_ Rn. 116 f.).
 
-Ausführlich zum Profiling _Arning/Rothkegel_ Rn. 114–123; _Buchner_ Art. 4 Nr. 4 Rn. 1–9a; _Ernst_ Rn. 36–39; _Gola_ Rn. 41–45; _Klabunde/Horváth_ Rn. 29–32; _Schild_ Rn. 64–67; _Scholz_ Rn. 1–12; _Spindler/Dalby_ Rn. 12; _Ziebarth_ Rn. 84–89.
+Ausführlich zum Profiling _Arning/Rothkegel_ Rn. 114–123; _Buchner_ Rn. 1–9a; _Ernst_ Rn. 36–39; _Gola_ Rn. 41–45; _Klabunde/Horváth_ Rn. 29–32; _Schild_ Rn. 64–67; _Scholz_ Rn. 1–12; _Spindler/Dalby_ Rn. 12; _Ziebarth_ Rn. 84–89.
 
 
 # **Quellenverzeichnis:**
