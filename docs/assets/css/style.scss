@@ -26,3 +26,21 @@ $section-headings-color: #70AD47;
 	color: #606c71;
 	content: "/\00a0";
 }
+
+.main-content h1 {
+	font-weight: bold !important;
+}
+
+.main-content h2 {
+	font-weight: bold !important; 
+}
+
+.main-content h3 {
+	margin-bottom: 0rem !important;
+}
+
+.main-content h4 {
+	margin-top: 1rem !important; 
+	margin-bottom: 0rem !important; 
+	font-style: italic !important;
+}
