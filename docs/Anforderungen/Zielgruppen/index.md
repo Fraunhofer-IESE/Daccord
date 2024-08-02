@@ -12,7 +12,7 @@
 
 [Zum Kapitel "Personas"](<Personas>)
 
-## **![](../../assets/images/brain.svg) Mentale Modelle:** Was verstehen die Nutzer unter Datenschutz(-Cockpits)?
+## **![](../../assets/images/brain.svg) Mentale Modelle:** Was verstehen die Nutzer unter Datenschutz und Privatsphäre?
 
 <mark>tbd.</mark>
 
