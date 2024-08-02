@@ -4,7 +4,7 @@ Um die Wahrnehmung der Nutzenden bezüglich des Datenschutzes und dessen Einflus
 In Gesprächen von durchschnittlich einer Stunde wurden die Teilnehmenden gefragt, welche Rolle Datenschutz bei der Wahl eines bestimmten Anbieters und dessen Nutzung spielt, anhand welcher Kriterien sie den Schutz ihrer Privatsphäre in einem digitalen Ökosystem bewerten und welche Maßnahmen sie zur Verbesserung ihrer Privatsphäre für notwendig erachten.
 
 ## Assoziationen zum Begriff Datenschutz 
->Teilnehmenden äüßerten unterschiedliche Assoziationen zum Begriff Datenschutz, wobei häufig rechtliche Vorgaben und der Schutz vor Datenmissbrauch durch Dritte genannt wurden. Es wird deutlich, dass Datenschutz oft als abstraktes Konzept wahrgenommen wird, das nicht immer als effektive Unterstützung im digitalen Alltag gesehen wird, was zu Zweifeln an seiner Wirksamkeit führt.
+>Teilnehmenden äußerten unterschiedliche Assoziationen zum Begriff Datenschutz, wobei häufig rechtliche Vorgaben und der Schutz vor Datenmissbrauch durch Dritte genannt wurden. Es wird deutlich, dass Datenschutz oft als abstraktes Konzept wahrgenommen wird, das nicht immer als effektive Unterstützung im digitalen Alltag gesehen wird, was zu Zweifeln an seiner Wirksamkeit führt.
 
 Auf die Frage nach spontanen Assoziationen mit dem Begriff Datenschutz gaben die Teilnehmenden unterschiedliche Antworten. Oft bezogen sich die Befragten auf Richtlinien oder Gesetze, die von Unternehmen eingehalten werden müssen. Ihr Hauptanliegen war, sich vor der Weitergabe persönlicher Daten oder deren unzulässiger Nutzung durch Dritte zu schützen. Als konkretes Beispiel nannten einige Teilnehmende Werbemaßnahmen, sei es in Form von E-Mails oder personalisierten Anzeigen innerhalb des digitalen Ökosystems. 
 
