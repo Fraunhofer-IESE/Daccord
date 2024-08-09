@@ -1,12 +1,13 @@
 # UX-Design
 
-User Experience (UX) Design beschreibt einen Prozess bei der Entwicklung von (digitalen) Produkten und Dienstleistungen, der darauf abzielt, positive und ansprechende Benutzererfahrungen zu schaffen. Es umfasst die Gestaltung des gesamten Nutzerinteraktionsprozesses, von der Nutzerforschung über das Design bis hin zur Implementierung. Dabei stehen die Bedürfnisse und Anforderungen der Nutzer im Mittelpunkt, um sicherzustellen, dass das Produkt oder der Service effizient, effektiv und angenehm zu verwenden ist.
+Dieses Kapitel befasst sich mit dem User Experience (UX) Design und der Frage wie man benutzerfreundliches Datenschutzfunktionen für digitale Ökosysteme entwickelt. UX Design beschreibt dabei einen Prozess bei der Entwicklung von (digitalen) Produkten, der darauf abzielt, positive und ansprechende Benutzererfahrungen zu schaffen. 
+Digitale Ökosysteme sind durch die Vielzahl von Akteuren und potenziellen Daten häufig durch komplexe Datenverarbeitungen geknnzeichnet.Für Nutzer ist es deshalb oft mühsam, gezielt Auskunft und Verständnis sowie Kontrolle über die Nutzung ihrer Daten zu erhalten. Um dieser Herausforderung zu begenen, wurden verschiedene Lösungsansätze entwickelt, die je nach Gegebenheit eingesetzt und kombiniert werden können. **Datenschutzcockpits** unterstützen als zentrale Anlaufstelle bei der Umsetzung des Datenschutzes, **Eingebettete Datenschutzfunktionen** integrieren spezifische Transparenz- und Selbstbestimmungsfunktionen in bestehende Interaktionskonzepte und unsere kuratierten **Interaktionspattern** stellen eine Sammlung bewährter UX-Lösungen für Datenschutzcockpits dar.
 
-UX Design geht über die rein funktionale Ebene hinaus und berücksichtigt auch emotionale Aspekte des Nutzererlebnisses. Es beinhaltet die Integration verschiedener Disziplinen wie Psychologie, Design und Technologie, um eine nahtlose und benutzerfreundliche Interaktion zu gewährleisten.
+
 
 ## **![](../../assets/images/arrows-to-circle.svg) Interaktionsdesigns für zentrale Datenschutz-Cockpits**
 
-<mark>tbd.</mark>
+Datenschutz-Cockpits dienen als zentrale Anlaufstelle sowohl Nutzern bei einem selbstbestimmten umgang mit den eigenen Daten als auch Verantwortliche bei der Ausübung datenschutzrelevanter Pflichten.
 
 [Zum Kapitel "Interaktionsdesigns für zentrale Datenschutz-Cockpits"](<Zentrale Datenschutz-Cockpits>)
 
