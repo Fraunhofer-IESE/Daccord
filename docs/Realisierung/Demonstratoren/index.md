@@ -14,6 +14,6 @@
 
 ## **![](../../assets/images/talking.svg) Kommunikationplattform für Unternehmen**
 
-<mark>tbd.</mark>
+Bei der elektronischen Kommunikation und Zusammenarbeit von IT-Unternehmen mit Partnern, Kunden und Lieferanten werden in der Regel intensiv personenbezogene Daten ausgetauscht, an Dritte weitergegeben werden oder bei Cloud-Diensten gespeichert. Ziel dieses Anwendungsbeispiels war es, die D’accord-Konzepte und -Werkzeuge in dem konkreten Unternehmenskontext der HK Business Solutions zu erproben, um sie anschleßend mit Zielgruppenvertretern evaluieren zu können.
 
 [Zum Demonstrator "Kommunikationplattform für Unternehmen"](<Kommunikationplattform>)
