@@ -44,7 +44,7 @@ Dieses Blatt besteht aus folgenden Spalten:
 
 Diese Blätter enthalten die **Kriterienkataloge** zu den einzelnen Qualitätsbereichen, wobei die Blätter „Qualität_der_Plattform“ und „Qualität_des_Cockpits“ jeweils Abschnitte zur Produktqualität und zur Nutzungsqualität umfassen. Alle Blätter bestehen aus folgenden Spalten:
 
-- **_B | Bereich | T | Teilbereich | Q | Qualitätsmerkmal_**_:_ Die Kennzeichnungen und Namen der Bereiche, Teilbereiche und Qualitätsmerkmale entsprechen denen im Blatt „Qualitätsmodell“.
+- **_B, Bereich, T, Teilbereich, Q, Qualitätsmerkmal_**_:_ Die Kennzeichnungen und Namen der Bereiche, Teilbereiche und Qualitätsmerkmale entsprechen denen im Blatt „Qualitätsmodell“.
 - **_K_**_:_ Kennzeichnung des Qualitätskriteriums: 00 = Überkategorie; 01–nn = Teilbereiche (fortlaufend nummeriert).
 - **_Kriterium_**_:_ Qualitätskriterium zur Bewertung des jeweiligen Qualitätsmerkmals, Teilbereichs oder Qualitätsbereichs.
 - **_ID_**_:_ auf Basis der oben beschriebenen Variablen B, T, Q und K automatisch generierter Identifikator des jeweiligen Qualitätskriteriums mit der Struktur B-T.Q.K.
@@ -52,7 +52,7 @@ Diese Blätter enthalten die **Kriterienkataloge** zu den einzelnen Qualitätsbe
 
 ### Quellen
 
-Die Quellen, auf denen die Inhalte des Qualitätsmodells basieren, werden im Reiter **„Quellen“** referenziert. Er besteht aus den folgenden Spalten:
+Sämtliche Quellen, auf denen die Inhalte des Qualitätsmodells basieren, werden im Blatt **„Quellen“** referenziert. Es besteht aus den folgenden Spalten:
 
 - **_Kürzel_**_:_ Kurzbezeichnung der Quelle, wie sie in anderen Blättern referenziert wird.
 - **_Autor/Herausgeber_**_:_ Name des Autors bzw. Herausgebers der Ressource.
