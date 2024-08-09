@@ -12,9 +12,9 @@ Das D’accord-Qualitätsmodell ermöglicht eine multiperspektivische Qualitäts
 
 [Zum Kapitel "Qualitätsmodell"](<Qualitätsmodell>)
 
-## **![](../assets/images/thumb-up.svg) UX-Design:** Wie gestaltet man ein benutzerfreundliches Datenschutz-Cockpit?
+## **![](../assets/images/thumb-up.svg) UX-Design:** Wie gestaltet man benutzerfreundliche Datenschutzfunktionen?
 
-<mark>tbd.</mark>
+Die im Projekt erarbeiteten Lösungsansätze zeigen Möglichkeiten auf, wie benutzerfreundliche Datenschutzfunktionen gestalten werden können. Diese können je nach Bedarf einzeln verwendet oder kombiniert angewandt werden.
 
 [Zum Kapitel "UX-Design"](<UX-Design>)
 
