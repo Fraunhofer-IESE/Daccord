@@ -1,8 +1,6 @@
 # Qualitätsmodell
 
-Das D’accord-Qualitätsmodell ermöglicht eine multiperspektivische Qualitätsbetrachtung und -bewertung über mehrere Qualitätsbereiche hinweg. Neben der Qualitätssicht des Betreibers, bei dem die hauptsächliche Verantwortlichkeit für die Qualitätssicherung im digitalen Ökosystem liegt, werden hierbei auch die Qualitätssichten aller anderen relevanten Stakeholder berücksichtigt.
-
-Für die Qualitätsbetrachtung in D'accord sind insbesondere zwei Softwaresysteme relevant, die gesondert zu betrachten sind, das Datenschutz-Cockpit als eigenständiges Produkt sowie die digitale Plattform des digitalen Ökosystems. Entsprechend ist in dem Modell meist nicht von einem „Produkt“ die Rede, sondern es wird das konkrete Softwareprodukt – das Datenschutz-Cockpit oder die digitale Plattform – benannt.
+Das D’accord-Qualitätsmodell ermöglicht eine multiperspektivische Qualitätsbetrachtung und -bewertung über mehrere Qualitätsbereiche hinweg. Neben der Qualitätssicht des Betreibers, bei dem die hauptsächliche Verantwortlichkeit für die Qualitätssicherung im digitalen Ökosystem liegt, werden hierbei auch die Qualitätssichten aller anderen relevanten Stakeholder berücksichtigt. Für die Qualitätsbetrachtung in D'accord sind insbesondere zwei Softwaresysteme relevant, die gesondert zu betrachten sind, das Datenschutz-Cockpit als eigenständiges Produkt sowie die digitale Plattform des digitalen Ökosystems. Entsprechend ist in dem Modell meist nicht von einem „Produkt“ die Rede, sondern es wird das konkrete Softwareprodukt – das Datenschutz-Cockpit oder die digitale Plattform – benannt.
 
 Das Qualitätsmodell ist in vier Ebenen aufgeteilt:
 
@@ -18,7 +16,7 @@ Das Thema Datenschutz ist hierbei in verschiedenen Bereichen relevant:
 - Strukturqualität: Die Sicherstellung des Datenschutzes liegt in der Verantwortung der verarbeitenden Organisation.
 - Datenqualität: Personenbezogene Daten bilden eine besondere Datenkategorie.
 
-Die Arbeiten am Qualitätsmodell in D’accord basierten auf den im Vorgängerprojekt [TrUSD](https://www.trusd-projekt.de) geleisteten Vorarbeiten.
+Die Arbeiten am Qualitätsmodell in D’accord basierten auf den im Vorgängerprojekt [TrUSD](https://www.trusd-projekt.de) geleisteten Vorarbeiten. Das D'accord-Qualitätsmodell in Form einer Excel-Datei steht [hier](https://github.com/Fraunhofer-IESE/Daccord/blob/b0f1892453f617cfcbb78357582989046cd620e4/docs/assets/D3.2a%20Qualit%C3%A4tsmodell%20-%20Anhang%20(Iteration%206).xlsx) als Download zur Verfügung.
 
 ## Struktur des Qualitätsmodells
 
@@ -58,4 +56,10 @@ Sämtliche Quellen, auf denen die Inhalte des Qualitätsmodells basieren, werden
 - **Autor/Herausgeber**: Name des Autors bzw. Herausgebers der Ressource.
 - **Titel**: Vollständiger bzw. offizieller Name der Quelle.
 - **URL**: Verweis zur Quelle oder zu einem (offiziellen) Kanal, über den Informationen zur Quelle abgerufen werden können.
+
+### Download
+
+Das D'accord-Qualitätsmodell in Form einer Excel-Datei steht hier als Download zur Verfügung:
+
+[D'accord-Qualitätsmodell](https://github.com/Fraunhofer-IESE/Daccord/blob/b0f1892453f617cfcbb78357582989046cd620e4/docs/assets/D3.2a%20Qualit%C3%A4tsmodell%20-%20Anhang%20(Iteration%206).xlsx)
 
