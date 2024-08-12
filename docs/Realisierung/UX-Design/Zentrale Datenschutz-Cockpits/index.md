@@ -1,3 +1,8 @@
 # Interaktionsdesigns für zentrale Datenschutz-Cockpits
 
-<mark>tbd.</mark>
+
+
+[Zum Kapitel "Datengeber"](<Datengeber>)
+
+
+[Zum Kapitel "Datennehmer"](<Datennehmer>)
