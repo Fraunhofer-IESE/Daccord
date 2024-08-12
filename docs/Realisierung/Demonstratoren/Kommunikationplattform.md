@@ -20,9 +20,9 @@ Ziel dieses Anwendungsbeispiels war es, die D’accord-Konzepte und die adaptive
 
 Im Rahmen der Anforderungserhebung an das Datenschutz-Cockpit wurden bei der HK Business Solutions interne Workshops durchgeführt. Anschließend wurden Experteninterviews mit Vertretern aus vier Kundenunternehmen geführt. Auf diese Weise wurden insgesamt 50 Anwendungsfälle identifiziert (siehe Beispiele in den Abbildungen), die den Funktionsumfang definierten:
 
-![Use-Case-Diagramm des Datenschutz-Cockpits](<HKBS-I-02>)
+![Use-Case-Diagramm des Datenschutz-Cockpits](<HKBS-I-02.png>)
 
-![Beispiel-Use-Cases des Datenschutz-Cockpits](<HKBS-I-03>)
+![Beispiel-Use-Cases des Datenschutz-Cockpits](<HKBS-I-03.png>)
 
 Als wichtigste Akteure für die Anwendungsfälle wurden identifiziert:
 
@@ -31,7 +31,7 @@ Als wichtigste Akteure für die Anwendungsfälle wurden identifiziert:
 - Content-Manager: kümmert sich um die inhaltliche Pflege des Datenschutz-Cockpits
 - Betroffene: alle Personen bei anderen Organisationen, deren personenbezogene Daten erhoben bzw. verarbeitet werden
 
-![Übersicht: Datenschutz-Cockpit, Organisationen und Akteure](<HKBS-I-01>)
+![Übersicht: Datenschutz-Cockpit, Organisationen und Akteure](<HKBS-I-01.png>)
 
 Zudem wurde entschieden, welche Betroffenenrechte im Cockpit-Demonstrator umgesetzt werden sollten:
 
@@ -48,88 +48,88 @@ Stand: August 2024)
 
 ### Login-Screen und Cockpit-Startseite
 
-![Login-Screen](<HKBS_01_login>)
+![Login-Screen](<HKBS_01_login.JPG>)
 
-![Cockpit-Startseite](<HKBS_02_startseite>)
+![Cockpit-Startseite](<HKBS_02_startseite.JPG>)
 
 ### Datenschutz-Glossar und Beispieleintrag
 
-![Datenschutz-Glossar](<HKBS_03_glossar>)
+![Datenschutz-Glossar](<HKBS_03_glossar.JPG>)
 
-![Beispieleintrag](<HKBS_04_glossareintrag>)
+![Beispieleintrag](<HKBS_04_glossareintrag.JPG>)
 
 ### Übersicht "Datenschutz bei HKBS"
 
-![Datenschutz bei HKBS](<HKBS_05_ds-bei-hkbs>)
+![Datenschutz bei HKBS](<HKBS_05_ds-bei-hkbs.JPG>)
 
 ### Richtlinien und Beispiel
 
-![Richtlinien](<HKBS_06_richtlinien>)
+![Richtlinien](<HKBS_06_richtlinien.JPG>)
 
-![Beispielrichtlinie](<HKBS_07_richtlinien-beispiel>)
+![Beispielrichtlinie](<HKBS_07_richtlinien-beispiel.JPG>)
 
 ### Verträge und Maske zum Anlegen eines neuen Vertrags
 
-![Verträge](<HKBS_08_vertraege>)
+![Verträge](<HKBS_08_vertraege.JPG>)
 
-![Maske zum Anlegen eines neuen Vertrags](<HKBS_09_neuer-vertrag>)
+![Maske zum Anlegen eines neuen Vertrags](<HKBS_09_neuer-vertrag.JPG>)
 
 ### Audits/Reviews und Maske zum Dokumentieren eines Audits
 
-![Audits/Reviews](<HKBS_10_audits>)
+![Audits/Reviews](<HKBS_10_audits.JPG>)
 
-![Maske zum Dokumentieren eines Audits](<HKBS_11_neues-audit>)
+![Maske zum Dokumentieren eines Audits](<HKBS_11_neues-audit.JPG>)
 
 ### Schulungen und Maske zum Dokumentieren einer Schulung
 
-![Schulungen](<HKBS_12_schulungen>)
+![Schulungen](<HKBS_12_schulungen.JPG>)
 
-![Maske zum Dokumentieren einer Schulung](<HKBS_13_neue-schulung>)
+![Maske zum Dokumentieren einer Schulung](<HKBS_13_neue-schulung.JPG>)
 
 ### Verarbeitungsverzeichnis und Beispieleintrag
 
-![Verarbeitungsverzeichnis](<HKBS_14_verarbeitungsverzeichnis>)
+![Verarbeitungsverzeichnis](<HKBS_14_verarbeitungsverzeichnis.JPG>)
 
-![Beispieleintrag](<HKBS_15_verarbeitungsverzeichnis-beispiel>)
+![Beispieleintrag](<HKBS_15_verarbeitungsverzeichnis-beispiel.JPG>)
 
 ### Verzeichnis der technischen und organisatorischen Maßnahmen, Beispieleintrag
 
-![Technische und organisatorische Maßnahmen](<HKBS_16_tom>)
+![Technische und organisatorische Maßnahmen](<HKBS_16_tom.JPG>)
 
-![TOM-Beispieleintrag](<HKBS_17_tom-beispiel>)
+![TOM-Beispieleintrag](<HKBS_17_tom-beispiel.JPG>)
 
 ### Verzeichnis der Datenschutz-Folgenabschätzungen und Maske zum Dokumentieren einer DSFA
 
-![Verzeichnis der Datenschutz-Folgenabschätzungen](<HKBS_18_dsfa>)
+![Verzeichnis der Datenschutz-Folgenabschätzungen](<HKBS_18_dsfa.JPG>)
 
-![Maske zum Dokumentieren einer DSFA](<HKBS_19_neue-dsfa>)
+![Maske zum Dokumentieren einer DSFA](<HKBS_19_neue-dsfa.JPG>)
 
 ### Übersichten der Datenkategorien, Dienste und Zwecke
 
-![Übersicht der Datenkategorien](<HKBS_20_datenkategorien>)
+![Übersicht der Datenkategorien](<HKBS_20_datenkategorien.JPG>)
 
-![Übersicht der Dienste und Zwecke](<HKBS_21_dienste-zwecke>)
+![Übersicht der Dienste und Zwecke](<HKBS_21_dienste-zwecke.JPG>)
 
 ### Übersicht der eigenen personenbezogenen Daten, Datenexport
 
-![Übersicht der eigenen personenbezogenen Daten](<HKBS_22_eigene-daten-aendern>)
+![Übersicht der eigenen personenbezogenen Daten](<HKBS_22_eigene-daten-aendern.JPG>)
 
-![Datenexport](<HKBS_23_eigene-daten-exportieren>)
+![Datenexport](<HKBS_23_eigene-daten-exportieren.JPG>)
 
 ### Einwilligungen und Anfragen, Beispielanfrage
 
-![Einwilligungen und Anfragen](<HKBS_24_einwilligungen-anfragen>)
+![Einwilligungen und Anfragen](<HKBS_24_einwilligungen-anfragen.JPG>)
 
-![Beispielanfrage](<HKBS_25_anfrage-beispiel>)
+![Beispielanfrage](<HKBS_25_anfrage-beispiel.JPG>)
 
 ### HKBS-Meldungen zum Datenschutz, Maske zum Erstellen einer neuen Meldung
 
-![HKBS-Meldungen zum Datenschutz](<HKBS_26_meldungen>)
+![HKBS-Meldungen zum Datenschutz](<HKBS_26_meldungen.JPG>)
 
-![Maske zum Erstellen einer neuen Meldung](<HKBS_27_neue_meldung>)
+![Maske zum Erstellen einer neuen Meldung](<HKBS_27_neue_meldung.JPG>)
 
 ### Administrationsoberfläche: Benutzerverwaltung und Rollenzuweisungen
 
-![Administrationsoberfläche: Benutzerverwaltung](<HKBS_28_benutzerverwaltung>)
+![Administrationsoberfläche: Benutzerverwaltung](<HKBS_28_benutzerverwaltung.JPG>)
 
-![Administrationsoberfläche: Rollenzuweisungen](<HKBS_29_rolle-aendern>)
+![Administrationsoberfläche: Rollenzuweisungen](<HKBS_29_rolle-aendern.JPG>)
