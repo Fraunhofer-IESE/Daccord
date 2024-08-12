@@ -6,3 +6,6 @@
 
 
 [Zum Kapitel "Datennehmer"](<Datennehmer>)
+
+
+[Zum Kapitel "Interaktionspattern"](<Interaktionspattern>)
