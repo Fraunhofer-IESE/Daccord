@@ -2,10 +2,8 @@
 
 
 
-[Zum Kapitel "Datengeber"](<Datengeber>)
+[Zum Kapitel "Datengeber"](Datengeber.md)
 
 
 [Zum Kapitel "Datennehmer"](<Datennehmer>)
 
-
-[Zum Kapitel "Interaktionspattern"](<Interaktionspattern>)
