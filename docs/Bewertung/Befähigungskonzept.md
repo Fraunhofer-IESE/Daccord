@@ -1,3 +1,3 @@
-# Befähigungskonzept
+# Kriterienkataloge
 
 <mark>tbd.</mark>
