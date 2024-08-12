@@ -5,5 +5,5 @@
 [Zum Kapitel "Datengeber"](Datengeber.md)
 
 
-[Zum Kapitel "Datennehmer"](<Datennehmer>)
+[Zum Kapitel "Datennutzer"](<Datennutzer.md>)
 
