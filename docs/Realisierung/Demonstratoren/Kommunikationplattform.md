@@ -76,9 +76,9 @@ Stand: August 2024)
 
 ### Audits/Reviews und Maske zum Dokumentieren eines Audits
 
-![Alt-Text](<HKBS_10_audits>)
+![Audits/Reviews](<HKBS_10_audits>)
 
-![Alt-Text](<HKBS_11_neues-audit>)
+![Maske zum Dokumentieren eines Audits](<HKBS_11_neues-audit>)
 
 ### Schulungen und Maske zum Dokumentieren einer Schulung
 
@@ -94,9 +94,9 @@ Stand: August 2024)
 
 ### Verzeichnis der technischen und organisatorischen Maßnahmen, Beispieleintrag
 
-![Alt-Text](<HKBS_16_tom>)
+![Technische und organisatorische Maßnahmen](<HKBS_16_tom>)
 
-![Alt-Text](<HKBS_17_tom-beispiel>)
+![TOM-Beispieleintrag](<HKBS_17_tom-beispiel>)
 
 ### Verzeichnis der Datenschutz-Folgenabschätzungen und Maske zum Dokumentieren einer DSFA
 
