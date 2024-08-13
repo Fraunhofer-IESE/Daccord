@@ -1,5 +1,5 @@
 
-# Mentale Modelle von Datenschutz und Privatheit in Digitalen Ökosystemen
+# Mentale Modelle von Datenschutz und Privatheit in digitalen Ökosystemen
 Um die Wahrnehmung der Nutzenden bezüglich des Datenschutzes und dessen Einfluss auf ihre Privatsphäre in digitalen Ökosystemen zu erforschen, wurde eine qualitative Interviewstudie durchgeführt. Dabei wurden 50 Personen zu Themen rund um Datenschutz und Privatsphäre in den Bereichen Gaming, Online-Shopping, Social Media, Dating und Videostreaming befragt. 
 In Gesprächen von durchschnittlich einer Stunde wurden die Teilnehmenden gefragt, welche Rolle Datenschutz bei der Wahl eines bestimmten Anbieters und dessen Nutzung spielt, anhand welcher Kriterien sie den Schutz ihrer Privatsphäre in einem digitalen Ökosystem bewerten und welche Maßnahmen sie zur Verbesserung ihrer Privatsphäre für notwendig erachten.
 
