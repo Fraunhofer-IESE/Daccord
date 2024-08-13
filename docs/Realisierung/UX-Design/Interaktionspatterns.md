@@ -10,7 +10,7 @@ Um zu identifizieren, welche Interaktionspatterns zur Umsetzung von Datenschutz-
 
 
 ### Transparenz über berechtigte Interessen (Informed Implicit Consent)
-In Fällen, in denen die Verarbeitung von personenbezogenen Daten auf einem legitimen Interesse basiert, müssen die betroffenen Personen vor Beginn der Verarbeitung umfassend über diese informiert werden.
+In Fällen, in denen die Verarbeitung von personenbezogenen Daten auf einem berechtigten Interesse basiert, müssen die betroffenen Personen vor Beginn der Verarbeitung umfassend über diese informiert werden.
 
 In digitalen Ökosystemen müssen Nutzende beispielweise vor Beginn der Nutzung über die mit einhergehenden Datenverarbeitungen informiert werden, um Gelegenheit zu geben von der Nutzung der Angebote abzusehen. Dabei müssen alle rechtlich vorgeschriebenen Informationen in einfacher und präziser Form präsentiert werden, um die Informiertheit der Nutzenden zu gewährleisten.
 #### Quelle
@@ -46,19 +46,19 @@ Mit einem Privacy Dashboard können digitale Ökosysteme ihren Nutzenden detaill
 ### Datenschutzerklärung (Privacy Policy Display)
 Der Verantwortliche muss die betroffenen Personen umfassend über die Verarbeitung ihrer personenbezogenen Daten informieren. Im Internet geschieht dies üblicherweise in Form einer Datenschutzerklärung. Eine Datenschutzerklärung sollte immer dann verwendet werden, wenn personenbezogene Daten in einem digitalen Ökosystem verarbeitet werden.
 
-Bei der Erstellung der Datenschutzerklärung ist darauf zu achten, dass diese alle gesetzliche geforderten Inhalte enthält. Gleichzeitig müssen die Information in leicht zugänglicher Form und in einer klaren und einfachen Sprache übermittelt werden, damit die Nutzenden mögliche Konsequenzen verstehen und fundierte Entscheidungen treffen können.
+Bei der Erstellung der Datenschutzerklärung ist darauf zu achten, dass diese alle gesetzlich geforderten Inhalte enthält. Gleichzeitig müssen die Informationen in leicht zugänglicher Form und in einer klaren und einfachen Sprache übermittelt werden, damit die Nutzenden mögliche Konsequenzen verstehen und fundierte Entscheidungen treffen können.
 #### Quellen
 * [privacypatterns.org: Privacy Policy Display](https://privacypatterns.org/patterns/Privacy-Policy-Display)
 * [privacypatterns.org: Dynamic Privacy Policy Display](https://privacypatterns.org/patterns/Dynamic-Privacy-Policy-Display)
-* C. Graf, P. Wolkerstorfer, A. Geven, and M. Tscheligi, “A Pattern Collection for Privacy Enhancing Technology,” The Second International Conferences of Pervasive Patterns and Applications (Patterns 2010), vol. 2, no. 1, pp. 72–77, 2010.
+* C. Graf, P. Wolkerstorfer, A. Geven, and M. Tscheligi, “A Pattern Collection for Privacy Enhancing Technology”, The Second International Conferences of Pervasive Patterns and Applications (Patterns 2010), vol. 2, no. 1, pp. 72–77, 2010.
 * [primelife.ercim.eu](http://primelife.ercim.eu/images/stories/deliverables/d4.1.3-hci_pattern_collection_v2-public.pdf)
-* S. Fischer-Hübner, C. Köffel, J.-S. Pettersson, P. Wolkerstorfer, C. Graf, L. E. Holtz, U. König, H. Hedbom, and B. Kellermann, “HCI Pattern Collection - Version 2,” 2010.
+* S. Fischer-Hübner, C. Köffel, J.-S. Pettersson, P. Wolkerstorfer, C. Graf, L. E. Holtz, U. König, H. Hedbom, and B. Kellermann, “HCI Pattern Collection - Version 2”, 2010.
 
 
 ### Tabelle mit personenbezogenen Daten (Personal Data Table)
 Nutzende haben ein Recht darauf, zu erfahren, welche personenbezogenen Daten in einem digitalen Ökosystem verarbeitet werden, wollen jedoch nicht unbedingt laufend darüber benachrichtigt werden. Die Aufbereitung der entsprechenden Informationen in Form einer Tabelle schafft Transparenz und ermöglicht es den Nutzenden, gewünschte Informationen bei Interesse einzusehen. 
 
-Die Tabelle sollte insbesondere Informationen enthalten, welche Kategorien personenbezogener Daten verarbeitet werden, auf welcher Rechtsgrundlage und zu welchem Zweck die Verarbeitung stattfindet, an welche Empfänger die Daten übermittelt werden und wie lange die Daten gespeichert werden.
+Die Tabelle sollte insbesondere Informationen darüber enthalten, welche Kategorien personenbezogener Daten verarbeitet werden, auf welcher Rechtsgrundlage und zu welchem Zweck die Verarbeitung stattfindet, an welche Empfänger die Daten übermittelt werden und wie lange die Daten gespeichert werden.
 #### Quelle
 * [privacypatterns.org: Personal Data Table](https://privacypatterns.org/patterns/Personal-Data-Table)
 
@@ -68,11 +68,11 @@ Ein Profil verleiht den Nutzenden des digitalen Ökosystems ein Gesicht. Dieses 
 
 Die Felder des Profils sollten sorgfältig ausgewählt sein und die Nutzenden sollten die Möglichkeit haben, ihre Profilinformationen nachträglich zu ändern. Funktionen zur Personalisierung fördern die Identifikation der Nutzenden mit ihrem Profil und dem digitalen Ökosystem.
 #### Quelle 
-* Crumlish, Christian, and Erin Malone. Designing Social Interfaces: Principles, Patterns, and Practices for Improving the User Experience. 2nd ed. Sebastopol, Ca: O’Reilly Media, Inc., August, 2015. pp. 118-125
+* Crumlish, Christian, and Erin Malone. Designing Social Interfaces: Principles, Patterns, and Practices for Improving the User Experience. 2nd ed. Sebastopol, Ca: O’Reilly Media, Inc., August, 2015. pp. 118-125.
 
 
 ### Mehrstufige Datenschutzrichtlinie (Layered Policy Design)
-Datenschutzrichtlinien sind in der Regel umfangreiche, komplexe und schwer verständliche Dokumente. In der heute gängigen Praxis dienen sie eher dazu, dass die Verantwortlichen sich rechtlich absichern als dass die Betroffenen informiert werden. 
+Datenschutzrichtlinien sind in der Regel umfangreiche, komplexe und schwer verständliche Dokumente. In der heute gängigen Praxis dienen sie eher dazu, dass die Verantwortlichen sich rechtlich absichern, als dass die Betroffenen informiert werden. 
 
 Eine mehrstufig aufgebaute Datenschutzrichtlinie hilft den Nutzenden dabei, sich schnell einen Überblick zu verschaffen und die für sie relevanten Informationen zu finden. Wichtige Aspekte, die am ehesten gelesen werden, sollten im Vordergrund stehen; Detailinformationen können (insbesondere bei umfangreichen Datenschutzrichtlinien) zunächst ausgeblendet sein.
 #### Quelle
@@ -80,7 +80,7 @@ Eine mehrstufig aufgebaute Datenschutzrichtlinie hilft den Nutzenden dabei, sich
 
 
 ### Datenschutz in einfacher Sprache (User-friendly Privacy Wording)
-Nutzende digitaler Ökosysteme werden oft mit einer Vielzahl von Datenschutzhinweisen konfrontiert, die sie über unterschiedliche Sachverhalte informieren, insbesondere über die Zwecke und Mittel, mit denen personenbezogenen Daten erhoben bzw. verarbeitet werden. Diese Informationen enthalten meist unnötige Details und sind für juristische Laien schwer verständlich. 
+Nutzende digitaler Ökosysteme werden oft mit einer Vielzahl von Datenschutzhinweisen konfrontiert, die sie über unterschiedliche Sachverhalte informieren, insbesondere über die Zwecke, zu denen personenbezogenen Daten erhoben bzw. verarbeitet werden. Diese Informationen enthalten meist unnötige Details und sind für juristische Laien schwer verständlich. 
 
 Alle datenschutzrelevanten Informationen sollten leicht verständlich und in kurzen, prägnanten Sätzen formuliert sein. Hierbei sollte auf bekannte, standardisierte Begriffe zurückgegriffen werden. Im Zweifel können Tests mit repräsentativen Nutzenden aus der Zielgruppe durchgeführt werden.
 #### Quelle
@@ -110,9 +110,9 @@ Um die Informiertheit der Nutzenden bei der Erteilung oder Verweigerung einer Ei
 
 
 ### Selektive Zugriffssteuerung (Selective Access Control)
-Nutzende digitaler Ökosysteme wollen eine wirksame Kontrolle über ihre personenbezogenen Daten haben und selbst entscheiden können, mit wem sie diese teilen. Sowohl bei erstellten Inhalten als auch bei (automatisch) generierten Daten mit Personenbezug sollten die Nutzenden die Möglichkeit haben, die Zielgruppe bzw. die Empfänger zu definieren und die Zugriffsregeln festzulegen. 
+Nutzende digitaler Ökosysteme müssen eine wirksame Kontrolle über ihre personenbezogenen Daten haben und selbst entscheiden können, mit wem sie diese teilen. 
 
-Voreinstellungen, die auf dem bisherigem Nutzerverhalten oder kontextabhängigen Attributen (z. B. Alter, Standort, Zugehörigkeit zu einer Nutzendengruppe) beruhen, können die Nutzenden hierbei unterstützen.
+Sowohl bei erstellten Inhalten als auch bei (automatisch) generierten Daten mit Personenbezug sollten die Nutzenden daher die Möglichkeit haben, die Zielgruppe bzw. die Empfänger zu definieren und die Zugriffsregeln festzulegen. 
 #### Quelle
 * [privacypatterns.org: Selective Access-Control](https://privacypatterns.org/patterns/Selective-Access-Control)
 
@@ -120,17 +120,17 @@ Voreinstellungen, die auf dem bisherigem Nutzerverhalten oder kontextabhängigen
 ### Funktionen steuern (Opt-in / Opt-out)
 Neben den Kernfunktionen bieten digitale Ökosystem meist zahlreiche weitere Funktionen an, mit denen häufig auch personenbezogene Daten verarbeitet werden. Nicht alle Nutzenden benötigen jedoch den vollen Funktionsumfang eines digitalen Ökosystems und könnten somit die Menge der Verarbeitungen ihrer personenbezogenen Daten einschränken.
 
-Nutzende sollten selbst wählen können, welche erweiterten Funktionen sie nutzen möchten. Dafür muss zu jeder Funktion dargestellt werden, welche Datenverarbeitungen dabei stattfinden.
+Nutzende sollten selbst wählen können, welche erweiterten Funktionen sie nutzen möchten. Dafür muss zu jeder Funktion dargestellt werden, welche Datenverarbeitungen dabei stattfinden (Granularität der Einwilligung).
 #### Quellen
 * [privacypatterns.org: Enable-Disable Functions](https://privacypatterns.org/patterns/Enable-Disable-Functions)
-* Baraki, H., Geihs, K., Hoffmann, A., Voigtmann, C., Kniewel, R., Macek, B. E., & Zirfas, J. (2014). Towards Interdisciplinary Design Patterns for Ubiquitous Computing Applications. Kassel, Germany. Retrieved from https://books.google.nl/books?id=D40vBgAAQBAJ
-* C. Kuner, European Data Protection Law, Corporate Compliance and Regulation. Oxford University Press, 2007. G. Hornung and C. Schnabel, “Data protection in germany: The population census decision and the right to informational self-determination,” Computer Law & Security Review, vol. 25, no. 1, pp. 84–88, 2009.
+* Baraki, H., Geihs, K., Hoffmann, A., Voigtmann, C., Kniewel, R., Macek, B. E., & Zirfas, J. (2014). Towards Interdisciplinary Design Patterns for Ubiquitous Computing Applications. Kassel, Germany. https://books.google.nl/books?id=D40vBgAAQBAJ
+* C. Kuner, European Data Protection Law, Corporate Compliance and Regulation. Oxford University Press, 2007. G. Hornung and C. Schnabel, “Data protection in germany: The population census decision and the right to informational self-determination”, Computer Law & Security Review, vol. 25, no. 1, pp. 84–88, 2009.
 
 
 ### Privatheitsfreundliche Voreinstellungen (Good Defaults)
 Bei der Einrichtung eines Accounts in einem digitalen Ökosystems müssen häufig initial zahlreiche Einstellungen getätigt werden. Da Nutzende meist möglichst schnell die Dienste in Anspruch nehmen möchten, bleiben wenig Zeit und kognitive Ressourcen für potenziell privatheitsrelevante Entscheidungen.
 
-Durch privatheitsfreundliche Voreinstellungen können Nutzende beim Einrichtungsprozess unterstützt werden. Vorausgefüllte Optionen können sich dabei auch an fundierten Vermutungen über die wahrscheinliche Wahl der Nutzenden orientieren.
+Durch privatheitsfreundliche Voreinstellungen können Nutzende beim Einrichtungsprozess unterstützt werden. 
 #### Quellen
 * [ui-patterns.com: Good Defaults](https://ui-patterns.com/patterns/GoodDefaults)
 * [ui-patterns.com: Status-qou-Bias](https://ui-patterns.com/patterns/Statusquo-bias)
@@ -139,15 +139,15 @@ Durch privatheitsfreundliche Voreinstellungen können Nutzende beim Einrichtungs
 ### Maskieren (Masquerade)
 Digitale Ökosysteme verlangen meist die Angabe einer Mindestmenge personenbezogener Daten, um sich zu registrieren. Während der Nutzung möchten die Nutzenden jedoch möglicherweise frei entscheiden, welche Daten sie an welche Empfänger freigeben.
 
-Wenn möglich, sollte Nutzenden die Möglichkeit eingeräumt werden, nicht benötigte Daten für eine bestimmte Aktion zu maskieren und die Verarbeitung somit dynamisch einzuschränken. Hierzu soll den Nutzenden ein geeignetes Bedienfeld geboten werden, mit dem Daten beispielsweis nach Kategorie oder dem Potential einer Identifizierung zur Maskierung ausgewählt werden können.
+Wenn möglich, sollte Nutzenden die Möglichkeit eingeräumt werden, nicht benötigte Daten für eine bestimmte Aktion zu maskieren und die Verarbeitung somit dynamisch einzuschränken. Hierzu soll den Nutzenden ein geeignetes Bedienfeld geboten werden, mit dem Daten beispielsweise nach Kategorie oder der Möglichkeit einer Identifizierung der eigenen Person zur Maskierung ausgewählt werden können.
 #### Quellen
 * [privacypatterns.org: Masquerade](https://privacypatterns.org/patterns/Masquerade)
 
 
 ### Festlegen neuer Berechtigungen im Voraus (Setting new permissions up-front)
-Viele Dienste digitaler Ökosysteme benötigen den Zugriff auf bestimmte personenbezogene Daten, damit sie ordnungsgemäß funktionieren. Meist wollen die Nutzenden einen Dienst sofort nutzen, ohne vorher differenzierte Einstellungen vorzunehmen. Allerdings sollten sie nicht dazu gedrängt werden, sämtliche Berechtigungen zu akzeptieren.
+Viele Dienste digitaler Ökosysteme benötigen den Zugriff auf bestimmte personenbezogene Daten, damit sie ordnungsgemäß funktionieren. Meist wollen die Nutzenden einen Dienst sofort nutzen, ohne vorher differenzierte Einstellungen vorzunehmen. Allerdings dürfen sie nicht dazu gedrängt werden, sämtliche Berechtigungen zu akzeptieren.
 
-Daher sollten die Nutzenden schnell grundlegende Einstellungen vornehmen können (bei der Installation eines Messengers z. B. das Erlauben des Zugriffs auf ihre Kontakte). Nachträglich sollte es ihnen möglich sein, die Berechtigungen in den Einstellungen zu überprüfen und anpassen.
+Daher sollten die Nutzenden schnell grundlegende Einstellungen vornehmen können (bei der Installation eines Messengers z. B. das Erlauben des Zugriffs auf ihre Kontakte). Nachträglich sollte es ihnen möglich sein, die Berechtigungen in den Einstellungen zu überprüfen und anzupassen (z. B. Widerruf einer Einwilligung).
 #### Quelle
 * [catalogue.projectsbyif.com: Setting permissions up-front](https://catalogue.projectsbyif.com/patterns/setting-permissions-up-front/)
 
@@ -169,7 +169,7 @@ Stattdessen kann zu dem Zeitpunkt, zu dem der Zugriff benötigt wird, darum gebe
 ### Action Buttons
 Einige Aktionen in digitalen Ökosystemen erfordern eine Bestätigung durch die Nutzenden. Das Bestätigen von Aktionen kann in einigen Fällen (beispielsweise Finanztransaktionen) schwerwiegendere Konsequenzen haben als in anderen (beispielsweise das Speichern von geänderten Profilinformationen).
 
-Um Nutzenden eindeutig zu signalisieren, welche Auswirkung eine Aktion hat, sollten Buttons verwendet werden, die mit entsprechenden, eindeutigen Verben beschriftet sind. Buttons mit besonderer Bedeutung können farblich hervorgehoben können. Der Einsatz von Farben sollte aber auf das notwendigste beschränkt werden.
+Um Nutzenden eindeutig zu signalisieren, welche Auswirkung eine Aktion hat, sollten Buttons verwendet werden, die mit entsprechenden, eindeutigen Verben beschriftet sind. Buttons mit besonderer Bedeutung können farblich hervorgehoben können. Der Einsatz von Farben sollte aber auf das Notwendigste beschränkt werden.
 #### Quelle
 * [welie.com: Action Button](http://www.welie.com/patterns/showPattern.php?patternID=action-button)
 
@@ -193,18 +193,18 @@ Hierzu werden die Daten so dargestellt, dass die Nutzenden damit arbeiten könne
 ### Symbolsprache (Privacy Icons)
 Datenschutzhinweise und -richtlinien sind für die Nutzenden digitaler Ökosysteme oft schwer zu verstehen. Ergänzende visuelle Symbole können das Verständnis erleichtern und eine ungefähre Vorstellung davon vermitteln, was der jeweilige Text aussagt. 
 
-Icons sind eine geeignete Ergänzung zum geschriebenen Text, da sie auf einen Blick und durch eine andere Modalität (Bilder) viele Informationen transportieren. Auch wenn einige Symbole für sich allein stehen können, ist es wichtig, dass der Benutzer Zugang zu textuellen Erläuterungen hat. 
+Icons sind eine geeignete Ergänzung zum geschriebenen Text, da sie auf einen Blick und durch eine andere Modalität (Bilder) viele Informationen transportieren. Auch wenn einige Symbole für sich allein stehen können, ist es wichtig, dass die Nutzenden Zugang zu textuellen Erläuterungen haben. 
 #### Quellen
 * [privacypatterns.org: Privacy Icons](https://privacypatterns.org/patterns/Privacy-icons.html)
 * [privacypatterns.org: Icons for Privacy Policies](https://privacypatterns.org/patterns/Icons-for-Privacy-Policies)
 * [privacypatterns.org: Appropriate Privacy Icons](https://privacypatterns.org/patterns/Appropriate-Privacy-Icons)
-* Timo Jakobi, Mandy Balthasar, Martina Borkowsky, Hartmut Schmitt (2020): Transparenz & Datenschutz: Privacy Icons aus Sicht von UX Professionals. In: Holger Fischer, Steffen Hess (Hrsg.): Mensch und Computer 2020 – Usability Professionals. Gesellschaft für Informatik e.V. und German UPA e.V., Bonn
+* Timo Jakobi, Mandy Balthasar, Martina Borkowsky, Hartmut Schmitt (2020): Transparenz & Datenschutz: Privacy Icons aus Sicht von UX Professionals. In: Holger Fischer, Steffen Hess (Hrsg.): Mensch und Computer 2020 – Usability Professionals. Gesellschaft für Informatik e.V. und German UPA e.V., Bonn.
 
 
 ### Benachrichtigungen (Notifications)
 Nutzende wollen über wichtige Aktionen, die die Verarbeitung ihrer Daten betreffen, informiert werden. Personalisierte, zeitnahe Benachrichtigungen können als Einstiegspunkt für detailliertere Informationen dienen. Bei Bedarf können die Nutzenden Aktionen überprüfen, anpassen oder abbrechen, bevor diese ausgeführt werden.
 
-Da Benachrichtigungen störend wirken können, sollte deren Häufigkeit zur Relevanz des Inhalts passen. Außerdem sollten die Nutzenden die Möglichkeit haben, die Benachrichtigungen in ihren Einstellungen zu deaktivieren oder zu ändern.
+Da Benachrichtigungen störend wirken können, sollte deren Häufigkeit zur Relevanz des Inhalts passen. Außerdem sollten die Nutzenden die Möglichkeit haben, die Benachrichtigungen in ihren Einstellungen zu deaktivieren oder zu ändern. Gesetzlich verpflichtende Benachrichtigungen dürfen allerdings nicht deaktiviert werden können.
 #### Quelle
 * [catalogue.projectsbyif.com: Notice of upcoming action](https://catalogue.projectsbyif.com/patterns/notice-of-upcoming-action/)
 * [ui-patterns.com: Notifications](https://ui-patterns.com/patterns/notifications)
@@ -213,7 +213,7 @@ Da Benachrichtigungen störend wirken können, sollte deren Häufigkeit zur Rele
 ### Strukturiertes Layout (Structured Layout / Chunking)
 Der große Funktionsumfang digitaler Ökosystemen kann dazu führen, dass große Mengen Informationen für die Nutzenden bereitgestellt werden müssen. Um die Verständlichkeit dieser Informationen zu gewährleisten, müssen diese möglichst strukturiert aufbereitet werden.
 
-Das Unterteilen von Informationen in thematisch zusammenhängende Gruppen kann die Erfassbarkeit erleichtern. Prägnante Überschriften ermöglichen dabei ein einfaches Auffinden.  Auch mehrspaltige Formatierungen können die Übersichtlichkeit verbessern. Hier werden prägnante Schlagworte in der ersten Spalte, und zugehörige Informationen oder Einstellmöglichkeiten in der zweiten Spalte platziert.
+Das Unterteilen von Informationen in thematisch zusammenhängende Gruppen kann die Erfassbarkeit erleichtern. Unterkapitel, prägnante Einzelüberschriften und visuelle Abhebungen ermöglichen dabei ein einfaches Auffinden und werden so auch von der Rechtsprechung vorgeschlagen.  Auch mehrspaltige Formatierungen können die Übersichtlichkeit verbessern. Hier werden prägnante Schlagworte in der ersten Spalte, und zugehörige Informationen oder Einstellmöglichkeiten in der zweiten Spalte platziert.
 #### Quellen
 * [vmware.github.io: App-Layout](https://vmware.github.io/clarity/documentation/v0.11/app-layout)
 * [ui-patterns.com: Chunking](https://ui-patterns.com/patterns/Chunking)
