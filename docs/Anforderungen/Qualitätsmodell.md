@@ -1,13 +1,13 @@
 # Qualitätsmodell
 
-Das D’accord-Qualitätsmodell ermöglicht eine multiperspektivische Qualitätsbetrachtung und -bewertung über mehrere Qualitätsbereiche hinweg. Neben der Qualitätssicht des Betreibers, bei dem die hauptsächliche Verantwortlichkeit für die Qualitätssicherung im digitalen Ökosystem liegt, werden hierbei auch die Qualitätssichten aller anderen relevanten Stakeholder berücksichtigt. Für die Qualitätsbetrachtung in D'accord sind insbesondere zwei Softwaresysteme relevant, die gesondert zu betrachten sind, das Datenschutz-Cockpit als eigenständiges Produkt sowie die digitale Plattform des digitalen Ökosystems. Entsprechend ist in dem Modell meist nicht von einem „Produkt“ die Rede, sondern es wird das konkrete Softwareprodukt – das Datenschutz-Cockpit oder die digitale Plattform – benannt.
+Das D’accord-Qualitätsmodell ermöglicht eine multiperspektivische Qualitätsbetrachtung über mehrere Qualitätsbereiche hinweg. Neben der Qualitätssicht des Betreibers, bei dem die hauptsächliche Verantwortlichkeit für die Qualitätssicherung im digitalen Ökosystem liegt, werden hierbei auch die Qualitätssichten aller anderen relevanten Stakeholder berücksichtigt. Für die Qualitätsbetrachtung in D'accord sind insbesondere zwei Softwaresysteme relevant, die gesondert zu betrachten sind, das Datenschutz-Cockpit als eigenständiges Produkt sowie die digitale Plattform des digitalen Ökosystems. Entsprechend ist in dem Modell meist nicht von einem „Produkt“ die Rede, sondern es wird das konkrete Softwareprodukt – das Datenschutz-Cockpit oder die digitale Plattform – benannt.
 
 Das Qualitätsmodell ist in vier Ebenen aufgeteilt:
 
 1. **Bereich**: Auf höchster Ebene besteht das Modell aus fünf Qualitätsbereichen: der Datenqualität, der Qualität der digitalen Plattform, der Qualität des Datenschutz-Cockpits, der Prozessqualität im digitalen Ökosystem sowie der Strukturqualität beim Betreiber des digitalen Ökosystems. Die Bereiche Qualität der digitalen Plattform und Qualität des Datenschutz-Cockpits bestehen jeweils aus zwei Abschnitten: Produktqualität (Qualität der digitalen Plattform bzw. des Datenschutz-Cockpits in Bezug auf die Erreichung der Ziele, für die sie bzw. es entwickelt wurde) und Nutzungsqualität (Auswirkungen der Nutzung der digitalen Plattform bzw. des Datenschutz-Cockpits auf den Nutzer in einem bestimmten Nutzungskontext).
 2. **Teilbereich**: Jeder Qualitätsbereich ist unterteilt in mehrere Teilbereiche. Manche Qualitätsmodelle oder Standards bezeichnen Qualitäten auf dieser Ebene als „Hauptmerkmale“.
 3. **Qualitätsmerkmal**: Jeder Teilbereich ist typischerweise in einzelne Qualitätsmerkmale unterteilt. Manche Qualitätsmodelle oder Standards bezeichnen Qualitäten auf dieser Ebene als „Teilmerkmale“.
-4. **Kriterium**: Für jedes einzelne Qualitätsmerkmal wurden Bewertungs- bzw. Messkriterien erstellt, auf deren Basis die Erfüllung der jeweiligen Qualität eingeschätzt werden kann. Die Qualitätskriterien sind als Leitfragen formuliert, sodass man sie als Checklisten-Items verwenden kann. Die Antwort „ja“ bedeutet die Erfüllung eines Kriteriums (z. B., weil eine Organisation eine Voraussetzung sicherstellt oder das System eine gewisse Eigenschaft erfüllt).
+4. **Kriterium**: Für jedes einzelne Qualitätsmerkmal wurden Bewertungs- bzw. Messkriterien erstellt, auf deren Basis die Erfüllung der jeweiligen Qualität eingeschätzt werden kann, [Kriterienkataloge](./Bewertung/Kriterienkataloge). 
 
 Das Thema Datenschutz ist hierbei in verschiedenen Bereichen relevant:
 
@@ -40,13 +40,7 @@ Dieses Blatt besteht aus folgenden Spalten:
 
 ### Datenqualität, Qualität_der_Plattform, Qualität_des_Cockpits, Prozessqualität, Strukturqualität
 
-Diese Blätter enthalten die **Kriterienkataloge** zu den einzelnen Qualitätsbereichen, wobei die Blätter „Qualität_der_Plattform“ und „Qualität_des_Cockpits“ jeweils Abschnitte zur Produktqualität und zur Nutzungsqualität umfassen. Alle Blätter bestehen aus folgenden Spalten:
-
-- **B, Bereich, T, Teilbereich, Q, Qualitätsmerkmal**: Die Kennzeichnungen und Namen der Bereiche, Teilbereiche und Qualitätsmerkmale entsprechen denen im Blatt „Qualitätsmodell“.
-- **K**: Kennzeichnung des Qualitätskriteriums: 00 = Überkategorie; 01–nn = Teilbereiche (fortlaufend nummeriert).
-- **Kriterium**: Qualitätskriterium zur Bewertung des jeweiligen Qualitätsmerkmals, Teilbereichs oder Qualitätsbereichs.
-- **ID**: auf Basis der oben beschriebenen Variablen B, T, Q und K automatisch generierter Identifikator des jeweiligen Qualitätskriteriums mit der Struktur B-T.Q.K.
-- **Quelle**: Referenz zur Quelle oder zu den Quellen, auf denen das Qualitätskriterium basiert. Die Aufschlüsselung der Referenzen erfolgt im Blatt „Quellen“.
+Diese Blätter enthalten die **Kriterienkataloge** zu den einzelnen Qualitätsbereichen, siehe [Kriterienkataloge](./Bewertung/Kriterienkataloge)
 
 ### Quellen
 
@@ -59,7 +53,7 @@ Sämtliche Quellen, auf denen die Inhalte des Qualitätsmodells basieren, werden
 
 ### Download
 
-Das D'accord-Qualitätsmodell in Form einer Excel-Datei steht hier als Download zur Verfügung:
+Das D'accord-Qualitätsmodell in Form einer Excel-Datei (zusammen mit den Kriterienkatalogen) steht hier als Download zur Verfügung:
 
 [D'accord-Qualitätsmodell](https://github.com/Fraunhofer-IESE/Daccord/blob/b0f1892453f617cfcbb78357582989046cd620e4/docs/assets/D3.2a%20Qualit%C3%A4tsmodell%20-%20Anhang%20(Iteration%206).xlsx)
 
