@@ -7,7 +7,7 @@ Das Qualitätsmodell ist in vier Ebenen aufgeteilt:
 1. **Bereich**: Auf höchster Ebene besteht das Modell aus fünf Qualitätsbereichen: der Datenqualität, der Qualität der digitalen Plattform, der Qualität des Datenschutz-Cockpits, der Prozessqualität im digitalen Ökosystem sowie der Strukturqualität beim Betreiber des digitalen Ökosystems. Die Bereiche Qualität der digitalen Plattform und Qualität des Datenschutz-Cockpits bestehen jeweils aus zwei Abschnitten: Produktqualität (Qualität der digitalen Plattform bzw. des Datenschutz-Cockpits in Bezug auf die Erreichung der Ziele, für die sie bzw. es entwickelt wurde) und Nutzungsqualität (Auswirkungen der Nutzung der digitalen Plattform bzw. des Datenschutz-Cockpits auf den Nutzer in einem bestimmten Nutzungskontext).
 2. **Teilbereich**: Jeder Qualitätsbereich ist unterteilt in mehrere Teilbereiche. Manche Qualitätsmodelle oder Standards bezeichnen Qualitäten auf dieser Ebene als „Hauptmerkmale“.
 3. **Qualitätsmerkmal**: Jeder Teilbereich ist typischerweise in einzelne Qualitätsmerkmale unterteilt. Manche Qualitätsmodelle oder Standards bezeichnen Qualitäten auf dieser Ebene als „Teilmerkmale“.
-4. **Kriterium**: Für jedes einzelne Qualitätsmerkmal wurden Bewertungs- bzw. Messkriterien erstellt, auf deren Basis die Erfüllung der jeweiligen Qualität eingeschätzt werden kann, [Kriterienkataloge](./Bewertung/Kriterienkataloge). 
+4. **Kriterium**: Für jedes einzelne Qualitätsmerkmal wurden Bewertungs- bzw. Messkriterien erstellt, auf deren Basis die Erfüllung der jeweiligen Qualität eingeschätzt werden kann, [Kriterienkataloge](https://fraunhofer-iese.github.io/Daccord/Bewertung/Kriterienkataloge). 
 
 Das Thema Datenschutz ist hierbei in verschiedenen Bereichen relevant:
 
@@ -16,7 +16,8 @@ Das Thema Datenschutz ist hierbei in verschiedenen Bereichen relevant:
 - Strukturqualität: Die Sicherstellung des Datenschutzes liegt in der Verantwortung der verarbeitenden Organisation.
 - Datenqualität: Personenbezogene Daten bilden eine besondere Datenkategorie.
 
-Die Arbeiten am Qualitätsmodell in D’accord basierten auf den im Vorgängerprojekt [TrUSD](https://www.trusd-projekt.de) geleisteten Vorarbeiten. Das D'accord-Qualitätsmodell in Form einer Excel-Datei steht [hier](https://github.com/Fraunhofer-IESE/Daccord/blob/b0f1892453f617cfcbb78357582989046cd620e4/docs/assets/D3.2a%20Qualit%C3%A4tsmodell%20-%20Anhang%20(Iteration%206).xlsx) als Download zur Verfügung.
+Die Arbeiten am Qualitätsmodell in D’accord basierten auf den im Vorgängerprojekt [TrUSD](https://www.trusd-projekt.de) geleisteten Vorarbeiten. Das D'accord-Qualitätsmodell in Form einer Excel-Datei steht [hier](https://fraunhofer-iese.github.io/Daccord/assets/D3.2a%20Qualit%C3%A4tsmodell%20-%20Anhang%20(Iteration%206).xlsx
+) als Download zur Verfügung.
 
 ## Struktur des Qualitätsmodells
 
@@ -40,7 +41,7 @@ Dieses Blatt besteht aus folgenden Spalten:
 
 ### Datenqualität, Qualität_der_Plattform, Qualität_des_Cockpits, Prozessqualität, Strukturqualität
 
-Diese Blätter enthalten die **Kriterienkataloge** zu den einzelnen Qualitätsbereichen, siehe [Kriterienkataloge](./Bewertung/Kriterienkataloge)
+Diese Blätter enthalten die **Kriterienkataloge** zu den einzelnen Qualitätsbereichen, siehe [Kriterienkataloge](https://fraunhofer-iese.github.io/Daccord/Bewertung/Kriterienkataloge)
 
 ### Quellen
 
