@@ -1,7 +1,7 @@
 # Kriterienkataloge des D'accord-Qualitätsmodells
 
-Das [D’accord-Qualitätsmodell](./Anforderungen/Qualitätsmodell) ermöglicht eine multiperspektivische Qualitätsbetrachtung und -bewertung über mehrere Qualitätsbereiche hinweg. Neben der Qualitätssicht des Betreibers, bei dem die hauptsächliche Verantwortlichkeit für die Qualitätssicherung im digitalen Ökosystem liegt, werden hierbei auch die Qualitätssichten aller anderen relevanten Stakeholder berücksichtigt. Anhand der Kriterienkataloge ist eine gezielte Bewertung der gewünschten Qualitätseigenschaften bzw. der relevanten Qualitätsbereiche möglich. 
-Zu den Ebenen und der Struktur des D'accord-Qualitätsmodells, vgl. [Qualitätsmodell](./Anforderungen/Qualitätsmodell).
+Das [D’accord-Qualitätsmodell](./Anforderungen/Qualitätsmodell.md) ermöglicht eine multiperspektivische Qualitätsbetrachtung und -bewertung über mehrere Qualitätsbereiche hinweg. Neben der Qualitätssicht des Betreibers, bei dem die hauptsächliche Verantwortlichkeit für die Qualitätssicherung im digitalen Ökosystem liegt, werden hierbei auch die Qualitätssichten aller anderen relevanten Stakeholder berücksichtigt. Anhand der Kriterienkataloge ist eine gezielte Bewertung der gewünschten Qualitätseigenschaften bzw. der relevanten Qualitätsbereiche möglich. 
+Zu den Ebenen und der Struktur des D'accord-Qualitätsmodells, vgl. [Qualitätsmodell](./Anforderungen/Qualitätsmodell.md).
 
 Für jedes einzelne Qualitätsmerkmal wurden Bewertungs- bzw. Messkriterien erstellt, auf deren Basis die Erfüllung der jeweiligen Qualität eingeschätzt werden kann. Die Qualitätskriterien sind als Leitfragen formuliert, sodass man sie als Checklisten-Items verwenden kann. Die Antwort „ja“ bedeutet die Erfüllung eines Kriteriums (z. B., weil eine Organisation eine Voraussetzung sicherstellt oder das System eine gewisse Eigenschaft erfüllt).
 
@@ -11,7 +11,7 @@ Die Kriterienkataloge sind in einer Excel-Datei dokumentiert, die folgende Blät
 
 ### Qualitätsmodell
 
-vgl. [Qualitätsmodell](./Anforderungen/Qualitätsmodell)
+vgl. [Qualitätsmodell](./Anforderungen/Qualitätsmodell.md)
 
 ### Datenqualität, Qualität_der_Plattform, Qualität_des_Cockpits, Prozessqualität, Strukturqualität
 
