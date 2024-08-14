@@ -84,7 +84,7 @@ Verträge (insbesondere mit externen Datenverarbeitern), die den Umgang mit pers
 ![Maske zum Dokumentieren eines Audits](<HKBS_11_neues-audit.JPG>)
 
 ### Schulungen und Maske zum Dokumentieren einer Schulung
-durchgeführte Schulungen zum Umgang mit personenbezogenen Daten im digitalen Ökosystem
+durchgeführte Schulungen zum Umgang mit personenbezogenen Daten im digitalen Ökosystem
 
 ![Schulungen](<HKBS_12_schulungen.JPG>)
 
