@@ -46,13 +46,14 @@ Im Anschluss an die Konzepterstellung und die Durchführung einer technischen Ma
 
 Stand: August 2024)
 
-### Login-Screen und Cockpit-Startseite
+### Login-Screen und Startseite des Datenschutz-Cockpits
 
 ![Login-Screen](<HKBS_01_login.JPG>)
 
 ![Cockpit-Startseite](<HKBS_02_startseite.JPG>)
 
 ### Datenschutz-Glossar und Beispieleintrag
+allgemeinverständliche Erklärungen datenschutzrelevanter Begriffe und Verweise auf relevante Quellen
 
 ![Datenschutz-Glossar](<HKBS_03_glossar.JPG>)
 
@@ -63,24 +64,27 @@ Stand: August 2024)
 ![Datenschutz bei HKBS](<HKBS_05_ds-bei-hkbs.JPG>)
 
 ### Richtlinien und Beispiel
+interne Richtlinien u. ä., die den Umgang mit personenbezogenen Daten im digitalen Ökosystem regeln
 
 ![Richtlinien](<HKBS_06_richtlinien.JPG>)
 
 ![Beispielrichtlinie](<HKBS_07_richtlinien-beispiel.JPG>)
 
 ### Verträge und Maske zum Anlegen eines neuen Vertrags
+Verträge (insbesondere mit externen Datenverarbeitern), die den Umgang mit personenbezogenen Daten im digitalen Ökosystem regeln
 
 ![Verträge](<HKBS_08_vertraege.JPG>)
 
 ![Maske zum Anlegen eines neuen Vertrags](<HKBS_09_neuer-vertrag.JPG>)
 
-### Audits/Reviews und Maske zum Dokumentieren eines Audits
+### Audits/Reviews und Maske zum Dokumentieren eines Datenschutz-Audits
 
 ![Audits/Reviews](<HKBS_10_audits.JPG>)
 
 ![Maske zum Dokumentieren eines Audits](<HKBS_11_neues-audit.JPG>)
 
 ### Schulungen und Maske zum Dokumentieren einer Schulung
+durchgeführte Schulungen zum Umgang mit personenbezogenen Daten im digitalen Ökosystem
 
 ![Schulungen](<HKBS_12_schulungen.JPG>)
 
@@ -105,12 +109,13 @@ Stand: August 2024)
 ![Maske zum Dokumentieren einer DSFA](<HKBS_19_neue-dsfa.JPG>)
 
 ### Übersichten der Datenkategorien, Dienste und Zwecke
+Datenkategorien mit Beschreibung, Quelle, Zweck, Empfänger; Dienste und Zwecke inkl. Rechtsgrundlagen
 
 ![Übersicht der Datenkategorien](<HKBS_20_datenkategorien.JPG>)
 
 ![Übersicht der Dienste und Zwecke](<HKBS_21_dienste-zwecke.JPG>)
 
-### Übersicht der eigenen personenbezogenen Daten, Datenexport
+### Übersicht der eigenen personenbezogenen Daten, Datenexport (als PDF)
 
 ![Übersicht der eigenen personenbezogenen Daten](<HKBS_22_eigene-daten-aendern.JPG>)
 
