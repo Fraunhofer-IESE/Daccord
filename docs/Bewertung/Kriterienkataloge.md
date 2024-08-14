@@ -36,4 +36,4 @@ Sämtliche Quellen, auf denen die Inhalte des Qualitätsmodells basieren, werden
 
 Die Kriterienkataloge in Form einer Excel-Datei (zusammen mit dem D'accord-Qualitätsmodell) stehen hier als Download zur Verfügung:
 
-[D'accord-Qualitätsmodell](https://github.com/Fraunhofer-IESE/Daccord/blob/b0f1892453f617cfcbb78357582989046cd620e4/docs/assets/D3.2a%20Qualit%C3%A4tsmodell%20-%20Anhang%20(Iteration%206).xlsx)
+[D'accord-Qualitätsmodell](https://fraunhofer-iese.github.io/Daccord/assets/D3.2a%20Qualit%C3%A4tsmodell%20-%20Anhang%20(Iteration%206).xlsx)
