@@ -32,6 +32,6 @@
 
 ## **![](../assets/images/ruler.svg) Qualitätsmodell:** Welche Qualitätseigenschaften muss ein Datenschutz-Cockpit erfüllen?
 
-Das D’accord-Qualitätsmodell ermöglicht eine multiperspektivische Qualitätsbetrachtung und -bewertung über mehrere Qualitätsbereiche hinweg. Neben der Qualitätssicht des Betreibers  werden die Qualitätssichten aller anderen relevanten Stakeholder berücksichtigt. Das D’accord-Qualitätsmodell steht in Form einer Excel-Datei als Download zur Verfügung.
+Das D’accord-Qualitätsmodell ermöglicht eine multiperspektivische Betrachtung über mehrere Qualitätsbereiche hinweg. Neben der Qualitätssicht des Betreibers  werden die Qualitätssichten aller anderen relevanten Stakeholder berücksichtigt. Das D’accord-Qualitätsmodell steht in Form einer Excel-Datei als Download zur Verfügung.
 
 [Zum Kapitel "Qualitätsmodell"](<Qualitätsmodell>)
