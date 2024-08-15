@@ -18,24 +18,19 @@ Damit eine solche Veränderung erfolgreich sein kann, ist es nicht ausreichend n
 
 Zusammenfassend gibt es fünf zentrale Gründe, warum die Einführung einer neuen Technologie scheitern kann:
 
-- Fehlende Kommunikationsstrategie:
-
+* _Fehlende Kommunikationsstrategie:_ <br>
 Viele Unternehmen und Organisationen verzichten auf das Change-Management. Anstatt die digitale Transformation unternehmensweit frühzeitig zu kommunizieren, wird über die Köpfe der Mitarbeitenden hinweg entschieden. Mangelnde Akzeptanz und eine ablehnende Haltung sind hier das Resultat und können zum Scheitern des gesamten Vorhabens führen.
 
-- Fehlende Partizipation:
-
+* _Fehlende Partizipation:_ <br>
 Die Einführung neuer Technologien erfolgt oftmals ohne Einbindung der Betroffenen bzw. häufig nicht in Zusammenarbeit mit den Mitarbeitenden. Dies hat zur Folge, dass zentrale Anforderungen an die Technologie nicht beachtet werden, Prozesse erst im Nachgang aufwendig optimiert und Arbeitsabläufe umgestaltet oder sogar neu aufgesetzt werden müssen. Auch hier sind Auswirkungen auf die Akzeptanz zu erwarten.
 
-- Fehlende Schulungen:
-
+* _Fehlende Schulungen:_ <br>
 Oftmals werden neue Technologien und Anwendungen eingeführt, ohne die Mitarbeitenden im Vorfeld für den Einsatz der neuen Technologie zu qualifizieren. Obwohl neue Anwendungen meist mit einer Vielzahl an neuen Funktionen und Anwendungsmöglichkeiten einhergehen, wissen viele Mitarbeitenden durch eine mangelhafte Vorbereitung nicht, wie diese auch effizient genutzt werden können. Die eigentlichen Vorteile der neuen digitalen Lösung bleiben so verborgen.
 
-- Fehlende Kompatibilität:
-
+* _Fehlende Kompatibilität:_ <br>
 In der Praxis wird bei der Anschaffung und Einführung neuer digitaler Lösungen der Aspekt der Kompatibilität mit bestehenden Systemen oftmals nicht beachtet. Daraus resultiert, dass Daten manuell übertragen oder in verschiedenen Systemen oder Datenbanken abgeglichen werden müssen – ein Mehraufwand, der viele Ressourcen kostet und den Mehrwert der neuen digitalen Lösung schmälert.
 
-- Medienbrüche:
-
+* _Medienbrüche:_ <br>
 Auch wenn die Digitalisierung in der alltäglichen Arbeit Vorteile mit sich bringt, müssen bestimmte Dokumente weiterhin physisch angelegt, archiviert und gepflegt werden. Zum Teil wird dies durch das deutsche Recht so verlangt, bspw. in der Buchhaltung und bei Rechnungsbelegen, teilweise werden bestehende Papierarchive ohne zu hinterfragen fortgeführt oder als physische Sicherheitskopie betrachtet. Aber auch weitere Medienbrüche in digitalen Prozessen, wie zum Beispiel das Unterschreiben von Dokumenten, führen am Ende dazu, dass durch den Mehraufwand für die Mitarbeitenden das volle Potenzial einer digitalen Lösung nicht ausgeschöpft werden kann.
 
 Darüber hinaus lassen sich noch weitere, häufig auftretende Herausforderungen bei der Umsetzung und Durchführung von Digitalisierungsvorhaben identifizieren. Unter anderem resultieren diese aus unternehmensspezifischen Gegebenheiten wie zum Beispiel einer Unternehmenskultur, die gegenüber Veränderungen nicht offen ist. Aber auch unklare Verantwortlichkeiten, ein unstrukturiertes Vorgehen sowie ein fehlendes Commitment der Unternehmensleitung und/ oder der Führungskräfte können ein Digitalisierungsprojekt bzw. eine konkrete Einführung einer Technologie negativ beeinträchtigen. Eine abschließende Aufzählung ist nahezu unmöglich und zeigt, wie relevant eine systematisch geplante Vorbereitung und Begleitung einer Technologieeinführung und dem damit einhergehenden Change-Prozess ist.
@@ -73,22 +68,22 @@ Als Grundlage für die praktische Umsetzung der strukturierten Beobachtung im Un
 
 ### Arbeitsatmosphäre
 
-- Ist der Umgang der Mitarbeitenden untereinander förmlich korrekt oder eher ungezwungen und locker?
-- Ist man angehalten sich ruhig zu verhalten und sich nur auf Arbeitsthemen zu beschränken oder darf ein offener Austausch auch mal zu privaten Themen stattfinden?
-- Verbringen Mitarbeitende ihre Pausen zusammen, bspw. beim gemeinsamen Mittagessen, oder bleibt jeder für sich?
-- Gibt es gemeinsame Rituale, Gewohnheiten, Routinen?
-- Unterstützen sich die Mitarbeiter gegenseitig bei Problemen und Herausforderungen?
-- Werden Probleme und Herausforderungen gemeinsam diskutiert?
+* Ist der Umgang der Mitarbeitenden untereinander förmlich korrekt oder eher ungezwungen und locker?
+* Ist man angehalten sich ruhig zu verhalten und sich nur auf Arbeitsthemen zu beschränken oder darf ein offener Austausch auch mal zu privaten Themen stattfinden?
+* Verbringen Mitarbeitende ihre Pausen zusammen, bspw. beim gemeinsamen Mittagessen, oder bleibt jeder für sich?
+* Gibt es gemeinsame Rituale, Gewohnheiten, Routinen?
+* Unterstützen sich die Mitarbeiter gegenseitig bei Problemen und Herausforderungen?
+* Werden Probleme und Herausforderungen gemeinsam diskutiert?
 
 ### Arbeitsumgebung
 
-- Verfügt jeder Mitarbeitende über einen festen Arbeitsplatz mit PC-Zugang oder flexible Arbeitsmodelle (Desk-Sharing etc.)?
-- Sind die Arbeitsplätze mit Notebooks oder ähnlichen mobilen Endgeräten ausgestattet?
-- Gibt es Einzel-, Team- oder Großraumbüros?
-- Arbeitet man für sich hinter verschlossenen Türen?
-- Gibt es Platz für eine kollaborative Zusammenarbeit (Besprechungszonen, Co-Working-Bereiche, Kreativbereiche etc.)?
-- Gibt es eine Kaffeeküche, die zum informellen Austausch einlädt und als „Treffpunkt“ dient?
-- Legt der Arbeitgeber Wert auf eine adäquate Ausstattung und Gestaltung der Arbeitsumgebung, oder herrscht ein strikter Sparkurs?
+* Verfügt jeder Mitarbeitende über einen festen Arbeitsplatz mit PC-Zugang oder flexible Arbeitsmodelle (Desk-Sharing etc.)?
+* Sind die Arbeitsplätze mit Notebooks oder ähnlichen mobilen Endgeräten ausgestattet?
+* Gibt es Einzel-, Team- oder Großraumbüros?
+* Arbeitet man für sich hinter verschlossenen Türen?
+* Gibt es Platz für eine kollaborative Zusammenarbeit (Besprechungszonen, Co-Working-Bereiche, Kreativbereiche etc.)?
+* Gibt es eine Kaffeeküche, die zum informellen Austausch einlädt und als „Treffpunkt“ dient?
+* Legt der Arbeitgeber Wert auf eine adäquate Ausstattung und Gestaltung der Arbeitsumgebung, oder herrscht ein strikter Sparkurs?
 
 ###  Organisationsform
 
@@ -100,21 +95,21 @@ Als Grundlage für die praktische Umsetzung der strukturierten Beobachtung im Un
 
 ### Offenheit für Innovation, Veränderungsbereitschaft, Fehlerkultur
 
-- Sind die Mitarbeitenden gegenüber Neuerungen offen oder nutzen lieber Altbewährtes?
-- Herrscht eine offene Fehlerkultur bzw. werden Fehler zum Lernen genutzt oder werden Fehler strikt geahndet und Verantwortliche gesucht?
-- Stehen die Mitarbeitenden Neuerungen und Innovationen eher offen gegenüber oder werden diese kritisch betrachtet?
-- Sehen die Mitarbeitenden einen Mehrwert in Neuerungen bzw. Innovationen oder nur einen Mehraufwand?
-- Werden Hinweise zur Weiterentwicklung, Verbesserung, besseren Einbettung in die Arbeitsabläufe und Prozesse gegeben?
+* Sind die Mitarbeitenden gegenüber Neuerungen offen oder nutzen lieber Altbewährtes?
+* Herrscht eine offene Fehlerkultur bzw. werden Fehler zum Lernen genutzt oder werden Fehler strikt geahndet und Verantwortliche gesucht?
+* Stehen die Mitarbeitenden Neuerungen und Innovationen eher offen gegenüber oder werden diese kritisch betrachtet?
+* Sehen die Mitarbeitenden einen Mehrwert in Neuerungen bzw. Innovationen oder nur einen Mehraufwand?
+* Werden Hinweise zur Weiterentwicklung, Verbesserung, besseren Einbettung in die Arbeitsabläufe und Prozesse gegeben?
 
 ### Kommunikation
 
-- Muss bei der Kommunikation die Hierarchie/Organisationsstruktur strikt eingehalten werden, oder darf bereichsübergreifend direkt kommuniziert werden?
-- Sucht man das persönliche Gespräch oder wird formal über Mails, Messenger etc. kommuniziert?
-- Ist die Kommunikation (insbesondere der Führungskräfte) eher im „Präsentiermodus“, oder werden offene Dialoge angeregt?
-- Wird die persönliche Du-Form genutzt oder eher die formelle Sie-Form?
-- Ist die Kommunikation intern eher locker und leger oder wird besonnen nur über spezifische Aspekte gesprochen und der Informationsfluss kontrolliert bzw. begrenzt?
-- Bleibt neben der täglichen Arbeit ausreichend Zeit für Kommunikation, bspw. in Regelmeetings?
-- Werden Konflikte und Probleme offen angesprochen oder werden diese bewusst zurückgehalten?
+* Muss bei der Kommunikation die Hierarchie/Organisationsstruktur strikt eingehalten werden, oder darf bereichsübergreifend direkt kommuniziert werden?
+* Sucht man das persönliche Gespräch oder wird formal über Mails, Messenger etc. kommuniziert?
+* Ist die Kommunikation (insbesondere der Führungskräfte) eher im „Präsentiermodus“, oder werden offene Dialoge angeregt?
+* Wird die persönliche Du-Form genutzt oder eher die formelle Sie-Form?
+* Ist die Kommunikation intern eher locker und leger oder wird besonnen nur über spezifische Aspekte gesprochen und der Informationsfluss kontrolliert bzw. begrenzt?
+* Bleibt neben der täglichen Arbeit ausreichend Zeit für Kommunikation, bspw. in Regelmeetings?
+* Werden Konflikte und Probleme offen angesprochen oder werden diese bewusst zurückgehalten?
 
 Die strukturierte Beobachtung liefert wichtige Erkenntnisse zur aktuellen Ist-Situation des Unternehmens. Die auf diese Weise gewonnenen Daten und Informationen sind ein wesentlicher Beitrag zur erfolgreichen Einführung des Datenschutz-Cockpits, da diese als Grundlage für die Ableitung weiterer strategischer Maßnahmen dienen.
 
