@@ -134,8 +134,7 @@ Bereits in dieser Phase ist es möglich und sinnvoll, alle relevanten Akteure in
 Bei der erfolgreichen Einführung einer neuen Technologie spielt die Beteiligung der Mitarbeitenden an dem Prozess eine entscheidende Rolle.<sup>[\[13\]](#footnote-13)</sup> Durch die **Partizipation** der Mitarbeitenden kann sichergestellt werden, dass die neue Technologie und die damit verbundenen, ggf. anzupassenden Prozesse, nutzerorientiert gestaltet werden können. Die Ermittlung von Anforderungen an die Technologie und die neuen Prozesse gemeinsam mit den Mitarbeitenden begünstigt eine passgenaue Lösung und steigert in der Regel die Motivation zur Nutzung der neuen technischen Lösung. Zeitgleich werden Widerständen und Hemmnisse der Mitarbeitenden gegenüber der neuen Technologie entgegengewirkt und abgebaut. Für eine erfolgreiche Partizipation ist es erforderlich, zu Beginn des Veränderungsprozesses klar zu definieren, in welchen Bereichen und in welchem Umfang bestimmte Personen oder Gruppen Entscheidungsbefugnisse besitzen. Beispielsweise verbleibt die Budgetverantwortung bei den Führungskräften, während bei der Auswahl einer konkreten Technologie die Einbindung der Mitarbeitenden sinnvoll ist.<sup>[\[14\]](#footnote-14)</sup> Hierbei gilt es, auch die Vorstufen der Partizipation zu berücksichtigen.
 
 ![Stufen der Partizipation](../assets/images/stufen-der-partizipation.png "Stufen der Partizipation")
-
-Abbildung 1: Stufen der Partizipation in Anlehnung an M. T. Wright
+*Abbildung 1: Stufen der Partizipation in Anlehnung an M. T. Wright*
 
 Bei den untersten Stufen findet „keine Partizipation“ statt. Die Interessen der Mitarbeitenden spielen keine Rolle. Es stehen lediglich die Interessen der Entscheidungsträger\*innen im Mittelpunkt. Bei den nächsten Stufen handelt es sich um „Vorstufen der Partizipation“. Die Mitarbeitenden werden zunehmend stärker einbezogen, auch wenn noch kein direkter Einfluss auf die Entscheidungen möglich ist. Bei den Stufen der „Partizipation“ haben die Mitarbeitenden eine formale und verbindliche Rolle in der Entscheidungsfindung. Die letzte Stufe geht über die Partizipation hinaus. Hierbei kann es sich bspw. um ein Projekt handeln, dass von den Mitarbeitenden selbst ausgeht. Alle Aspekte werden von den Mitarbeitenden selbst initiiert.<sup>[\[15\]](#footnote-15)</sup> Methoden zur Steigerung der Partizipation sind bspw. Blitzumfragen, der Rat der Weisen<sup>[\[16\]](#footnote-16)</sup> und Delegation Poker.<sup>[\[17\]](#footnote-17)</sup>
 
@@ -147,8 +146,7 @@ Bei der Identifikation der Beteiligten an dem Veränderungsvorhaben kann die Ers
 4. Ableiten von Maßnahmen.
 
 ![Stakeholder Matrix](../assets/images/stakeholder-matrix.png "Stakeholder Matrix")
-
-Abbildung 2: Stakeholder-Matrix mit Optionen für einen Maßnahmenplan in Anlehnung an M. J. Polonsky
+*Abbildung 2: Stakeholder-Matrix mit Optionen für einen Maßnahmenplan in Anlehnung an M. J. Polonsky*
 
 #### 2. Planungsphase
 
@@ -163,8 +161,7 @@ Das Rad ist in drei Ebenen aufgeteilt:
 - Auf der dritten Ebene befindet sich das erweiterte Team, als die ausführenden Rollen im Projekt
 
 ![Team Rad](../assets/images/team-rad.png "Team Rad")
-
-Abbildung 3: Team-Rad in Anlehnung an "Lean Management"
+*Abbildung 3: Team-Rad in Anlehnung an "Lean Management"*
 
 Das Team-Rad dient dazu die Führungskraft nicht zu überlasten. Die Führungskraft tauscht sich bspw. in wöchentlichen Meetings mit den Vertreter\*innen der Bereiche aus, die sich wiederum in eigenen wöchentlichen Meetings mit dem erweiterten Projektteam des jeweiligen Bereichs austauschen.
 
