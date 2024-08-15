@@ -1,6 +1,6 @@
-**Konzepte zur Einführung von Datenschutz-Cockpits** 
+# Konzepte zur Einführung von Datenschutz-Cockpits
 
-**Einleitung**
+## Einleitung
 
 Neue Technologien und digitale Lösungen können die Prozesse in Unternehmen und Organisationen an vielen Stellen unterstützen und Abläufe optimieren. Gleichzeitig bergen sie jedoch auch diverse Risiken in sich. Digitalisierung im Unternehmen bedeutet nicht nur die Einführung einer neuen Technologie, digitalen Lösung oder Software, sondern ist als ein tiefgreifender Veränderungsprozess zu verstehen. Diese Erkenntnis findet ihre Fundierung im sozio-technologischen Systemansatz nach Ulich, wonach bei der Einführung digitaler Lösungen auf der technischen Seite auch die Organisation mit ihren Strukturen und Vereinbarungen sowie das soziale Gefüge im Unternehmen rund um den Menschen als Mitarbeitenden beeinflussen kann.<sup>[\[1\]](#footnote-1)</sup> Das komplexe Zusammenwirken von technischen, organisationalen und sozialen Systemen wird demnach oftmals nicht ausreichend beachtet, wodurch es zu Schwierigkeiten bei der Umsetzung kommt: die ausgewählte Technologie entspricht nicht den Anforderungen am Arbeitsplatz, Mitarbeitende wurden nicht rechtzeitig geschult und sind überfordert oder der Betriebsrat bzw. die Personalvertretung sieht die Mitarbeitenden unzulässig überwacht und blockiert den Einsatz der neuen Technologie.<sup>[\[2\]](#footnote-2)</sup>
 
@@ -10,7 +10,7 @@ Das im Projekt D’accord entwickelte Datenschutz-Cockpit ist eine zentrale Anla
 
 Als wichtigste Erfolgskriterien bei der Einführung des DSC wurden im Rahmen einer Unternehmensbefragung die Kommunikation mit, die Einbeziehung und die Schulung der Mitarbeitenden genannt. Die befragten Unternehmensvertreter waren sich einig, dass die Technologieeinführung ohne überzeugte Beschäftigte (Technologieakzeptanz) scheitern und das neue Tool sehr wahrscheinlich nicht genutzt wird. Erst wenn man den Wert und Nutzen des DSC effektiv kommuniziert, das Tool einfach und intuitiv entsprechend der Bedürfnisse der Mitarbeitenden nutzbar ist und die Nutzenden schult (Schulungs- und Weiterbildungsprogramme), kann die Veränderung erfolgreich sein.<sup>[\[5\]](#footnote-5)</sup> Vorteilhaft ist es, den Veränderungsprozess proaktiv und strategisch zu gestalten, anstatt reaktiv auf auftretende Probleme, Verunsicherung und Ablehnung zu reagieren.<sup>[\[6\]](#footnote-6)</sup> Sogenannte Change-Management-Prozesse sind vielen Unternehmen nicht unbekannt, werden sie doch seit Jahren bereits in verschiedenen Ausgangssituationen eingesetzt, bspw. bei Neuausrichtung eines bestehenden Unternehmens oder bei organisationalen Zusammenschlüssen mehrerer Unternehmenseinheiten. Die Herausforderungen im Kontext einer Einführung neuer Technologien und das Voranschreiten der digitalen Transformation von Unternehmen allgemein wird zukünftig vermehrt der Auslöser für Veränderungsprozesse sein. <sup>[\[7\]](#footnote-7)</sup>
 
-**Herausforderung: Technologieeinführung und digitale Transformation**
+ ## Herausforderung: Technologieeinführung und digitale Transformation 
 
 Neue Technologien und digitale Lösungen bieten die Chance, die Prozesse und Arbeitsabläufe in Unternehmen und Organisationen zu optimieren und effizienter zu gestalten. Allerdings bedeutet die Einführung einer neuen digitalen Lösung auch einen tiefgreifenden Veränderungsprozess auf der Ebene der Organisation und Mitarbeitenden.
 
@@ -40,7 +40,7 @@ Auch wenn die Digitalisierung in der alltäglichen Arbeit Vorteile mit sich brin
 
 Darüber hinaus lassen sich noch weitere, häufig auftretende Herausforderungen bei der Umsetzung und Durchführung von Digitalisierungsvorhaben identifizieren. Unter anderem resultieren diese aus unternehmensspezifischen Gegebenheiten wie zum Beispiel einer Unternehmenskultur, die gegenüber Veränderungen nicht offen ist. Aber auch unklare Verantwortlichkeiten, ein unstrukturiertes Vorgehen sowie ein fehlendes Commitment der Unternehmensleitung und/ oder der Führungskräfte können ein Digitalisierungsprojekt bzw. eine konkrete Einführung einer Technologie negativ beeinträchtigen. Eine abschließende Aufzählung ist nahezu unmöglich und zeigt, wie relevant eine systematisch geplante Vorbereitung und Begleitung einer Technologieeinführung und dem damit einhergehenden Change-Prozess ist.
 
-**Der Mensch als kritischer Erfolgsfaktor einer Technologieeinführung**
+## Der Mensch als kritischer Erfolgsfaktor einer Technologieeinführung
 
 Betrachtet man die Prozesse in Unternehmen und Organisationen, die im Rahmen der digitalen Transformation verändert und bestenfalls optimiert werden, so wird ersichtlich, dass der Mensch eine zentrale Rolle einnimmt, mithin ein erfolgskritischer Faktor ist. Mitarbeitende, die gut vorbereitet und an den richtigen Stellen in den Prozess eingebunden sind, können eine tragende Rolle bei der Technologieeinführung einnehmen – sei es als Multiplikator\*in oder auch Promoter\*in im eigenen Unternehmen.
 
@@ -63,7 +63,7 @@ Bereits im Rahmen des Projektes TrUSD (Transparente und selbstbestimmte Ausgesta
 
 Dazu wird zunächst das partizipative methodische Vorgehen in seinen Grundzügen erläutert, welches die Grundlage für das ursprüngliche Einführungskonzept bildete und sodann zum Einführungskonzept für Datenschutz-Cockpits in digitalen Ökosystemen erweitert wurde.
 
-**Methodisches Vorgehen**
+## Methodisches Vorgehen
 
 In einem ersten Schritt ist die Durchführung einer strukturierten Beobachtung bei Unternehmen, die das Datenschutz-Cockpit einführen wollen, sinnvoll. Dies hilft dabei, die Unternehmenskultur, Mitarbeitende sowie Arbeitsbedingungen und -umfeld kennenzulernen und die informative Basis für die Einführung des Datenschutz-Cockpits zu schaffen. Im Folgenden wird eine prototypische Vorgehensweise beschrieben, bei der mit Hilfe von Leitfragen Beobachtungen in Unternehmen umgesetzt werden können.
 
@@ -118,13 +118,13 @@ Als Grundlage für die praktische Umsetzung der strukturierten Beobachtung im Un
 
 Die strukturierte Beobachtung liefert wichtige Erkenntnisse zur aktuellen Ist-Situation des Unternehmens. Die auf diese Weise gewonnenen Daten und Informationen sind ein wesentlicher Beitrag zur erfolgreichen Einführung des Datenschutz-Cockpits, da diese als Grundlage für die Ableitung weiterer strategischer Maßnahmen dienen.
 
-**Prozess zur Einführung des Datenschutz-Cockpits**
+## Prozess zur Einführung des Datenschutz-Cockpits
 
 Wie die vorangegangenen grundsätzlichen Ausführungen verdeutlichen, erfordert die Einführung einer neuen Technologie einen strukturierten und planvollen Ansatz, der auch strategische Aspekte berücksichtigt.
 
 Zur Erweiterung des Einführungskonzeptes des Datenschutz-Cockpits orientieren wir uns an den vier Phasen des digitalen Transformationsprozesses<sup>[\[9\]](#footnote-9)</sup>. Ziel dieses Prozesses ist die erfolgreiche Implementierung neuer Technologien in Unternehmen. Die vier Phasen bieten klare Vorgehensweisen und Methoden, die spezifisch auf die Einführung des Datenschutz-Cockpits angewendet werden können.
 
-1. **Orientierungsphase**
+1. #### Orientierungsphase
 
 Der Prozess beginnt mit einer Inspirations- und Orientierungsphase, in der das Unternehmen sich über bestehende Technologien und Informationen zum Datenschutz in digitalen Ökosystemen informiert. Um den Prozess gezielt zu steuern, gilt es, eine Art Vision für das Unternehmen zu entwickeln, die als Leitlinie für dessen weitere Entwicklung in Bezug auf die neue Technologie dient. Dabei sollten sowohl die Chancen als auch die Herausforderungen identifiziert werden, die sich durch den Einsatz dieser neuen Technologie bzw. des neuen digitalen Tools, wie z.B. des Datenschutz-Cockpits ergeben. Damit kann das Unternehmen in diesem ersten Schritt zugleich kritisch reflektieren, ob das ausgewählte Tool einen relevanten Mehrwert bietet oder, ob ggf. ein anderes Tool sogar geeigneter wäre. Mit diesem Schritt erfolgt also auch eine Standortbestimmung bzw. die Erfassung der Ist-Situation. Das Unternehmen analysiert den aktuellen Stand und leitet daraus Handlungsfelder ab, um die Einführung der neuen Technologie zu planen. Methoden, die hierbei zum Einsatz kommen können sind z.B. die Visionsentwicklung, die SWOT-Analyse und die Durchführung von Workshops.
 
@@ -155,7 +155,7 @@ Bei der Identifikation der Beteiligten an dem Veränderungsvorhaben kann die Ers
 
 Abbildung 2: Stakeholder-Matrix mit Optionen für einen Maßnahmenplan in Anlehnung an M. J. Polonsky
 
-1. **Planungsphase**
+1. #### Planungsphase
 
 Im nächsten Schritt folgt die Planungsphase. In diesem Stadium ist es entscheidend, klare Ziele zu definieren, die beteiligten Akteure zu identifizieren, den angestrebten Zeithorizont festzulegen, die verfügbaren Ressourcen und Voraussetzungen zu bestimmen und eine Anpassungsstrategie zu entwickeln, falls im Verlauf des Projekts Änderungen erforderlich werden. Aufbauend auf den Erkenntnissen und Ergebnissen der Orientierungsphase soll nun ein erstes Pilotprojekt festgelegt werden, um die Einführung des Datenschutz-Cockpits zu testen.<sup>[\[20\]](#footnote-20)</sup> Anstatt das Datenschutz-Cockpit sofort unternehmensweit einzuführen, kann es bspw. sinnvoll sein, die Implementierung zunächst auf eine einzelne Abteilung oder eine ausgewählte Pilotgruppe von Mitarbeitenden zu beschränken. Für den Erfolg des Pilotprojekts ist die Bildung eines Projektteams mit klar definierten Rollen unerlässlich. Dies schafft Verbindlichkeit und erhöht die Erfolgsaussichten.<sup>[\[21\]](#footnote-21)</sup>
 
@@ -203,7 +203,7 @@ Da bei der Kommunikation in Veränderungsprozessen Flexibilität und Anpassungsf
 
 Mit kurzen Befragungen die monatlich oder quartalsweise durchgeführt werden, kann überprüft werden, ob die Botschaften verstanden wurden, wie die Stimmung in der Belegschaft ist und ob das Kommunikationsinstrument wirkt. Mit einer offline oder online Umfrage werden vier wiederholende Fragen zu den Bereichen Informationsfluss (z.B. wie gut man sich über das Vorhaben informiert fühlt), Engagement (z.B. ob man sich mit Zielen identifizieren kann und bereit ist sich einzubringen), Dialog (z.B. ob man sich in Prozess integriert fühlt und Anregungen einbringen kann) und Handlungsunterstützung (z.B. ob man gewünschte Unterstützung bekommt) gestellt und ausgewertet.
 
-1. **Realisierungsphase**
+1. #### Realisierungsphase
 
 In der nächsten Phase zur Einführung eines Datenschutz-Cockpits, der Realisierungsphase, steht die Umsetzung der geplanten Maßnahmen im Fokus. Dabei ist es wichtig, die technischen Maßnahmen stets in Kombination mit organisatorischen und menschbezogenen Maßnahmen umzusetzen. Besonders hervorzuheben ist die Partizipation der Mitarbeitenden, um die Akzeptanz gegenüber der neuen Technologie zu erhöhen. Durch aktives Mitwirken der Mitarbeitenden können nicht nur die Erfolgschancen der Veränderung im Unternehmen gesteigert werden, sondern daraus kann auch ein direkter Nutzen für die Projektumsetzung gezogen werden. Die Mitarbeitenden kennen ihre Aufgaben und Arbeitsfelder am besten und können wertvolle Hinweise zur Funktionalität und Nutzungsweise der Technologie geben, um deren erfolgreiche Anwendung zu gewährleisten. Vor der Einführung des Datenschutz-Cockpits könnte Mitarbeitenden bspw. in einem Workshop die Möglichkeit gegeben werden, die Technologie zu testen und wertvolles Feedback zu geben. Weitere Methoden zur Einbindung der Mitarbeitenden könnten Diskussionsrunden, World-Cafés oder Open Spaces umfassen. Zudem trägt die Einbeziehung der Mitarbeitenden dazu bei, das Bewusstsein für die Notwendigkeit der Einführung der neuen Technologie zu schärfen, was die Motivation für die Veränderung und Nutzung des Datenschutz-Cockpits weiter steigert.<sup>[\[25\]](#footnote-25)</sup>
 
