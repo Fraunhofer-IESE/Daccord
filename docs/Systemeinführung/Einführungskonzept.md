@@ -124,7 +124,7 @@ Wie die vorangegangenen grundsätzlichen Ausführungen verdeutlichen, erfordert 
 
 Zur Erweiterung des Einführungskonzeptes des Datenschutz-Cockpits orientieren wir uns an den vier Phasen des digitalen Transformationsprozesses<sup>[\[9\]](#footnote-9)</sup>. Ziel dieses Prozesses ist die erfolgreiche Implementierung neuer Technologien in Unternehmen. Die vier Phasen bieten klare Vorgehensweisen und Methoden, die spezifisch auf die Einführung des Datenschutz-Cockpits angewendet werden können.
 
-1. #### Orientierungsphase
+#### 1. Orientierungsphase
 
 Der Prozess beginnt mit einer Inspirations- und Orientierungsphase, in der das Unternehmen sich über bestehende Technologien und Informationen zum Datenschutz in digitalen Ökosystemen informiert. Um den Prozess gezielt zu steuern, gilt es, eine Art Vision für das Unternehmen zu entwickeln, die als Leitlinie für dessen weitere Entwicklung in Bezug auf die neue Technologie dient. Dabei sollten sowohl die Chancen als auch die Herausforderungen identifiziert werden, die sich durch den Einsatz dieser neuen Technologie bzw. des neuen digitalen Tools, wie z.B. des Datenschutz-Cockpits ergeben. Damit kann das Unternehmen in diesem ersten Schritt zugleich kritisch reflektieren, ob das ausgewählte Tool einen relevanten Mehrwert bietet oder, ob ggf. ein anderes Tool sogar geeigneter wäre. Mit diesem Schritt erfolgt also auch eine Standortbestimmung bzw. die Erfassung der Ist-Situation. Das Unternehmen analysiert den aktuellen Stand und leitet daraus Handlungsfelder ab, um die Einführung der neuen Technologie zu planen. Methoden, die hierbei zum Einsatz kommen können sind z.B. die Visionsentwicklung, die SWOT-Analyse und die Durchführung von Workshops.
 
@@ -155,7 +155,7 @@ Bei der Identifikation der Beteiligten an dem Veränderungsvorhaben kann die Ers
 
 Abbildung 2: Stakeholder-Matrix mit Optionen für einen Maßnahmenplan in Anlehnung an M. J. Polonsky
 
-1. #### Planungsphase
+#### 2. Planungsphase
 
 Im nächsten Schritt folgt die Planungsphase. In diesem Stadium ist es entscheidend, klare Ziele zu definieren, die beteiligten Akteure zu identifizieren, den angestrebten Zeithorizont festzulegen, die verfügbaren Ressourcen und Voraussetzungen zu bestimmen und eine Anpassungsstrategie zu entwickeln, falls im Verlauf des Projekts Änderungen erforderlich werden. Aufbauend auf den Erkenntnissen und Ergebnissen der Orientierungsphase soll nun ein erstes Pilotprojekt festgelegt werden, um die Einführung des Datenschutz-Cockpits zu testen.<sup>[\[20\]](#footnote-20)</sup> Anstatt das Datenschutz-Cockpit sofort unternehmensweit einzuführen, kann es bspw. sinnvoll sein, die Implementierung zunächst auf eine einzelne Abteilung oder eine ausgewählte Pilotgruppe von Mitarbeitenden zu beschränken. Für den Erfolg des Pilotprojekts ist die Bildung eines Projektteams mit klar definierten Rollen unerlässlich. Dies schafft Verbindlichkeit und erhöht die Erfolgsaussichten.<sup>[\[21\]](#footnote-21)</sup>
 
@@ -179,31 +179,20 @@ In dieser Phase ist es ebenfalls wichtig, eine **Kommunikations- und Maßnahmens
 
 Aus diesem Grund gibt es nicht die eine Kommunikationsstrategie, sondern die Maßnahmen müssen individuell an das jeweilige Unternehmen angepasst werden. Dabei können die folgenden sechs Schritte helfen<sup>[\[24\]](#footnote-24)</sup>:
 
-1. Was soll die Botschaft vermitteln?
-
+1. _Was soll die Botschaft vermitteln?_ <br>
 Um effektive Botschaften zu entwickeln, ist es essenziell, sich in die Perspektive der Belegschaft zu versetzen. Die Mitarbeitenden haben zu diesem Zeitpunkt möglicherweise zahlreiche Fragen, die beantwortet werden sollten, wie bspw.: Was ist der Grund für die Veränderung? Welche Vorteile ergeben sich für mich? Welche Herausforderungen kommen auf mich zu? Welche Unterstützung wird bereitgestellt? Wie kann ich selbst zum Erfolg beitragen? Bei der Formulierung der Botschaften ist darauf zu achten, Fachbegriffe und komplexe Zusammenhänge zu vermeiden. Die Kommunikation sollte motivierend und verständlich gestaltet werden.
-
-1. Von wem kommt die Botschaft?
-
+2. _Von wem kommt die Botschaft?_ <br>
 Zu Beginn ist eine top-down gerichtete Kommunikation von Vorständen und den Entscheider\*innen im Unternehmen wichtig, um anfänglichen Unsicherheiten mit klaren Botschaften zu begegnen. Allerdings sollte intern auch bottom-up kommuniziert werden, um den Mitarbeitenden eine Stimme zu geben.
-
-1. Welche Zielgruppe soll mit der Botschaft erreicht werden?
-
+3. _Welche Zielgruppe soll mit der Botschaft erreicht werden?_<br>
 Wie die Ansprache ausfällt, welche Kommunikationsinstrumente verwendet werden und welche Unterstützungsmöglichkeiten sinnvoll sind, ist für jede Mitarbeitendengruppe unterschiedlich. So müssen bspw. Mitarbeitend im Sales andere Aufgaben mit dem Tool erfüllen, als Mitarbeitende in der Personalabteilung.
-
-1. Wie sieht die Kommunikationsinfrastruktur im Unternehmen aus?
-
+4. _Wie sieht die Kommunikationsinfrastruktur im Unternehmen aus?_ <br>
 Eine Zusammenstellung der Kommunikationsinfrastruktur hilft dabei, die Ansprache über vertraute Kanäle im Unternehmen zu verbreiten.
-
-1. Können weitere Kommunikationsinstrumente eingesetzt werden?
-
+5. _Können weitere Kommunikationsinstrumente eingesetzt werden?_ <br>
 Da bei der Kommunikation in Veränderungsprozessen Flexibilität und Anpassungsfähigkeit gefragt sind, ist es sinnvoll Kommunikationsmethoden über die bekannten Kanäle hinaus einzusetzen. Dies könnte bspw. sein: eine Sonderausgabe des internen Newsletters, ein Videobeitrag, Kick-off Veranstaltungen, Workshops, Sprechstunden oder Change-Foren.
-
-1. War der Einsatz der Kommunikation erfolgreich?
-
+6. _War der Einsatz der Kommunikation erfolgreich?_ <br>
 Mit kurzen Befragungen die monatlich oder quartalsweise durchgeführt werden, kann überprüft werden, ob die Botschaften verstanden wurden, wie die Stimmung in der Belegschaft ist und ob das Kommunikationsinstrument wirkt. Mit einer offline oder online Umfrage werden vier wiederholende Fragen zu den Bereichen Informationsfluss (z.B. wie gut man sich über das Vorhaben informiert fühlt), Engagement (z.B. ob man sich mit Zielen identifizieren kann und bereit ist sich einzubringen), Dialog (z.B. ob man sich in Prozess integriert fühlt und Anregungen einbringen kann) und Handlungsunterstützung (z.B. ob man gewünschte Unterstützung bekommt) gestellt und ausgewertet.
 
-1. #### Realisierungsphase
+#### 3. Realisierungsphase
 
 In der nächsten Phase zur Einführung eines Datenschutz-Cockpits, der Realisierungsphase, steht die Umsetzung der geplanten Maßnahmen im Fokus. Dabei ist es wichtig, die technischen Maßnahmen stets in Kombination mit organisatorischen und menschbezogenen Maßnahmen umzusetzen. Besonders hervorzuheben ist die Partizipation der Mitarbeitenden, um die Akzeptanz gegenüber der neuen Technologie zu erhöhen. Durch aktives Mitwirken der Mitarbeitenden können nicht nur die Erfolgschancen der Veränderung im Unternehmen gesteigert werden, sondern daraus kann auch ein direkter Nutzen für die Projektumsetzung gezogen werden. Die Mitarbeitenden kennen ihre Aufgaben und Arbeitsfelder am besten und können wertvolle Hinweise zur Funktionalität und Nutzungsweise der Technologie geben, um deren erfolgreiche Anwendung zu gewährleisten. Vor der Einführung des Datenschutz-Cockpits könnte Mitarbeitenden bspw. in einem Workshop die Möglichkeit gegeben werden, die Technologie zu testen und wertvolles Feedback zu geben. Weitere Methoden zur Einbindung der Mitarbeitenden könnten Diskussionsrunden, World-Cafés oder Open Spaces umfassen. Zudem trägt die Einbeziehung der Mitarbeitenden dazu bei, das Bewusstsein für die Notwendigkeit der Einführung der neuen Technologie zu schärfen, was die Motivation für die Veränderung und Nutzung des Datenschutz-Cockpits weiter steigert.<sup>[\[25\]](#footnote-25)</sup>
 
