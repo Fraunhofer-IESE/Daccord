@@ -40,6 +40,7 @@ In the context of the DPC, there are three primary stakeholders:
 - **The data consumer**: also referred to as _service providers_, data consumers are companies whose digital services use data providers' data intermediated through the platform of the digital ecosystem of interest.
 - **The platform operator**: The company responsible for the platform that enables the digital ecosystem and, among other things, intermediates the data exchange between data providers and consumers.
 
+****
 
 [Next: 2. System context and domain model](system-context.md)
 
