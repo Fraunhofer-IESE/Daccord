@@ -131,10 +131,8 @@ Although the actual data asset flow happens in the <kbd>Platform Core</kbd> (and
 
 > **Logging the data flow:** Note that when the <kbd>Grant Service</kbd> is asked for the existence of grants for data flow, it assumes that the <kbd>Platform Core</kbd> will perform a data flow if a grant is found. For this reason, this read operation is logged, as these logs can serve as a proxy for data providers to know when a data flow has occurred (as in the example).
 
-<p align="center">
-    <a href="drivers.md">Previous: 3. Architecture drivers</a>&nbsp; | &nbsp;<a href="quality.md">Next: 5. Quality concepts</a>
-</p>
-
+****
+[Previous: 3. Architecture drivers](drivers.md) | [Next: 5. Quality concepts](quality.md)
 
 
 
