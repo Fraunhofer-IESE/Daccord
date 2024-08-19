@@ -129,7 +129,7 @@ Although the actual data asset flow happens in the <kbd>Platform Core</kbd> (and
 
 ![sequence diagram 4](images/sequence-diagram_4_data-asset-flow.svg)
 
-> **Logging the data flow:** Note that when the <kbd>Grant Service</kbd> is asked for the existence of grants for data flow, it assumes that the <kbd>Platform Core</kbd> will perform a data flow if a grant is found. For this reason, this read operation is logged, as these logs can serve as a proxy for data providers to know when a data flow has occurred (as in the example).
+> **Logging the data flow**: It is important to note that when the <kbd>Grant Service</kbd> is queried about the existence of grants for data flow, this action is logged. Assuming that the <kbd>Platform Core</kbd> verifies the grants each time before allowing a data asset to flow, these logs indicate that a data flow intent has been initiated within the platform. However, to maintain a record of the actual data flow, the DPC must provide an API that the <kbd>Platform Core</kbd> can use to notify the <kbd>DPC</kbd> when a data flow has taken place, as the <kbd>Platform Core</kbd> manages the data asset flow.
 
 ****
 [Previous: 3. Architecture drivers](drivers.md) | [Next: 5. Quality concepts](quality.md)
