@@ -2,7 +2,7 @@
 # Datengeber
 
 Ein Datenschutz-Cockpit bietet Datengebern (Benutzer) Transparenz und Kontrolle über ihre persönlichen Daten. Es ermöglicht einen klaren Überblick darüber, welche Daten gesammelt und verarbeitet werden, und erlaubt eine einfache Verwaltung von Berechtigungen. Nutzer können ihre Datenschutzeinstellungen individuell anpassen, ihre Rechte gemäß Datenschutzgesetzen wahrnehmen und bei Bedarf die Löschung von Daten veranlassen. Dies stärkt das Vertrauen und die Sicherheit im Umgang mit ihren Daten.
-In diesem Kapitel werden die einzelnen Funktionalitäten des generischen Prototyps vorgesetellt, der die Grundlage für die beiden Anwendungsfälle [Smarte.Land.Regionen](docs/Realisierung/Demonstratoren/Smarte.Land.Regionen.md) und [digitalen Gesundheitsplattform](docs/Realisierung/Demonstratoren/Digitale Gesundheitsplattform.md) bildet.
+In diesem Kapitel werden die einzelnen Funktionalitäten des generischen Prototyps vorgesetellt, der die Grundlage für die beiden Anwendungsfälle [Smarte.Land.Regionen](docs/Realisierung/Demonstratoren/Smarte.Land.Regionen.md) und [digitale Gesundheitsplattform](docs/Realisierung/Demonstratoren/DigitaleGesundheitsplattform.md) bildet
 
 ## Startseite/Überblick
 
