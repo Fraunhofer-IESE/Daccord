@@ -13,6 +13,8 @@ Direkt darunter befindet sich ein Abschnitt, der dem Nutzer einen umfassenden Ü
 Am Ende der Startseite findet der Nutzer den Abschnitt "Statistiken". Hier werden verschiedene Daten und Statistiken angezeigt, die ihm Einblick in die Nutzung und Verarbeitung seiner Daten geben. Dazu gehören unter anderem Informationen über die jüngsten Änderungen in den Datenschutzeinstellungen, wie oft bestimmte Dienste auf seine Daten zugegriffen haben, und andere relevante Kennzahlen. Dieses Dashboard hilft dem Nutzer, den Umgang mit seinen Daten besser zu verstehen und gegebenenfalls Anpassungen vorzunehmen.
 <iframe title="Maps" width="600" height="373.5" src="https://www.google.de/maps/preview></iframe>
 
+{% include iframe.html %}
+
 ## Meine Daten
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
