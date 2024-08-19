@@ -12,15 +12,10 @@ Darunter befindet sich im Abschnitt "Meine Dienste", ein Überblick, über die D
 
 Am Ende der Startseite findet der Nutzer den Abschnitt "Statistiken". Hier werden verschiedene Daten und Statistiken angezeigt, die Einblicke in die Nutzung und Verarbeitung der Daten geben. Dazu gehören unter anderem Informationen über die jüngsten Änderungen, oder beispielsweise wie oft bestimmte Dienste auf seine Daten zugegriffen haben, und andere relevante Kennzahlen. 
 
-{% include Startseite-Datengeber.html %}
-
 
 ## Meine Dienste
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-
-{% include MeineDienste-Datengeber.html %}
-
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
 ### Antrag auf Datenauskunft und Datenübertragung
@@ -30,6 +25,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ### Antrag auf Löschung
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+
+{% include MeineDienste-Datengeber.html %}
 
 
 ## Berechtigungen
