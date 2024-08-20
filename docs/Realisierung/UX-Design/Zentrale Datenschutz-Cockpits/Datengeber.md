@@ -30,4 +30,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## Berechtigungen
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+Die Verwaltung von Berechtigungen ist eine der zentralen Funktionen eines Datenschutzcockpits. Bei der Konzeption dieser Funktion bestand die besondere Herausforderung darin, Berechtigungszustände und deren Einstellungsmöglichkeiten übersichtlich und benutzerfreundlich darzustellen. In einem digitalen Ökosystem können verschiedene Dienste unterschiedliche Daten anfordern, was zu einer hohen Komplexität führen kann. Ursprünglich wurde die Idee einer Kreuztabelle für die Darstellung in Betracht gezogen, jedoch verworfen, da die unterschiedlichen Datenanfragen oft zu vielen leeren Zellen geführt hätten. Dies hätte die Erfassung relevanter Informationen erschwert und möglicherweise zu Fehlentscheidungen geführt.
+
+Um Nutzern trotz der vielfältigen Kombinationen aus Datenkategorien, Diensten und Berechtigungen ein klares und verständliches System zu bieten, wurden zwei unterschiedliche Ansichten für die Berechtigungsverwaltung entwickelt. Nutzer können Berechtigungen entweder nach Daten oder nach Dienst sortiert anzeigen lassen. Die Sortierung nach Daten ermöglicht es beispielsweise, schnell herauszufinden, welche Dienste Zugriff auf die Herzfrequenz haben. Die Sortierung nach Diensten zeigt hingegen an, welche Daten ein spezifischer Dienst, verarbeiten darf.
+
+Diese Darstellung bietet zudem die Möglichkeit, dienstübergreifende Änderungen vorzunehmen. So kann beispielsweise die Verarbeitung einer bestimmten Datenkategorie, wie der Herzfrequenz, für alle Dienste gleichzeitig abgelehnt oder widerrufen werden. Eine weitere Besonderheit ist die Möglichkeit, Berechtigungen nicht nur binär (ja/nein) zu vergeben. Nutzer können Datenzugriffe individuell einschränken, etwa indem Daten maskiert oder über einen Zeitraum gemittelt freigegeben werden. Sollte ein Widerruf oder eine Einschränkung negative Auswirkungen auf die Nutzung eines Dienstes haben, beispielsweise wenn bestimmte Daten obligatorisch sind, werden die Nutzer durch eine Sicherheitsabfrage über die möglichen Konsequenzen informiert, um Fehler zu vermeiden.
+
+{% include Berechtigungen-Datengeber.html %}
