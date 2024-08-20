@@ -10,7 +10,7 @@ Das Datenschutz-Cockpit stellt auf seiner Startseite alle relevanten Information
 
 Darunter befindet sich im Abschnitt "Meine Dienste", ein Überblick, über die Dienste des Ökosystems, die genutzt werden und Daten verarbeiten. Dies ermöglicht es Nutzern, schnell zu erkennen, welche Dienste Zugriff auf die eigenen Daten haben und welche Datenkategorien von diesen verarbeitet werden.
 
-Am Ende der Startseite findet der Nutzer den Abschnitt "Statistiken". Hier werden verschiedene Daten und Statistiken angezeigt, die Einblicke in die Nutzung und Verarbeitung der Daten geben. Dazu gehören unter anderem Informationen über die jüngsten Änderungen, oder beispielsweise wie oft bestimmte Dienste auf seine Daten zugegriffen haben, und andere relevante Kennzahlen. 
+Am Ende der Startseite findet der Nutzer den Abschnitt "Statistiken". Hier können verschiedene Daten und Statistiken angezeigt werden, die Einblicke in die Nutzung und Verarbeitung der Daten geben. Dazu gehören unter anderem Informationen über die jüngsten Änderungen, oder beispielsweise wie oft bestimmte Dienste auf Daten zugegriffen haben, oder andere relevante Kennzahlen. 
 {% include Startseite-Datengeber.html %}
 
 ## Meine Dienste
