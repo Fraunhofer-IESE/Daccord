@@ -16,15 +16,17 @@ Am Ende der Startseite findet der Nutzer den Abschnitt "Statistiken". Hier werde
 ## Meine Dienste
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+
+Das Datenschutzcockpit bietet umfassende Funktionen zur Wahrnehmung der Rechte auf Auskunft und Löschung gemäß der DSGVO, die für Nutzer und Verantwortliche gleichermaßen von zentraler Bedeutung sind. In einem digitalen Ökosystem mit zahlreichen Diensten ist es besonders wichtig, dass diese Funktionen klar den jeweiligen Diensten zugeordnet werden. Daher wurde für jeden Dienst eine individuelle Informationsseite entwickelt, auf der Nutzer detaillierte Informationen erhalten. Diese Seite enthält allgemeine Angaben zum Dienst, die erteilten und angefragten Berechtigungen sowie die Datenschutzerklärung. Zusätzlich gibt es zwei zentrale Schaltflächen: "Daten anfordern" und "Löschung beantragen", die es den Nutzern ermöglichen, ihre Rechte schnell und einfach auszuüben.
 
 ### Antrag auf Datenauskunft und Datenübertragung
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+Beim Antrag auf Datenauskunft können Nutzer wählen, ob sie Auskunft über gespeicherte Daten (gemäß Art. 15 DSGVO) oder die Übertragung ihrer Daten (gemäß Art. 20 DSGVO) wünschen. Diese Auswahl bestimmt, in welcher Form die Daten bereitgestellt werden und leitet die entsprechende Anfrage an den Verantwortlichen weiter. Nutzer erhalten dabei relevante Informationen zu ihren Betroffenenrechten, die bei Bedarf in einem separaten Fenster angezeigt werden können. Da die Datenauskunft oftmals nicht sofort erfolgt, wird nach Absenden der Anfrage der Bearbeitungsstatus angezeigt. Sobald die Anfrage abgeschlossen ist, wird der Nutzer benachrichtigt und kann die bereitgestellten Daten herunterladen.
+
 
 ### Antrag auf Löschung
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+Neben der Datenauskunft bietet das Datenschutzcockpit auch eine Funktion zur Beantragung der Löschung von Daten, wie sie in der DSGVO vorgesehen ist. Auch ist auf der jeweiligen Informationsseite eines Dienstes die Schaltfläche "Löschung beantragen" verfügbar. Wenn ein Nutzer die Löschung seiner Daten beantragen möchte, wird er zunächst über die möglichen Konsequenzen einer Löschung informiert, die bestätigt werden müssen, bevor der Antrag weiter bearbeitet wird. Dieser Prozess soll sicherstellen, dass Nutzer sich der Auswirkungen ihrer Entscheidung bewusst sind und Fehler vermieden werden. 
 
 {% include MeineDienste-Datengeber.html %}
 
