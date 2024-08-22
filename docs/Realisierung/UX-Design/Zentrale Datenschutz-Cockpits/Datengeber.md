@@ -4,7 +4,7 @@
 Ein Datenschutz-Cockpit bietet Datengebern (Benutzer) Transparenz und Kontrolle über ihre persönlichen Daten. Es ermöglicht einen klaren Überblick darüber, welche Daten gesammelt und verarbeitet werden, und erlaubt eine einfache Verwaltung von Berechtigungen. Nutzer können ihre Datenschutzeinstellungen individuell anpassen, ihre Rechte gemäß Datenschutzgesetzen wahrnehmen und bei Bedarf die Löschung von Daten veranlassen. Dies stärkt das Vertrauen und die Sicherheit im Umgang mit ihren Daten.
 In diesem Kapitel werden die einzelnen Funktionalitäten des generischen Prototyps vorgesetellt, der die Grundlage für die beiden Anwendungsfälle [Smarte.Land.Regionen](/Daccord/Realisierung/Demonstratoren/Smarte.Land.Regionen) und [digitale Gesundheitsplattform](/Daccord/Realisierung/Demonstratoren/DigitaleGesundheitsplattform) bildet
 
-## Startseite/Überblick
+## Überblick
 
 Das Datenschutz-Cockpit stellt auf seiner Startseite alle relevanten Informationen übersichtlich zusammen. Im oberen Bereich findet der Nutzer den Abschnitt "Neuigkeiten", der ihn über aktuelle Aufgaben und wichtige Informationen informiert. Hier wird beispielsweise angezeigt, wenn ein Dienst eine neue Datenschutzerklärung veröffentlicht hat oder wenn eine neue Anfrage zur Nutzung seiner Daten vorliegt. Jede Neuigkeit ist dabei klar markiert, sodass der Nutzer sofort erkennt, ob es sich um eine rein informative Meldung handelt oder ob eine Aktion von ihm erforderlich ist.
 
@@ -15,9 +15,9 @@ Am Ende der Startseite findet der Nutzer den Abschnitt "Statistiken". Hier könn
 
 ## Meine Dienste
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+Unter "Meine Dienste" ist eine zentrale Übersicht derjenigen Dienste des digitalen Ökosystems gegeben, welche vom Nutzer in Anspruch genommen werden und personenbezogene Daten verarbeiten. Jeder Dienst wird durch eine Kachel repräsentiert, die Informationen wie den Namen des Dienstes, eine kurze Beschreibung und die verarbeiteten Datenkategorien enthält. Zusätzlich sind in jeder Kachel zwei Schaltflächen integriert, die es dem Nutzer ermöglichen, direkt eine Datenauskunft oder einen Datenexport zu beantragen sowie die Löschung der eigenen Daten zu veranlassen. Diese Gestaltung gewährleistet, dass Nutzer zentral, datenschutzrelevante Rechte effizient und unkompliziert wahrnehmen können, indem sie einen schnellen Zugang zu den notwendigen Funktionen erhalten.
 
-Das Datenschutzcockpit bietet umfassende Funktionen zur Wahrnehmung der Rechte auf Auskunft und Löschung gemäß der DSGVO, die für Nutzer und Verantwortliche gleichermaßen von zentraler Bedeutung sind. In einem digitalen Ökosystem mit zahlreichen Diensten ist es besonders wichtig, dass diese Funktionen klar den jeweiligen Diensten zugeordnet werden. Daher wurde für jeden Dienst eine individuelle Informationsseite entwickelt, auf der Nutzer detaillierte Informationen erhalten. Diese Seite enthält allgemeine Angaben zum Dienst, die erteilten und angefragten Berechtigungen sowie die Datenschutzerklärung. Zusätzlich gibt es zwei zentrale Schaltflächen: "Daten anfordern" und "Löschung beantragen", die es den Nutzern ermöglichen, ihre Rechte schnell und einfach auszuüben.
+In einem digitalen Ökosystem mit zahlreichen Diensten ist es besonders wichtig, dass Informationen und Funktionen klar den jeweiligen Diensten zugeordnet werden können. Daher wurde für jeden Dienst eine individuelle Informationsseite entwickelt, auf der Nutzer ausführlichere Informationen erhalten. Diese Seite enthält allgemeine Angaben zum Dienst, eine Übersicht der erteilten und angefragten Berechtigungen sowie die Datenschutzerklärung. Zusätzlich gibt es auch hier die beiden Schaltflächen zur Beantragung oder Löschung von Daten.
 
 ### Antrag auf Datenauskunft und Datenübertragung
 
