@@ -6,7 +6,7 @@ Auf der Startseite des Datenschutz-Cockpits werden alle wichtigen Informationen 
 
 Darunter befindet sich im Abschnitt "Offene Anträge", ein Überblick, über die Anzahl der noch zu bearbeitenden Anträge. Es wird dabei zwischen Antrag auf Löschung, Antrag auf Berichtigung sowie Antrag auf Datenauskunft unterschieden. Durch diese Übersicht, kann der Datennutzer jederzeit schnell und einfach erkennen, wieviele und welche Anträge noch bearbeitet werden müssen.
 
-Am Ende der Startseite findet kann der Datennehmer sich verschiedene Daten und Statistiken anzeigen lassen. 
+Am Ende der Startseite kann der Datennehmer sich verschiedene Daten und Statistiken anzeigen lassen. 
 {% include Startseite-Datennutzer.html %}
 
 ## Betroffenenanfragen
