@@ -6,14 +6,21 @@ Auf der Startseite des Datenschutz-Cockpits werden alle wichtigen Informationen 
 
 Darunter befindet sich im Abschnitt "Offene Anträge", ein Überblick, über die Anzahl der noch zu bearbeitenden Anträge. Es wird dabei zwischen Antrag auf Löschung, Antrag auf Berichtigung sowie Antrag auf Datenauskunft unterschieden. Durch diese Übersicht, kann der Datennutzer jederzeit schnell und einfach erkennen, wieviele und welche Anträge noch bearbeitet werden müssen.
 
-Am Ende der Startseite findet kann der Datennehmer sich verschiedene Daten und Statistiken anzeigen lassen.
-{% include Startseite-Datennutzer.html %}
+Am Ende der Startseite findet kann der Datennehmer sich verschiedene Daten und Statistiken anzeigen lassen. {% include Startseite-Datennutzer.html %}
 
-### Dienste
+## Betroffenenanfragen
 
-Unter "Dienste" wird eine zentrale Übersicht derjenigen Dienste des digitalen Ökosystems angezeigt, die vom Datennehmer verwaltet werden. Jeder Dienst wird durch eine Kachel repräsentiert, die Informationen wie den Namen des Dienstes, eine kurze Beschreibung, die Anzahl der Nutzer und die verarbeiteten Datenkategorien anzeigt. Auf der Detailseite zu jeden Dienst können spezifische Einstellungen und Aktionen vorgenommen werden. Es können die Kontaktinformationen, zur Nutzung benötigte Daten, die Datenschutzerklärung und Nutzer des Diensets verwaltet werden. 
-{% include Dienste-Datennutzer.html %}
+Unter "Betroffenenanfragen" erhält der Datennutzer einen Überblick über offenen sowie ein Archiv zu bereits abgeschlossenen Anfragen. Die Übersicht bietet eine strukturierte und übersichtliche Darstellung von Betroffenenanfragen, die für die im Ökosystem zu verwalten Lösungen bearbeitet werden müssen. In einer zentralen Tabelle sind die Anfragen nach verschiedenen Kriterien geordnet: Frist, Anfragetyp, Quelle, Dienst und betroffene Person. Die Darstellung unterstützt eine klare und effiziente Verwaltung der Anfragen.
+Farbliche Markierungen der zeitlichen Frist helfen dabei, die Priorität der einzelnen Anfragen schnell zu erfassen, wodurch die Einhaltung der Fristen sichergestellt wird. Der Anfragetyp ist durch entsprechende Symbole hervorgehoben, was eine schnelle Identifikation und Bearbeitung erleichtert. Auch die Quelle der Anfrage, etwa ob diese über ein Web-Formular, per E-Mail, Telefon oder Post eingegangen ist, wird klar angezeigt, was die Nachverfolgbarkeit verbessert.
 
+Die Zuordnung der Anfragen zu spezifischen Diensten im digitalen Ökosystem ermöglicht eine eindeutige Identifizierung der Verantwortlichkeiten auf Seiten der Datenverarbeiter. Darüber hinaus wird die betroffene Person, die die Anfrage gestellt hat, namentlich aufgeführt, was eine direkte Zuordung für die Bearbeitung der Anfragen erlaubt. Filter- und Sortierfunktionen bieten dem Nutzer zusätzliche Werkzeuge, um die Anfragen effizient zu verwalten und zu priorisieren.
+
+Insgesamt unterstützt diese Benutzeroberfläche die Einhaltung der DSGVO, indem sie den Verantwortlichen eine zentrale und transparente Plattform zur Verwaltung von Betroffenenanfragen bietet. Die klare Darstellung aller relevanten Informationen minimiert das Risiko von Fehlern und verbessert die Reaktionsfähigkeit auf Datenschutzanfragen.
+
+## Dienste
+
+Unter "Dienste" wird eine zentrale Übersicht derjenigen Dienste des digitalen Ökosystems angezeigt, die vom Datennehmer verwaltet werden. Jeder Dienst wird durch eine Kachel repräsentiert, die Informationen wie den Namen des Dienstes, eine kurze Beschreibung, die Anzahl der Nutzer und die verarbeiteten Datenkategorien anzeigt. Auf der Detailseite zu jeden Dienst können spezifische Einstellungen und Aktionen vorgenommen werden. Es können die Kontaktinformationen, zur Nutzung benötigte Daten, die Datenschutzerklärung und Nutzer des Dienstes verwaltet werden. In der Detailseite eines Dienstes werden die „Benötigten Daten“, also die Datenkategorien, die für die Nutzung des Dienstes angefragt werden, verwaltet. Hierbei wird zwischen Daten unterschieden, die „Erforderlich für die Dienstenutzung“ sind, und solchen, die „Optional“ sind. Diese Unterteilung ist bedeutsam, da sie den Nutzern ermöglicht, eine informierte Entscheidung darüber zu treffen, welche Daten sie preisgeben möchten. Zu jeder Datenkategorie wird angezeigt, wie hoch der prozentuale Anteil der Nutzer ist, die ihre Zustimmung zur Verarbeitung dieser Daten gegeben haben. Diese Angabe erlaubt es, Rückschlüsse auf die Akzeptanz und das Vertrauen der Nutzer in den Dienst zu ziehen.
+Über Schaltflächen können die jeweiligen Datenkategorien entweder bearbeitet oder gelöscht, sowie neue Datenkategorien ergänzt werden. Bei einer Änderung werden die Nutzer automatisch informiert und ihnen gegebenenfalls eine Datenverarbeitungsanfrage gesendet. Dies ermöglicht eine flexible und dynamische Anpassung der Datenanforderungen durch den Verantwortlichen und trägt dazu bei, die Datenverarbeitung den aktuellen Bedürfnissen und rechtlichen Vorgaben anzupassen.
 
 ### Datenschutzerklärung
 
@@ -30,16 +37,8 @@ In der Übersicht werden für jeden Nutzer Anfragen angezeigt, die noch nicht be
 
 In der Detailseite eines Dienstes werden die, für dessen Nutzung benötigten und optionalen Daten durch den Datennehemr festgelegt, deren Verabreitung die Nutzer zustimmen müssen bzw. ablehnen können. Die angegebenen Daten können bearbeitet oder gelöscht werden, wodurch automatisch eine Information oder Verarbeitungsanfrage an alle Nutzer des Dienstes gesendet wird. Darüber hinaus kann auch die Verarbeitung eines neuen Datentyps bei den Nutzern angefragt werden.
 
-
-In der Detailseite eines Dienstes werden die „Benötigten Daten“, also die Datenkategorien, die für die Nutzung des Dienstes angefragt werden, verwaltet. Hierbei wird zwischen Daten unterschieden, die „Erforderlich für die Dienstenutzung“ sind, und solchen, die „Optional“ sind. Diese Unterteilung ist bedeutsam, da sie den Nutzern ermöglicht, eine informierte Entscheidung darüber zu treffen, welche Daten sie preisgeben möchten. Zu jeder Datenkategorie wird angezeigt, wie hoch der prozentuale Anteil der Nutzer ist, die ihre Zustimmung zur Verarbeitung dieser Daten gegeben haben. Diese Angabe erlaubt es, Rückschlüsse auf die Akzeptanz und das Vertrauen der Nutzer in den Dienst zu ziehen.
-Über Schaltflächen können die jeweiligen Datenkategorien entweder bearbeitet oder gelöscht, sowie neue Datenkategorien ergänzt werden. Bei einer Änderung werden die Nutzer automatisch informiert und ihnen gegebenenfalls eine Datenverarbeitungsanfrage gesendet. Dies ermöglicht eine flexible und dynamische Anpassung der Datenanforderungen durch den Verantwortlichen und trägt dazu bei, die Datenverarbeitung den aktuellen Bedürfnissen und rechtlichen Vorgaben anzupassen.
+{% include Dienste-Datennutzer.html %}
 
 
-## Betroffenenanfragen
 
-Unter "Betroffenenanfragen" erhält der Datennutzer einen Überblick über offenen sowie ein Archiv zu bereits abgeschlossenen Anfragen. Die Übersicht bietet eine strukturierte und übersichtliche Darstellung von Betroffenenanfragen, die für die im Ökosystem zu verwalten Lösungen bearbeitet werden müssen. In einer zentralen Tabelle sind die Anfragen nach verschiedenen Kriterien geordnet: Frist, Anfragetyp, Quelle, Dienst und betroffene Person. Die Darstellung unterstützt eine klare und effiziente Verwaltung der Anfragen.
-Farbliche Markierungen der zeitlichen Frist helfen dabei, die Priorität der einzelnen Anfragen schnell zu erfassen, wodurch die Einhaltung der Fristen sichergestellt wird. Der Anfragetyp ist durch entsprechende Symbole hervorgehoben, was eine schnelle Identifikation und Bearbeitung erleichtert. Auch die Quelle der Anfrage, etwa ob diese über ein Web-Formular, per E-Mail, Telefon oder Post eingegangen ist, wird klar angezeigt, was die Nachverfolgbarkeit verbessert.
 
-Die Zuordnung der Anfragen zu spezifischen Diensten im digitalen Ökosystem ermöglicht eine eindeutige Identifizierung der Verantwortlichkeiten auf Seiten der Datenverarbeiter. Darüber hinaus wird die betroffene Person, die die Anfrage gestellt hat, namentlich aufgeführt, was eine direkte Zuordung für die Bearbeitung der Anfragen erlaubt. Filter- und Sortierfunktionen bieten dem Nutzer zusätzliche Werkzeuge, um die Anfragen effizient zu verwalten und zu priorisieren.
-
-Insgesamt unterstützt diese Benutzeroberfläche die Einhaltung der DSGVO, indem sie den Verantwortlichen eine zentrale und transparente Plattform zur Verwaltung von Betroffenenanfragen bietet. Die klare Darstellung aller relevanten Informationen minimiert das Risiko von Fehlern und verbessert die Reaktionsfähigkeit auf Datenschutzanfragen.
