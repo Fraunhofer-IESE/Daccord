@@ -42,4 +42,6 @@ In der Detailseite eines Dienstes werden die, für dessen Nutzung benötigten un
 
 ([Zur Datengeber-Sicht](/Daccord/Realisierung/ZentraleDatenschutz-Cockpits/Datengeber))
 
+Datenschutz-Cockpits bieten Datennehmern eine zentrale Lösung, um die Verwaltung und den Schutz von personenbezogenen Daten effizient zu steuern. Sie ermöglichen eine klare Übersicht über alle anstehenden Anfragen, wie Datenauskunft oder Löschung, und unterstützen die Einhaltung gesetzlicher Anforderungen der DSGVO. Durch die benutzerfreundliche Aufbereitung von Informationen und die Möglichkeit, schnell auf Anfragen zu reagieren, tragen Datenschutz-Cockpits wesentlich zur rechtssicheren Datenverarbeitung bei. Weitere Informationen zu den Vorteilen für Datennutzer finden Sie im Kapitel "Datennutzer": [Datennutzer-Sicht](/Daccord/Realisierung/UX-Design/ZentraleDatenschutz-Cockpits/Datennutzer)
+
 
