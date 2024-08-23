@@ -9,23 +9,24 @@ Darunter befindet sich im Abschnitt "Offene Anträge", ein Überblick, über die
 Am Ende der Startseite findet kann der Datennehmer sich verschiedene Daten und Statistiken anzeigen lassen.
 {% include Startseite-Datennutzer.html %}
 
-## Dienste
+### Dienste
 
 Unter "Dienste" wird eine zentrale Übersicht derjenigen Dienste des digitalen Ökosystems angezeigt, die vom Datennehmer verwaltet werden. Jeder Dienst wird durch eine Kachel repräsentiert, die Informationen wie den Namen des Dienstes, eine kurze Beschreibung, die Anzahl der Nutzer und die verarbeiteten Datenkategorien anzeigt. Auf der Detailseite zu jeden Dienst können spezifische Einstellungen und Aktionen vorgenommen werden. Es können die Kontaktinformationen, zur Nutzung benötigte Daten, die Datenschutzerklärung und Nutzer des Diensets verwaltet werden. 
 {% include Dienste-Datennutzer.html %}
 
-## Datenschutzerklärung
+
+### Datenschutzerklärung
 
 In einem weiteren Tab ist die Datenschutzerklären des Dienstes hinterlegt. Ein einfaches Versionierungssystem mit grundlegenden Funktionalitäten ermöglicht es den Überblick über die Änderunegn zwischen verschiedenen Versionen zu behalten. Zudem kann die Datenschutzerklärung bearbeitet oder ergänzt werden und anschließend eine entsprechende Information an alle Nutzer versendet werden. Die Datenschutzerklärung unterstützt durch ein Template im stile eines Baukastensystems den Datennutzer dabei, dass einerseits die Bearbeitung mit wenig Aufwand möglich ist sowie andererseits die Informationen für die Nutzer ansprechend und übersichtlich dargestellt werden.
 
-## Nutzer
+### Nutzer
 
 Zu jeden Dienst kann eine Liste der Nutzer eingesehen werden. Hierbei werden deren grundlegende Informationen, sofern der Verarbeitung dieser zugestimmt wurde, sowie eine Markierung für offenen Anfragen.
 Diese Übersicht dient als zentrale Verwaltungseinheit, in der alle relevanten Informationen zu den Nutzern des Dienstes dargestellt werden. Die Informationen sind tabellarisch organisiert und umfassen wichtige Details wie Nachname, Vorname, Adresse und E-Mail-Adresse der Nutzer. Diese Struktur ermöglicht eine einfache Navigation und gezielte Suche nach bestimmten Nutzern.
 
 In der Übersicht werden für jeden Nutzer Anfragen angezeigt, die noch nicht bearbeitet wurden. Diese Anfragen, wie etwa Datenauskunft oder Löschung, sind durch spezifische Symbole markiert, die den jeweiligen Anfragetyp verdeutlichen. Diese visuelle Kennzeichnung ermöglicht es den Verantwortlichen, offene Anfragen schnell zu identifizieren und darauf zu reagieren, um die gesetzlichen Vorgaben der DSGVO effizient zu erfüllen. Die Übersicht fördert eine ordnungsgemäße Verwaltung der Nutzerdaten, indem sie Transparenz und Kontrolle über die Datenverarbeitungsvorgänge schafft. Dadurch werden Verantwortliche dabei unterstützt, ihre datenschutzrechtlichen Pflichten durch eine klare und zugängliche Darstellung der Nutzerinformationen und offenen Anfragen zu erfüllen.
 
-### Daten anfragen
+#### Daten anfragen
 
 In der Detailseite eines Dienstes werden die, für dessen Nutzung benötigten und optionalen Daten durch den Datennehemr festgelegt, deren Verabreitung die Nutzer zustimmen müssen bzw. ablehnen können. Die angegebenen Daten können bearbeitet oder gelöscht werden, wodurch automatisch eine Information oder Verarbeitungsanfrage an alle Nutzer des Dienstes gesendet wird. Darüber hinaus kann auch die Verarbeitung eines neuen Datentyps bei den Nutzern angefragt werden.
 
