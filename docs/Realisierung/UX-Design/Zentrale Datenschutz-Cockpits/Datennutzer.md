@@ -12,7 +12,7 @@ Am Ende der Startseite findet kann der Datennehmer sich verschiedene Daten und S
 ## Dienste
 
 Unter "Dienste" wird eine zentrale Übersicht derjenigen Dienste des digitalen Ökosystems angezeigt, die vom Datennehmer verwaltet werden. Jeder Dienst wird durch eine Kachel repräsentiert, die Informationen wie den Namen des Dienstes, eine kurze Beschreibung, die Anzahl der Nutzer und die verarbeiteten Datenkategorien anzeigt. Auf der Detailseite zu jeden Dienst können spezifische Einstellungen und Aktionen vorgenommen werden. Es können die Kontaktinformationen, zur Nutzung benötigte Daten, die Datenschutzerklärung und Nutzer des Diensets verwaltet werden. 
-
+{% include Dienste-Datennutzer.html %}
 
 ## Datenschutzerklärung
 
