@@ -40,6 +40,6 @@ In der Detailseite eines Dienstes werden die, für dessen Nutzung benötigten un
 
 {% include Dienste-Datennutzer.html %}
 
-
+([Zur Datengeber-Sicht](/Daccord/Realisierung/ZentraleDatenschutz-Cockpits/Datengeber))
 
 
