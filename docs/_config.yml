@@ -9,6 +9,6 @@ plugins:
 
 navigation:
   - name: "Einleitung"
-    link: "/Einleitung"
+    link: "/Daccord/Einleitung"
   - name: "Anforderungen"
-    link: "/Anforderungen"
+    link: "/Daccord/Anforderungen"
