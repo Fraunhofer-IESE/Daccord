@@ -31,7 +31,7 @@
 	  <nav>
 	  
 		{% for item in site.navigation %}
-		  <a href="{{ item.link }}">{{ item.name }} |
+		  <a href="{{ item.link }}">{{ item.name }}</a> |
 		{% endfor %}
 	  </nav>
       {% if page.url != "/" and site.use_breadcrumbs %}
