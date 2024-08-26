@@ -8,7 +8,17 @@ plugins:
   - jemoji
 
 navigation:
+  - name: "Home"
+    link: "/Daccord"
   - name: "Einleitung"
     link: "/Daccord/Einleitung"
   - name: "Anforderungen"
     link: "/Daccord/Anforderungen"
+  - name: "Realisierung"
+    link: "/Daccord/Realisierung"
+  - name: "Überprüfung"
+    link: "/Daccord/Bewertung"
+  - name: "Systemeinführung"
+    link: "/Daccord/Systemeinführung"
+  - name: "Weiterer Lesestoff"
+    link: "/Daccord/Lesestoff"
