@@ -59,7 +59,7 @@ Auf dieser Seite führen wir Sie durch die Ergebnisse des Projekts.
 
 <mark>tbd.</mark>
 
-[Zum Kapitel "Überprüfung"](Überprüfung/)
+[Zum Kapitel "Überprüfung"](Bewertung/)
 
 ## **![](./assets/images/play.svg) Systemeinführung:** Wie stellt man sicher, dass die Nutzer Datenschutz-Cockpits akzeptieren und verstehen?
 
