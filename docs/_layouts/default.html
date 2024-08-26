@@ -13,6 +13,13 @@
     {% include head-custom.html %}
   </head>
   <body>
+  <nav>
+  <ul>
+    {% for item in site.navigation %}
+      <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">

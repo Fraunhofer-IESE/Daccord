@@ -6,3 +6,9 @@ use_breadcrumbs: true
 
 plugins:
   - jemoji
+
+navigation:
+  - name: "Einleitung"
+    link: "Einleitung"
+  - name: "Anforderungen"
+    link: "Anforderungen"
