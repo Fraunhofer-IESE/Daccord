@@ -18,8 +18,8 @@ This reference architecture provides the architecture drivers, the system contex
 - **Expand architecture drivers**: The list of architecture drivers should be reviewed and probably expanded to incorporate constraints and business goals that may be particular to the implementing organization.
 
 
-<p align="center">
+<center>
 
 [![](/Daccord/assets/images/backward-solid.svg) 5. Quality concepts]](quality)
 
-</p>
+</center>
