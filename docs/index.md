@@ -1,11 +1,10 @@
 # Willkommen beim Projekt "D'accord"
 
+![](./assets/images/Daccord_Key_Visual.png) 
 
 ## Motivation
 
 Digitale Plattformen und Ökosysteme werden immer populärer. Durch die COVID-19-Pandemie und die Verlagerung vieler Geschäftsmodelle ins Internet wurde dieser Trend nochmals verstärkt und auch kleinere Unternehmen bieten zunehmend digitale Dienste an. Allerdings ist das Potenzial noch größer, denn viele Unternehmen nehmen Datenschutz heute noch als digitale Innovationsbremse wahr. Es fehlt an Richtlinien, Werkzeugen und Lösungen, um die gesetzlichen Vorgaben, beispielsweise die Datenschutz-Grundverordnung, einfach und wirksam umzusetzen. Erschwerend kommt hinzu, dass die Umsetzung von Datenschutzvorgaben umso komplexer wird, je mehr Unternehmen beteiligt sind und je intensiver sie personenbezogene Daten austauschen. Bei Online-Bestellungen beispielsweise geben Händler die Daten zu den Bestellungen sowie den Kundinnen und Kunden oft an wechselnde Finanz- und Transportdienstleister weiter, die diese Daten ihrerseits an Subunternehmen übermitteln. Hier ist es für die Betroffenen aktuell nahezu unmöglich, sich ein umfassendes Bild über die tatsächliche Verwendung ihrer Daten zu verschaffen. Praxistaugliche Datenschutzkonzepte sind sowohl für Unternehmen als auch Bürgerinnen und Bürger wichtiger denn je.
-
-![](./assets/images/Daccord_Key_Visual.png) 
 
 ## Ziele 
 
@@ -15,7 +14,8 @@ Im Verbundvorhaben „D’accord – Adaptive Datenschutz-Cockpits in digitalen 
 
 Kerninnovation des Vorhabens sind empirisch validierte Modelle sowie passende Konzepte und Technologien für Datenschutz-Cockpits. Mithilfe einer flexiblen Softwarelösung können Unternehmen, die vom Angebot digitaler Services oder der Teilhabe in digitalen Systemen profitieren möchten, Datenschutz-Cockpits für ihren spezifischen Kontext erstellen und implementieren. Auch kleinere Uanternehmen sind so in der Lage, Datenschutzrichtlinien und Datenflüsse transparenter darzustellen und die Betroffenenrechte rechtskonform umsetzen. Die Ergebnisse des D’accord-Vorhabens helfen auf diese Weise dabei, Datenschutz als Innovationsfaktor in der deutschen Unternehmenslandschaft weiter zu stärken.
 
-Auf dieser Seite führen wir Sie durch die Ergebnisse des Projekts. 
+## Ergebnisse
+In den folgenden Kapiteln führen wir Sie durch die Ergebnisse des Projekts. 
 
 <style>
 	.image{
@@ -37,41 +37,43 @@ Auf dieser Seite führen wir Sie durch die Ergebnisse des Projekts.
 	<a href="Lesestoff" style="left: 84.38%; top: 22.29%; width: 16.16%; height: 55%;"></a>
 </div>
 
-## **![](./assets/images/bolt.svg) Einleitung:** Worum geht es hier?
+### **![](./assets/images/bolt.svg) Einleitung:** Worum geht es hier?
 
 <mark>tbd.</mark>
 
 [Zu den einleitenden Kapiteln](Einleitung/)
 
-## **![](./assets/images/list-check.svg) Anforderungen:** Was muss ein Datenschutz-Cockpit können?
+### **![](./assets/images/list-check.svg) Anforderungen:** Was muss ein Datenschutz-Cockpit können?
 
 <mark>tbd.</mark>
 
 [Zum Kapitel "Anforderungen"](Anforderungen/)
 
-## **![](./assets/images/gears.svg) Realisierung:** Wie kann man als Unternehmen Datenschutz-Cockpits realisieren?
+### **![](./assets/images/gears.svg) Realisierung:** Wie kann man als Unternehmen Datenschutz-Cockpits realisieren?
 
 <mark>tbd.</mark>
 
 [Zum Kapitel "Realisierung"](Realisierung/)
 
-## **![](./assets/images/user-doctor.svg) Überprüfung:** Wie kann man sich sicher sein, dass das alles funktioniert?
+### **![](./assets/images/user-doctor.svg) Überprüfung:** Wie kann man sich sicher sein, dass das alles funktioniert?
 
 <mark>tbd.</mark>
 
 [Zum Kapitel "Überprüfung"](Bewertung/)
 
-## **![](./assets/images/play.svg) Systemeinführung:** Wie stellt man sicher, dass die Nutzer Datenschutz-Cockpits akzeptieren und verstehen?
+### **![](./assets/images/play.svg) Systemeinführung:** Wie stellt man sicher, dass die Nutzer Datenschutz-Cockpits akzeptieren und verstehen?
 
 <mark>tbd.</mark>
 
 [Zum Kapitel "Systemeinführung"](<Systemeinführung/>)
 
-## **![](./assets/images/document.svg) Weiterer Lesestoff:** Wo kann man mehr erfahren?
+### **![](./assets/images/document.svg) Weiterer Lesestoff:** Wo kann man mehr erfahren?
 
 <mark>tbd.</mark>
 
-[Zum Kapitel "Weiterer Lesestoff"](<Lesestoff/>)
+Von uns publizierte Veröffentlichungen (Paper, Vorträge, Poster) finden Sie [hier](<Lesestoff/Veröffentlichungen>).
+
+Von uns durchgeführte Veranstaltungen finden Sie [hier](<Lesestoff/Veranstaltungen>).
 
 ## **![](./assets/images/team.svg) Autoren**
 

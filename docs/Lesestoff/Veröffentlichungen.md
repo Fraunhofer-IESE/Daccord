@@ -1,10 +1,8 @@
-# Weiterer Lesestoff
-
-## **![](../assets/images/pen.svg) Unsere Publikationen**
+# Unsere Publikationen
 
 Auf dieser Seite sind die im Rahmen von D’accord entstandenen Konferenz-, Workshop- und Zeitschriftenbeiträge aufgeführt. Außerdem finden Sie hier Vortragsfolien zum Herunterladen sowie Links zu Whitepapers und externen Blogbeiträgen, die in D’accord entstanden sind.
 
-### Konferenz-, Workshop-, Buch- und Zeitschriftenbeiträge
+## Konferenz-, Workshop-, Buch- und Zeitschriftenbeiträge
 
 - **Bianca Steffes, Christian K. Bosse, Aljoscha Dietrich, Hartmut Schmitt:**  Einwilligung oder Anonymisiserung? Rechtliche Implikationen der Datenverarbeitung im Beschäftigungskontext. In: Erich Schweighofer, Ahti Saarenpää, Stefan Eder, Jakob Zanol, Felix Schmautzer, Franz Kummer, Philip Hanke (Hrsg.): Recht DIGITAL – 25 Jahre IRIS: Tagungsband des 25. Internationalen Rechtsinformatik Symposions IRIS 2022. Editions Weblaw, Bern. Verfügbar unter: https://jusletter-it.weblaw.ch/issues/2022/24-Februar-2022/einwilligung-oder-an_2ded9f0c9a.html
 - **Bianca Steffes, Simone Salemi, Denis Feth, Eduard C. Groen:**  Generic Consents in Digital Ecosystems: Legal, Psychological, and Technical Perspectives. In: Nina Gerber, Alina Stöver, Karola Marky (Hrsg.): Human Factors in Privacy Research, S. 255–282. Springer, Cham. Verfügbar unter: https://link.springer.com/chapter/10.1007/978-3-031-28643-8_13
@@ -21,17 +19,14 @@ Auf dieser Seite sind die im Rahmen von D’accord entstandenen Konferenz-, Work
 - **Simone Salemi:**  Chancen und Risiken von PIMS nach § 26 TTDSG. Datenschutz und Datensicherheit – DuD, Ausgabe 8/2022, S. 505–510. Verfügbar unter: https://link.springer.com/article/10.1007/s11623-022-1648-x
 - **Stephan Wiefling, Jan Tolsdorf, Luigi Lo Iacono:**  Data Protection Officers‘ Perspectives on Privacy Challenges in Digital Ecosystems. The 4th Workshop on Security, Privacy, Organizations, and Systems Engineering (SPOSE 2022, in conjunction with ESORICS 2022), S. 228–247. Verfügbar unter: https://link.springer.com/chapter/10.1007/978-3-031-25460-4_13
 
-### Sonstige Veröffentlichungen (Vortragsfolien, externe Blogbeiträge, Whitepapers)
+## Poster
+
+- **Hartmut Schmitt, Christian Bosse, Denis Feth:**  Berücksichtigung der sozialen Sphäre bei der Umsetzung von Datenschutz-Maßnahmen. Nationale Konferenz IT-Sicherheitsforschung 2023. Verfügbar als direkter [Download](Daccord_Poster_-v2-scaled.jpg).
+
+
+## Sonstige Veröffentlichungen (Vortragsfolien, externe Blogbeiträge, Whitepapers)
 - **Denis Feth:**  Benutzerfreundliche Umsetzung von Datensouveränität in Digitalen Ökosystemen. Keynote, 8. Usable Security und Privacy Workshop. Verfügbar unter: https://daccord-projekt.de/WP/wp-content/uploads/2022/10/Feth-2022-Datensouveraenitaet-in-Digitalen-Oekosystemen-slides.pdf
 - **Denis Feth & Svenja Polst:**  Benutzerfreundliche Umsetzung von Datensouveränität in Digitalen Ökosystemen. Whitepaper. Verfügbar unter: https://www.iese.fraunhofer.de/content/dam/iese/dokumente/leistungen/benutzerfreundliche_umsetzung_von_datensouveraenitaet_in_digitalen_oekosystemen-fraunhofer_iese.pdf
 - **Hartmut Schmitt & Denis Feth:**  Warum Datenschutz nicht der Feind sein muss. Gastbeitrag, UIG-Magazin. Verfügbar unter: https://www.kompetenzzentrum-usability.digital/kos/WNetz?art=News.show&id=1932
 - **Hartmut Schmitt & Eduard C. Groen:**  Erreichen von Usable Privacy durch die Einbindung bewährter RE-Methoden im Human-Centered-Design-Prozess. Vortrag, Diskussionsaustausch „Menschenzentriertes RE“ der Fachgruppe Requirements Engineering der Gesellschaft für Informatik. Verfügbar unter: https://daccord-projekt.de/WP/wp-content/uploads/2022/11/FGRE-Diskussionsautausch_Schmitt-Groen.pdf
-
-### Poster
-
-- **Hartmut Schmitt, Christian Bosse, Denis Feth:**  Berücksichtigung der sozialen Sphäre bei der Umsetzung von Datenschutz-Maßnahmen. Nationale Konferenz IT-Sicherheitsforschung 2023. Verfügbar als direkter [Download](Daccord_Poster_-v2-scaled.jpg).
-
-## **![](../assets/images/lightbulb.svg) Verwandte Arbeiten**
-
-<mark>tbd.</mark>
 
