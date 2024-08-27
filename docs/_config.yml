@@ -24,7 +24,7 @@ navigation:
     link: "/Daccord/Bewertung"
     icon: "/Daccord/assets/images/user-doctor.svg"
   - name: "Systemeinführung"
-    link: "/Daccord/Systemeinführung"
+    link: "/Daccord/Systemeinf%C3%BChrung"
     icon: "/Daccord/assets/images/play.svg"
   - name: "Lesestoff"
     link: "/Daccord/Lesestoff"
