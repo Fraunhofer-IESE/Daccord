@@ -35,19 +35,17 @@
 		{% endfor %}
 		
 		
-		{% set current_path = request.path %}  
-
 		{% for item in site.navigation %}
 		<img src="{{ item.icon }}"/> 
 		<a href="{{ item.link }}">
-			{% if item.name in current_path %}
+			{% if item.name in request.path %}
 				<strong>{{ item.name }}</strong>
 			{% else %}
 				{{ item.name }}
 			{% endif %}
 		</a> |
 
-{% endfor %}
+		{% endfor %}
 		
 	  </nav>
       {% if page.url != "/" and site.use_breadcrumbs %}
