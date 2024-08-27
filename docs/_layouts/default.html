@@ -33,7 +33,7 @@
 		{% for item in site.navigation %}
 		  <img src="{{ item.icon }}"/> 
 		  <a href="{{ item.link }}">
-		    {% if page.url contains item.name || (page.url == "https://fraunhofer-iese.github.io/Daccord/" && item.name == "Home") %}
+		    {% if page.url contains item.name || (page.url == "/Daccord/" && item.name == "Home") %}
 		      <strong>{{ item.name }}</strong>
 		    {% else %}
 		      {{ item.name }}
