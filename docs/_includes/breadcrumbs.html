@@ -4,7 +4,7 @@
             <a href="{{ site.baseurl }}/"><img src="/Daccord/assets/images/house-solid.svg"> Home</a>
         </li>-->
         {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
-        {% for crumb in crumbs offset: 2 %}
+        {% for crumb in crumbs offset: 1 %}
             {% if forloop.last %}
                 <li> {{ page.title }} </li> 
             {% else %}
