@@ -30,6 +30,10 @@
     <main id="content" class="main-content" role="main">
 	  <nav>
 	  
+	   Site.url: {{ site.url }}<br/>
+	   Site.baseurl: {{ site.baseurl }}<br/>
+	   page.url: {{ page.url }}<br/>
+	  
 		{% for item in site.navigation %}
 		  <img src="{{ item.icon }}"/> 
 		  <a href="/Daccord/{{ item.link }}">
