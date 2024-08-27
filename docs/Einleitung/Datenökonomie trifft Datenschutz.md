@@ -67,7 +67,7 @@ Durchgängiger Datenschutz ist bereits für „traditionelle“ Systeme und Dien
 
 ****
 
-| [![](/Daccord/assets/images/backward-solid.svg) Plattformökonomie](<Digitale Plattformen und Plattformökonomie>) | [Datenverarbeitungen b![](/Daccord/assets/images/forward-solid.svg)](<Datenverarbeitungen in digitalen Ökosystemen>) |
+| [![](/Daccord/assets/images/backward-solid.svg) Plattformökonomie](<Digitale Plattformen und Plattformökonomie>) | [Datenverarbeitungen ![](/Daccord/assets/images/forward-solid.svg)](<Datenverarbeitungen in digitalen Ökosystemen>) |
 
 
 

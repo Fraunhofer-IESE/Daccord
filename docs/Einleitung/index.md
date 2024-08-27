@@ -26,4 +26,4 @@
 
 ****
 
-[Anforderungen ![](/Daccord/assets/images/forward-solid.svg)](<../Anforderungen>)
+| [Anforderungen ![](/Daccord/assets/images/forward-solid.svg)](<../Anforderungen>) |
