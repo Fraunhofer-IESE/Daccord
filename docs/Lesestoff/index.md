@@ -44,4 +44,10 @@ Mehr Informationen zu den einzelnen Auflagen des Workshops (einschließlich Down
 
 ## Datenökonomie trifft Datenschutz
 
-todo
+*Fraunhofer‐Forum Berlin – 10. Oktober 2023*
+
+Die meisten Geschäftsmodelle rund um digitale Ökosysteme und Plattformökonomien erfordern den Austausch personenbezogener und anderer sensibler Daten. Dabei ist es eine Herausforderung, eine ausgewogene Balance zwischen den Interessen der Nutzer:innen
+einerseits und den Plattformbetreiber:innen und ihren Geschäftspartner:innen andererseits zu erreichen. 
+
+Im Zentrum der Veranstaltung standen fünf vom BMBF geförderte Projekte, die sich mit dem Thema „Datenökonomie trifft Datenschutz“ beschäftigen: D’accord, KickStartTrustee, PERISCOPE, TESTER und WearPrivate. Die Veranstaltung sollte die Sichtbarkeit des Themas und der Projekte sowie den Austausch aller interessierten Teilnehmer:innen fördern. In einer zweistündigen Abendveranstaltung vermittelten Impulsvorträge unterschiedliche Sichtweisen auf das Thema, welches anschließend in einer Podiumsdiskussion erörtert wurde. Begleitet wurde die Veranstaltung durch eine praxisnahe Ausstellung der Projekte.
+
