@@ -109,7 +109,7 @@ Ausführlich zum Profiling _Arning/Rothkegel_ Rn. 114–123; _Buchner_ Rn. 1–9
 
 ****
 
-| [![](/Daccord/assets/images/backward-solid.svg) Verarbeitungszwecke](<Verarbeitungszwecke> | [Glossar ![](/Daccord/assets/images/forward-solid.svg)](<Glossar>) |
+| [![](/Daccord/assets/images/backward-solid.svg) Verarbeitungszwecke](<Verarbeitungszwecke>) | [Glossar ![](/Daccord/assets/images/forward-solid.svg)](<Glossar>) |
 
 # **Quellenverzeichnis:**
 

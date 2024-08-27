@@ -226,4 +226,4 @@ Verkauf und Vertrieb von Gütern durch eine Organisation.
 
 ****
 
-| [![](/Daccord/assets/images/backward-solid.svg) Datenklassen](<Datenklassen> | [Verarbeitungsarten ![](/Daccord/assets/images/forward-solid.svg)](<Verarbeitungsarten>) |
+| [![](/Daccord/assets/images/backward-solid.svg) Datenklassen](<Datenklassen>) | [Verarbeitungsarten ![](/Daccord/assets/images/forward-solid.svg)](<Verarbeitungsarten>) |
