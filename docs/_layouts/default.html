@@ -32,7 +32,7 @@
 	  
 		{% for item in site.navigation %}
 		  <img src="{{ item.icon }}"/> 
-		  <a href="{{ item.link }}">
+		  <a href="/Daccord/{{ item.link }}">
 		    {% if page.url contains item.link || ((page.url == site.baseurl) && item.name == "Home") %}
 		      <strong>{{ item.name }}</strong>
 		    {% else %}
