@@ -32,3 +32,16 @@ Auf dieser Seite sind die im Rahmen von D’accord entstandenen Konferenz-, Work
 - **Hartmut Schmitt & Denis Feth:**  Warum Datenschutz nicht der Feind sein muss. Gastbeitrag, UIG-Magazin. Verfügbar unter: https://www.kompetenzzentrum-usability.digital/kos/WNetz?art=News.show&id=1932
 - **Hartmut Schmitt & Eduard C. Groen:**  Erreichen von Usable Privacy durch die Einbindung bewährter RE-Methoden im Human-Centered-Design-Prozess. Vortrag, Diskussionsaustausch „Menschenzentriertes RE“ der Fachgruppe Requirements Engineering der Gesellschaft für Informatik. Verfügbar unter: https://daccord-projekt.de/WP/wp-content/uploads/2022/11/FGRE-Diskussionsautausch_Schmitt-Groen.pdf
 
+# Workshops und weitere Veranstaltungen 
+
+## Usable Security und Privacy Workshop
+
+Der Workshop Usable Security und Privacy wird seit 2015 als Teil der Konferenz „Mensch und Computer“ durchgeführt. Ziel des Workshops ist es, ein Forum zu schaffen, in dem sich Expert:innen aus Wissenschaft und Praxis zum Thema benutzerfreundlicher Technologien zur Gewährleistung der Informationssicherheit und Privatheit austauschen können, zu festigen und weiterzuentwickeln. Zugleich wird durch den Workshop die Diskussion für ein breiteres Fachpublikum geöffnet. 
+
+In den Jahren 2022, 2023 und 2024 wurde der Usable Security und Privacy Workshop in Zusammenarbeit mit dem Projekt „D'accord – Adaptive Datenschutz-Cockpits in digitalen Ökosystemen“ durchgeführt. 
+
+Mehr Informationen zu den einzelnen Auflagen des Workshops (einschließlich Downloadmöglichkeit der Workshopbeiträge) stehen hier zur Verfügung: https://das.h-brs.de/workshops/
+
+## Datenökonomie trifft Datenschutz
+
+todo
