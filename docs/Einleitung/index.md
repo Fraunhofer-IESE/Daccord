@@ -23,3 +23,7 @@
 <mark>tbd.</mark>
 
 [Zum Kapitel "Glossar"](<Glossar>)
+
+****
+
+[Anforderungen ![](/Daccord/assets/images/forward-solid.svg)](<../Anforderungen>)

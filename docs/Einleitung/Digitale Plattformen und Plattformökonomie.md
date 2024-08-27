@@ -13,4 +13,3 @@ Da in den meisten digitalen Ökosystemen personenbezogene Daten verarbeitet werd
 ****
 
 [![](/Daccord/assets/images/backward-solid.svg) Einleitung](<index>) | [Datenökonomie trifft Datenschutz ![](/Daccord/assets/images/forward-solid.svg)](<Datenökonomie trifft Datenschutz>)
-
