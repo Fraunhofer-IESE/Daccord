@@ -223,3 +223,7 @@ Bearbeitung von Aufträgen und Bestellungen einschließlich Rechnungstellung.
 Verkauf und Vertrieb von Gütern durch eine Organisation.
 
 **Beispiele:**  Verarbeitung personenbezogener Daten von Güteranbietern und -konsumenten eines digitalen Ökosystems und Datenweitergabe an Logistikpartner (hier: Namen, Anschriften, Kundennummern, Kontakthistorien, Bankverbindungen, Umsatzsteueridentifikationsnummern, Daten zu gekauften Gütern, Vertragsdaten, Umsatzdaten).
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Datenklassen](<Datenklassen> | [Verarbeitungsarten ![](/Daccord/assets/images/forward-solid.svg)](<Verarbeitungsarten>) |
