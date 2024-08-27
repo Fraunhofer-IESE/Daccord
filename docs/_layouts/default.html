@@ -39,7 +39,7 @@
 		  <a href="/Daccord/{{ item.link }}">
 		    {% if page.url contains item.link %}
 		      <strong>{{ item.name }}</strong>
-		    {% elsif page.url == "/") and item.name == "Home" %}
+		    {% elsif page.url == "/" and item.name == "Home" %}
 			  <strong>{{ item.name }}</strong>
 			{% else %}
 		      {{ item.name }}
