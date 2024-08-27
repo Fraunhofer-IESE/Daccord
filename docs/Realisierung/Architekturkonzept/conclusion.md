@@ -19,5 +19,5 @@ This reference architecture provides the architecture drivers, the system contex
 
 
 <p align="center">
-    <a href="quality.md">Previous: 5. Quality concepts</a>
+[![](/Daccord/assets/images/backward-solid.svg) 5. Quality concepts]](quality)
 </p>

@@ -42,5 +42,4 @@ In the context of the DPC, there are three primary stakeholders:
 
 ****
 
-[Next: 2. System context and domain model](system-context.md)
-
+[2. System context and domain model ![](/Daccord/assets/images/forward-solid.svg)](system-context)

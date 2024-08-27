@@ -132,7 +132,7 @@ Although the actual data asset flow happens in the <kbd>Platform Core</kbd> (and
 > **Logging the data flow**: It is important to note that when the <kbd>Grant Service</kbd> is queried about the existence of grants for data flow, this action is logged. Assuming that the <kbd>Platform Core</kbd> verifies the grants each time before allowing a data asset to flow, these logs indicate that a data flow intent has been initiated within the platform. However, to maintain a record of the actual data flow, the DPC must provide an API that the <kbd>Platform Core</kbd> can use to notify the <kbd>DPC</kbd> when a data flow has taken place, as the <kbd>Platform Core</kbd> manages the data asset flow.
 
 ****
-[Previous: 3. Architecture drivers](drivers.md) | [Next: 5. Quality concepts](quality.md)
 
+[![](/Daccord/assets/images/backward-solid.svg) 3. Architecture drivers]](drivers) | [5. Quality concepts ![](/Daccord/assets/images/forward-solid.svg)](quality)
 
 

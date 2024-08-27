@@ -50,5 +50,4 @@ This section presents DPC's  _key functional requirements_ (KFR) and the _qualit
 
 ****
 
-
-[Previous: 2. System context and domain model](system-context.md) | [Next: 4. System decomposition](decomposition.md)
+[![](/Daccord/assets/images/backward-solid.svg) 2. System context and domain model]](system-context) | [4. System decomposition ![](/Daccord/assets/images/forward-solid.svg)](decomposition)

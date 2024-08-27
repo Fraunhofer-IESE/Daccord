@@ -76,4 +76,4 @@ The solution concept for enabling the DPC to be used by any platform centers on 
 
 ****
 
-[Previous: 4. System decomposition](decomposition.md) | [Next: 6. Further notes](conclusion.md)
+[![](/Daccord/assets/images/backward-solid.svg) 4. System decomposition]](decomposition) | [6. Further notes ![](/Daccord/assets/images/forward-solid.svg)](conclusion)
