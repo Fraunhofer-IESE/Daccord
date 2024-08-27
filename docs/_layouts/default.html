@@ -33,12 +33,15 @@
 		{% for item in site.navigation %}
 		  <img src="{{ item.icon }}"/> 
 		  <a href="/Daccord/{{ item.link }}">
-		    {% if page.url contains item.link || ((page.url == "") && item.name == "Home") %}
+		    {% if page.url contains item.link || ((page.url == "/") && item.name == "Home") %}
 		      <strong>{{ item.name }}</strong>
 		    {% else %}
 		      {{ item.name }}
 		    {% endif %}
-		  </a> |
+		  </a> 
+		  {% if !forloop.last %} 
+		    |
+		  {% endif %}
 		{% endfor %}
 		
 	  </nav>
