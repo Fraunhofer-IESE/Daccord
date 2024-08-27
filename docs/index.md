@@ -71,7 +71,7 @@ In den folgenden Kapiteln führen wir Sie durch die Ergebnisse des Projekts.
 
 <mark>tbd.</mark>
 
-Von uns publizierte Veröffentlichungen (Paper, Vorträge, Poster) finden Sie [hier](<Lesestoff/Veröffentlichungen>).
+Von uns publizierte Veröffentlichungen (Paper, Vorträge, Poster) finden Sie [hier](<Lesestoff/>).
 
 Von uns durchgeführte Veranstaltungen finden Sie [hier](<Lesestoff/Veranstaltungen>).
 
