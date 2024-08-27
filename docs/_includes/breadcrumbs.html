@@ -1,7 +1,7 @@
 <nav class="breadcrumbs">
     <ul>
         <li>
-            <a href="{{ site.baseurl }}/">Home</a>
+            <a href="{{ site.baseurl }}/"><img src="/Daccord/assets/images/house-solid.svg"> Home</a>
         </li>
         {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
         {% for crumb in crumbs offset: 1 %}
