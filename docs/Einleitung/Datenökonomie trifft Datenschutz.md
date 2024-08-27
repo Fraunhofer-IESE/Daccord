@@ -65,6 +65,12 @@ Durchgängiger Datenschutz ist bereits für „traditionelle“ Systeme und Dien
 - **Verantwortlichkeiten:** Für den Nutzer bzw. die Nutzerin ist es schwierig, herauszufinden, wer in einem Ökosystem oder in einem Anwendungsfall Verantwortlicher bzw. Ansprechpartner*in bei Datenschutzfragen ist.
 - **Konsistenz:** Die Teilnehmer an einem digitalen Ökosystem sind unabhängige Unternehmen. Jedes dieser Unternehmen hat seine eigenen AGBs, Datenschutzerklärungen und ggf. Datenschutzeinstellungen. Unterschiedliche Gestaltungen und Formulierungen machen es den Nutzer*innen jedoch äußerst schwer, diese zu verstehen und zu vergleichen.
 
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Plattformökonomie](<Digitale Plattformen und Plattformökonomie>) | [text ![](/Daccord/assets/images/forward-solid.svg)](<link>)
+[![](/Daccord/assets/images/backward-solid.svg) Plattformökonomie](<Digitale Plattformen und Plattformökonomie>) | [text ![](/Daccord/assets/images/forward-solid.svg)](<link>) |
+
+
 
 
 [^1]: Oostveen, M. (2016). Warum Privacy ≠ Datenschutz ist (und wie sie sich überschneiden), Berlin: Alexander von Humboldt Institut für Internet und Gesellschaft. [https://www.hiig.de/warum-privacy-%E2%89%A0-datenschutz-ist-und-wie-sie-sich-ueberschneiden/](https://www.hiig.de/warum-privacy-%E2%89%A0-datenschutz-ist-und-wie-sie-sich-ueberschneiden/)
