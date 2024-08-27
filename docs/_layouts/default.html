@@ -33,6 +33,22 @@
 		{% for item in site.navigation %}
 		  <img src="{{ item.icon }}"/> <a href="{{ item.link }}">{{ item.name }}</a> |
 		{% endfor %}
+		
+		
+		{% set current_path = request.path %}  
+
+		{% for item in site.navigation %}
+		<img src="{{ item.icon }}"/> 
+		<a href="{{ item.link }}">
+			{% if item.name in current_path %}
+				<strong>{{ item.name }}</strong>
+			{% else %}
+				{{ item.name }}
+			{% endif %}
+		</a> |
+
+{% endfor %}
+		
 	  </nav>
       {% if page.url != "/" and site.use_breadcrumbs %}
         {% include breadcrumbs.html %}
