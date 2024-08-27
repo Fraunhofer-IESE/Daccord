@@ -24,7 +24,7 @@ $section-headings-color: #70AD47;
 .breadcrumbs li+li:before {
 	padding: 1rem;
 	color: #606c71;
-	content: "/\00a0";
+	content: ">\00a0";
 }
 
 .main-content h1 {
