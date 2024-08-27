@@ -38,7 +38,7 @@
 		{% for item in site.navigation %}
 		  <img src="{{ item.icon }}"/> 
 		  <a href="{{ item.link }}">
-		    {% if item.name in page.url %}
+		    {% if page.url contains item.name %}
 		      <strong>{{ item.name }}</strong>
 		    {% else %}
 		      {{ item.name }}
