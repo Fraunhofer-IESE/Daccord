@@ -9,7 +9,7 @@ plugins:
 
 navigation:
   - name: "Home"
-    link: "/Daccord"
+    link: ""
     icon: "/Daccord/assets/images/house-solid.svg"
   - name: "Einleitung"
     link: "Einleitung"
