@@ -1029,3 +1029,8 @@ Eine Verletzung des Schutzes personenbezogener Daten ist nach Art. 4 Nr. 12 DSGV
 **Synonyme:** Datenschutzvorfall, Datenschutzverstoß, DSGVO-Verstoß, Datenpanne
 
 **Übersetzung:** Data Privacy Incident, Data Protection Incident
+
+****
+
+[![](/Daccord/assets/images/backward-solid.svg) Datenverarbeitungen](<Datenverarbeitungen in digitalen Ökosystemen>) | [Anforderungen ![](/Daccord/assets/images/forward-solid.svg)](<../Anforderungen>)
+
