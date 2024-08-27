@@ -77,4 +77,4 @@ The DPC domain model is organized into four parts: _Participants_, _Grants_, _No
 
 ****
 
-[Previous: 1. Introduction](index.md) | [Next: 3. Architecture drivers](drivers.md)
+[![](/Daccord/images/backward-solid.svg) 1. Introduction](index.md) | [![](/Daccord/images/forward-solid.svg) 3. Architecture drivers](drivers.md)

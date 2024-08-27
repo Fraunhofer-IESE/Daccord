@@ -2,19 +2,19 @@
 
 ![](./assets/images/Daccord_Key_Visual.png) 
 
-## Motivation
+## ![](./assets/images/fire-solid.svg) Motivation
 
 Digitale Plattformen und Ökosysteme werden immer populärer. Durch die COVID-19-Pandemie und die Verlagerung vieler Geschäftsmodelle ins Internet wurde dieser Trend nochmals verstärkt und auch kleinere Unternehmen bieten zunehmend digitale Dienste an. Allerdings ist das Potenzial noch größer, denn viele Unternehmen nehmen Datenschutz heute noch als digitale Innovationsbremse wahr. Es fehlt an Richtlinien, Werkzeugen und Lösungen, um die gesetzlichen Vorgaben, beispielsweise die Datenschutz-Grundverordnung, einfach und wirksam umzusetzen. Erschwerend kommt hinzu, dass die Umsetzung von Datenschutzvorgaben umso komplexer wird, je mehr Unternehmen beteiligt sind und je intensiver sie personenbezogene Daten austauschen. Bei Online-Bestellungen beispielsweise geben Händler die Daten zu den Bestellungen sowie den Kundinnen und Kunden oft an wechselnde Finanz- und Transportdienstleister weiter, die diese Daten ihrerseits an Subunternehmen übermitteln. Hier ist es für die Betroffenen aktuell nahezu unmöglich, sich ein umfassendes Bild über die tatsächliche Verwendung ihrer Daten zu verschaffen. Praxistaugliche Datenschutzkonzepte sind sowohl für Unternehmen als auch Bürgerinnen und Bürger wichtiger denn je.
 
-## Ziele 
+## ![](./assets/images/bullseye-solid.svg) Ziele 
 
 Im Verbundvorhaben „D’accord – Adaptive Datenschutz-Cockpits in digitalen Ökosystemen“ wurden neuartige Konzepte und Werkzeuge entwickelt, mit denen Unternehmen bei der Verarbeitung personenbezogener Daten ein höheres Maß an Rechtssicherheit erreichen können, sowohl intern als auch unternehmensübergreifend. Im Zentrum steht ein sogenanntes Datenschutz-Cockpit. Diese Softwarelösung fungiert zum einen als zentrale Anlaufstelle für Betroffene, die sich über die Verwendung ihrer personenbezogenen Daten informieren wollen. Dies schafft Transparenz und Vertrauen. Zum anderen können die Betroffenen durch das Datenschutz-Cockpit aktiv Einfluss auf die Verwendung ihrer personenbezogenen Daten nehmen und ihre Betroffenenrechte ausüben.
 
-## Innovationen und Perspektiven
+## ![](./assets/images/plus-solid.svg) Innovationen und Perspektiven
 
 Kerninnovation des Vorhabens sind empirisch validierte Modelle sowie passende Konzepte und Technologien für Datenschutz-Cockpits. Mithilfe einer flexiblen Softwarelösung können Unternehmen, die vom Angebot digitaler Services oder der Teilhabe in digitalen Systemen profitieren möchten, Datenschutz-Cockpits für ihren spezifischen Kontext erstellen und implementieren. Auch kleinere Uanternehmen sind so in der Lage, Datenschutzrichtlinien und Datenflüsse transparenter darzustellen und die Betroffenenrechte rechtskonform umsetzen. Die Ergebnisse des D’accord-Vorhabens helfen auf diese Weise dabei, Datenschutz als Innovationsfaktor in der deutschen Unternehmenslandschaft weiter zu stärken.
 
-## Ergebnisse
+## ![](./assets/images/toolbox-solid.svg) Ergebnisse
 In den folgenden Kapiteln führen wir Sie durch die Ergebnisse des Projekts. 
 
 <style>
