@@ -23,7 +23,7 @@ navigation:
   - name: "Bewertung"
     link: "/Daccord/Bewertung"
     icon: "/Daccord/assets/images/user-doctor.svg"
-  - name: "Systemeinf%C3%BChrung"
+  - name: "Systemeinführung"
     link: "/Daccord/Systemeinführung"
     icon: "/Daccord/assets/images/play.svg"
   - name: "Lesestoff"
