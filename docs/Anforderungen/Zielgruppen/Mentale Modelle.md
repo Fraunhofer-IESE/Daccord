@@ -27,3 +27,9 @@ Trotz dieser negativen Eindrücke gaben die Teilnehmenden häufig an, solche dig
 Die Ergebnisse der Interviews deuten darauf hin, dass die Befragten mit der gegenwärtigen Ausgestaltung des Datenschutzes in digitalen Ökosystemen unzufrieden sind. Auf die Frage nach Verbesserungsvorschlägen für den Privatsphäreschutz sahen jedoch 14 Befragte keinen weiteren Handlungsbedarf. Eine Gruppe von zehn Befragten verlangte hingegen grundlegende Veränderungen bei der Datenverarbeitung durch digitale Ökosysteme. Sie äußerten den Wunsch, weniger Daten angeben zu müssen, um das Ökosystem nutzen zu können, oder die Weitergabe ihrer Daten an Dritte vollständig zu unterbinden. Eine andere Gruppe von zwölf Befragten forderte mehr Kontrolle darüber, wie ihre Daten durch digitale Ökosysteme verwendet werden, insbesondere in Bezug auf die Entscheidung über die Weitergabe ihrer Daten sowie deren Verwendung im Rahmen personalisierter Inhalte. 
 
 Zusätzlich zu solchen detaillierten Einstellungsmöglichkeiten wünschten sich einige Teilnehmende, grundsätzlich um ihre Zustimmung zur Nutzung ihrer Daten gebeten zu werden. Dies wurde häufig mit dem Wunsch verknüpft, einfach und klar über die Datenverwendung informiert zu werden. Die Teilnehmenden baten darum, zu Beginn der Nutzung eines digitalen Ökosystems explizit über die Verwendung ihrer Daten informiert zu werden oder um ihre Zustimmung zur Datennutzung gefragt zu werden. Dies ist insofern bemerkenswert, da die Datenschutz-Grundverordnung (DSGVO) bereits umfassende Informationspflichten vor der Datenverarbeitung vorsieht, unabhängig davon, ob eine Einwilligung benötigt wird. Die Ergebnisse der Studie deuten darauf hin, dass die aktuellen Strategien zur Information und Interventionsmöglichkeiten in digitalen Ökosystemen nicht adäquat umgesetzt sind.
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Personas](<Personas>) | [Realisierung ![](/Daccord/assets/images/forward-solid.svg)](<../../Realisierung>) |
+
+****

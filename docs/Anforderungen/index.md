@@ -35,3 +35,9 @@
 Das D’accord-Qualitätsmodell ermöglicht eine multiperspektivische Betrachtung über mehrere Qualitätsbereiche hinweg. Neben der Qualitätssicht des Betreibers  werden die Qualitätssichten aller anderen relevanten Stakeholder berücksichtigt. Das D’accord-Qualitätsmodell steht in Form einer Excel-Datei als Download zur Verfügung.
 
 [Zum Kapitel "Qualitätsmodell"](<Qualitätsmodell>)
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Einleitung](<../Einleitung>) | [Realisierung ![](/Daccord/assets/images/forward-solid.svg)](<../Realisierung>) |
+
+****

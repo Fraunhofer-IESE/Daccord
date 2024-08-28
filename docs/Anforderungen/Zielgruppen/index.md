@@ -17,3 +17,9 @@
 <mark>tbd.</mark>
 
 [Zum Kapitel "Mentale Modelle"](<Mentale Modelle>)
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Anforderungen](<..>) | [Randbedingungen ![](/Daccord/assets/images/forward-solid.svg)](<../Randbedingungen>) |
+
+****
