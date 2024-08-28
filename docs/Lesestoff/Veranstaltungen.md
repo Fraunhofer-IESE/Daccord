@@ -92,7 +92,7 @@
 <script src="/Daccord/assets/scripts/slideshow.js"></script>
 
 
-## Usable Security and Privacy Workshops auf der Mensch und Computer**
+## Usable Security and Privacy Workshops auf der Mensch und Computer
 
 Der Workshop "Usable Security und Privacy" wird seit 2015 im Rahmen der [Mensch und Computer (MuC)](https://fb-mci.gi.de/aktivitaeten/tagungsreihe-mensch-und-computer/) durchgeführt. Ziel ist es, einen Austausch von   Expert:innen aus Wissenschaft und Praxis zum Thema benutzerfreundlicher Technologien zur Gewährleistung der Informationssicherheit und Privatheit zu ermöglichen und weiterzuentwickeln. Zugleich soll durch den Workshop die Diskussion für ein breiteres Fachpublikum geöffnet werden. 
 
