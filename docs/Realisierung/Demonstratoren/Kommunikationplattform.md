@@ -1,4 +1,4 @@
-# Kommunikationplattform für Unternehmen
+# Kommunikationsplattform für Unternehmen
 
 Bei der elektronischen Kommunikation und Zusammenarbeit von IT-Unternehmen mit Partnern, Kunden und Lieferanten werden in der Regel intensiv personenbezogene Daten ausgetauscht, an Dritte weitergegeben werden oder bei Cloud-Diensten gespeichert. Für die Betroffenen, z. B. Mitarbeiter in den beteiligten Unternehmen, ist dies oft nicht transparent und sie haben keine Möglichkeit, steuernd in die Datenverarbeitung einzugreifen.
 
@@ -42,8 +42,7 @@ Zudem wurde entschieden, welche Betroffenenrechte im Cockpit-Demonstrator umgese
 
 Im Anschluss an die Konzepterstellung und die Durchführung einer technischen Machbarkeitsstudie erfolgte die technische Implementierung des Demonstrators für das Anwendungsszenario der HKBS. Die Ausarbeitung fand inkrementell statt, Zwischenstände wurden regelmäßig intern und mit den Projektpartnern abgestimmt. Auf Basis des Feedbacks der Zielgruppenvertreter wurden neue Funktionen hinzugefügt, Umstrukturierungen und Umbenennungen vorgenommen und neue Menüpunkte ergänzt.
 
-## Demonstrator des Datenschutz-Cockpits
-
+## Video: Interaktion im Datenschutz-Cockpit
 
 <video src="Daccord-Cockpit_HKBS.mp4" controls="controls" style="max-width: 960px;"></video>
 (Stand: August 2024)
