@@ -1358,6 +1358,6 @@ Als Betreiber möchte ich den Betrieb der Plattform einstellen können, damit ic
 
 ****
 
-| [![](/Daccord/assets/images/backward-solid.svg) Unterstützungsbedarfe](<Unterstützungsbedarfe>) | [Anforderungen ![](/Daccord/assets/images/forward-solid.svg)](<../Anforderungen>) |
+| [![](/Daccord/assets/images/backward-solid.svg) Unterstützungsbedarfe](<Unterstützungsbedarfe>) | [Anforderungen ![](/Daccord/assets/images/forward-solid.svg)](<Anforderungen>) |
 
 ****
