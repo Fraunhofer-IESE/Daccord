@@ -2,7 +2,7 @@
 # Glossar
 
 **Inhaltsverzeichnis**
-
+<div id="toc">Inhaltsverzeichnis</div>
 
 ## Bedarf (GB7)
 
