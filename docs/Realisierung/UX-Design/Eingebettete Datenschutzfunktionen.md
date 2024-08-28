@@ -6,6 +6,6 @@ Eingebettete Datenschutzfunktionen sind dezentrale Cockpit-Elemente, die an pass
 
 ****
 
-| [![](/Daccord/assets/images/backward-solid.svg) Datennutzer](<Zentrale Datenschutz-Cockpits/Datennutzer>) | [Interaktionspatterns ![](/Daccord/assets/images/forward-solid.svg)](<../Interaktionspatterns>) |
+| [![](/Daccord/assets/images/backward-solid.svg) Datennutzer](<Zentrale Datenschutz-Cockpits/Datennutzer>) | [Interaktionspatterns ![](/Daccord/assets/images/forward-solid.svg)](<Interaktionspatterns>) |
 
 ****

@@ -141,3 +141,9 @@ Datenkategorien mit Beschreibung, Quelle, Zweck, Empfänger; Dienste und Zwecke 
 ![Administrationsoberfläche: Benutzerverwaltung](<HKBS_28_benutzerverwaltung.JPG>)
 
 ![Administrationsoberfläche: Rollenzuweisungen](<HKBS_29_rolle-aendern.JPG>)
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Digitale Gesundheitsplattform](<DigitaleGesundheitsplattform>) | [Bewertung ![](/Daccord/assets/images/forward-solid.svg)](../Bewertung) |
+
+****
