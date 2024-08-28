@@ -659,6 +659,7 @@ Der Anbieter des Datenvermittlungsdienstes muss diese Daten den Dateninhabern au
 ****
 
 **Quellen:**
+
 [^1]: nach Martin Glinz, „On Non-Functional Requirements”, 15. IEEE International Requirements Engineering Conference (RE), 2007, P. 21–26, doi: 10.1109/RE.2007.45.
 
 [^2]: siehe Kapitel 6 in Chris Rupp und die SOPHISTen, „Requirements Engineering und -Management“, 6. Auflage, 2020, Hanser Verlag.
