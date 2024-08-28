@@ -32,3 +32,9 @@ Auf dieser Seite sind die im Rahmen von D’accord entstandenen Konferenz-, Work
 - **Denis Feth:**  Benutzerfreundliche Umsetzung von Datensouveränität in Digitalen Ökosystemen. Keynote, 8. Usable Security und Privacy Workshop 2022. Verfügbar unter: https://daccord-projekt.de/WP/wp-content/uploads/2022/10/Feth-2022-Datensouveraenitaet-in-Digitalen-Oekosystemen-slides.pdf
 - **Hartmut Schmitt & Denis Feth:**  Warum Datenschutz nicht der Feind sein muss. Gastbeitrag, UIG-Magazin,2022. Verfügbar unter: https://www.kompetenzzentrum-usability.digital/kos/WNetz?art=News.show&id=1932
 - **Hartmut Schmitt & Eduard C. Groen:**  Erreichen von Usable Privacy durch die Einbindung bewährter RE-Methoden im Human-Centered-Design-Prozess. Vortrag, Diskussionsaustausch „Menschenzentriertes RE“ der Fachgruppe Requirements Engineering der Gesellschaft für Informatik,2022. Verfügbar unter: https://daccord-projekt.de/WP/wp-content/uploads/2022/11/FGRE-Diskussionsautausch_Schmitt-Groen.pdf
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Systemeinführung](../Systemeinführung) | [Veranstaltungen ![](/Daccord/assets/images/forward-solid.svg)](Veranstaltungen) |
+
+****

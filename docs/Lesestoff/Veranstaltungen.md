@@ -130,3 +130,9 @@ aus unterschiedlichen Domänen, z. B. dem Usability- und SecurityEngineering, t
 - **Zeit:** 05. September 2021
 - **Call for Paper:** [https://das.h-brs.de/workshops/usp-muc-2021/](https://das.h-brs.de/workshops/usp-muc-2021/)
 - **Publikation:** [https://dl.gi.de/server/api/core/bitstreams/a2a556ba-081a-4f47-895a-6b831ff7af32/content](https://dl.gi.de/server/api/core/bitstreams/a2a556ba-081a-4f47-895a-6b831ff7af32/content)
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Veröffentlichungen](./) | [Zurück zur Hauptseite ![](/Daccord/assets/images/house-solid.svg)](/) |
+
+****
