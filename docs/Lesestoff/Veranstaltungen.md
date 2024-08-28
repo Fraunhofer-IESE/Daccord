@@ -133,6 +133,6 @@ aus unterschiedlichen Domänen, z. B. dem Usability- und SecurityEngineering, t
 
 ****
 
-| [![](/Daccord/assets/images/backward-solid.svg) Veröffentlichungen](./) | [Zurück zur Hauptseite ![](/Daccord/assets/images/house-solid.svg)](/) |
+| [![](/Daccord/assets/images/backward-solid.svg) Veröffentlichungen](./) | [Zurück zur Hauptseite ![](/Daccord/assets/images/house-solid.svg)](..) |
 
 ****
