@@ -144,6 +144,6 @@ Datenkategorien mit Beschreibung, Quelle, Zweck, Empfänger; Dienste und Zwecke 
 
 ****
 
-| [![](/Daccord/assets/images/backward-solid.svg) Digitale Gesundheitsplattform](<DigitaleGesundheitsplattform>) | [Bewertung ![](/Daccord/assets/images/forward-solid.svg)](../Bewertung) |
+| [![](/Daccord/assets/images/backward-solid.svg) Digitale Gesundheitsplattform](<Digitale Gesundheitsplattform>) | [Bewertung ![](/Daccord/assets/images/forward-solid.svg)](../Bewertung) |
 
 ****
