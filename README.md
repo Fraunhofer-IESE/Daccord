@@ -1,11 +1,12 @@
 # Daccord
 
-Daccord is a ...
+In the collaborative project “D'accord - Adaptive data protection cockpits in digital ecosystems”, innovative concepts and tools were developed that enable companies to achieve a higher level of legal compliance when processing personal data, both internally and across companies. The focus is on a so-called data protection cockpit.
+This software solution acts as a central point of contact for data subjects who want to find out how their personal data is used. This creates transparency and trust. On the other hand, data subjects can use the data protection cockpit to actively influence the use of their personal data and exercise their data subject rights.
 
-Repository organization:
+## Repository organization
 
-- The docs folders contains the complete documentation for the framework. Its content is published at https://fraunhofer-iese.github.io/Daccord/
-- The src folders contains an example implementation
+- The **docs** folders contains the project documentation. Its content is published at https://fraunhofer-iese.github.io/Daccord/
+- The **src** folders contains demonstrator code.
 
 ## Docs
 
