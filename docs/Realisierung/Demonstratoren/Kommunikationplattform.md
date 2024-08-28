@@ -42,7 +42,9 @@ Zudem wurde entschieden, welche Betroffenenrechte im Cockpit-Demonstrator umgese
 
 Im Anschluss an die Konzepterstellung und die Durchführung einer technischen Machbarkeitsstudie erfolgte die technische Implementierung des Demonstrators für das Anwendungsszenario der HKBS. Die Ausarbeitung fand inkrementell statt, Zwischenstände wurden regelmäßig intern und mit den Projektpartnern abgestimmt. Auf Basis des Feedbacks der Zielgruppenvertreter wurden neue Funktionen hinzugefügt, Umstrukturierungen und Umbenennungen vorgenommen und neue Menüpunkte ergänzt.
 
-## Video: Interaktion im Datenschutz-Cockpit
+## Demonstrator des Datenschutz-Cockpits
+
+### Interaktion im Datenschutz-Cockpit
 
 <video src="Daccord-Cockpit_HKBS.mp4" controls="controls" style="max-width: 960px;"></video>
 (Stand: August 2024)
