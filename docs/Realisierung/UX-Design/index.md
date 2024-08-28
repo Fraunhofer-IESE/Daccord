@@ -23,3 +23,9 @@ Komponenten eines Datenschutz-Cockpits können auch dezentral in ein digitales �
 Interaktionspatterns sind etablierte UX-Musterlösungen, die für die Umsetzung gebrauchstauglicher Benutzerschnittstellen eingesetzt werden können. Im Projekt D’accord wurde eine Sammlung existierender Interaktionspatterns für die Verwendung in Datenschutzcockpits erstellt.
 
 [Zum Kapitel "Interaktionspatterns"](<Interaktionspatterns>)
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Realisierung](<./>) | [Architekturkonzept ![](/Daccord/assets/images/forward-solid.svg)](<../Architekturkonzept>) |
+
+****

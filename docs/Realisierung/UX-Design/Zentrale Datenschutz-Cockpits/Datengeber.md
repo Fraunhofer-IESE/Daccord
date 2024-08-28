@@ -41,3 +41,9 @@ Diese Darstellung bietet zudem die Möglichkeit, dienstübergreifende Änderunge
 {% include Berechtigungen-Datengeber.html %}
 
 Wie gezeigt wurde, können Datenschutz-Cockpits Datengebern eine zentrale Plattform bieten, um ihre persönlichen Daten zu verwalten und ihre Datenschutzrechte einfach auszuüben. Sie ermöglichen eine klare Übersicht darüber, welche Daten gesammelt und verarbeitet werden, und bieten zugleich einfache Werkzeuge, um Berechtigungen anzupassen oder Daten zu löschen. Dies stärkt das Vertrauen der Nutzer und gibt ihnen mehr Kontrolle über ihre Daten. Doch auch für Datennutzer ist der Einsatz von Datenschutz-Cockpits mit einem Mehrwert verbunden. Die Datennutzer-Sicht des Datenschutzcckpits finden sie hier: [Zur Datennutzer-Sicht](./Realisierung/UX-Design/ZentraleDatenschutz-Cockpits/Datennutzer)
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Zentrale Datenschutz-Cockpits](<./>) | [Datennutzer ![](/Daccord/assets/images/forward-solid.svg)](<Datennutzer>) |
+
+****

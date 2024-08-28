@@ -15,3 +15,8 @@ Datennutzer sind die Entitäten, die die Daten vom Datengeber erhalten und für 
 
 [Zum Kapitel "Datennutzer"](Datennutzer.md)
 
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) UX-Design](<..>) | [Eingebettete Datenschutzfunktionen ![](/Daccord/assets/images/forward-solid.svg)](<../Eingebettete Datenschutzfunktionen>) |
+
+****

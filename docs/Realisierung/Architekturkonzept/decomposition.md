@@ -133,6 +133,6 @@ Although the actual data asset flow happens in the <kbd>Platform Core</kbd> (and
 
 ****
 
-[![](/Daccord/assets/images/backward-solid.svg) 3. Architecture drivers](drivers) | [5. Quality concepts ![](/Daccord/assets/images/forward-solid.svg)](quality)
+[![](/Daccord/assets/images/backward-solid.svg) 3. Architecture drivers](drivers) | [5. Quality concepts ![](/Daccord/assets/images/forward-solid.svg)](quality) |
 
-
+****

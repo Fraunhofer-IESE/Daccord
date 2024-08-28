@@ -220,3 +220,10 @@ Das Unterteilen von Informationen in thematisch zusammenhängende Gruppen kann d
 * [nngroup.com: Chunking](https://www.nngroup.com/articles/chunking)
 
 
+****
+
+| [Eingebettete Datenschutzfunktionen ![](/Daccord/assets/images/forward-solid.svg)](<../Eingebettete Datenschutzfunktionen>) | [![](/Daccord/assets/images/backward-solid.svg) Architekturkonzept](<../Architekturkonzept>) |
+
+****
+
+
