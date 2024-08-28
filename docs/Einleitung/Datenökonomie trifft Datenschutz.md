@@ -69,8 +69,9 @@ Durchgängiger Datenschutz ist bereits für „traditionelle“ Systeme und Dien
 
 | [![](/Daccord/assets/images/backward-solid.svg) Plattformökonomie](<Digitale Plattformen und Plattformökonomie>) | [Datenverarbeitungen ![](/Daccord/assets/images/forward-solid.svg)](<Datenverarbeitungen in digitalen Ökosystemen>) |
 
+****
 
-
+**Quellen:**
 
 [^1]: Oostveen, M. (2016). Warum Privacy ≠ Datenschutz ist (und wie sie sich überschneiden), Berlin: Alexander von Humboldt Institut für Internet und Gesellschaft. [https://www.hiig.de/warum-privacy-%E2%89%A0-datenschutz-ist-und-wie-sie-sich-ueberschneiden/](https://www.hiig.de/warum-privacy-%E2%89%A0-datenschutz-ist-und-wie-sie-sich-ueberschneiden/)
 

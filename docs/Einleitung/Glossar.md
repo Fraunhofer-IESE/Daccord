@@ -1033,3 +1033,5 @@ Eine Verletzung des Schutzes personenbezogener Daten ist nach Art. 4 Nr. 12 DSGV
 ****
 
 | [![](/Daccord/assets/images/backward-solid.svg) Datenverarbeitungen](<Datenverarbeitungen in digitalen Ökosystemen>) | [Anforderungen ![](/Daccord/assets/images/forward-solid.svg)](<../Anforderungen>) |
+
+****
