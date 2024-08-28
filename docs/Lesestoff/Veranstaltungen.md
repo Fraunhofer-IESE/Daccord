@@ -1,6 +1,6 @@
-<link rel="stylesheet" href="/Daccord/assets/css/slideshow.css">
-
 # Unsere Veranstaltungen
+
+<link rel="stylesheet" href="/Daccord/assets/css/slideshow.css">
 
 ## Netzwerkveranstaltung "Datenökonomie trifft Datenschutz"
 

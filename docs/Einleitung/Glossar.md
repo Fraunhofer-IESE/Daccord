@@ -1,7 +1,7 @@
 # Glossar
+
 <script src="../assets/scripts/jquery-3.7.1.min.js"></script>
 <script src="../assets/scripts/toc.js"></script>
-
 **Inhaltsverzeichnis**
 <div id="toc">Inhaltsverzeichnis</div>
 
