@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/Daccord/assets/css/slideshow.css">
+
 # Unsere Veranstaltungen
 
 ## Usable Security and Privacy Workshops auf der Mensch und Computer**
@@ -47,3 +49,87 @@ aus unterschiedlichen Domänen, z. B. dem Usability- und SecurityEngineering, t
 - **Ort:** Fraunhofer Forum Berlin
 - **Zeit:** 10. Oktober 2023
 - **Link:** https://www.iese.fraunhofer.de/de/veranstaltungen_messen/2023/datenschutzoekonomie2023.html
+
+
+<div class="slideshow-container">
+
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 10</div>
+    <img src="Datenoekonomie_trifft_Datenschutz_01.jpg" style="width:100%">
+    <div class="text">Prof. Dr. Peter Liggesmeyer (Fraunhofer IESE) erf&ouml;ffnet die Veranstaltung. &copy; Fraunhofer IESE</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 10</div>
+    <img src="Datenoekonomie_trifft_Datenschutz_02.jpg" style="width:100%">
+    <div class="text">Prof. Dr. Katharina H&ouml;lzle (Fraunhofer IAO) erf&ouml;ffnet die Veranstaltung. &copy; Fraunhofer IESE</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 10</div>
+    <img src="Datenoekonomie_trifft_Datenschutz_03.jpg" style="width:100%">
+    <div class="text">Bettina Klingbeil (BMBF) spricht Gru&szlig;worte aus Sicht des F&ouml;rdermittelgebers. &copy; Fraunhofer IESE</div>
+  </div>
+  
+ <div class="mySlides fade">
+    <div class="numbertext">4 / 10</div>
+    <img src="Datenoekonomie_trifft_Datenschutz_04.jpg" style="width:100%">
+    <div class="text">Dr. Marcus Trapp (FullFlamingo) h&auml;lt die Keynote zum Thema Digitale &Ouml;kosysteme und Plattform&ouml;konomie. &copy; Fraunhofer IESE</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">5 / 10</div>
+    <img src="Datenoekonomie_trifft_Datenschutz_05.jpg" style="width:100%">
+    <div class="text">Denis Feth (Fraunhofer IESE) stellt das Projekt D'accord vor. &copy; Fraunhofer IESE</div>
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">6 / 10</div>
+    <img src="Datenoekonomie_trifft_Datenschutz_06.jpg" style="width:100%">
+    <div class="text">Bernd Rauch (Fraunhofer IESE) stellt das Projekt KickStartTrustee vor. &copy; Fraunhofer IESE</div>
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">7 / 10</div>
+    <img src="Datenoekonomie_trifft_Datenschutz_07.jpg" style="width:100%">
+    <div class="text">Christian Schunck (Fraunhofer IAO) stellt das Projekt PERISCOPE vor. &copy; Fraunhofer IESE</div>
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">8 / 10</div>
+    <img src="Datenoekonomie_trifft_Datenschutz_08.jpg" style="width:100%">
+    <div class="text">Uwe Laufs (Fraunhofer IAO) stellt das Projekt TESTER vor. &copy; Fraunhofer IESE</div>
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">9 / 10</div>
+    <img src="Datenoekonomie_trifft_Datenschutz_09.jpg" style="width:100%">
+    <div class="text">Dr. Reinhard Schwarz (Fraunhofer IESE) stellt das Projekt WearPrivate vor. &copy; Fraunhofer IESE</div>
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">10 / 10</div>
+    <img src="Datenoekonomie_trifft_Datenschutz_10.jpg" style="width:100%">
+    <div class="text">Podiumsdiskussion mit Dr. Marcus Trapp (FullFlamingo), Ann Cathrin Riedel (LOAD e.V.), Gerald Swarat (Fraunhofer IESE, Moderation), Marc Henrichmann (CDU) und Malte Spitz (Bündnis 90 / Die Grünen) (v.l.n.r.) &copy; Fraunhofer IESE</div>
+  </div>
+    
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span>
+  <span class="dot" onclick="currentSlide(5)"></span>
+  <span class="dot" onclick="currentSlide(6)"></span>
+  <span class="dot" onclick="currentSlide(7)"></span>
+  <span class="dot" onclick="currentSlide(8)"></span>
+  <span class="dot" onclick="currentSlide(9)"></span>
+  <span class="dot" onclick="currentSlide(10)"></span>
+</div>
+
+
+<script src="/Daccord/assets/scripts/slideshow.js"></script>
