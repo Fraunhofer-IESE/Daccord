@@ -44,7 +44,9 @@ Im Anschluss an die Konzepterstellung und die Durchführung einer technischen Ma
 
 ## Demonstrator des Datenschutz-Cockpits
 
-Stand: August 2024)
+
+<video src="Daccord-Cockpit_HKBS.mp4" controls="controls" style="max-width: 960px;"></video>
+(Stand: August 2024)
 
 ### Login-Screen und Startseite des Datenschutz-Cockpits
 
