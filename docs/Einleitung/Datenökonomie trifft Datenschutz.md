@@ -59,6 +59,8 @@ Ein vollumfänglicher Datenschutz geht immer auch einher mit **Datensouveränit�
 
 Durchgängiger Datenschutz ist bereits für „traditionelle“ Systeme und Dienste komplex. Bei digitalen Ökosystemen gibt es eine Reihe von Besonderheiten, die die Umsetzung weiter verkomplizieren. Dies sind unter anderem:
 
+![](<Herausforderungen.png>)
+
 - **Verlockungen:** Digitale Ökosysteme bieten große Vorteile für Anbieter und Konsument*innen. Gleichzeitig ist die Eintrittsbarriere niedrig. Das macht es äußerst verlockend, Daten preiszugeben.
 - **Volatilität:** Digitale Ökosysteme sind, wie alle Ökosysteme, einem ständigen Wandel unterworfen: Anbieter kommen und gehen, Dienste werden überarbeitet, AGB und Datenschutzerklärungen werden aktualisiert und die Ökosysteme passen sich an geänderte Gesetze an.
 - **Vertrauen:** Es ist äußerst schwierig, Vertrauen in ein ganzes Ökosystem aufzubauen, das aus potenziell Tausenden von Teilnehmern besteht. Vertrauen ist jedoch eine wesentliche Voraussetzung für die gemeinsame Nutzung von Daten.

@@ -78,16 +78,16 @@ Von uns durchgeführte Veranstaltungen finden Sie [hier](<Lesestoff/Veranstaltun
 ## **![](./assets/images/team.svg) Autoren**
 
 - **HK Business Solutions**
-  - Hartmut Schmitt
+  - Hartmut Schmitt ([GitHub](https://github.com/HKBS-HS))
 - **Fraunhofer IESE**
-  - Denis Feth ([GitHub Profile](https://github.com/denis-feth-iese))  
+  - Denis Feth ([LinkedIn](https://www.linkedin.com/in/denis-feth/) | [GitHub](https://github.com/denis-feth-iese))
   - Eddy Groen
   - Patrick Müller 
-  - Stefanie Ludborzs
-  - Rodrigo Falcão
+  - Stefanie Ludborzs ([GitHub](https://github.com/StefanieLudborzs-IESE))
+  - Rodrigo Falcão ([GitHub](https://github.com/rmfalcao))
 - **Hochschule Bonn-Rhein-Sieg**
   - Luigi Lo Iacono
-  - Florian Dehling
+  - Florian Dehling ([GitHub](https://github.com/herr-dehling))
 - **Insitut für Technologie und Arbeit**
   - Andreas Weßner
 - **Universität des Saarlandes**
