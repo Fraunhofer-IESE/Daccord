@@ -11,3 +11,9 @@
 Die Kriterienkataloge des D’accord-Qualitätsmodells ermöglichen eine gezielte Qualitätsbewertung verschiedener Qualitätsbereiche. Die Qualitätskriterien sind als Leitfragen formuliert, sodass man sie als Checklisten-Items verwenden kann. Die Kriterienkataloge stehen (zusammen mit dem Qualitätsmodell) in Form einer Excel-Datei als Download zur Verfügung.
 
 [Zum Kapitel "Kriterienkataloge"](<Kriterienkataloge>)
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Realisierung](../Realisierung) | [Systemeinführung ![](/Daccord/assets/images/forward-solid.svg)](<../Systemeinführung>) |
+
+****

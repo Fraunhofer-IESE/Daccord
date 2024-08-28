@@ -17,3 +17,9 @@
 <mark>tbd.</mark>
 
 [Zum Kapitel "Lehr- und Lernformate"](<Lehr- und Lernformate>)
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Bewertung](../Bewertung) | [Lesestoff ![](/Daccord/assets/images/forward-solid.svg)](../Lesestoff) |
+
+****
