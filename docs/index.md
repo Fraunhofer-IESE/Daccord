@@ -99,6 +99,8 @@ Von uns durchgeführte Veranstaltungen finden Sie [hier](<Lesestoff/Veranstaltun
 
 ## **![](./assets/images/smile.svg) Danksagung**
 
+![](./assets/images/bmbf_foerderlogo.jpg)
+
 Das Projekt D'accord wurde gefördert vom Bundesministerium für Bildung und Forschung (Förderkennzeichen 16KIS1506K, 16KIS1507, 16KIS1508, 16KIS1509, 16KIS1510). 
 
 ## **![](./assets/images/cc_fa.svg) Lizenz**
