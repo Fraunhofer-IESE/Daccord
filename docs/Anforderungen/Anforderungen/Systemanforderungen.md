@@ -61,3 +61,9 @@ Das System sollte die Möglichkeit geben, dass der Cockpit-Nutzer Einstellungen 
 
 ### Integration in digitale Ökosysteme (SYA29)
 Das System sollte fähig sein in die bestehenden Infrastrukturen unterschiedlicher digitaler Ökosysteme integriert zu werden, damit es mit möglichst geringem Integrationsaufwand für die Systemadministratoren (z. B. bei der Schnittstellenprogrammierung) seine Funktionen in dem vorgesehenen Kontext erfüllt.
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Prozessanforderungen](<Prozessanforderungen>) | [Qualitätsmodell ![](/Daccord/assets/images/forward-solid.svg)](<../Qualitätsmodell>) |
+
+****

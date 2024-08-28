@@ -21,3 +21,9 @@ Das Forschungsvorhaben und Vorgängerprojekt "TrUSD" hat gezeigt, dass es versch
 <mark>tbd.</mark>
 
 [Zum Kapitel "Unterstützungsbedarfe"](<Unterstützungsbedarfe>)
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Randbedingungen](<../Randbedingungen>) | [Transparenzbedarfe ![](/Daccord/assets/images/forward-solid.svg)](<Transparenzbedarfe>) |
+
+****

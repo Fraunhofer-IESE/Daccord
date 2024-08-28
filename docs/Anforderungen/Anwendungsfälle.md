@@ -1355,3 +1355,9 @@ Als Cockpit-Nutzer möchte ich mein Konto löschen können, damit ich einen saub
 
 ### Plattformbetrieb beenden
 Als Betreiber möchte ich den Betrieb der Plattform einstellen können, damit ich meinen Geschäftsinteressen nachkommen kann.
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Unterstützungsbedarfe](<Unterstützungsbedarfe>) | [Anforderungen ![](/Daccord/assets/images/forward-solid.svg)](<../Anforderungen>) |
+
+****

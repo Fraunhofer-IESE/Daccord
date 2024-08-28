@@ -155,3 +155,8 @@ Als Betroffener möchte ich zum Zeitpunkt der Erhebung wissen, welche Daten zu w
 **Beispiel:** Bei einem Formular, in das ich meine Daten eingebe, ist erläutert, wofür die einzelnen Daten später verwendet werden.
 
 
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Bedarfe](<./>) | [Selbstbestimmungsbedarfe ![](/Daccord/assets/images/forward-solid.svg)](<Selbstbestimmungsbedarfe>) |
+
+****

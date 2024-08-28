@@ -30,6 +30,6 @@ Zusätzlich zu solchen detaillierten Einstellungsmöglichkeiten wünschten sich 
 
 ****
 
-| [![](/Daccord/assets/images/backward-solid.svg) Personas](<Personas>) | [Realisierung ![](/Daccord/assets/images/forward-solid.svg)](<../../Realisierung>) |
+| [![](/Daccord/assets/images/backward-solid.svg) Personas](<Personas>) | [Randbedingungen ![](/Daccord/assets/images/forward-solid.svg)](<../Randbedingungen>) |
 
 ****

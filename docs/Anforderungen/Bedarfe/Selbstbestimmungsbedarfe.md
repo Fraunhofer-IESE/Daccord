@@ -130,3 +130,10 @@ Als Betroffener möchte ich meine Datenschutzeinstellungen unkompliziert über d
 
 
 **Beispiel:** Als Nutzer eines PIMS, Datenschutz- oder Einstellungsagenten kann ich meine Datenschutzeinstellungen auf Knopfdruck in das digitale Ökosystem übernehmen, etwa durch eine entsprechende REST- oder SOAP-Schnittstelle.
+
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Transparenzbedarfe](<./>) | [Bedarfe der Datennutzer ![](/Daccord/assets/images/forward-solid.svg)](<Bedarfe der Datennutzer>) |
+
+****

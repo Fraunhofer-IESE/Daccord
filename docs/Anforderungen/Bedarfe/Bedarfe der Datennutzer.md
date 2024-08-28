@@ -39,3 +39,9 @@ Als Datennutzer möchte ich auf einen Blick sehen und überprüfen können, welc
 Als Datennutzer möchte ich automatisch an fehlende Daten erinnert werden bzw. selbst eine Erinnerungsfunktion für die Betroffen einstellen können, damit ich alle benötigten Daten jeweils rechtzeitig vorliegen habe.
 
 **Beispiel:** Als Veranstaltungsorganisator habe ich sämtliche Referenten um Informationen für das Programm gebeten. Ich kann eine Erinnerungsfunktion einstellen, damit ich nach zwei Wochen nochmals nachfragen kann, falls Informationen fehlen.
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Selbstbestimmungsbedarfe](<Selbstbestimmungsbedarfe>) | [Unterstützungsbedarfe ![](/Daccord/assets/images/forward-solid.svg)](<Unterstützungsbedarfe>) |
+
+****

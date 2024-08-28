@@ -107,3 +107,9 @@ Als Cockpit-Nutzer möchte ich, dass das digitale Ökosystem möglichst missbrau
 Als Cockpit-Nutzer möchte ich möglichst intuitiv an die Nutzung des Datenschutz-Cockpits herangeführt werden, damit das Datenschutz-Cockpit mich zum Auseinandersetzen mit dem Thema Datenschutz ermutigt.
 
 **Hinweise & Interpretationen:** Der Einstieg kann z. B. sein, dass der Cockpit-Nutzer aus Neugier das Tool nutzt („Welche Daten werden von wem verarbeitet? Entspricht dies meiner Freigabe?“). Dann ergeben sich die nächsten Schritte, wenn der Cockpit-Nutzer z. B. nachforschen will, weil ihm oder ihr etwas bedenklich erscheint.
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Anforderungen](<./>) | [Prozessanforderungen ![](/Daccord/assets/images/forward-solid.svg)](<Prozessanforderungen>) |
+
+****
