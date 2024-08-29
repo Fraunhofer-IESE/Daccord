@@ -51,3 +51,10 @@ Als Betroffener möchte ich, dass mir während der Verwendung des digitalen Öko
 Als Cockpit-Nutzer möchte ich, dass es eine Möglichkeit gibt, Kundenwünsche und Anregungen mitzuteilen und die eigenen Wünsche sowie die Wünsche anderer Nutzer einzusehen, damit ich Einfluss nehmen kann, wie das Datenschutz-Cockpit weiterentwickelt wird, und das Gefühl habe, als Nutzer ernst genommen zu werden.
 
 **Indikator:** Wishlist; (öffentliche) Roadmap; Anzahl und Verfügbarkeit der Kontaktkanäle
+
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Interaktionsanforderungen](<Interaktionsanforderungen>) | [Systemanforderungen ![](/Daccord/assets/images/forward-solid.svg)](<Systemanforderungen>) |
+
+****

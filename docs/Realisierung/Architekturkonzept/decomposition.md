@@ -32,7 +32,7 @@ The next figure further decomposes the DPC component and features the external a
 **There are two components in the interface layer:**
 
 - The <kbd>UI</kbd> component is responsible for implementing the DPC's user interface (UI) and user experience (UX). Additional details regarding this can be found on the [UX Design page](../UX-Design/index.md). It is dependent on the **API** component for its functionality.
-> For example, the <kbd>UI</kbd> component can be implemented as a Single-Page Application using React that interacts with DPC's backend through a RESP API.
+> For example, the <kbd>UI</kbd> component can be implemented as a Single-Page Application using React that interacts with DPC's backend through a REST API.
 - The <kbd>API</kbd> component is responsible for exposing the internal functionality of the DPC to the UI and external components. It depends on the <kbd>Grant Service</kbd>, <kbd>Log Service</kbd>, and <kbd>Notification Service</kbd> components, as these components provide the actual functionalities of the DPC.
 
 **The service layer contains four components:**
@@ -83,15 +83,15 @@ This section contains behavioral diagrams depicting the interaction among DPC co
 This interaction is depicted in four steps:
 
 1. A data provider requests the platform owner to update personal data.
-2. The platform pulls the request notification
-3. The platform modifies the data as requested
+2. The platform pulls the request notification.
+3. The platform modifies the data as requested.
 4. The data provider is notified about the update of their data.
 
 These steps are enumerated in the sequence diagram below.
 
 ![sequence diagram 1](images/sequence-diagram_1_create-data-modification-request.svg)
 
-> **A note on logs:** Events relevant to the DPC can happen inside and outside the DPC. For example, consider a grant authorization flow: As the data involved is managed via the DPC (grant requests, approvals, revocations, etc.), all logs concerning the grant authorization flow can be created internally (e.g., <kbd>Grant Service</kbd> calls the <kbd>Log Service</kbd> whenever necessary). When it comes to modification of personal data (to refer to the same example used in the diagram), this happens outside the DPC: the <kbd>Platform Core</kbd> is responsible for storing data providers' personal data. Therefore, in these cases, the <kbd>Platform Core</kbd> must inform the DPC via its <kbd>API</kbd> component. Another prominent example of a relevant event outside the DPC is the data asset flow (whose occurrence must be informed by the <kdb>Platform Core</kbd>)
+> **A note on logs:** Events relevant to the DPC can happen inside and outside the DPC. For example, consider a grant authorization flow: As the data involved is managed via the DPC (grant requests, approvals, revocations, etc.), all logs concerning the grant authorization flow can be created internally (e.g., <kbd>Grant Service</kbd> calls the <kbd>Log Service</kbd> whenever necessary). When it comes to modification of personal data (to refer to the same example used in the diagram), this happens outside the DPC: the <kbd>Platform Core</kbd> is responsible for storing data providers' personal data. Therefore, in these cases, the <kbd>Platform Core</kbd> must inform the DPC via its <kbd>API</kbd> component. Another prominent example of a relevant event outside the DPC is the data asset flow (whose occurrence must be informed by the <kbd>Platform Core</kbd>)
 
 > **Getting notified:** Participants send notifications to each other, where each notification comprises two participants: a sender (or originator) and a recipient (or destination). When the notification involves a data provider and a data consumer, both participants interact with the DPC via the <kbd>UI</kbd> component. Therefore, these participants can see their new notifications on screen by accessing the DPC's user interface. However, there are more possibilities when the notification involves the platform owner (e.g., the data provider requests the platform owner to update their data). Certain predefined types of notifications can be processed by the <kbd>Platform Core</kbd> automatically, whereas generic requests may require human intervention. When a notification is created by the <kbd>Platform Core</kbd>, the sender calls an operation exposed by the <kbd>API</kbd> to create the notification in the DPC; when a notification is created by another participant, the <kbd>Platform Core</kbd> must pull the notification from the DPC, which can be done via an operation exposed by the <kbd>API</kbd>. Concrete implementations of the pulling can vary, depending on the concrete architecture and requirements of the concrete platform. The sequence diagram below features an optional callback function through which the DPC could inform the <kbd>Platform Core</kbd> about a new notification, which could be employed in scenarios involving time-sensitive messages.
 
@@ -103,8 +103,8 @@ These steps are enumerated in the sequence diagram below.
 
 This interaction is depicted in two steps:
 
-1. Data consumer creates an incident report notification to data providers
-2. Data provider is informed about the incident
+1. Data consumer creates an incident report notification to data providers.
+2. Data provider is informed about the incident.
 
 These steps are enumerated in the sequence diagram below.
 
@@ -116,8 +116,8 @@ These steps are enumerated in the sequence diagram below.
 
 This interaction is depicted in two steps:
 
-1. Data consumer creates a grant request
-2. Data provider approves the grant request
+1. Data consumer creates a grant request.
+2. Data provider approves the grant request.
 
 These steps are enumerated in the sequence diagram below.
 
@@ -125,16 +125,14 @@ These steps are enumerated in the sequence diagram below.
 
 ### Data asset flow
 
-Although the actual data asset flow happens in the <kbd>Platform Core</kbd> (and therefore is out of the scope of the DPC), the data asset flow is a relevant event in such an ecosystem and the DPC contributes to it by providing the <kbd>Platform Core</kbd> with information about the existence of valid grants for the requested dataflow. The interaction is illustrated in the sequence diagram below, which assumes that the <kbd>Data Consumer System</kbd> gets data assets by accessing an operation exposed by the <kbd>Platform Core</kbd>.
+Although the actual data asset flow happens in the <kbd>Platform Core</kbd> (and therefore is out of the scope of the DPC), the data asset flow is a relevant event in such an ecosystem and the DPC contributes to it by providing the <kbd>Platform Core</kbd> with information about the existence of valid grants for the requested data flow. The interaction is illustrated in the sequence diagram below, which assumes that the <kbd>Data Consumer System</kbd> gets data assets by accessing an operation exposed by the <kbd>Platform Core</kbd>.
 
 ![sequence diagram 4](images/sequence-diagram_4_data-asset-flow.svg)
 
-> **Logging the data flow:** Note that when the <kbd>Grant Service</kbd> is asked for the existence of grants for data flow, it assumes that the <kbd>Platform Core</kbd> will perform a data flow if a grant is found. For this reason, this read operation is logged, as these logs can serve as a proxy for data providers to know when a data flow has occurred (as in the example).
+> **Logging the data flow**: It is important to note that when the <kbd>Grant Service</kbd> is queried about the existence of grants for data flow, this action is logged. Assuming that the <kbd>Platform Core</kbd> verifies the grants each time before allowing a data asset to flow, these logs indicate that a data flow intent has been initiated within the platform. However, to maintain a record of the actual data flow, the DPC must provide an API that the <kbd>Platform Core</kbd> can use to notify the <kbd>DPC</kbd> when a data flow has taken place, as the <kbd>Platform Core</kbd> manages the data asset flow.
 
-<p align="center">
-    <a href="drivers.md">Previous: 3. Architecture drivers</a>&nbsp; | &nbsp;<a href="quality.md">Next: 5. Quality concepts</a>
-</p>
+****
 
+[![](/Daccord/assets/images/backward-solid.svg) 3. Architecture drivers](drivers) | [5. Quality concepts ![](/Daccord/assets/images/forward-solid.svg)](quality) |
 
-
-
+****

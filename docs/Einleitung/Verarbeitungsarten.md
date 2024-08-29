@@ -107,8 +107,13 @@ Meint jede Art der automatisierten Verarbeitung, die darin besteht, dass die per
 
 Ausführlich zum Profiling _Arning/Rothkegel_ Rn. 114–123; _Buchner_ Rn. 1–9a; _Ernst_ Rn. 36–39; _Gola_ Rn. 41–45; _Klabunde/Horváth_ Rn. 29–32; _Schild_ Rn. 64–67; _Scholz_ Rn. 1–12; _Spindler/Dalby_ Rn. 12; _Ziebarth_ Rn. 84–89.
 
+****
 
-# **Quellenverzeichnis:**
+| [![](/Daccord/assets/images/backward-solid.svg) Verarbeitungszwecke](<Verarbeitungszwecke>) | [Glossar ![](/Daccord/assets/images/forward-solid.svg)](<Glossar>) |
+
+****
+
+**Quellen:**
 
 Ehmann, Eugen/Selmayr, Martin (Hrsg.), Datenschutz-Grundverordnung, 3. Auflage, München 2024.  
     zitiert:  
@@ -150,3 +155,4 @@ _Arning/Rothkegel_, Art. 4 DS-GVO Rn. 47–156.
 Wolff, Amadeus/Brink, Stefan/v. Ungern-Sternberg, Antje (Hrsg.), BeckOK Datenschutzrecht, 48. Edition, München 2024.  
 zitiert:  
 *Schild*, Art. 4 DS-GVO Rn. 15, 29–80.
+

@@ -7,7 +7,7 @@ Digitale Ökosysteme sind durch die Vielzahl von Akteuren und potenziellen Daten
 
 ## **![](../../assets/images/arrows-to-circle.svg) Interaktionsdesigns für zentrale Datenschutz-Cockpits**
 
-Datenschutz-Cockpits dienen als zentrale Anlaufstelle, sowohl für Nutzende bei einem selbstbestimmten Umgang mit den eigenen Daten als auch für Verantwortliche bei der Ausübung datenschutzrelevanter Pflichten.
+Datenschutz-Cockpits dienen als zentrale Anlaufstelle, sowohl für Nutzende für einen selbstbestimmten Umgang mit den eigenen Daten als auch für Verantwortliche für die Ausübung datenschutzrelevanter Pflichten.
 
 [Zum Kapitel "Interaktionsdesigns für zentrale Datenschutz-Cockpits"](<Zentrale Datenschutz-Cockpits>)
 
@@ -23,3 +23,9 @@ Komponenten eines Datenschutz-Cockpits können auch dezentral in ein digitales �
 Interaktionspatterns sind etablierte UX-Musterlösungen, die für die Umsetzung gebrauchstauglicher Benutzerschnittstellen eingesetzt werden können. Im Projekt D’accord wurde eine Sammlung existierender Interaktionspatterns für die Verwendung in Datenschutzcockpits erstellt.
 
 [Zum Kapitel "Interaktionspatterns"](<Interaktionspatterns>)
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Realisierung](<./>) | [Architekturkonzept ![](/Daccord/assets/images/forward-solid.svg)](<../Architekturkonzept>) |
+
+****

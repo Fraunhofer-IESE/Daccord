@@ -345,7 +345,13 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Einfluss** | ![](../../assets/images/angles-down-solid.svg) gar kein(e)|
 | **Wichtigkeit** | ![](../../assets/images/angle-up-solid.svg) teilweise |
 
-# Quellen
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Anforderungen](<..>) | [Personas ![](/Daccord/assets/images/forward-solid.svg)](<Personas>) |
+
+****
+
+**Quellen:**
 
 [^1]:  I. F. Alexander (2005). A taxonomy of stakeholders: Human roles in system development. International Journal of Technology and Human Interaction, 1(1), 23–59.
 

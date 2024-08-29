@@ -219,4 +219,8 @@ Das Unterteilen von Informationen in thematisch zusammenhängende Gruppen kann d
 * [ui-patterns.com: Chunking](https://ui-patterns.com/patterns/Chunking)
 * [nngroup.com: Chunking](https://www.nngroup.com/articles/chunking)
 
+****
 
+| [![](/Daccord/assets/images/backward-solid.svg) Eingebettete Datenschutzfunktionen](../Eingebettete Datenschutzfunktionen) | [Architekturkonzept ![](/Daccord/assets/images/forward-solid.svg)](../Architekturkonzept) |
+
+****

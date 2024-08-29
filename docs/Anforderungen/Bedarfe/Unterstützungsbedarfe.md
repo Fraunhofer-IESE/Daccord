@@ -78,3 +78,8 @@ Als Betroffener möchte ich die Kompetenz vermittelt bekommen, die notwendigen P
 
 **Beispiel:** Als Betroffener erhalte ich das notwendige Wissen, um meine Daten im Datenschutz-Cockpit effektiv zu verwalten.
 
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Bedarfe der Datennutzer](<Bedarfe der Datennutzer>) | [Anwendungsfälle ![](/Daccord/assets/images/forward-solid.svg)](<../Anwendungsfälle>) |
+
+****

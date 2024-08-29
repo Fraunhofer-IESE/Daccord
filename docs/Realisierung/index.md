@@ -1,11 +1,5 @@
 # Realisierung
 
-## **![](../assets/images/wand.svg) Grundlegende Gestaltungsfragen**
-
-<mark>tbd.</mark>
-
-[Zum Kapitel "Grundlegende Gestaltungsfragen"](<Grundlegende Gestaltungsfragen>)
-
 ## **![](../assets/images/thumb-up.svg) UX-Design:** Wie gestaltet man benutzerfreundliche Datenschutzfunktionen?
 
 Die im Projekt erarbeiteten Lösungsansätze zeigen Möglichkeiten auf, wie benutzerfreundliche Datenschutzfunktionen gestalten werden können. Diese können je nach Bedarf einzeln verwendet oder kombiniert angewandt werden.
@@ -23,3 +17,9 @@ Die im Projekt erarbeiteten Lösungsansätze zeigen Möglichkeiten auf, wie benu
 <mark>tbd.</mark>
 
 [Zum Kapitel "Demonstratoren"](<Demonstratoren>)
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Anforderungen](<../Anforderungen>) | [Bewertung ![](/Daccord/assets/images/forward-solid.svg)](<../Bewertung>) |
+
+****

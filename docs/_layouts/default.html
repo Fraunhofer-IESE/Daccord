@@ -28,9 +28,30 @@
     </header>
 
     <main id="content" class="main-content" role="main">
+	  <nav>
+	   
+		{% for item in site.navigation %}
+		  <img src="{{ item.icon }}"/> 
+		  <a href="/Daccord/{{ item.link }}">
+		    {% if page.url contains item.link and item.name != "Home" %}
+		      <strong>{{ item.name }}</strong>
+		    {% elsif page.url == "/" and item.name == "Home" %}
+			  <strong>{{ item.name }}</strong>
+			{% else %}
+		      {{ item.name }}
+		    {% endif %}
+		  </a> 
+		  {% unless forloop.last %} 
+		    |
+		  {% endunless %}
+		{% endfor %}
+		
+	  </nav>
       {% if page.url != "/" and site.use_breadcrumbs %}
         {% include breadcrumbs.html %}
       {% endif %}
+
+
 
       {{ content }}
 

@@ -184,3 +184,9 @@ Daten, die lediglich für den Datenschutz anfallen.
 **Beispiele:** Datenauskünfte, Löschersuchen, Korrekturersuchen
 
 **Datenursprung**: auf verschiedenen Wegen erfasst
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Datenverarbeitung](<./>) | [Verarbeitungszwecke ![](/Daccord/assets/images/forward-solid.svg)](<Verarbeitungszwecke>) |
+
+****
