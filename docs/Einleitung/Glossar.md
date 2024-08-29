@@ -2,8 +2,6 @@
 
 {% include inhaltsverzeichnis.html %}
 
-**Inhaltsverzeichnis**
-
 ## Bedarf (GB7)
 
 Ein Bedarf ist im Sinne von D’accord eine (geäußerte) Erwartung eines Stakeholders, die dieser grundsätzlich hat und allgemein an Softwaresysteme stellen würde. Somit kann ein Bedarf sich auf den Entwurf und die Entwicklung eines einzelnen Softwaresystems auswirken. Bedarfe beziehen sich häufig auf gesellschaftlich relevante Themen, wie z. B. Datenschutz, Erklärbarkeit (im Hinblick auf die Verwendung von künstlicher Intelligenz), Nachhaltigkeit, Fairness und Inklusion, die längerfristig über die Gesetzgebung reguliert werden können. Die Berücksichtigung von Bedarfen kann dadurch neben einer größeren Benutzerzufriedenheit auch zur Gesetzeskonformität eines Systems beitragen.  

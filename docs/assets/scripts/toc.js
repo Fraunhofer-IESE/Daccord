@@ -14,10 +14,10 @@ document.getElementById("toggleButton").addEventListener("click", function() {
     if (contentList.classList.contains("collapsed")) {
         contentList.classList.remove("collapsed");
         contentList.classList.add("expanded");
-        this.textContent = "Inhaltsverzeichnis einklappen";
+        this.textContent = "Inhaltsverzeichnis ausblenden";
     } else {
         contentList.classList.remove("expanded");
         contentList.classList.add("collapsed");
-        this.textContent = "Inhaltsverzeichnis ausklappen";
+        this.textContent = "Inhaltsverzeichnis anzeigen";
     }
 });
