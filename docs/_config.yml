@@ -6,6 +6,7 @@ use_breadcrumbs: true
 
 plugins:
   - jemoji
+  - jekyll-sitemap
 
 navigation:
   - name: "Home"
