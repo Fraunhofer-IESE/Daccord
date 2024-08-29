@@ -6,6 +6,17 @@ $header-bg-color-secondary: #667c9b;
 
 $section-headings-color: #70AD47;
 
+.button {
+  background-color: #44546A;
+  border: none;
+  color: white;
+  padding: 6px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+
 @import "{{ site.theme }}";
 
 #content {
@@ -56,13 +67,3 @@ $section-headings-color: #70AD47;
     transition: height 0.3s ease;
 }
 
-.button {
-  background-color: #44546A;
-  border: none;
-  color: white;
-  padding: 6px 12px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 14px;
-}
