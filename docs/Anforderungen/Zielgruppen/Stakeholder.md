@@ -1,6 +1,6 @@
 # Stakeholder
 
-
+{% include inhaltsverzeichnis.html %}
 
 Der Begriff Stakeholder (Interessenvertreter, von engl. stake: Anteil) bezeichnet alle Perso-nen oder Gruppen, die die Anforderungen an ein System beeinflussen oder von dessen Ent-wicklung oder Betrieb in irgendeiner Weise betroffen sind.  Ein Stakeholder kann prototy-pisch durch eine Persona beschrieben sein. Bei einer Persona werden unter anderem Cha-raktereigenschaften, Erfahrungen und Werte des Stakeholders beschrieben. Diese Eigen-schaften können die Gestaltung des Datenschutz-Cockpits beeinflussen. Entsprechend gibt es diese beiden Fragestellungen:
 
