@@ -80,7 +80,7 @@ Von uns durchgeführte Veranstaltungen finden Sie [hier](<Lesestoff/Veranstaltun
 - **HK Business Solutions**
   - Hartmut Schmitt ([GitHub](https://github.com/HKBS-HS))
 - **Fraunhofer IESE**
-  - Denis Feth ([LinkedIn](https://www.linkedin.com/in/denis-feth/) | [GitHub](https://github.com/denis-feth-iese))
+  - Denis Feth ([LinkedIn](https://www.linkedin.com/in/denis-feth/) \| [GitHub](https://github.com/denis-feth-iese))
   - Eddy Groen
   - Patrick Müller 
   - Stefanie Ludborzs ([GitHub](https://github.com/StefanieLudborzs-IESE))
