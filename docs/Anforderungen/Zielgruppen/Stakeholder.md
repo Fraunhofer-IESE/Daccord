@@ -7,7 +7,7 @@ Der Begriff Stakeholder (Interessenvertreter, von engl. stake: Anteil) bezeichne
 1.	Welche Stakeholder gibt es hinsichtlich des Datenschutz-Cockpits?
 2.	Welche Eigenschaften haben diese Stakeholder?
 
-# Vorgehen 
+## Vorgehen 
 
 Die Stakeholder wurden vom Projektkonsortium gesammelt. Dabei wurde auf Arbeiten zu typischen Stakeholdern von digitalen Ökosystemen zurückgegriffen, die vom Fraunhofer IESE erstellt wurden.
 
@@ -31,9 +31,9 @@ Im Folgenden beschreiben wir alle Stakeholder pro Kategorie, sortiert nach deren
 ![Übersicht über die Stakeholder](<Stakeholders.png>)
 _Abbildung 1: Übersicht über die Stakeholder_
 
-# Benutzergruppenprofile
+## Benutzergruppenprofile
 
-## Betroffener (STH4)
+### Betroffener (STH4)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -46,7 +46,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Wichtigkeit** | ![](../../assets/images/angles-up-solid.svg) hoch |
 
 
-## Datennutzer (STH3)
+### Datennutzer (STH3)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -59,7 +59,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Wichtigkeit** | ![](../../assets/images/angles-up-solid.svg) hoch |
 
 
-## Verantwortlicher (STH2)
+### Verantwortlicher (STH2)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -72,7 +72,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Wichtigkeit** | ![](../../assets/images/angles-up-solid.svg) hoch |
 
 
-## Cockpit-Nutzer (STH1)
+### Cockpit-Nutzer (STH1)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -84,7 +84,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Einfluss** | ![](../../assets/images/angle-down-solid.svg) kaum|
 | **Wichtigkeit** | ![](../../assets/images/angles-up-solid.svg) hoch |
 
-## Güteranbieter (zukünftig) (STH19)
+### Güteranbieter (zukünftig) (STH19)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -97,7 +97,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Wichtigkeit** | <tbd> |
 
 
-## Güteranbieter (gegenwärtig) (STH17)
+### Güteranbieter (gegenwärtig) (STH17)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -110,7 +110,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Wichtigkeit** | <tbd> |
 
 
-## Externer Anbieter (Dienstleister auf der Plattform) (STH18)
+### Externer Anbieter (Dienstleister auf der Plattform) (STH18)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -123,7 +123,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Wichtigkeit** | ![](../../assets/images/angle-up-solid.svg) teilweise |
 
 
-## Externer Anbieter (B2B-Zulieferer) (STH20)
+### Externer Anbieter (B2B-Zulieferer) (STH20)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -135,9 +135,9 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Einfluss** | ![](../../assets/images/angles-down-solid.svg) gar kein(e)|
 | **Wichtigkeit** | ![](../../assets/images/angle-down-solid.svg) kaum |
 
-# Betreiber & Umfeld
+## Betreiber & Umfeld
 
-## Aufsichtsbehörde (STH13)
+### Aufsichtsbehörde (STH13)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -150,7 +150,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Wichtigkeit** | ![](../../assets/images/angles-up-solid.svg) hoch
 
 
-## Initiator (STH11)
+### Initiator (STH11)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -163,7 +163,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Wichtigkeit** | ![](../../assets/images/angles-up-solid.svg) hoch
 
 
-## Betreiber (STH5)
+### Betreiber (STH5)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -176,7 +176,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Wichtigkeit** | ![](../../assets/images/angles-up-solid.svg) hoch
 
 
-## Auditor/Gutachter (STH12)
+### Auditor/Gutachter (STH12)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -189,7 +189,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Wichtigkeit** | ![](../../assets/images/angle-up-solid.svg) teilweise
 
 
-## Werbetreibender (STH10)
+### Werbetreibender (STH10)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -202,7 +202,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Wichtigkeit** | ![](../../assets/images/angle-up-solid.svg) teilweise
 
 
-## Datenschutzbeauftragter (STH6)
+### Datenschutzbeauftragter (STH6)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -215,7 +215,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Wichtigkeit** | ![](../../assets/images/angle-up-solid.svg) teilweise
 
 
-## Onboarding-Verantwortlicher (STH7)
+### Onboarding-Verantwortlicher (STH7)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -228,7 +228,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Wichtigkeit** | ![](../../assets/images/angle-down-solid.svg) kaum
 
 
-## Kundenservice (STH16)
+### Kundenservice (STH16)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -241,7 +241,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Wichtigkeit** | ![](../../assets/images/angles-down-solid.svg) gar kein(e)
 
 
-## Externer Anbieter (Cloudservice / -infrastruktur) (STH15)
+### Externer Anbieter (Cloudservice / -infrastruktur) (STH15)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -254,7 +254,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Wichtigkeit** | ![](../../assets/images/angles-down-solid.svg) gar kein(e)
 
 
-## Wettbewerber (STH14)
+### Wettbewerber (STH14)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -267,7 +267,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Wichtigkeit** | ![](../../assets/images/angles-down-solid.svg) gar kein(e)
 
 
-## Plattformentwickler (STH9)
+### Plattformentwickler (STH9)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -280,7 +280,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Wichtigkeit** | ![](../../assets/images/angles-down-solid.svg) gar kein(e)
 
 
-## Wartungspersonal (STH8)
+### Wartungspersonal (STH8)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -292,9 +292,9 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Einfluss** | ![](../../assets/images/angle-up-solid.svg) teilweise|
 | **Wichtigkeit** | ![](../../assets/images/angles-down-solid.svg) gar kein(e) |
 
-# Güterkonsument
+## Güterkonsument
 
-## Güterkonsument (zukünftig) (STH24)
+### Güterkonsument (zukünftig) (STH24)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -307,7 +307,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Wichtigkeit** | <tbd> |
 
 
-## Externer Anbieter (Dienstleistung für Güterkonsument außerhalb der Plattform) (STH23)
+### Externer Anbieter (Dienstleistung für Güterkonsument außerhalb der Plattform) (STH23)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -320,7 +320,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Wichtigkeit** | <tbd> |
 
 
-## Güterkonsument (gegenwärtig) (STH21)
+### Güterkonsument (gegenwärtig) (STH21)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
@@ -333,7 +333,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 | **Wichtigkeit** | <tbd> |
 
 
-## Anwender (STH22)
+### Anwender (STH22)
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
