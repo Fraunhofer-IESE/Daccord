@@ -44,3 +44,14 @@ $section-headings-color: #70AD47;
 	margin-bottom: 0rem !important; 
 	font-style: italic !important;
 }
+
+.collapsed {
+    height: 0;
+    overflow: hidden;
+    transition: height 0.3s ease;
+}
+
+.expanded {
+    height: auto;
+    transition: height 0.3s ease;
+}
