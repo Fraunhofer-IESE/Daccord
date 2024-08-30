@@ -2,7 +2,7 @@
 
 ![](./assets/images/Daccord_Key_Visual.png) 
 
-<button type="button" id="toggleButton" style="background-color: #44546A; border: none; color: white; padding: 6px 12px; text-align: center; text-decoration: none; display: inline-block; font-size: 1rem;">Sitemap anzeigen</button>
+<button type="button" id="toggleButton" style="background-color: #44546A; border: none; color: white; padding: 6px 12px; text-align: center; text-decoration: none; display: inline-block; font-size: 1rem;">Sitemap / Inhaltsverzeichnis anzeigen</button>
 <div id="toc">
 	<ul id='contentList' class='collapsed'>
 	  <li>Home</li>
@@ -103,11 +103,11 @@
 		if (contentList.classList.contains("collapsed")) {
 			contentList.classList.remove("collapsed");
 			contentList.classList.add("expanded");
-			this.textContent = "Sitemap ausblenden";
+			this.textContent = "Sitemap / Inhaltsverzeichnis ausblenden";
 		} else {
 			contentList.classList.remove("expanded");
 			contentList.classList.add("collapsed");
-			this.textContent = "Sitemap anzeigen";
+			this.textContent = "Sitemap / Inhaltsverzeichnis anzeigen";
 		}
 	});
 
