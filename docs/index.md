@@ -192,8 +192,9 @@ Von uns durchgeführte Veranstaltungen finden Sie [hier](<Lesestoff/Veranstaltun
 ## **![](./assets/images/team.svg) Über uns**
 ### Konsortialpartner
 
-| ![](./assets/images/HKBS.jpg) <br/> [HK Business Solutions](https://www.hk-bs.de/) | ![](./assets/images/IESE.png) <br/> [Fraunhofer IESE](https://www.iese.fraunhofer.de)  | ![](./assets/images/H-BRS.jpeg) <br/> [Hochschule Bonn-Rhein-Sieg](https://www.h-brs.de/)  | ![](./assets/images/ITA.jpg) <br/> [Insitut für Technologie und Arbeit](https://www.ita-kl.de/) | ![](./assets/images/UdS.png) <br/> [Universität des Saarlandes](https://www.uni-saarland.de/)  |
-| -- | -- | -- | -- | -- |
+| [HK Business Solutions](https://www.hk-bs.de/) | [Fraunhofer IESE](https://www.iese.fraunhofer.de)  | [Hochschule Bonn-Rhein-Sieg](https://www.h-brs.de/)  | [Insitut für Technologie und Arbeit](https://www.ita-kl.de/) | [Universität des Saarlandes](https://www.uni-saarland.de/)  |
+|--|--|--|--|--|
+|![](./assets/images/HKBS.jpg)|![](./assets/images/IESE.png)|![](./assets/images/H-BRS.jpeg)|![](./assets/images/ITA.jpg)|![](./assets/images/UdS.png)|
 
 ### Autoren
 - **[HK Business Solutions](https://www.hk-bs.de/)** 
