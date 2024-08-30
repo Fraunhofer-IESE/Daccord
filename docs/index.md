@@ -189,22 +189,27 @@ Von uns publizierte Veröffentlichungen (Paper, Vorträge, Poster) finden Sie [h
 
 Von uns durchgeführte Veranstaltungen finden Sie [hier](<Lesestoff/Veranstaltungen>).
 
-## **![](./assets/images/team.svg) Autoren**
+## **![](./assets/images/team.svg) Über uns**
+### Konsortialpartner
 
-- **HK Business Solutions**
+| ![](./assets/images/HKBS.jpg) <br/> [HK Business Solutions](https://www.hk-bs.de/) | ![](./assets/images/IESE.png) <br/> [Fraunhofer IESE](https://www.iese.fraunhofer.de)  | ![](./assets/images/H-BRS.jpeg) <br/> [Hochschule Bonn-Rhein-Sieg](https://www.h-brs.de/)  | ![](./assets/images/ITA.jpg) <br/> [Insitut für Technologie und Arbeit](https://www.ita-kl.de/) | ![](./assets/images/UdS.png) <br/> [Universität des Saarlandes](https://www.uni-saarland.de/)  |
+| -- | -- | -- | -- | -- |
+
+### Autoren
+- **[HK Business Solutions](https://www.hk-bs.de/)** 
   - Hartmut Schmitt ([LinkedIn](https://www.linkedin.com/in/hartmut-schmitt-2b5b9022/) \| [GitHub](https://github.com/HKBS-HS))
-- **Fraunhofer IESE**
+- **[Fraunhofer IESE](https://www.iese.fraunhofer.de)**
   - Denis Feth ([LinkedIn](https://www.linkedin.com/in/denis-feth/) \| [GitHub](https://github.com/denis-feth-iese))
   - Eddy Groen ([LinkedIn](https://www.linkedin.com/in/eddygroen/) \| [Google Scholar](https://scholar.google.com/citations?user=sMMCM1oAAAAJ&hl=en&oi=ao))
   - Patrick Müller 
   - Stefanie Ludborzs ([GitHub](https://github.com/StefanieLudborzs-IESE))
   - Dr. Rodrigo Falcão ([Webseite](https://rodrigofalcao.info))
-- **Hochschule Bonn-Rhein-Sieg**
+- **[Hochschule Bonn-Rhein-Sieg](https://www.h-brs.de/)**
   - Prof. Dr. Luigi Lo Iacono
   - Florian Dehling ([GitHub](https://github.com/herr-dehling))
-- **Insitut für Technologie und Arbeit**
+- **[Insitut für Technologie und Arbeit](https://www.ita-kl.de/)**
   - Andreas Weßner
-- **Universität des Saarlandes**
+- **[Universität des Saarlandes](https://www.uni-saarland.de/)**
   - Prof. Dr. Christoph Sorge
   - Bianca Steffes
   - Franziska Neis
