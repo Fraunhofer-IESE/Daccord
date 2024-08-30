@@ -3,7 +3,7 @@
 ![](./assets/images/Daccord_Key_Visual.png) 
 
 <button type="button" id="toggleButton" style="background-color: #44546A; border: none; color: white; padding: 6px 12px; text-align: center; text-decoration: none; display: inline-block; font-size: 1rem;">Sitemap anzeigen</button>
-<div id="toc" class='collapsed'>
+<div id="toc">
 	<ul id='contentList' class='collapsed'>
 	  <li>Home</li>
 	  <li><a href="Einleitung">Einleitung</a>
