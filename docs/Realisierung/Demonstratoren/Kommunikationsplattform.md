@@ -45,158 +45,187 @@ Im Anschluss an die Konzepterstellung und die Durchführung einer technischen Ma
 ## Demonstrator des Datenschutz-Cockpits
 
 ### Interaktion im Datenschutz-Cockpit (Video)
-
-<video src="Daccord-Cockpit_HKBS.mp4" controls="controls" style="max-width: 960px;"></video>
 (Stand: August 2024)
 
-### Benutzeroberfläche des Datenschutz-Cockpits (Screenshots)
+<video src="Daccord-Cockpit_HKBS.mp4" controls="controls" style="max-width: 960px;"></video>
+
+### Benutzeroberfläche des Datenschutz-Cockpits (Slideshow)
+(Stand: August 2024)
 
 <div class="slideshow-container">
 
   <div class="mySlides fade">
     <div class="numbertext">1 / 29</div>
-    <img src="HKBS_01_login.jpg" style="width:100%">
-    <div class="text">Login-Screen des Datenschutz-Cockpits</div>
+    <img src="HKBS_01_login.JPG" style="width:100%">
+    <div class="text">Login-Screen des Datenschutz-Cockpits. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">2 / 29</div>
-    <img src="HKBS_02_startseite.jpg" style="width:100%">
-    <div class="text">Startseite des Datenschutz-Cockpits</div>
+    <img src="HKBS_02_startseite.JPG" style="width:100%">
+    <div class="text">Startseite des Datenschutz-Cockpits. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">3 / 29</div>
-    <img src="HKBS_03_glossar.jpg" style="width:100%">
-    <div class="text">Datenschutz-Glossar mit allgemeinverständlichen Erklärungen datenschutzrelevanter Begriffe und Verweisen auf relevante Quellen</div>
+    <img src="HKBS_03_glossar.JPG" style="width:100%">
+    <div class="text">Datenschutz-Glossar mit allgemeinverständlichen Erklärungen datenschutzrelevanter Begriffe und Verweisen auf relevante Quellen. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">4 / 29</div>
-    <img src="HKBS_04_glossareintrag.jpg" style="width:100%">
-    <div class="text">Beispieleintrag im Datenschutz-Glossar</div>
+    <img src="HKBS_04_glossareintrag.JPG" style="width:100%">
+    <div class="text">Beispieleintrag im Datenschutz-Glossar. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">5 / 29</div>
-    <img src="HKBS_05_ds-bei-hkbs.jpg" style="width:100%">
-    <div class="text">Übersicht “Datenschutz bei HKBS”</div>
+    <img src="HKBS_05_ds-bei-hkbs.JPG" style="width:100%">
+    <div class="text">Übersicht “Datenschutz bei HKBS”. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">6 / 29</div>
-    <img src="HKBS_06_richtlinien.jpg" style="width:100%">
-    <div class="text">Richtlinien u. ä., die den Umgang mit personenbezogenen Daten im digitalen Ökosystem regeln</div>
+    <img src="HKBS_06_richtlinien.JPG" style="width:100%">
+    <div class="text">Richtlinien u. ä., die den Umgang mit personenbezogenen Daten im digitalen Ökosystem regeln. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">7 / 29</div>
-    <img src="HKBS_07_richtlinien-beispiel.jpg" style="width:100%">
-    <div class="text">Beispiel für eine interne Richtlinie</div>
+    <img src="HKBS_07_richtlinien-beispiel.JPG" style="width:100%">
+    <div class="text">Beispiel für eine interne Richtlinie. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">8 / 29</div>
-    <img src="HKBS_08_vertraege.jpg" style="width:100%">
-    <div class="text">Verträge (insbesondere mit externen Datenverarbeitern), die den Umgang mit personenbezogenen Daten im digitalen Ökosystem regeln</div>
+    <img src="HKBS_08_vertraege.JPG" style="width:100%">
+    <div class="text">Verträge (insbesondere mit externen Datenverarbeitern), die den Umgang mit personenbezogenen Daten im digitalen Ökosystem regeln. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">9 / 29</div>
-    <img src="HKBS_09_neuer-vertrag.jpg" style="width:100%">
-    <div class="text">Maske zum Anlegen eines neuen Vertrags</div>
+    <img src="HKBS_09_neuer-vertrag.JPG" style="width:100%">
+    <div class="text">Maske zum Anlegen eines neuen Vertrags. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">10 / 29</div>
-    <img src="HKBS_10_audits.jpg" style="width:100%">
-    <div class="text">Audits/Reviews – Übersicht</div>
+    <img src="HKBS_10_audits.JPG" style="width:100%">
+    <div class="text">Audits/Reviews – Übersicht. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">11 / 29</div>
-    <img src="HKBS_11_neues-audit.jpg" style="width:100%">
-    <div class="text">Maske zum Dokumentieren eines Datenschutz-Audits</div>
+    <img src="HKBS_11_neues-audit.JPG" style="width:100%">
+    <div class="text">Maske zum Dokumentieren eines Datenschutz-Audits. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">12 / 29</div>
-    <img src="HKBS_12_schulungen.jpg" style="width:100%">
-    <div class="text">Durchgeführte Schulungen zum Umgang mit personenbezogenen Daten im digitalen Ökosystem </div>
+    <img src="HKBS_12_schulungen.JPG" style="width:100%">
+    <div class="text">Durchgeführte Schulungen zum Umgang mit personenbezogenen Daten im digitalen Ökosystem. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">13 / 29</div>
-    <img src="HKBS_13_neue-schulung.jpg" style="width:100%">
-    <div class="text">Maske zum Dokumentieren einer Schulung</div>
+    <img src="HKBS_13_neue-schulung.JPG" style="width:100%">
+    <div class="text">Maske zum Dokumentieren einer Schulung. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">14 / 29</div>
-    <img src="HKBS_14_verarbeitungsverzeichnis.jpg" style="width:100%">
-    <div class="text">Verarbeitungsverzeichnis – Übersicht</div>
+    <img src="HKBS_14_verarbeitungsverzeichnis.JPG" style="width:100%">
+    <div class="text">Verarbeitungsverzeichnis – Übersicht. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">15 / 29</div>
-    <img src="HKBS_15_verarbeitungsverzeichnis-beispiel.jpg" style="width:100%">
-    <div class="text">Beispieleintrag im Verarbeitungsverzeichnis </div>
+    <img src="HKBS_15_verarbeitungsverzeichnis-beispiel.JPG" style="width:100%">
+    <div class="text">Beispieleintrag im Verarbeitungsverzeichnis. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">16 / 29</div>
-    <img src="HKBS_16_tom.jpg" style="width:100%">
-    <div class="text">Verzeichnis der technischen und organisatorischen Maßnahmen (TOM)</div>
+    <img src="HKBS_16_tom.JPG" style="width:100%">
+    <div class="text">Verzeichnis der technischen und organisatorischen Maßnahmen (TOM). &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">17 / 29</div>
-    <img src="HKBS_17_tom-beispiel.jpg" style="width:100%">
-    <div class="text">TOM-Beispieleintrag</div>
+    <img src="HKBS_17_tom-beispiel.JPG" style="width:100%">
+    <div class="text">TOM-Beispieleintrag. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">18 / 29</div>
-    <img src="HKBS_18_dsfa.jpg" style="width:100%">
-    <div class="text">Verzeichnis der Datenschutz-Folgenabschätzungen (DSFA)</div>
+    <img src="HKBS_18_dsfa.JPG" style="width:100%">
+    <div class="text">Verzeichnis der Datenschutz-Folgenabschätzungen (DSFA). &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">19 / 29</div>
-    <img src="HKBS_19_neue-dsfa.jpg" style="width:100%">
-    <div class="text">Maske zum Dokumentieren einer DSFA</div>
+    <img src="HKBS_19_neue-dsfa.JPG" style="width:100%">
+    <div class="text">Maske zum Dokumentieren einer DSFA. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">20 / 29</div>
-    <img src="HKBS_20_datenkategorien.jpg" style="width:100%">
-    <div class="text">Datenkategorien mit Beschreibung, Quelle, Zweck und Empfänger</div>
+    <img src="HKBS_20_datenkategorien.JPG" style="width:100%">
+    <div class="text">Datenkategorien mit Beschreibung, Quelle, Zweck und Empfänger. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">21 / 29</div>
-    <img src="HKBS_21_dienste-zwecke.jpg" style="width:100%">
-    <div class="text">Dienste und Zwecke inkl. Rechtsgrundlagen</div>
+    <img src="HKBS_21_dienste-zwecke.JPG" style="width:100%">
+    <div class="text">Dienste und Zwecke inkl. Rechtsgrundlagen. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">22 / 29</div>
-    <img src="HKBS_22_eigene-daten-aendern.jpg" style="width:100%">
-    <div class="text">Übersicht der eigenen personenbezogenen Daten</div>
+    <img src="HKBS_22_eigene-daten-aendern.JPG" style="width:100%">
+    <div class="text">Übersicht der eigenen personenbezogenen Daten. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">23 / 29</div>
-    <img src="HKBS_23_eigene-daten-exportieren.jpg" style="width:100%">
-    <div class="text">Datenexport als PDF</div>
+    <img src="HKBS_23_eigene-daten-exportieren.JPG" style="width:100%">
+    <div class="text">Datenexport als PDF. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">24 / 29</div>
-    <img src="HKBS_24_einwilligungen-anfragen.jpg" style="width:100%">
-    <div class="text">Einwilligungen und Anfragen</div>
+    <img src="HKBS_24_einwilligungen-anfragen.JPG" style="width:100%">
+    <div class="text">Einwilligungen und Anfragen. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">25 / 29</div>
-    <img src="HKBS_25_anfrage-beispiel.jpg" style="width:100%">
-    <div class="text">Beispielanfrage</div>
-  </div>  
+    <img src="HKBS_25_anfrage-beispiel.JPG" style="width:100%">
+    <div class="text">Beispielanfrage. &copy; HK Business Solutions GmbH</div>
+  </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">26 / 29</div>
-    <img src="HKBS_26_meldungen.jpg" style="width:100%">
-    <div class="text">HKBS-Meldungen zum Datenschutz</div>
+    <img src="HKBS_26_meldungen.JPG" style="width:100%">
+    <div class="text">HKBS-Meldungen zum Datenschutz. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">27 / 29</div>
-    <img src="HKBS_27_neue_meldung.jpg" style="width:100%">
-    <div class="text">Maske zum Erstellen einer neuen Meldung</div>
+    <img src="HKBS_27_neue_meldung.JPG" style="width:100%">
+    <div class="text">Maske zum Erstellen einer neuen Meldung. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">28 / 29</div>
-    <img src="HKBS_28_benutzerverwaltung.jpg" style="width:100%">
-    <div class="text">Administrationsoberfläche: Benutzerverwaltung</div>
+    <img src="HKBS_28_benutzerverwaltung.JPG" style="width:100%">
+    <div class="text">Administrationsoberfläche: Benutzerverwaltung. &copy; HK Business Solutions GmbH</div>
   </div>
+  
   <div class="mySlides fade">
     <div class="numbertext">29 / 29</div>
-    <img src="HKBS_29_rolle-aendern.jpg" style="width:100%">
-    <div class="text">Administrationsoberfläche: Rollenzuweisungen</div>
+    <img src="HKBS_29_rolle-aendern.JPG" style="width:100%">
+    <div class="text">Administrationsoberfläche: Rollenzuweisungen. &copy; HK Business Solutions GmbH</div>
   </div>
 
 </div>
