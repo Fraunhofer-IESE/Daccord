@@ -2,31 +2,31 @@
 
 ## **![](../assets/images/team.svg) Zielgruppen:** Wer stellt Datenschutz-Cockpits für wen bereit?
 
-<mark>tbd.</mark>
+Hier erfahren Sie alles über die unterschiedlichen Zielgruppen der Datenschutz-Cockpits: Welche Personen(gruppen) sind für die Entwicklung und den Betrieb relevant? Welche charakteristischen Eigenschaften haben diese und was sind ihre mentalen Modelle in Hinsicht auf den Datenschutz in digitalen Ökosystemen?
 
 [Zum Kapitel "Zielgruppen"](<Zielgruppen>)
 
 ## **![](../assets/images/compass.svg) Randbedingungen:** Welche Leitplanken gibt der Gesetzgeber vor?
 
-<mark>tbd.</mark>
+Bei der Entwicklung und dem Betrieb eines Datenschutz-Cockpits gibt es diverse rechtliche Randbedingungen, die berücksichtigt werden müssen. Die hier dokumentierten Vorgaben haben wir aus der Datenschutzgrundverordnung und dem Daten-Governance-Rechtsakt abgeleitet.
 
 [Zum Kapitel "Randbedingungen"](<Randbedingungen>)
 
 ## **![](../assets/images/hand-point-up.svg) Bedarfe:** Was wollen die Nutzer?
 
-<mark>tbd.</mark>
+Die Erwartungen der Stakeholder, die diese an ein Datenschutz-Cockpit stellen, haben wir in Form von Bedarfen dokumentiert. Wir unterscheiden verschiedene Kategorien von Bedarfen, die die unterschiedlichen Sichten der Betroffenen und der Datennutzer berücksichtigen.
 
 [Zum Kapitel "Bedarfe"](<Bedarfe>)
 
 ## **![](../assets/images/gamepad.svg) Anwendungsfälle:** Bei welchen konkreten Anwendungsfällen unterstützt das Datenschutz-Cockpit?
 
-<mark>tbd.</mark>
+Wichtige Aktivitäten der Anwender, bei denen das Datenschutz-Cockpit involviert ist, haben wir in Form sogenannter Anwendungsfälle dokumentiert. Neben Standardinformationen, z. B. zum Ablauf der Use Cases, finden Sie hier auch viele Beispiele aus bekannten digitalen Ökosystemen.
 
 [Zum Kapitel "Anwendungsfälle"](<Anwendungsfälle>)
 
 ## **![](../assets/images/list.svg) Technische und organisatorische Anforderungen:** Welche Anforderungen ergeben sich daraus?
 
-<mark>tbd.</mark>
+In diesem Bereich finden Sie Anforderungen an ein Datenschutz-Cockpit beschrieben, die wir aus den rechtlichen Randbedingungen und Bedarfen abgeleitet haben. Wir unterscheiden drei Anforderungskategorien: Interaktions-, Prozess- und Systemanforderungen.
 
 [Zum Kapitel "Anforderungen"](<Anforderungen>)
 
