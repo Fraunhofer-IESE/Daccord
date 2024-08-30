@@ -96,7 +96,7 @@
 	</ul>
 </div>
 
-<script type="text/javascript>
+<script type="text/javascript">
 
 	document.getElementById("toggleButton").addEventListener("click", function() {
 		var contentList = document.getElementById("contentList");
