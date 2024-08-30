@@ -1,4 +1,4 @@
-# Digitale Plattformen und Plattformökonomie
+# Digitale Ökosysteme, digitale Plattformen und Plattformökonomie
 
 ## Definition
 Ein digitales Ökosystem ist ein sozio-technisches System, das mehrere, in der Regel unabhängige Anbieter und Konsument*innen von Gütern zum gegenseitigen Nutzen miteinander verbindet. Ein digitales Ökosystem basiert auf der Bereitstellung digitaler Ökosystemdienste durch den Einsatz digitaler Plattformen, die eine Skalierung sowie die Nutzung positiver Netzwerkeffekte ermöglichen.
