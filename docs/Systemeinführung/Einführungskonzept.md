@@ -220,59 +220,59 @@ Die Einführung einer neuen Technologie oder digitalen Lösung in ein Unternehme
 
 **Quellen:**
 
-[1^]: Vgl. Ulich, E. (2011). Arbeitspsychologie (7. Aufl.). Stuttgart: Schäffel-Poeschel Verlag. [↑ref-1)
+[^1]: Vgl. Ulich, E. (2011). Arbeitspsychologie (7. Aufl.). Stuttgart: Schäffel-Poeschel Verlag.
 
-[2^]: Vgl. Zink, K.J.; Bosse, C.K. (2019) Arbeit 4.0 im Mittelstand. Chancen und Herausforderungen des digitalen Wandels für KMU. Berlin, Heidelberg: Springer. [↑ref-2)
+[^2]: Vgl. Zink, K.J.; Bosse, C.K. (2019) Arbeit 4.0 im Mittelstand. Chancen und Herausforderungen des digitalen Wandels für KMU. Berlin, Heidelberg: Springer.
 
-[3^]: Vgl. Deutinger, G. (2017) Kommunikation im ‚Change. Erfolgreich kommunizieren in Veränderungsprozessen (2. Aufl.). Berlin: Springer Gabler. [↑ref-3)
+[3]: Vgl. Deutinger, G. (2017) Kommunikation im ‚Change. Erfolgreich kommunizieren in Veränderungsprozessen (2. Aufl.). Berlin: Springer Gabler. 
 
-[4^]: Vgl. Schlicher, K.D.; Paruzel, A.; Steinmann, B.; Maier, G.W. (2018) Change Management für die Einführung digitaler Arbeitswelten. In: Maier, G.; Engels, G.; Steffen, E. (Hrsg.) Handbuch Gestaltung digitaler und vernetzter Arbeitswelten. Springer Reference Psychologie. Berlin, Heidelberg: Springer. [↑ref-4)
+[^4]: Vgl. Schlicher, K.D.; Paruzel, A.; Steinmann, B.; Maier, G.W. (2018) Change Management für die Einführung digitaler Arbeitswelten. In: Maier, G.; Engels, G.; Steffen, E. (Hrsg.) Handbuch Gestaltung digitaler und vernetzter Arbeitswelten. Springer Reference Psychologie. Berlin, Heidelberg: Springer. 
 
-[5^]: Befragung durchgeführt im Rahmen des Projekts D‘accord [↑ref-5)
+[^5]: Befragung durchgeführt im Rahmen des Projekts D‘accord 
 
-[6^]: Vgl. Cawsey, T. F.; Deszca, G.; Ingols, C. (2016) Organizational change. An action-oriented toolkit (3. Aufl.). Los Angeles: Sage. [↑ref-6)
+[^6]: Vgl. Cawsey, T. F.; Deszca, G.; Ingols, C. (2016) Organizational change. An action-oriented toolkit (3. Aufl.). Los Angeles: Sage. 
 
-[7^]: Vgl. Schlicher, K.D.; Paruzel, A.; Steinmann, B.; Maier, G.W. (2018) Change Management für die Einführung digitaler Arbeitswelten. In: Maier, G.; Engels, G.; Steffen, E. (Hrsg.) Handbuch Gestaltung digitaler und vernetzter Arbeitswelten. Springer Reference Psychologie. Berlin, Heidelberg: Springer. [↑ref-7)
+[^7]: Vgl. Schlicher, K.D.; Paruzel, A.; Steinmann, B.; Maier, G.W. (2018) Change Management für die Einführung digitaler Arbeitswelten. In: Maier, G.; Engels, G.; Steffen, E. (Hrsg.) Handbuch Gestaltung digitaler und vernetzter Arbeitswelten. Springer Reference Psychologie. Berlin, Heidelberg: Springer. 
 
-[8^]: Vgl. Kotter (2012) Leading Change. Harvard Business Press: Boston, Massachusetts [↑ref-8)
+[^8]: Vgl. Kotter (2012) Leading Change. Harvard Business Press: Boston, Massachusetts 
 
-[9^]: C. K. Bosse, V. Hellge, D. Schröder, S. Dupont (2019) in: C. K. Bosse, K. J. Zink (Hrsg. 2019): Arbeit 4.0 im Mittelstand. Berlin. [↑ref-9)
+[^9]: C. K. Bosse, V. Hellge, D. Schröder, S. Dupont (2019) in: C. K. Bosse, K. J. Zink (Hrsg. 2019): Arbeit 4.0 im Mittelstand. Berlin. 
 
-[10^]: S. Sinek (2009). Start with why – how great leaders inspire everyone to take action. London. [↑ref-10)
+[^10]: S. Sinek (2009). Start with why – how great leaders inspire everyone to take action. London. 
 
-[11^]: SWOT-Analyse: <https://www.clc-consulting.ch/fileadmin/CONTENT/SWOT_Analyse_Benjamin_Kuenzli.pdf> [↑ref-11)
+[^11]: SWOT-Analyse: <https://www.clc-consulting.ch/fileadmin/CONTENT/SWOT_Analyse_Benjamin_Kuenzli.pdf> 
 
-[12^]: <https://www.gesetze-im-internet.de/betrvg/\__87.html> [↑ref-12)
+[^12]: <https://www.gesetze-im-internet.de/betrvg/\__87.html> 
 
-[13^]: M. T. Wright (2020). Partizipative Gesundheitsforschung: Ursprünge und heutiger Stand. [↑ref-13)
+[^13]: M. T. Wright (2020). Partizipative Gesundheitsforschung: Ursprünge und heutiger Stand. 
 
-[14^]: C. K. Bosse, V. Hellge, D. Schröder, S. Dupont (2019) in: C. K. Bosse, K. J. Zink (Hrsg. 2019): Arbeit 4.0 im Mittelstand. Berlin. [↑ref-14)
+[^14]: C. K. Bosse, V. Hellge, D. Schröder, S. Dupont (2019) in: C. K. Bosse, K. J. Zink (Hrsg. 2019): Arbeit 4.0 im Mittelstand. Berlin. 
 
-[15^]: M. Wright, M. Block, H. von Unger (2007). Stufen der Partizipation in der Gesundheitsförderung. Berlin. [↑ref-15)
+[^15]: M. Wright, M. Block, H. von Unger (2007). Stufen der Partizipation in der Gesundheitsförderung. Berlin. 
 
-[16^]: Wisdom Council – Der Rat der Weisen: <https://www.all-in-one-spirit.de/pdf/Rat_der_Weisen.pdf> [↑ref-16)
+[^16]: Wisdom Council – Der Rat der Weisen: <https://www.all-in-one-spirit.de/pdf/Rat_der_Weisen.pdf> 
 
-[17^]: <https://digitaleneuordnung.de/blog/delegation-poker/> [↑ref-17)
+[^17]: <https://digitaleneuordnung.de/blog/delegation-poker/> 
 
-[18^]: <https://www.orghandbuch.de/Webs/OHB/DE/OrganisationshandbuchNEU/4_MethodenUndTechniken/Methoden_A_bis_Z/Stakeholderanalyse/Stakeholderanalyse_node.html> [↑ref-18)
+[^18]: <https://www.orghandbuch.de/Webs/OHB/DE/OrganisationshandbuchNEU/4_MethodenUndTechniken/Methoden_A_bis_Z/Stakeholderanalyse/Stakeholderanalyse_node.html> 
 
-[19^]: A. Zerfaß, S. C. Volk (2019). Toolbox Kommunikationsmanagement – Denkwerkzeuge und Methoden für die Steuerung der Unternehmenskommunikation. Wiesbaden. [↑ref-19)
+[^19]: A. Zerfaß, S. C. Volk (2019). Toolbox Kommunikationsmanagement – Denkwerkzeuge und Methoden für die Steuerung der Unternehmenskommunikation. Wiesbaden. 
 
-[20^]: Merz, S. L. (2016). Industrie 4.0 Strategie: So geht man bei der Einführung vor. In: Roth, A. (Hrsg.): Einführung und Umsetzung von Industrie 4.0 Grundlagen, Vorgehensmodell und Use Cases aus der Praxis. Heidelberg. [↑ref-20)
+[^20]: Merz, S. L. (2016). Industrie 4.0 Strategie: So geht man bei der Einführung vor. In: Roth, A. (Hrsg.): Einführung und Umsetzung von Industrie 4.0 Grundlagen, Vorgehensmodell und Use Cases aus der Praxis. Heidelberg. 
 
-[21^]: C. K. Bosse, V. Hellge, D. Schröder, S. Dupont (2019) in: C. K. Bosse, K. J. Zink (Hrsg. 2019): Arbeit 4.0 im Mittelstand. Berlin. [↑ref-21)
+[^21]: C. K. Bosse, V. Hellge, D. Schröder, S. Dupont (2019) in: C. K. Bosse, K. J. Zink (Hrsg. 2019): Arbeit 4.0 im Mittelstand. Berlin. 
 
-[22^]: C. K. Bosse, V. Hellge, D. Schröder, S. Dupont (2019) in: C. K. Bosse, K. J. Zink (Hrsg. 2019): Arbeit 4.0 im Mittelstand. Berlin. [↑ref-22)
+[^22]: C. K. Bosse, V. Hellge, D. Schröder, S. Dupont (2019) in: C. K. Bosse, K. J. Zink (Hrsg. 2019): Arbeit 4.0 im Mittelstand. Berlin. 
 
-[23^]: G. Deutinger (2017). Kommunikation im Change – Erfolgreich kommunizieren in Veränderungsprozessen. Heidelberg. [↑ref-23)
+[^23]: G. Deutinger (2017). Kommunikation im Change – Erfolgreich kommunizieren in Veränderungsprozessen. Heidelberg. 
 
-[24^]: Enke et al. (2023). Veränderungsprojekte erfolgreich gestalten – 5 Schlüsselfaktoren für Ihr Unternehmen. Berlin [↑ref-24)
+[^24]: Enke et al. (2023). Veränderungsprojekte erfolgreich gestalten – 5 Schlüsselfaktoren für Ihr Unternehmen. Berlin 
 
-[25^]: C. K. Bosse, V. Hellge, D. Schröder, S. Dupont (2019) in: C. K. Bosse, K. J. Zink (Hrsg. 2019): Arbeit 4.0 im Mittelstand. Berlin. [↑ref-25)
+[^25]: C. K. Bosse, V. Hellge, D. Schröder, S. Dupont (2019) in: C. K. Bosse, K. J. Zink (Hrsg. 2019): Arbeit 4.0 im Mittelstand. Berlin. 
 
-[26^]: Enke et al. (2023). Veränderungsprojekte erfolgreich gestalten – 5 Schlüsselfaktoren für Ihr Unternehmen. Berlin. [↑ref-26)
+[^26]: Enke et al. (2023). Veränderungsprojekte erfolgreich gestalten – 5 Schlüsselfaktoren für Ihr Unternehmen. Berlin. 
 
-[27^]: Habermann, F. (2014). Hybrides Projektmanagement – agile und klassische Vorgehensmodelle im Zusammenspiel. Berlin. [↑ref-27)
+[^27]: Habermann, F. (2014). Hybrides Projektmanagement – agile und klassische Vorgehensmodelle im Zusammenspiel. Berlin. 
 
-[28^]: C. K. Bosse, V. Hellge, D. Schröder, S. Dupont (2019) in: C. K. Bosse, K. J. Zink (Hrsg. 2019): Arbeit 4.0 im Mittelstand. Berlin. [↑ref-28)
+[^28]: C. K. Bosse, V. Hellge, D. Schröder, S. Dupont (2019) in: C. K. Bosse, K. J. Zink (Hrsg. 2019): Arbeit 4.0 im Mittelstand. Berlin. 
 

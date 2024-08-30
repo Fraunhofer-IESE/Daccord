@@ -84,9 +84,9 @@ Von uns durchgeführte Veranstaltungen finden Sie [hier](<Lesestoff/Veranstaltun
   - Eddy Groen
   - Patrick Müller 
   - Stefanie Ludborzs ([GitHub](https://github.com/StefanieLudborzs-IESE))
-  - Rodrigo Falcão ([GitHub](https://github.com/rmfalcao))
+  - Dr. Rodrigo Falcão ([Webseite](https://rodrigofalcao.info))
 - **Hochschule Bonn-Rhein-Sieg**
-  - Luigi Lo Iacono
+  - Prof. Dr. Luigi Lo Iacono
   - Florian Dehling ([GitHub](https://github.com/herr-dehling))
 - **Insitut für Technologie und Arbeit**
   - Andreas Weßner
