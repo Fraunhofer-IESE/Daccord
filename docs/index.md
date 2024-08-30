@@ -151,37 +151,39 @@ In den folgenden Kapiteln führen wir Sie durch die Ergebnisse des Projekts.
 
 ### **![](./assets/images/bolt.svg) Einleitung:** Worum geht es hier?
 
-Die einleitenden Kapitel führen in unsere Thematik ein: Sie finden hier Erläuterungen zu allen zentralen Begrifflichkeiten (inkl. Glossar) und zu den Konzepten, die sich dahinter verbergen. Außerdem gehen wir kurz auf aktuelle Herausforderungen beim Datenschutz in digitalen Ökosystemen ein.
+Um eine gemeinsame Basis zu schaffen klären wir zunächst die Grundlagen. Dazu erläutern wir im ersten Kapitel, was es mit digitalen Ökosystemen im Detail auf sich hat, wie und warum Daten in digitalen Ökosystemen verarbeitet werden und warum Datenschutz in diesem Kontext besonders herausfordernd ist. Zentrale Begrifflichkeiten erklären wir außerdem in unserem Glossar.
 
 [Zu den einleitenden Kapiteln](Einleitung/)
 
 ### **![](./assets/images/list-check.svg) Anforderungen:** Was muss ein Datenschutz-Cockpit können?
 
-<mark>tbd.</mark>
+Um ein Datenschutz-Cockpit umzusetzen muss man die Anforderungen an das System und die Prozesse genau verstehen. Digitale Ökosysteme sind von Natur aus heterogen und volatil und es gibt eine Vielzahl unterschiedlicher Interessenvertreter und Gesetze, die Einfluss auf das Ökosystem und das Datenschutz-Cockpit haben. Im zweiten Kapitel gehen wir daher auf die verschiedenen Zielgruppen und die rechtlichen Randbedingungen ein und erläutern die Bedarfe der identifzierten Stakeholder. Darauf basierend leiten wir anschließend Anwendungsfälle, Systemanforderungen, Prozessanforderungen und Interaktionsanforderungen ab. Ein Qualitätsmodell ermöglicht eine multiperspektivische Qualitätsbetrachtung über mehrere Qualitätsbereiche hinweg.
+
+Auf ein Datenschutz-Cockpit haben ganz unterschiedliche Interessenvertreter (engl. Stakeholder) Einfluss. 
 
 [Zum Kapitel "Anforderungen"](Anforderungen/)
 
 ### **![](./assets/images/gears.svg) Realisierung:** Wie kann man als Unternehmen Datenschutz-Cockpits realisieren?
 
-<mark>tbd.</mark>
+Sind die Anforderungen klar, kann es an die Realisierung gehen. Hier gibt es eine ganze Reihe verschiedener Möglichkeiten der technischen und gestalterischen Umsetzung, auf die wir im dritten Kapitel eingehen. Anhand konkreter Demonstratoren zeigen wir beispielhafte Umsetzungen.
 
 [Zum Kapitel "Realisierung"](Realisierung/)
 
 ### **![](./assets/images/user-doctor.svg) Überprüfung:** Wie kann man sich sicher sein, dass das alles funktioniert?
 
-<mark>tbd.</mark>
+Im vierten Kapitel beschreiben wir zum einen, wie wir unsere Ergebnisse im Projekt evaluiert haben. Darüber hinaus stellen wir Kriterienkataloge zur Verfügung, welche es ermöglichen eine gezielte Qualitätsbewertung verschiedener Qualitätsbereiche durchzuführen.
 
 [Zum Kapitel "Überprüfung"](Bewertung/)
 
 ### **![](./assets/images/play.svg) Systemeinführung:** Wie stellt man sicher, dass die Nutzer Datenschutz-Cockpits akzeptieren und verstehen?
 
-<mark>tbd.</mark>
+Neue Systeme kann man in der Regel nicht als "Big-Bang" einführen. Stattdessen muss die Einführung frühzeitig und sorgfältig geplant und durchgeführt werden, damit die Akzeptanz und die korrekte Anwendung sichergestellt wird. Im fünften Kapitel stellen wir daher Konzepte vor, wie Datenschutz-Cockpits eingeführt werden können und wie die Anwender zu einer korrekten Nutzung befähigt werden können. Dazu liefern wir auch entsprechende Lehr- und Lerninhalte. 
 
 [Zum Kapitel "Systemeinführung"](<Systemeinführung/>)
 
 ### **![](./assets/images/document.svg) Weiterer Lesestoff:** Wo kann man mehr erfahren?
 
-<mark>tbd.</mark>
+Wer immer noch nicht genug hat, den laden wir ein, sich unsere diversen Veröffentlichungen näher anzusehen. Außerdem haben wir über die Projektlaufzeit eine Reihe von Veranstaltungen durchgeführt, welche teils auch in Zukunft weitergeführt werden sollen. Wir laden Sie daher herzlich ein, sich hierüber mit uns zu vernetzen.
 
 Von uns publizierte Veröffentlichungen (Paper, Vorträge, Poster) finden Sie [hier](<Lesestoff/>).
 
