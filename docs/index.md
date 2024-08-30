@@ -4,10 +4,96 @@
 
 <button type="button" id="toggleButton" style="background-color: #44546A; border: none; color: white; padding: 6px 12px; text-align: center; text-decoration: none; display: inline-block; font-size: 1rem;">Inhaltsverzeichnis anzeigen</button>
 <div id="toc">
-
-- Home
-- [Einleitung](<Einleitung>)
-
+	<ul>
+	  <li>Home</li>
+	  <li><a href="Einleitung">Einleitung</a>
+		<ul>
+		  <li><a href="Einleitung/Digitale Plattformen und Plattformökonomie">Digitale Plattformen und Plattformökonomie</a></li>
+		  <li><a href="Einleitung/Datenökonomie trifft Datenschutz">Datenökonomie trifft Datenschutz</a></li>
+		  <li><a href="Einleitung/Datenverarbeitungen in digitalen Ökosystemen">Datenverarbeitungen in digitalen Ökosystemen</a>
+			<ul>
+			  <li><a href="Einleitung/Datenklassen">Datenklassen</a></li>
+			  <li><a href="Einleitung/Verarbeitungszwecke">Verarbeitungszwecke</a></li>
+			  <li><a href="Einleitung/Verarbeitungsarten">Verarbeitungsarten</a></li>
+			</ul>
+		  </li>
+		  <li><a href="Einleitung/Glossar">Glossar</a></li>
+		</ul>
+	  </li>
+	  <li><a href="Anforderungen/">Anforderungen</a>
+		<ul>
+		  <li><a href="Anforderungen/Zielgruppen">Zielgruppen</a>
+			<ul>
+			  <li><a href="Anforderungen/Zielgruppen/Stakeholder">Stakeholder</a></li>
+			  <li><a href="Anforderungen/Zielgruppen/Personas">Personas</a></li>
+			  <li><a href="Anforderungen/Zielgruppen/Mentale Modelle">Mentale Modelle</a></li>
+			</ul>
+		  </li>
+		  <li><a href="Anforderungen/Randbedingungen">Randbedingungen</a></li>
+		  <li><a href="Anforderungen/Bedarfe">Bedarfe</a>
+			<ul>
+			  <li><a href="Anforderungen/Bedarfe/Transparenzbedarfe">Transparenzbedarfe</a></li>
+			  <li><a href="Anforderungen/Bedarfe/Selbstbestimmungsbedarfe">Selbstbestimmungsbedarfe</a></li>
+			  <li><a href="Anforderungen/Bedarfe/Bedarfe der Datennutzer">Bedarfe der Datennutzer</a></li>
+			  <li><a href="Anforderungen/Bedarfe/Unterstützungsbedarfe">Unterstützungsbedarfe</a></li>
+			</ul>
+		  </li>
+		  <li><a href="Anforderungen/Anwendungsfälle">Anwendungsfälle</a></li>
+		  <li><a href="Anforderungen/Qualitätsmodell">Qualitätsmodell</a></li>
+		</ul>
+	  </li>
+	  <li><a href="Realisierung">Realisierung</a>
+		<ul>
+		  <li><a href="Realisierung/UX-Design">UX-Design</a>
+			<ul>
+			  <li><a href="Realisierung/UX-Design/Zentrale Datenschutz-Cockpits">Interaktionsdesigns für zentrale Datenschutz-Cockpits</a>
+				<ul>
+				  <li><a href="Realisierung/UX-Design/Zentrale Datenschutz-Cockpits/Datengeber">Datengeber</a></li>
+				  <li><a href="Realisierung/UX-Design/Zentrale Datenschutz-Cockpits/Datennutzer">Datennutzer</a></li>
+				</ul>
+			  </li>
+			  <li><a href="Realisierung/UX-Design/Eingebettete Datenschutzfunktionen">Interaktionsdesigns für eingebettete Datenschutzfunktionen</a></li>
+			  <li><a href="Realisierung/UX-Design/Interaktionspatterns">Interaktionspatterns</a></li>
+			</ul>
+		  </li>
+		  <li><a href="Realisierung/Architekturkonzept">Architekturkonzept</a>
+			<ul>
+			  <li><a href="Realisierung/Architekturkonzept/system-context">System context and domain model</a></li>
+			  <li><a href="Realisierung/Architekturkonzept/drivers">Architecture drivers</a></li>
+			  <li><a href="Realisierung/Architekturkonzept/decomposition">System decomposition</a></li>
+			  <li><a href="Realisierung/Architekturkonzept/quality">Quality concepts</a></li>
+			  <li><a href="Realisierung/Architekturkonzept/conclusion">Further notes</a></li>
+			</ul>
+		  </li>
+		  <li><a href="Realisierung/Demonstratoren">Demonstratoren</a>
+			<ul>
+			  <li><a href="Realisierung/Demonstratoren/Smarte.Land.Regionen">Smarte.Land.Regionen</a></li>
+			  <li><a href="Realisierung/Demonstratoren/Digitale Gesundheitsplattform">Digitale Gesundheitsplattform</a></li>
+			  <li><a href="Realisierung/Demonstratoren/Kommunikationsplattform">Kommunikationsplattform</a></li>
+			</ul>
+		  </li>
+		</ul>
+	  </li>
+	  <li><a href="Bewertung">Bewertung</a>
+		<ul>
+		  <li><a href="Bewertung(Evaluationskonzept">Evaluationskonzept</a></li>
+		  <li><a href="Bewertung/Kriterienkataloge">Kriterienkataloge des D’accord-Qualitätsmodells</a></li>
+		</ul>
+	  </li>
+	  <li><a href="Systemeinführung">Systemeinführung</a>
+		<ul>
+		  <li><a href="Systemeinführung/Einführungskonzept">Konzepte zur Einführung von Datenschutz-Cockpits</a></li>
+		  <li><a href="Systemeinführung/Befähigungskonzept">Befähigungskonzept</a></li>
+		  <li><a href="Systemeinführung/Lehr- und Lernformate">Lehr- und Lernformate</a></li>
+		</ul>
+	  </li>
+	  <li><a href="Lesestoff">Weiterer Lesestoff</a>
+		<ul>
+		  <li><a href="Lesestoff">Unsere Veröffentlichungen</a></li>
+		  <li><a href="Lesestoff/Veranstaltungen">Unsere Veranstaltungen</a></li>
+		</ul>
+	  </li>
+	</ul>
 </div>
 <script src="/Daccord/assets/scripts/jquery-3.7.1.min.js"></script>
 <script src="/Daccord/assets/scripts/toc.js"></script>
