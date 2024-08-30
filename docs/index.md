@@ -2,7 +2,7 @@
 
 ![](./assets/images/Daccord_Key_Visual.png) 
 
-<button type="button" id="toggleButton" style="background-color: #44546A; border: none; color: white; padding: 6px 12px; text-align: center; text-decoration: none; display: inline-block; font-size: 1rem;">Inhaltsverzeichnis anzeigen</button>
+<button type="button" id="toggleButton" style="background-color: #44546A; border: none; color: white; padding: 6px 12px; text-align: center; text-decoration: none; display: inline-block; font-size: 1rem;">Sitemap anzeigen</button>
 <div id="toc">
 	<ul>
 	  <li>Home</li>
@@ -95,8 +95,22 @@
 	  </li>
 	</ul>
 </div>
-<script src="/Daccord/assets/scripts/jquery-3.7.1.min.js"></script>
-<script src="/Daccord/assets/scripts/toc.js"></script>
+
+<script type="text/javascript>
+	document.getElementById("toggleButton").addEventListener("click", function() {
+		var contentList = document.getElementById("contentList");
+		if (contentList.classList.contains("collapsed")) {
+			contentList.classList.remove("collapsed");
+			contentList.classList.add("expanded");
+			this.textContent = "Sitemap ausblenden";
+		} else {
+			contentList.classList.remove("expanded");
+			contentList.classList.add("collapsed");
+			this.textContent = "Sitemap anzeigen";
+		}
+	});
+
+</script>
 
 
 ## ![](./assets/images/fire-solid.svg) Motivation
