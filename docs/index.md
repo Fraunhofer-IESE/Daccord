@@ -81,7 +81,7 @@ Von uns durchgeführte Veranstaltungen finden Sie [hier](<Lesestoff/Veranstaltun
   - Hartmut Schmitt ([GitHub](https://github.com/HKBS-HS))
 - **Fraunhofer IESE**
   - Denis Feth ([LinkedIn](https://www.linkedin.com/in/denis-feth/) \| [GitHub](https://github.com/denis-feth-iese))
-  - Eddy Groen
+  - Eddy Groen ([LinkedIn](https://www.linkedin.com/in/eddygroen/) \| [Google Scholar](https://scholar.google.com/citations?user=sMMCM1oAAAAJ&hl=en&oi=ao))
   - Patrick Müller 
   - Stefanie Ludborzs ([GitHub](https://github.com/StefanieLudborzs-IESE))
   - Dr. Rodrigo Falcão ([Webseite](https://rodrigofalcao.info))
@@ -91,7 +91,7 @@ Von uns durchgeführte Veranstaltungen finden Sie [hier](<Lesestoff/Veranstaltun
 - **Insitut für Technologie und Arbeit**
   - Andreas Weßner
 - **Universität des Saarlandes**
-  - Christoph Sorge
+  - Prof. Dr. Christoph Sorge
   - Bianca Steffes
   - Franziska Neis
   - Maximilian Eichacker
