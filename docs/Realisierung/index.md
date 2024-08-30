@@ -8,13 +8,13 @@ Die im Projekt erarbeiteten Lösungsansätze zeigen Möglichkeiten auf, wie benu
 
 ## **![](../assets/images/gears.svg) Architekturkonzept:** Wie kann ein Datenschutz-Cockpit technisch gestaltet werden?
 
-<mark>tbd.</mark>
+In diesem Bereich stellen wir das Architekturkonzept vor, das in D’accord entwickelt wurde. Es kann z. B. als Blaupause genutzt werden, um ein Datenschutz-Cockpit für den eigenen Kontext zu konzipieren.
 
 [Zum Kapitel "Architekturkonzept"](<Architekturkonzept>)
 
 ## **![](../assets/images/clapperboard.svg) Demonstratoren:** Gibt es Beispiele, an denen man sich orientieren kann?
 
-<mark>tbd.</mark>
+Hier zeigen wir Ihnen drei Demonstratoren, die für verschiedene Anwendungsfälle in unterschiedlichen Domänen entwickelt wurden. Machen Sie sich ein Bild davon, wie die Datenschutz-Cockpits im Echteinsatz aussehen können!
 
 [Zum Kapitel "Demonstratoren"](<Demonstratoren>)
 
