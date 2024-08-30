@@ -1,6 +1,6 @@
 # Willkommen beim Projekt "D'accord"
 
-![](./assets/images/Daccord_Key_Visual.png) 
+![](./assets/images/Daccord_Key_Visual_sm.png) 
 
 <button type="button" id="toggleButton" style="background-color: #44546A; border: none; color: white; padding: 6px 12px; text-align: center; text-decoration: none; display: inline-block; font-size: 1rem;">Sitemap / Inhaltsverzeichnis anzeigen</button>
 <div id="toc">
@@ -153,7 +153,7 @@ In den folgenden Kapiteln führen wir Sie durch die Ergebnisse des Projekts.
 
 Um eine gemeinsame Basis zu schaffen klären wir zunächst die Grundlagen. Dazu erläutern wir im ersten Kapitel, was es mit digitalen Ökosystemen im Detail auf sich hat, wie und warum Daten in digitalen Ökosystemen verarbeitet werden und warum Datenschutz in diesem Kontext besonders herausfordernd ist. Zentrale Begrifflichkeiten erklären wir außerdem in unserem Glossar.
 
-[Zu den einleitenden Kapiteln](Einleitung/)
+[Zu den einleitenden Kapiteln.](Einleitung/)
 
 ### **![](./assets/images/list-check.svg) Anforderungen:** Was muss ein Datenschutz-Cockpit können?
 
@@ -161,19 +161,19 @@ Um ein Datenschutz-Cockpit umzusetzen muss man die Anforderungen an das System u
 
 Auf ein Datenschutz-Cockpit haben ganz unterschiedliche Interessenvertreter (engl. Stakeholder) Einfluss. 
 
-[Zum Kapitel "Anforderungen"](Anforderungen/)
+[Zum Kapitel "Anforderungen".](Anforderungen/)
 
 ### **![](./assets/images/gears.svg) Realisierung:** Wie kann man als Unternehmen Datenschutz-Cockpits realisieren?
 
 Sind die Anforderungen klar, kann es an die Realisierung gehen. Hier gibt es eine ganze Reihe verschiedener Möglichkeiten der technischen und gestalterischen Umsetzung, auf die wir im dritten Kapitel eingehen. Anhand konkreter Demonstratoren zeigen wir beispielhafte Umsetzungen.
 
-[Zum Kapitel "Realisierung"](Realisierung/)
+[Zum Kapitel "Realisierung".](Realisierung/)
 
 ### **![](./assets/images/user-doctor.svg) Überprüfung:** Wie kann man sich sicher sein, dass das alles funktioniert?
 
 Im vierten Kapitel beschreiben wir zum einen, wie wir unsere Ergebnisse im Projekt evaluiert haben. Darüber hinaus stellen wir Kriterienkataloge zur Verfügung, welche es ermöglichen eine gezielte Qualitätsbewertung verschiedener Qualitätsbereiche durchzuführen.
 
-[Zum Kapitel "Überprüfung"](Bewertung/)
+[Zum Kapitel "Überprüfung".](Bewertung/)
 
 ### **![](./assets/images/play.svg) Systemeinführung:** Wie stellt man sicher, dass die Nutzer Datenschutz-Cockpits akzeptieren und verstehen?
 
