@@ -74,9 +74,8 @@ Die Stakeholderanalyse wurde in folgenden Teil-Schritten umgesetzt:
    politischer, rechtlicher oder sozialer Art sein.
 
 
-![Zwiebelschalenmodell mit der Verortung derStakeholder](zwiebelschalenmodell-verortung-stakeholder.png "Zwiebelschalenmodell mit der Verortung derStakeholder")<br>
+![Zwiebelschalenmodell mit der Verortung der Stakeholder](zwiebelschalenmodell-verortung-stakeholder.png "Zwiebelschalenmodell mit der Verortung der Stakeholder")<br>
 *Abbildung 1: Zwiebelschalenmodell mit der Verortung der Stakeholder*
-</figure>
 
 Basierend auf der Bedeutung der verschiedenen Stakeholdergruppen wurde
 zunächst eine Priorisierung vorgenommen, sodass sich die Arbeiten auf
