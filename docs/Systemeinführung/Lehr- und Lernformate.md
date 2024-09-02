@@ -153,3 +153,9 @@ Einstellungen vorzunehmen.
     Nielsen, J. (1994a). Enhancing the explanatory power of usability
     heuristics. Proc. ACM CHI'94 Conf. (Boston, MA, April 24-28),
     152-158.
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Befähigungskonzept](<Befähigungskonzept>) | [Lesestoff ![](/Daccord/assets/images/forward-solid.svg)](<../Lesestoff>) |
+
+****

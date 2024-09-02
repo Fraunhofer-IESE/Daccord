@@ -276,3 +276,8 @@ Die Einführung einer neuen Technologie oder digitalen Lösung in ein Unternehme
 
 [^28]: C. K. Bosse, V. Hellge, D. Schröder, S. Dupont (2019) in: C. K. Bosse, K. J. Zink (Hrsg. 2019): Arbeit 4.0 im Mittelstand. Berlin. 
 
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Systemeinführung](./) | [Befähigungskonzept ![](/Daccord/assets/images/forward-solid.svg)](<Befähigungskonzept>) |
+
+****
