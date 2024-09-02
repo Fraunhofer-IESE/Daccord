@@ -229,6 +229,41 @@ Im Anschluss an die Konzepterstellung und die Durchführung einer technischen Ma
   </div>
 
 </div>
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span>
+  <span class="dot" onclick="currentSlide(5)"></span>
+  <span class="dot" onclick="currentSlide(6)"></span>
+  <span class="dot" onclick="currentSlide(7)"></span>
+  <span class="dot" onclick="currentSlide(8)"></span>
+  <span class="dot" onclick="currentSlide(9)"></span>
+  <span class="dot" onclick="currentSlide(10)"></span>
+  <span class="dot" onclick="currentSlide(11)"></span>
+  <span class="dot" onclick="currentSlide(12)"></span>
+  <span class="dot" onclick="currentSlide(13)"></span>
+  <span class="dot" onclick="currentSlide(14)"></span>
+  <span class="dot" onclick="currentSlide(15)"></span>
+  <span class="dot" onclick="currentSlide(16)"></span>
+  <span class="dot" onclick="currentSlide(17)"></span>
+  <span class="dot" onclick="currentSlide(18)"></span>
+  <span class="dot" onclick="currentSlide(19)"></span>
+  <span class="dot" onclick="currentSlide(20)"></span>
+  <span class="dot" onclick="currentSlide(21)"></span>
+  <span class="dot" onclick="currentSlide(22)"></span>
+  <span class="dot" onclick="currentSlide(23)"></span>
+  <span class="dot" onclick="currentSlide(24)"></span>
+  <span class="dot" onclick="currentSlide(25)"></span>
+  <span class="dot" onclick="currentSlide(26)"></span>
+  <span class="dot" onclick="currentSlide(27)"></span>
+  <span class="dot" onclick="currentSlide(28)"></span>
+  <span class="dot" onclick="currentSlide(29)"></span>
+</div>
+
 
 ### Login-Screen und Startseite des Datenschutz-Cockpits
 
