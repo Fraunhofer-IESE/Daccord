@@ -174,7 +174,7 @@ aus der Studie abgeleitet wurden.
 Nachfolgend werden die wesentlichen Inhalte des Leitfadens sowie die
 Antworten der Teilnehmenden sinngemäß zusammengefasst.
 
-###### 1. Relevanz von Sensibilisierungs- bzw. Weiterbildungsangeboten rund um das Thema Datenschutz bzw. Datensouveränität
+##### 1. Relevanz von Sensibilisierungs- bzw. Weiterbildungsangeboten rund um das Thema Datenschutz bzw. Datensouveränität
 
 - Ich finde das sehr relevant, weil man, wenn man sich damit als
   „Otto-Normalverbraucher“ beschäftigt, merkt, wie wenig man darüber
@@ -195,7 +195,7 @@ Antworten der Teilnehmenden sinngemäß zusammengefasst.
   Erläuterung, aber, wenn man ehrlich ist, was da komplett
   dahintersteht, ist in dem Moment niemandem so bewusst.
 
-###### 2. Wichtige Kompetenzen, um in digitalen Ökosystemen bzw. einer digitalisierten Welt souverän, also selbstbestimmt und sicher agieren zu können
+##### 2. Wichtige Kompetenzen, um in digitalen Ökosystemen bzw. einer digitalisierten Welt souverän, also selbstbestimmt und sicher agieren zu können
 
 - Das Verständnis technischer Seite, dass man damit umgehen kann und wie
   gesagt, auch im Datenschutz sollten wir dann auch wissen warum, wieso,
@@ -217,7 +217,7 @@ Antworten der Teilnehmenden sinngemäß zusammengefasst.
 - Die Leute müssen dahingehend sensibilisiert werden, wie Daten wirklich
   genutzt und weitergereicht werden. Ganz, ganz wichtiges Thema.
 
-###### 3. Besonders beachtenswerte Inhalte oder Themen, um in digitalen Ökosystemen bzw. einer digitalisierten Welt souverän, also selbstbestimmt und sicher, agieren zu können
+##### 3. Besonders beachtenswerte Inhalte oder Themen, um in digitalen Ökosystemen bzw. einer digitalisierten Welt souverän, also selbstbestimmt und sicher, agieren zu können
 
 - Ich denke, wenn Awareness geschaffen wird und wenn man darauf
   aufmerksam gemacht wird, dann ist man da achtsamer.
@@ -239,7 +239,7 @@ Antworten der Teilnehmenden sinngemäß zusammengefasst.
   Datenschutz wirklich passiert. Darüber habe ich mir nicht wirklich
   Gedanken gemacht und einfach vertraut.
 
-###### 4. Persönliche Auseinandersetzung mit den Themen Datenschutz bzw. Datensouveränität, um das eigene Wissen/ die eigenen Kompetenzen diesbezüglich zu steigern sowie Beobachtungen/ Erfahrungen, wie andere damit umgehen
+##### 4. Persönliche Auseinandersetzung mit den Themen Datenschutz bzw. Datensouveränität, um das eigene Wissen/ die eigenen Kompetenzen diesbezüglich zu steigern sowie Beobachtungen/ Erfahrungen, wie andere damit umgehen
 
 - Also im ersten Moment googeln. Da gibt es verschiedene Beschlüsse, die
   deutschlandweit gelten und man kommt dann auch relativ schnell schon
@@ -258,7 +258,7 @@ Antworten der Teilnehmenden sinngemäß zusammengefasst.
   Gesetz heraus interpretiert. Bestenfalls sind dies Beiträge oder
   Webseiten von Anwälten.
 
-###### 5. Spezifische Anforderungen an Sensibilisierungs- bzw. Weiterbildungsangebote? Differenzierte Betrachtung ggf. spezieller Formate (z.B. Online- oder Präsenzschulung, externe Schulung, formelle Lerneinheiten, Lernbausteine im Arbeitsalltag, informeller Wissensaustausch, Regelmäßigkeit der Sensibilisierungs- und Weiterbildungsangebote)
+##### 5. Spezifische Anforderungen an Sensibilisierungs- bzw. Weiterbildungsangebote? Differenzierte Betrachtung ggf. spezieller Formate (z.B. Online- oder Präsenzschulung, externe Schulung, formelle Lerneinheiten, Lernbausteine im Arbeitsalltag, informeller Wissensaustausch, Regelmäßigkeit der Sensibilisierungs- und Weiterbildungsangebote)
 
 - Leitfäden
 
@@ -293,7 +293,7 @@ Antworten der Teilnehmenden sinngemäß zusammengefasst.
   Pflicht ist. Besser wären regelmäßige kleine Hinweise, um das
   Bewusstsein dafür zu schärfen.
 
-###### 6. Persönlich bevorzugte Formate und Inhalte
+##### 6. Persönlich bevorzugte Formate und Inhalte
 
 - Leitfäden
 
@@ -310,7 +310,7 @@ Antworten der Teilnehmenden sinngemäß zusammengefasst.
 - Eine A4-Seite mit den wichtigsten Bullet-Points, keine 10-seitige
   Powerpoint-Präsentationen.
 
-###### 7. Bisherige Auseinandersetzung mit dem Thema Datensouveränität im Allgemeinen sowie Sensibilisierungs- bzw. Weiterbildungsangeboten im Speziellen
+##### 7. Bisherige Auseinandersetzung mit dem Thema Datensouveränität im Allgemeinen sowie Sensibilisierungs- bzw. Weiterbildungsangeboten im Speziellen
 
 - Geändert hat sich beispielsweise, dass ich App-Tracking ablehne, was
   ja auch eine neue Funktion ist. Wusste ich vorher nicht und habe es
@@ -343,7 +343,7 @@ Antworten der Teilnehmenden sinngemäß zusammengefasst.
   auch selbst, keine Ahnung wo jede Woche die ganzen Newsletter oder
   Spam-Mails herkommen und wo habe ich meine Adresse angegeben.
 
-###### 8. Einflussfaktoren, die dazu führen, die eigene Datensouveränität zwar ggf. zu überdenken, letztlich aber alles beim Alten zu belassen (Verhaltensänderung verhindern)
+##### 8. Einflussfaktoren, die dazu führen, die eigene Datensouveränität zwar ggf. zu überdenken, letztlich aber alles beim Alten zu belassen (Verhaltensänderung verhindern)
 
 - Ich habe mir mal vorgenommen, die Datenschutzerklärungen, AGBs zu
   lesen, bevor ich den haken setz. Aber ehrlich gesagt, das versteht
