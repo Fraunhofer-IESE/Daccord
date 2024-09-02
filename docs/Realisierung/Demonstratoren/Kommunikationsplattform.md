@@ -263,7 +263,9 @@ Im Anschluss an die Konzepterstellung und die Durchführung einer technischen Ma
   <span class="dot" onclick="currentSlide(29)"></span>
 </div>
 
+
 <script src="/Daccord/assets/scripts/slideshow.js"></script>
+
 
 ### Login-Screen und Startseite des Datenschutz-Cockpits
 
