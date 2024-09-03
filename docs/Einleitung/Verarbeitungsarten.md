@@ -109,10 +109,6 @@ Ausführlich zum Profiling _Arning/Rothkegel_ Rn. 114–123; _Buchner_ Rn. 1–9
 
 ****
 
-| [![](/Daccord/assets/images/backward-solid.svg) Verarbeitungszwecke](<Verarbeitungszwecke>) | [Glossar ![](/Daccord/assets/images/forward-solid.svg)](<Glossar>) |
-
-****
-
 **Quellen:**
 
 Ehmann, Eugen/Selmayr, Martin (Hrsg.), Datenschutz-Grundverordnung, 3. Auflage, München 2024.  
@@ -156,3 +152,6 @@ Wolff, Amadeus/Brink, Stefan/v. Ungern-Sternberg, Antje (Hrsg.), BeckOK Datensch
 zitiert:  
 *Schild*, Art. 4 DS-GVO Rn. 15, 29–80.
 
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Verarbeitungszwecke](<Verarbeitungszwecke>) | [Glossar ![](/Daccord/assets/images/forward-solid.svg)](<Glossar>) |
