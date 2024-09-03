@@ -134,6 +134,6 @@ Als Betroffener möchte ich meine Datenschutzeinstellungen unkompliziert über d
 
 ****
 
-| [![](/Daccord/assets/images/backward-solid.svg) Transparenzbedarfe](<./>) | [Bedarfe der Datennutzer ![](/Daccord/assets/images/forward-solid.svg)](<Bedarfe der Datennutzer>) |
+| [![](/Daccord/assets/images/backward-solid.svg) Transparenzbedarfe](<./>) | [Datennutzungsbedarfe ![](/Daccord/assets/images/forward-solid.svg)](<Datennutzungsbedarfe>) |
 
 ****
