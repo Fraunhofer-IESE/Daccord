@@ -8,7 +8,7 @@ Die Personen(gruppen), die die Anforderungen an ein System beeinflussen oder von
 
 ## **![](../../assets/images/masks-theater.svg) Personas:** Wie kann man sich die verschiedenen Nutzertypen vorstellen?
 
-Als Personas werden fiktive abstrahierte Darstellungen repräsentativer Stakeholder bezeichnet. In D’accord haben wir typische Eigenschaften, die für die Entwicklung und den Einsatz eines Datenschutz-Cockpits relevant sind in Form von Personas dokumentiert.
+Als Personas werden fiktive abstrahierte Darstellungen repräsentativer Stakeholder bezeichnet. In D’accord haben wir typische Eigenschaften, die für die Entwicklung und den Einsatz eines Datenschutz-Cockpits relevant sind, in Form von Personas dokumentiert.
 
 [Zum Kapitel "Personas"](<Personas>)
 
