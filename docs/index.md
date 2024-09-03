@@ -159,8 +159,6 @@ Um eine gemeinsame Basis zu schaffen klären wir zunächst die Grundlagen. Dazu 
 
 Um ein Datenschutz-Cockpit umzusetzen muss man die Anforderungen an das System und die Prozesse genau verstehen. Digitale Ökosysteme sind von Natur aus heterogen und volatil und es gibt eine Vielzahl unterschiedlicher Interessenvertreter und Gesetze, die Einfluss auf das Ökosystem und das Datenschutz-Cockpit haben. Im zweiten Kapitel gehen wir daher auf die verschiedenen Zielgruppen und die rechtlichen Randbedingungen ein und erläutern die Bedarfe der identifzierten Stakeholder. Darauf basierend leiten wir anschließend Anwendungsfälle, Systemanforderungen, Prozessanforderungen und Interaktionsanforderungen ab. Ein Qualitätsmodell ermöglicht eine multiperspektivische Qualitätsbetrachtung über mehrere Qualitätsbereiche hinweg.
 
-Auf ein Datenschutz-Cockpit haben ganz unterschiedliche Interessenvertreter (engl. Stakeholder) Einfluss. 
-
 [Zum Kapitel "Anforderungen".](Anforderungen/)
 
 ### **![](./assets/images/gears.svg) Realisierung:** Wie kann man als Unternehmen Datenschutz-Cockpits realisieren?
