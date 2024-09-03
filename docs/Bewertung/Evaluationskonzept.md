@@ -1,5 +1,5 @@
 # Evaluationskonzept
-Um die Wirksamkeit eines Datenschutzcockpits zu evaluieren, wurde ein Konzept entwickelt, mit dem bereits prototypische Entwicklungen im Rahmen eines Walkthroughs untersucht und bewertet werden können. Im Folgenden werden die wichtigsten Komponenten des erarbeiteten Studienprotokolls beschrieben, die als Basis für spezifische Nutzerstudien mit konkreten Implementierungen dienen können. 
+Um die Wirksamkeit eines Datenschutz-Cockpits zu evaluieren, wurde ein Konzept entwickelt, mit dem bereits prototypische Entwicklungen im Rahmen eines Walkthroughs untersucht und bewertet werden können. Im Folgenden werden die wichtigsten Komponenten des erarbeiteten Studienprotokolls beschrieben, die als Basis für spezifische Nutzerstudien mit konkreten Implementierungen dienen können. 
 
 ## Ziel der Evaluation
 Das hier beschriebene Studienprotokoll soll die Wirksamkeit einer Implementierung eines Datenschutz-Cockpits oder einzelner Komponenten messbar machen. Je nach Untersuchungsgegenstand werden somit Maßnahmen zur Transparenzmachung von Datenverarbeitungen oder der Kontrolle einer Datenverarbeitung evaluiert. 
