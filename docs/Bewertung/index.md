@@ -2,7 +2,7 @@
 
 ## **![](../assets/images/stethoscope.svg) Evaluationskonzept:** Wie überprüft man die vorgestellten Konzepte im eigenen Projekt?
 
-<mark>tbd.</mark>
+In D’accord wurde ein Evaluationskonzept entwickelt, um Datenschutz-Cockpits bereits in frühen Entwicklungsstadien evaluieren zu können. Das erarbeitete Studienprotokoll (inkl. Beispielfragen) kann als Basis für Nutzerstudien im eigenen Projekt- und Anwendungskontext herangezogen werden. 
 
 [Zum Kapitel "Evaluationskonzept"](<Evaluationskonzept>)
 
