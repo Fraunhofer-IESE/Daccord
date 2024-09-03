@@ -17,8 +17,7 @@ Als Verantwortlicher möchte ich, dass mögliche Widerstände auf Seiten des Bet
 
 ### PRA6 - Berechtigungskonzept
 
-Als Verantwortlicher  
-Betroffener möchte ich, dass in dem digitalen Ökosystem ein festgelegtes Berechtigungskonzept definiert und implementiert ist, damit der Zugriff auf personenbezogene Daten durch unbefugte Personen und der Datenmissbrauch ausgeschlossen werden können.
+Als Verantwortlicher bzw. Betroffener möchte ich, dass in dem digitalen Ökosystem ein festgelegtes Berechtigungskonzept definiert und implementiert ist, damit der Zugriff auf personenbezogene Daten durch unbefugte Personen und der Datenmissbrauch ausgeschlossen werden können.
 
 **Indikator:** Fehleranzahl und -schwere (Vollständigkeit und Korrektheit des definierten Berechtigungskonzepts, implementiertes Berechtigungskonzept)
 
