@@ -34,7 +34,7 @@
 			<ul>
 			  <li><a href="Anforderungen/Bedarfe/Transparenzbedarfe">Transparenzbedarfe</a></li>
 			  <li><a href="Anforderungen/Bedarfe/Selbstbestimmungsbedarfe">Selbstbestimmungsbedarfe</a></li>
-			  <li><a href="Anforderungen/Bedarfe/Bedarfe der Datennutzer">Bedarfe der Datennutzer</a></li>
+			  <li><a href="Anforderungen/Bedarfe/Datennutzungsbedarfe">Datennutzungsbedarfe</a></li>
 			  <li><a href="Anforderungen/Bedarfe/Unterstützungsbedarfe">Unterstützungsbedarfe</a></li>
 			</ul>
 		  </li>
