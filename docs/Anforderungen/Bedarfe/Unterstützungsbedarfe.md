@@ -80,6 +80,6 @@ Als Betroffener möchte ich die Kompetenz vermittelt bekommen, die notwendigen P
 
 ****
 
-| [![](/Daccord/assets/images/backward-solid.svg) Bedarfe der Datennutzer](<Bedarfe der Datennutzer>) | [Anwendungsfälle ![](/Daccord/assets/images/forward-solid.svg)](<../Anwendungsfälle>) |
+| [![](/Daccord/assets/images/backward-solid.svg) Datennutzungsbedarfe](<Datennutzungsbedarfe>) | [Anwendungsfälle ![](/Daccord/assets/images/forward-solid.svg)](<../Anwendungsfälle>) |
 
 ****
