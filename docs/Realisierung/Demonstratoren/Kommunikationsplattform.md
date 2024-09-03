@@ -1,5 +1,7 @@
 # Kommunikationsplattform für Unternehmen
 
+<link rel="stylesheet" href="/Daccord/assets/css/slideshow.css">
+
 Bei der elektronischen Kommunikation und Zusammenarbeit von IT-Unternehmen mit Partnern, Kunden und Lieferanten werden in der Regel intensiv personenbezogene Daten ausgetauscht, an Dritte weitergegeben werden oder bei Cloud-Diensten gespeichert. Für die Betroffenen, z. B. Mitarbeiter in den beteiligten Unternehmen, ist dies oft nicht transparent und sie haben keine Möglichkeit, steuernd in die Datenverarbeitung einzugreifen.
 
 Ziel dieses Anwendungsbeispiels war es, die D’accord-Konzepte und die adaptive Werkzeugsammlung in dem konkreten Unternehmenskontext der HK Business Solutions zu erproben. Während der gesamten Umsetzungskette wurde mit Zielgruppenvertretern aus Kunden- und Partnerunternehmen zusammengearbeitet, die sich als assoziierte Partner am D’accord-Projekt beteiligten.
