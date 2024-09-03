@@ -225,8 +225,7 @@ Airbnb:
 - Die Datenkategorien und Datenarten sind definiert: benötigte Stammdaten der Plattform-Nutzer, Daten zur Beschreibung eines Guts (d.h. einer Übernachtungsmöglichkeit), Transaktionsdaten (Daten der Buchung eines Guts).
 - Mögliche Besonderheiten: offizielle Papiere als Stammdaten (z. B. Personalausweis), bildlastige Beschreibung von Gütern, Transaktionsdaten umfassen sowohl Vergangenheit, Gegenwart als auch Zukunft.
 
-SLR:
-- 
+SLR: 
 - Die Gütervermittlung in Form von abonnierbaren Diensten ist beschrieben.
 - Die Rollen von Güteranbieter, Güterkonsument (Landkreis) und Nutzer eines Guts (Endnutzer) sind voneinander abgegrenzt.
 - Die Datenkategorien und Datenarten sind definiert: Daten zur Beschreibung eines Guts (also eines Dienstes), Abonnement- und Nutzungsmöglichkeiten eines Guts, Daten zum Buchen eines Guts (Zahlungsarten und -vorgänge),...
