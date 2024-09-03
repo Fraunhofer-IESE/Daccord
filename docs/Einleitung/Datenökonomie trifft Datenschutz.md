@@ -24,7 +24,7 @@ Die Gesetzgebung respektiert die Persönlichkeitsrechte (i.S.v. „freie Entfalt
 
 - **Transparenz**
 - **Intervenierbarkeit**
-- **Nichtverkettung von personenbezogenen Verfahren**
+- **Nichtverkettung**
 - **Datenminimierung**
 
 ## Welche Herausforderungen bestehen beim Datenschutz in digitalen Ökosystemen?  
@@ -77,9 +77,9 @@ Durchgängiger Datenschutz ist bereits für „traditionelle“ Systeme und Dien
 
 [^1]: Oostveen, M. (2016). Warum Privacy ≠ Datenschutz ist (und wie sie sich überschneiden), Berlin: Alexander von Humboldt Institut für Internet und Gesellschaft. [https://www.hiig.de/warum-privacy-%E2%89%A0-datenschutz-ist-und-wie-sie-sich-ueberschneiden/](https://www.hiig.de/warum-privacy-%E2%89%A0-datenschutz-ist-und-wie-sie-sich-ueberschneiden/)
 
-[2]: Weber/Gernert, Data Governance – Datenteilung in Ökosystemen rechtskonform gestalten, in: Rohde/Bürger/Peneva/Mock (Hrsg.), Datenwirtschaft und Datentechnologie, S. 111.
+[^2]: Weber/Gernert, Data Governance – Datenteilung in Ökosystemen rechtskonform gestalten, in: Rohde/Bürger/Peneva/Mock (Hrsg.), Datenwirtschaft und Datentechnologie, S. 111.
 
-[3]:[https://www.iese.fraunhofer.de/de/leistungen/digitale-oekosysteme.html#Was-sind-Digitale-oekosysteme](https://www.iese.fraunhofer.de/de/leistungen/digitale-oekosysteme.html#Was-sind-Digitale-oekosysteme) (zuletzt abgerufen am 22.05.2024).
+[^3]:[https://www.iese.fraunhofer.de/de/leistungen/digitale-oekosysteme.html#Was-sind-Digitale-oekosysteme](https://www.iese.fraunhofer.de/de/leistungen/digitale-oekosysteme.html#Was-sind-Digitale-oekosysteme) (zuletzt abgerufen am 22.05.2024).
 
-[4]:[https://digital-strategy.ec.europa.eu/en/news/commission-designates-booking-gatekeeper-and-opens-market-investigation-x](https://digital-strategy.ec.europa.eu/en/news/commission-designates-booking-gatekeeper-and-opens-market-investigation-x) (zuletzt abgerufen am 14.05.2024).
+[^4]:[https://digital-strategy.ec.europa.eu/en/news/commission-designates-booking-gatekeeper-and-opens-market-investigation-x](https://digital-strategy.ec.europa.eu/en/news/commission-designates-booking-gatekeeper-and-opens-market-investigation-x) (zuletzt abgerufen am 14.05.2024).
 
