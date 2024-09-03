@@ -100,7 +100,10 @@ Mit seinen Zielen und Ergebnissen fördert D'accord den Data-Protection-by-Desig
 ## Dateneigner (GB5)
 
 Ein Dateneigner ist für die Verwaltung und Qualität eines bestimmten Teils der Unternehmensdaten zuständig [1]. Im Gegensatz zum Verantwortlichen ist der Dateneigner nicht für Verarbeitungsprozesse verantwortlich, sondern lediglich für die Daten selbst. Im Kontext von D'accord handelt es sich hierbei zum Beispiel um die Daten der Beteiligten eines digitalen Ökosystems. Der Dateneigner ist nicht gleichzusetzen mit dem Dateninhaber.  
-Quellen:[1] Boris Otto & Hubert Österle, 2016: Datenqualität – eine Managementaufgabe. In: Boris Otto & Hubert Österle (Hrsg.): Corporate Data Quality. Springer Gabler.
+
+**Quellen:**
+
+[1] Boris Otto & Hubert Österle, 2016: Datenqualität – eine Managementaufgabe. In: Boris Otto & Hubert Österle (Hrsg.): Corporate Data Quality. Springer Gabler.
 
 **Synonyme:** Data Owner
 
@@ -110,7 +113,7 @@ Quellen:[1] Boris Otto & Hubert Österle, 2016: Datenqualität – eine Manageme
 
 Der Daten-Governance-Rechtsakt (DGA), vollständig „Verordnung (EU) 2022/868 des Europäischen Parlaments und des Rates vom 30. Mai 2022 über europäische Daten-Governance und zur Änderung der Verordnung (EU) 2018/1724“, ist eine Verordnung im Sinne des Art. 288 AEUV der Europäischen Union, die darauf abzielt, das Vertrauen in die gemeinsame Nutzung von Daten zu erhöhen, die Mechanismen zur Verbesserung der Datenverfügbarkeit zu stärken und technische Hindernisse für die Wiederverwendung von Daten zu überwinden.  
   
-Quelle: https://digital-strategy.ec.europa.eu/en/policies/data-governance-act
+**Quellen:** https://digital-strategy.ec.europa.eu/en/policies/data-governance-act
 
 **Synonyme:** Europäisches Daten-Governance-Gesetz
 
@@ -696,11 +699,11 @@ Die Privatsphäre bezeichnet einen autonomen Bereich privater Lebensgestaltung, 
   
 Für eine Abgrenzung dieser Begriffe siehe auch Privatheit und Datenschutz.
 
-**Übersetzung:** ## Prozessanforderung (GB26)
+## Prozessanforderung (GB26)
 
 Eine Prozessanforderung ist eine Anforderung, die sich auf die Prozesse, Strukturen und Maßnahmen beim Betreiber eines Datenschutz-Cockpits bezieht.
 
-**Synonyme:** **Übersetzung:** ## Pseudonymisierung (GB48)
+## Pseudonymisierung (GB48)
 
 Pseudonymisierung hat das Ziel, personenbezogene Daten derart zu verändern, dass die unmittelbare Kenntnis der vollen Identität der betroffenen Personen während solcher Verarbeitungs- und Nutzungsvorgänge ausgeschlossen ist. Gegebenenfalls kann über eine Referenzdatei der Personenbezug wiederhergestellt werden. Vgl. Erwägungsgrund 26 DSGVO.
 
