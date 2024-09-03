@@ -2,13 +2,13 @@
 
 ## Datenklassen
 
-Eine Datenklasse ist ein abstraktes Modell für eine Reihe ähnlicher Datenobjekte, die die Attribute (Eigenschaften) dieser Objekte beschreibt. Wir die unterschieden Daten (insgesamt 22 Klassen) hinsichtlich ihrer Kritikalität und ihrer Fachlichkeit.
+Eine Datenklasse ist ein abstraktes Modell für eine Reihe ähnlicher Datenobjekte, die die Attribute (Eigenschaften) dieser Objekte beschreibt. Wir  unterscheiden die Daten (insgesamt 22 Klassen) hinsichtlich ihrer Kritikalität und ihrer Fachlichkeit.
 
 [Zum Kapitel "Datenklassen"](<Datenklassen>)
 
 ## Verarbeitungszwecke 
 
-Der Zweck bezeichnet im Datenschutzrecht immer das Ergebnis, für das ein Verantwortlicher eine Verarbeitung personenbezogener Daten durchführen will. Hier finden Sie eine sammlung typischer Verarbeitnngszwecke, die wir thematisch gruppiert haben.
+Der Zweck bezeichnet im Datenschutzrecht immer das Ergebnis, für das ein Verantwortlicher eine Verarbeitung personenbezogener Daten durchführen will. Hier finden Sie eine Sammlung typischer Verarbeitungszwecke, die wir thematisch gruppiert haben.
 
 [Zum Kapitel "Verarbeitungszwecke"](<Verarbeitungszwecke>)
 
