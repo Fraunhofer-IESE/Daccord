@@ -2,7 +2,7 @@
 
 {% include inhaltsverzeichnis.html %}
 
-Der Begriff Stakeholder (Interessenvertreter, von engl. stake: Anteil) bezeichnet alle Perso-nen oder Gruppen, die die Anforderungen an ein System beeinflussen oder von dessen Ent-wicklung oder Betrieb in irgendeiner Weise betroffen sind.  Ein Stakeholder kann prototy-pisch durch eine Persona beschrieben sein. Bei einer Persona werden unter anderem Cha-raktereigenschaften, Erfahrungen und Werte des Stakeholders beschrieben. Diese Eigen-schaften können die Gestaltung des Datenschutz-Cockpits beeinflussen. Entsprechend gibt es diese beiden Fragestellungen:
+Der Begriff Stakeholder (Interessenvertreter, von engl. stake: Anteil) bezeichnet alle Personen oder Gruppen, die die Anforderungen an ein System beeinflussen oder von dessen Entwicklung oder Betrieb in irgendeiner Weise betroffen sind.  Ein Stakeholder kann prototypisch durch eine Persona beschrieben sein. Bei einer Persona werden unter anderem Charaktereigenschaften, Erfahrungen und Werte des Stakeholders beschrieben. Diese Eigenschaften können die Gestaltung des Datenschutz-Cockpits beeinflussen. Entsprechend gibt es diese beiden Fragestellungen:
 
 1.	Welche Stakeholder gibt es hinsichtlich des Datenschutz-Cockpits?
 2.	Welche Eigenschaften haben diese Stakeholder?
@@ -22,11 +22,11 @@ Entsprechend wurde die Entscheidung getroffen, die Stakeholder nicht nach dem Zw
 - Bezug zur Verarbeitung personenbezogener Daten;
 - Wichtigkeit und Einfluss, als Einteilung für die Ableitung einer Einfluss-und-Wichtigkeits-Matrix [^2] zitiert in Groot, 2001[^3]
 
-Eine erste Beschreibung der Stakeholder nach den genannten Dimensionen lag vor, wodurch die Anwendbarkeit der Dimensionen bestätigt wurde. In der zweiten Iteration wurden die Stakeholder in das Requirements-Management-Tool ReqSuite aufgenommen und dort anhand dieser Kategorien beschrieben.
+Eine erste Beschreibung der Stakeholder nach den genannten Dimensionen lag vor, wodurch die Anwendbarkeit der Dimensionen bestätigt wurde. Anschließend wurden die Stakeholder in das Requirements-Management-Tool ReqSuite aufgenommen und dort anhand dieser Kategorien beschrieben.
 
 Die Stakeholder können, wie bereits gesagt, detaillierter als Persona beschrieben werden. Das in der Abbildung gezeigte Persona-Template nennt relevante Eigenschaften eines Stakeholders und zeigt, wie diese dokumentiert werden können. Es wurde im Konsortium entwickelt und greift unter anderem Eigenschaften aus dem Nutzergruppen-Template des DsiN-Sicherheitsindex[^4] auf. Zudem sind Eigenschaften eingeflossen, die das Projektteam aufgrund der Erfahrungen aus früheren Projekten im Bereich Usable Security & Privacy als relevant erachtet.
 
-Im Folgenden beschreiben wir alle Stakeholder pro Kategorie, sortiert nach deren Wichtig-keit. Eine Übersicht zeigt folgende Abbildung:
+Im Folgenden beschreiben wir alle Stakeholder pro Kategorie, sortiert nach deren Wichtigkeit. Eine Übersicht zeigt folgende Abbildung:
 
 ![Übersicht über die Stakeholder](<Stakeholders.png>)
 _Abbildung 1: Übersicht über die Stakeholder_
@@ -50,7 +50,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| **Stakeholder-Beschreibung** | Ein Datennutzer ist eine Person, die personenbezogene Daten eines Betroffenen verarbeitet|
+| **Stakeholder-Beschreibung** | Ein Datennutzer ist eine Person, die personenbezogene Daten eines Betroffenen verarbeitet.|
 | **Rolle im digitalen Ökosystem** | Benutzergruppenprofil|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung der UI für Güterkonsumenten|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-down-solid.svg) gelegentlich|
@@ -76,7 +76,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| **Stakeholder-Beschreibung** | Der Cockpit-Nutzer ist eine Person, die mit dem Front-End des Datenschutz-Cockpits interagiert|
+| **Stakeholder-Beschreibung** | Der Cockpit-Nutzer ist eine Person, die mit dem Front-End des Datenschutz-Cockpits interagiert.|
 | **Rolle im digitalen Ökosystem** | Benutzergruppenprofil|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung der UI für Güteranbieter|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-up-solid.svg) häufig|
@@ -141,7 +141,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| **Stakeholder-Beschreibung** | Eine Aufsichtsbehörde ist eine Organisation, die als Behörde eine Aufsichtsfunktion über privatrechtliche oder staatliche Institutionen ausführt. Je nach Domäne sind unterschiedliche Aufsichtsbehörden für den Betreiber eines digitalen Ökosystems zuständig|
+| **Stakeholder-Beschreibung** | Eine Aufsichtsbehörde ist eine Organisation, die als Behörde eine Aufsichtsfunktion über privatrechtliche oder staatliche Institutionen ausführt. Je nach Domäne sind unterschiedliche Aufsichtsbehörden für den Betreiber eines digitalen Ökosystems zuständig.|
 | **Rolle im digitalen Ökosystem** | nur prüfend / regulatorisch|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Überprüfung / Sicherstellung der Einhaltung des Datenschutzes|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-down-solid.svg) nie / nicht zutreffend|
@@ -154,7 +154,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| **Stakeholder-Beschreibung** | Der Initiator ist eine Person oder Organisation, die die Initiative zur Entwicklung eines digitalen Ökosystems ergreift und die Konzipierung, Finanzierung und Geschäftsentwicklung begleitet, bis der Betreiber diese Aufgaben eigenständig ausüben kann|
+| **Stakeholder-Beschreibung** | Der Initiator ist eine Person oder Organisation, die die Initiative zur Entwicklung eines digitalen Ökosystems ergreift und die Konzipierung, Finanzierung und Geschäftsentwicklung begleitet, bis der Betreiber diese Aufgaben eigenständig ausüben kann.|
 | **Rolle im digitalen Ökosystem** | Initiator|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Kein Bezug|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-down-solid.svg) nie / nicht zutreffend|
@@ -180,7 +180,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| **Stakeholder-Beschreibung** | Ein Auditor ist eine Organisation, die das Qualitätsmanagement des Betreibers überprüft|
+| **Stakeholder-Beschreibung** | Ein Auditor ist eine Organisation, die das Qualitätsmanagement des Betreibers überprüft.|
 | **Rolle im digitalen Ökosystem** | nur prüfend / regulatorisch|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Überprüfung / Sicherstellung der Einhaltung des Datenschutzes|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-down-solid.svg) selten|
@@ -193,7 +193,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| **Stakeholder-Beschreibung** | Ein Werbetreibender im Kontext eines digitalen Ökosystem ist ein Unternehmen, das für Güter auf der digitalen Plattform wirbt|
+| **Stakeholder-Beschreibung** | Ein Werbetreibender im Kontext eines digitalen Ökosystem ist ein Unternehmen, das für Güter auf der digitalen Plattform wirbt.|
 | **Rolle im digitalen Ökosystem** | zusätzlicher Dienstanbieter|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung der UI für Güteranbieter|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-down-solid.svg) selten|
@@ -206,7 +206,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| **Stakeholder-Beschreibung** | Ein Datenschutzbeauftragter ist eine Person, die sich beim Betreiber um die Einhaltung des Datenschutzes kümmert. Abhängig von der Größe und Kerntätigkeit ist der Betreiber ggf. gesetzlich dazu verpflichtet, einen Datenschutzbeauftragten zu benennen|
+| **Stakeholder-Beschreibung** | Ein Datenschutzbeauftragter ist eine Person, die sich beim Betreiber um die Einhaltung des Datenschutzes kümmert. Abhängig von der Größe und Kerntätigkeit ist der Betreiber ggf. gesetzlich dazu verpflichtet, einen Datenschutzbeauftragten zu benennen.|
 | **Rolle im digitalen Ökosystem** | Betreiber|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Überprüfung / Sicherstellung der Einhaltung des Datenschutzes|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-down-solid.svg) gelegentlich|
@@ -219,7 +219,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| **Stakeholder-Beschreibung** | Ein Onboarding-Verantwortlicher ist eine Person, die beim Betreiber für die praktisch-organisatorische, vertragliche und technische Integration der Beteiligten in das digitale Ökosystem zuständig ist|
+| **Stakeholder-Beschreibung** | Ein Onboarding-Verantwortlicher ist eine Person, die beim Betreiber für die praktisch-organisatorische, vertragliche und technische Integration der Beteiligten in das digitale Ökosystem zuständig ist.|
 | **Rolle im digitalen Ökosystem** | Broker|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Kommunikation zu Dritten|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-up-solid.svg) häufig|
@@ -232,7 +232,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| **Stakeholder-Beschreibung** | Der Kundenservice des Betreibers ist eine Personengruppe, die technische und fachliche (interne oder externe) Unterstützung bietet, den Beteiligten des digitalen Ökosystems und entsprechend den Cockpit-Nutzern für Rückfragen zur Verfügung steht und diese bei Problemen rund um die Nutzung unterstützt|
+| **Stakeholder-Beschreibung** | Der Kundenservice des Betreibers ist eine Personengruppe, die technische und fachliche (interne oder externe) Unterstützung bietet, den Beteiligten des digitalen Ökosystems und entsprechend den Cockpit-Nutzern für Rückfragen zur Verfügung steht und diese bei Problemen rund um die Nutzung unterstützt.|
 | **Rolle im digitalen Ökosystem** | Betreiber|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Nutzung einer zusätzlichen UI (Demo, Kundenservice, et cetera)|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angle-up-solid.svg) häufig|
@@ -258,7 +258,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| **Stakeholder-Beschreibung** | Ein Wettbewerber ist eine Organisation, die mit dem Betreiber konkurriert, insbesondere wenn sie ein anderes digitales Ökosystem betreibt, das einen vergleichbaren digitalen Ökosystemdienst anbietet|
+| **Stakeholder-Beschreibung** | Ein Wettbewerber ist eine Organisation, die mit dem Betreiber konkurriert, insbesondere wenn sie ein anderes digitales Ökosystem betreibt, das einen vergleichbaren digitalen Ökosystemdienst anbietet.|
 | **Rolle im digitalen Ökosystem** | externer Dienstleister oder Anwender (indirekter Einfluss)|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Kein Bezug|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-down-solid.svg) nie / nicht zutreffend|
@@ -271,7 +271,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| **Stakeholder-Beschreibung** | Die Plattformentwickler des Betreibers sind für die (Weiter-)Entwicklung der digitalen Plattform und die Funktionen des digitalen Ökosystems zuständig|
+| **Stakeholder-Beschreibung** | Die Plattformentwickler des Betreibers sind für die (Weiter-)Entwicklung der digitalen Plattform und die Funktionen des digitalen Ökosystems zuständig.|
 | **Rolle im digitalen Ökosystem** | Betreiber|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Interaktion mit Backend|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-down-solid.svg) nie / nicht zutreffend|
@@ -284,7 +284,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| **Stakeholder-Beschreibung** | Das Wartungspersonal beim Betreiber ist eine Personengruppe, die für die Instandhaltung der digitalen Plattform Sorge trägt|
+| **Stakeholder-Beschreibung** | Das Wartungspersonal beim Betreiber ist eine Personengruppe, die für die Instandhaltung der digitalen Plattform Sorge trägt.|
 | **Rolle im digitalen Ökosystem** | Betreiber|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Interaktion mit Backend|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-down-solid.svg) nie / nicht zutreffend|
@@ -337,7 +337,7 @@ _Abbildung 1: Übersicht über die Stakeholder_
 
 | **Eigenschaft** | **Beschreibung** |
 | -- | -- |
-| **Stakeholder-Beschreibung** | Ein Anwender ist eine Person oder Organisation, die kein Beteiligter des digitalen Ökosystems ist, sondern als B2B- oder B2C-Kunde vom Güterkonsument vom digitalen Ökosystemdienst profitiert|
+| **Stakeholder-Beschreibung** | Ein Anwender ist eine Person oder Organisation, die kein Beteiligter des digitalen Ökosystems ist, sondern als B2B- oder B2C-Kunde vom Güterkonsument vom digitalen Ökosystemdienst profitiert.|
 | **Rolle im digitalen Ökosystem** | externer Dienstleister oder Anwender (indirekter Einfluss)|
 | **Hauptsächlicher Bezug zum Datenschutz-Cockpit** | Kein Bezug|
 | **Häufigkeit der Nutzung der Cockpit-UI** | ![](../../assets/images/angles-down-solid.svg) nie / nicht zutreffend|
