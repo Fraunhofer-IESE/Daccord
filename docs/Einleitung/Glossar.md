@@ -195,7 +195,7 @@ Als Datenschutzeinstellungen eines Systems werden sämtliche Einstellungen bezei
 
 Eine Datenschutzerklärung ist eine Erklärung eines Verantwortlichen, mit der er betroffene Personen über die Verarbeitung ihrer personenbezogenen Daten informiert. Die Datenschutzerklärung muss über die Art, den Umfang und die Zwecke der Erhebung und Verwendung personenbezogener Daten informieren. Weitere Informationen, die sich aus der Datenschutzerklärung ergeben müssen, sind in Art. 13 DSGVO zu finden.
 
-**Übersetzung:** ## Datenschutzgrundverordnung (DSGVO) (GB42)
+## Datenschutzgrundverordnung (DSGVO) (GB42)
 
 Die Datenschutzgrundverordnung (DSGVO), vollständig „Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG“, ist eine Verordnung, welche die Verarbeitung personenbezogener Daten EU-weit vereinheitlicht. Die DSGVO gilt seit 25. Mai 2018 für alle EU-Mitgliedsstaaten. Das Bundesdatenschutzgesetz neuer Fassung (BDSG n.F.) füllt die Öffnungsklauseln der DSGVO aus.
 
