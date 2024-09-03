@@ -12,7 +12,7 @@ Wie der Grafik zu entnehmen ist, unterschieden wir Daten nach ihrer Kritikalitä
 
 Daten, welche sich nicht auf eine Person beziehen bzw. ihr nicht zugeordnet werden können. Der Personenbezug kann auch entfernt worden sein, z. B. durch Anonymisierung.
 
-**Beispiele:** Anonymisierte Daten, RegelungenOrganisationsanweisungen
+**Beispiele:** Anonymisierte Daten, Regelungen, Organisationsanweisungen
 
 **Datenursprung**: auf verschiedenen Wegen erfasst
 
@@ -62,7 +62,7 @@ Daten, die auf politische Meinungen oder eine Parteizugehörigkeit schließen la
 
 Daten, die auf die Meinung oder Zugehörigkeit eines Betroffenen zu einer religiösen oder weltanschaulichen Vereinigung schließen lassen.
 
-**Beispiele:** Genutzte Gebetszeiten, Geburtsurkunden, Zugehörigkeit zu Gruppen (u. a. auf der Plattform)
+**Beispiele:** genutzte Gebetszeiten, Geburtsurkunden, Zugehörigkeit zu Gruppen (u. a. auf der Plattform)
 
 **Datenursprung**: nicht erfasst
 
@@ -86,7 +86,7 @@ Biometrische Daten eines Betroffenen.
 
 Daten, die auf den vergangenen oder aktuellen Gesundheitszustand eines Betroffenen schließen lassen.
 
-**Beispiele:** Krankheitsgeschichte, Chronische Krankheiten, Behinderungen (einschließlich Daten Angehöriger), Informationen zum Gesundheitsmanagement, Wearable-Daten (z. B. Fitness-Tracker)
+**Beispiele:** Krankheitsgeschichte, chronische Krankheiten, Behinderungen (einschließlich Daten Angehöriger), Informationen zum Gesundheitsmanagement, Wearable-Daten (z. B. Fitness-Tracker)
 
 **Datenursprung**: auf verschiedenen Wegen erfasst
 
@@ -125,7 +125,7 @@ Allgemeine Daten zum Nutzer.
 
 Daten, die sich auf die Bezahlung von Waren und Dienstleistungen beziehen.
 
-**Beispiele:** Hinterlegte Zahlungsarten, Abbuchungen
+**Beispiele:** hinterlegte Zahlungsarten, Abbuchungen
 
 **Datenursprung**: vom Betroffenem explizit bereitgestellt
 
@@ -157,7 +157,7 @@ Erteilte / nicht erteilte / widerrufene Einwilligungen.
 
 Daten, die sich auf das Vermitteln des Guts beziehen (Brokering).
 
-**Beispiele:** Gebuchte digitale Dienste, Abos, Gebuchte analoge Dienstleistungen, Gekaufte Waren
+**Beispiele:** gebuchte digitale Dienste, Abos, gebuchte analoge Dienstleistungen, gekaufte Waren
 
 **Datenursprung**: automatisiert aufgrund von Aktionen des Betroffenen erhoben
 
