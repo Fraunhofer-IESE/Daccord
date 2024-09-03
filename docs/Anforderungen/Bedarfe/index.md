@@ -14,7 +14,7 @@ Das Forschungsvorhaben und Vorgängerprojekt "TrUSD" hat gezeigt, dass es versch
 
 <mark>tbd.</mark>
 
-[Zum Kapitel "Bedarfe der Datennutzer"](<Bedarfe der Datennutzer>)
+[Zum Kapitel "Datennutzungsbedarfe"](<Datennutzungsbedarfe>)
 
 ## **![](../../assets/images/life-ring.svg) Unterstützungsbedarfe** 
 
