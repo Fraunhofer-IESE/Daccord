@@ -66,11 +66,14 @@ Je nach Funktionsumfang des Untersuchungsgegenstands stellt der Studienleiter de
 
 ****
 
+| [![](/Daccord/assets/images/backward-solid.svg) Bewertung](./) | [Kriterienkataloge ![](/Daccord/assets/images/forward-solid.svg)](<Kriterienkataloge>) |
+
+
+
+****
+
 **Quellen:**
 
 [^1]: Johansen, J., & Fischer-Hübner, S. (2020). Making GDPR usable: A model to support usability evaluations of privacy. Privacy and Identity Management. Data for Better Living: AI and Privacy: 14th IFIP WG 9.2, 9.6/11.7, 11.6/SIG 9.2. 2 International Summer School, Windisch, Switzerland, August 19–23, 2019, Revised Selected Papers 14, 275-291.
 
 
-****
-
-| [![](/Daccord/assets/images/backward-solid.svg) Bewertung](./) | [Kriterienkataloge ![](/Daccord/assets/images/forward-solid.svg)](<Kriterienkataloge>) |
