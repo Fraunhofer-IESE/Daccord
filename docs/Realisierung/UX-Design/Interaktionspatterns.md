@@ -38,7 +38,7 @@ Eingebettete Hilfsfunktionen sollen die benötigten Informationen bereitstellen,
 Ein digitales Ökosystem, dass personenbezogene Daten von Nutzenden verarbeitet, muss den betroffenen Personen Auskunft darüber geben, welche Daten konkret vom digitalen Ökosystem genutzt werden. Insbesondere bei großen Datenmengen wie beispielsweise Nutzungsdaten kann dies schnell unübersichtlich werden.
 
 Mit einem Privacy Dashboard können digitale Ökosysteme ihren Nutzenden detaillierte und einfach verständliche Informationen über die verarbeiteten Daten anbieten. Hierbei können auch Visualisierungen oder Statistiken angewendet werden. 
-#### Quellen
+#### Quelle
 * [privacypatterns.org: Privacy Dashboard](https://privacypatterns.org/patterns/Privacy-dashboard)
 
 
@@ -140,7 +140,7 @@ Durch privatheitsfreundliche Voreinstellungen können Nutzende beim Einrichtungs
 Digitale Ökosysteme verlangen meist die Angabe einer Mindestmenge personenbezogener Daten, um sich zu registrieren. Während der Nutzung möchten die Nutzenden jedoch möglicherweise frei entscheiden, welche Daten sie an welche Empfänger freigeben.
 
 Wenn möglich, sollte Nutzenden die Möglichkeit eingeräumt werden, nicht benötigte Daten für eine bestimmte Aktion zu maskieren und die Verarbeitung somit dynamisch einzuschränken. Hierzu soll den Nutzenden ein geeignetes Bedienfeld geboten werden, mit dem Daten beispielsweise nach Kategorie oder der Möglichkeit einer Identifizierung der eigenen Person zur Maskierung ausgewählt werden können.
-#### Quellen
+#### Quelle
 * [privacypatterns.org: Masquerade](https://privacypatterns.org/patterns/Masquerade)
 
 
@@ -178,7 +178,7 @@ Um Nutzenden eindeutig zu signalisieren, welche Auswirkung eine Aktion hat, soll
 Nutzende digitaler Ökosysteme, die sich über Datenschutzthemen informieren wollen, müssen unter Umständen in einer großen Menge von Dokumenten nach den gewünschten Informationen suchen. Die Anzahl der Kernthemen, nach denen die meisten Nutzer suchen, ist dagegen meist überschaubar. 
 
 Spezielle Themenseiten zu Fragen des Datenschutzes, gegebenenfalls mit Links zu wichtigen Dokumenten, ermöglichen den Nutzenden einen schnellen Zugriff auf die am häufigsten gesuchten Dokumente. Alle Themen sollten auf einer Themenübersichtsseite verfügbar sein, zum Beispiel als alphabetischer Index.
-#### Quellen
+#### Quelle
 * [welie.com: Topic-Pages](http://www.welie.com/patterns/showPattern.php?patternID=topic-pages)
 
 
@@ -205,7 +205,7 @@ Icons sind eine geeignete Ergänzung zum geschriebenen Text, da sie auf einen Bl
 Nutzende wollen über wichtige Aktionen, die die Verarbeitung ihrer Daten betreffen, informiert werden. Personalisierte, zeitnahe Benachrichtigungen können als Einstiegspunkt für detailliertere Informationen dienen. Bei Bedarf können die Nutzenden Aktionen überprüfen, anpassen oder abbrechen, bevor diese ausgeführt werden.
 
 Da Benachrichtigungen störend wirken können, sollte deren Häufigkeit zur Relevanz des Inhalts passen. Außerdem sollten die Nutzenden die Möglichkeit haben, die Benachrichtigungen in ihren Einstellungen zu deaktivieren oder zu ändern. Gesetzlich verpflichtende Benachrichtigungen dürfen allerdings nicht deaktiviert werden können.
-#### Quelle
+#### Quellen
 * [catalogue.projectsbyif.com: Notice of upcoming action](https://catalogue.projectsbyif.com/patterns/notice-of-upcoming-action/)
 * [ui-patterns.com: Notifications](https://ui-patterns.com/patterns/notifications)
 
