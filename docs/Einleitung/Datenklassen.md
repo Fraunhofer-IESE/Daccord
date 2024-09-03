@@ -72,7 +72,7 @@ Genetische Daten des Betroffenen.
 
 **Beispiele:** DNA-Profile, die von Polizisten erfasst werden, um diese bei der Untersuchung von DNA-Spuren des Tatorts auszuschließen
 
-**Datenursprung**: Vom Betroffenem explizit bereitgestellt
+**Datenursprung**: Vom Betroffenen explizit bereitgestellt
 
 ### Biometrische Daten (DK9)
 
@@ -127,7 +127,7 @@ Daten, die sich auf die Bezahlung von Waren und Dienstleistungen beziehen.
 
 **Beispiele:** Hinterlegte Zahlungsarten, Abbuchungen
 
-**Datenursprung**: Vom Betroffenem explizit bereitgestellt
+**Datenursprung**: Vom Betroffenen explizit bereitgestellt
 
 ### Kommunikationsdaten (DK16)
 
@@ -135,7 +135,7 @@ Kommunikation mit der Plattform und mit anderen Teilnehmern des Ökosystems.
 
 **Beispiele:** Chat, Rückgaben, Garantieabwicklung
 
-**Datenursprung**: Vom Betroffenem explizit bereitgestellt
+**Datenursprung**: Vom Betroffenen explizit bereitgestellt
 
 ### Allgemeine Präferenzen (DK17)
 
@@ -143,7 +143,7 @@ Einstellungen, die der Nutzer auf der Plattform vornimmt.
 
 **Beispiele:** Accounteinstellungen, Werbeeinstellungen, Benachrichtigungseinstellungen
 
-**Datenursprung**: Vom Betroffenem explizit bereitgestellt
+**Datenursprung**: Vom Betroffenen explizit bereitgestellt
 
 ### Einwilligungen (DK18)
 
@@ -151,7 +151,7 @@ Erteilte / nicht erteilte / widerrufene Einwilligungen.
 
 **Beispiele:** Cookie-Einwilligungen
 
-**Datenursprung**: Vom Betroffenem explizit bereitgestellt
+**Datenursprung**: Vom Betroffenen explizit bereitgestellt
 
 ### Transaktionsdaten (DK19)
 
@@ -167,7 +167,7 @@ Nutzdaten, die die Plattform im Auftrag des Datengebers speichert.
 
 **Beispiele:** Daten, die andere Teilnehmer kaufen können, Datenspeicherdienste, Datentreuhänder
 
-**Datenursprung**: Vom Betroffenem explizit bereitgestellt
+**Datenursprung**: Vom Betroffenen explizit bereitgestellt
 
 ### Nutzungsdaten (DK21)
 
