@@ -1,5 +1,5 @@
 # Evaluationskonzept
-Um die Wirksamkeit eines Datenschutzcockpits zu evaluieren, wurde ein Konzept entwickelt, mit dem bereits prototypische Entwicklungen im Rahmen eines Walkthroughs untersucht und bewertet werden können. Im Folgenden werden die wichtigsten Komponenten des erarbeiteten Studienprotokolls beschreiben, die als Basis für spezifische Nutzerstudien mit konkreten Implementierungen dienen können. 
+Um die Wirksamkeit eines Datenschutzcockpits zu evaluieren, wurde ein Konzept entwickelt, mit dem bereits prototypische Entwicklungen im Rahmen eines Walkthroughs untersucht und bewertet werden können. Im Folgenden werden die wichtigsten Komponenten des erarbeiteten Studienprotokolls beschrieben, die als Basis für spezifische Nutzerstudien mit konkreten Implementierungen dienen können. 
 
 ## Ziel der Evaluation
 Das hier beschriebene Studienprotokoll soll die Wirksamkeit einer Implementierung eines Datenschutz-Cockpits oder einzelner Komponenten messbar machen. Je nach Untersuchungsgegenstand werden somit Maßnahmen zur Transparenzmachung von Datenverarbeitungen oder der Kontrolle einer Datenverarbeitung evaluiert. 
@@ -12,7 +12,7 @@ Zusätzlich stellt der Studienleiter an geeigneter Stelle spezifische Fragen, di
 
 Die Walkthroughs werden mindestens mit einer Audio-Aufzeichnung dokumentiert, um die Transkriptionen im Nachgang auszuwerten.
 
-Die transkribierten Interviews werden im Rahmen einer Inhaltsanalyse ausgewertet. Hierbei werden Aussagen der Teilnehmenden in drei Kategorien zugeordnet. Negative Rückmeldungen beinhalten Anmerkungen, die auf Probleme beim Umgang mit dem Cockpit zurückzuführen sind. Positive Rückmeldungen beinhalten Anmerkungen, mit denen Teilnehmende Funktionen des Cockpits positiv hervorheben. Vorschläge beinhalten Anmerkungen der Teilnehmenden, die nach ihrer Ansicht eine Verbesserung des Cockpits zufolge hätten. Die kategorisierten Anmerkungen werden getrennt nach den Frageblöcken des Interviews und gruppiert nach inhaltlicher Zusammengehörigkeit dokumentiert.
+Die transkribierten Interviews werden im Rahmen einer Inhaltsanalyse ausgewertet. Hierbei werden Aussagen der Teilnehmenden drei Kategorien zugeordnet. "Negative Rückmeldungen" beinhalten Anmerkungen, die auf Probleme beim Umgang mit dem Cockpit zurückzuführen sind. "Positive Rückmeldungen" beinhalten Anmerkungen, bei denen Teilnehmende Funktionen des Cockpits positiv hervorheben. "Vorschläge" beinhalten Anmerkungen der Teilnehmenden, die nach ihrer Ansicht eine Verbesserung des Cockpits zufolge hätten. Die kategorisierten Anmerkungen werden getrennt nach den Frageblöcken des Interviews und gruppiert nach inhaltlicher Zusammengehörigkeit dokumentiert.
 
 ## Leitfragen
 Je nach Funktionsumfang des Untersuchungsgegenstands stellt der Studienleiter den Teilnehmenden spezifische Fragen. Im Folgenden werden mögliche Fragen mit den zugehörigen Anwendungsfeldern aufgelistet.
@@ -21,17 +21,17 @@ Je nach Funktionsumfang des Untersuchungsgegenstands stellt der Studienleiter de
 **T1:** Sind alle an die Öffentlichkeit oder an die betroffenen Personen gerichteten Informationen und Mitteilungen im Zusammenhang mit der Verarbeitung personenbezogener Daten präzise, leicht zugänglich und verständlich?
 
 *Mögliche Fragen*
-- Welche Funktionen oder Informationen werden ihnen der aktuellen Ansicht angezeigt?
+- Welche Funktionen oder Informationen werden Ihnen in der aktuellen Ansicht angezeigt?
 - Welche Bedeutung haben diese Informationen oder Funktionen im Bezug zum Datenschutz?
 - Wie bewerten Sie die Darstellung der Informationen?
-- Fällt es ihnen leicht zu verstehen, wie ihre Daten verarbeitet werden?
+- Fällt es Ihnen leicht zu verstehen, wie Ihre Daten verarbeitet werden?
 - Wie schätzen Sie die verwendete Sprache ein? Für welche Zielgruppe wurden die Texte formuliert? (Beispiel: Erfahrene oder wenig erfahrene Nutzende)
 
 ### Einwilligungen
 **T2:** Wird den betroffenen Personen ein aussagekräftiger Überblick über die geplante Verarbeitung gegeben?
 
 *Mögliche Fragen*
-- Wenn Sie dieser Nutzungsanfrage zustimmen würden: Welche Daten von ihnen würden für welchen Zweck verarbeitet werden?
+- Wenn Sie dieser Nutzungsanfrage zustimmen würden: Welche Daten von Ihnen würden für welchen Zweck verarbeitet werden?
 
 **T3:** Ist es so einfach, die Zustimmung zu widerrufen, wie sie zu erteilen?
 
@@ -41,7 +41,7 @@ Je nach Funktionsumfang des Untersuchungsgegenstands stellt der Studienleiter de
 **T4:** Sind die betroffenen Personen darüber informiert, wie sie ihre Rechte im Zusammenhang mit der Verarbeitung personenbezogener Daten ausüben können?
 
 *Mögliche Fragen*
-- Wenn Ihre Daten verarbeitet werden, stehen Ihnen laut Datenschutzgrundverordnung gewisse Rechte zu. Hilft ihnen das Datenschutz-Cockpit dabei, diese Rechte zu kennen und zu nutzen?
+- Wenn Ihre Daten verarbeitet werden, stehen Ihnen laut Datenschutzgrundverordnung gewisse Rechte zu. Hilft Ihnen das Datenschutz-Cockpit dabei, diese Rechte zu kennen und zu nutzen?
 
 ### Auskunftsrecht
 
@@ -49,7 +49,7 @@ Je nach Funktionsumfang des Untersuchungsgegenstands stellt der Studienleiter de
 
 *Mögliche Fragen*
 - Finden Sie Hilfestellung bei der Ausübung Ihres Rechts auf Auskunft über die Verarbeitung Ihrer Daten?
-- Finden Sie Hilfestellung bei der Ausübung Ihres Rechts auf Löschen Ihrer Daten?
+- Finden Sie Hilfestellung bei der Ausübung Ihres Rechts auf Löschung Ihrer Daten?
 
 ### Visualisierung
 **T6:** Werden die Informationen und Mitteilungen, die an die Öffentlichkeit oder an die betroffenen Personen gerichtet sind, gegebenenfalls unter Verwendung von Visualisierungen präsentiert?
@@ -63,12 +63,13 @@ Je nach Funktionsumfang des Untersuchungsgegenstands stellt der Studienleiter de
 - Was bedeutet für Sie im Kontext {des Anwendungsfalls} Kontrolle über Ihre Daten zu haben?
 - Bietet Ihnen das Datenschutzcockpit eine solche Kontrollmöglichkeit?
 
-****
-
-| [![](/Daccord/assets/images/backward-solid.svg) Bewertung](./) | [Kriterienkataloge ![](/Daccord/assets/images/forward-solid.svg)](<Kriterienkataloge>) |
 
 ****
 
 **Quellen:**
 
 [^1]: Johansen, J., & Fischer-Hübner, S. (2020). Making GDPR usable: A model to support usability evaluations of privacy. Privacy and Identity Management. Data for Better Living: AI and Privacy: 14th IFIP WG 9.2, 9.6/11.7, 11.6/SIG 9.2. 2 International Summer School, Windisch, Switzerland, August 19–23, 2019, Revised Selected Papers 14, 275-291.
+
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Bewertung](./) | [Kriterienkataloge ![](/Daccord/assets/images/forward-solid.svg)](<Kriterienkataloge>) |
