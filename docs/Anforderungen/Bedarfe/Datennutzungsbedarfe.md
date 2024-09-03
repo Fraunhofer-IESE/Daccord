@@ -1,4 +1,4 @@
-# Bedarfe der Datennutzer
+# Datennutzungsbedarfe
 
 Ein Datennutzungsbedarf ist ein Datenschutzbedarf eines Datennutzers zur Verarbeitung personenbezogener Daten, einschließlich die Möglichkeit, auf die Daten zuzugreifen.
 
