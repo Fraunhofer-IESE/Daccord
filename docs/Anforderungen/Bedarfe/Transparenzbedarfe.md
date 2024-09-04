@@ -2,7 +2,7 @@
 
 Ein Transparenzbedarf ist ein Datenschutzbedarf einer Person nach Information bzw. Offenheit über die Verarbeitung personenbezogenen Daten.
 
-## Unabdingbare Bedarfe
+## Unabdingbar
 
 ### Prozessstatus (TRB3)
 
@@ -95,7 +95,7 @@ Als Betroffener möchte ich, dass es in dem Datenschutz-Cockpit unterschiedliche
 **Beispiel:** In einer tabellarischen Übersicht sehe ich alle Datenkategorien, Zwecke und Empfänger und kann entsprechend filtern und sortieren. (Siehe IAA1 für die Gesamtübersicht.)
 
 
-## Gewünschte Bedarfe
+## Gewünscht
 
 ### Transparenter Schutz (TRB2)
 
@@ -128,7 +128,7 @@ Als Betroffener möchte ich auch darüber informiert werden, welche Verarbeitung
 
 **Beispiel:** Es wird explizit darauf hingewiesen, dass keine Profilbildung stattfindet und dass die Daten nicht in Drittländer übermittelt werden (sofern dies nicht der Fall ist).
 
-## Nice-to-haves
+## Nice-to-have
 
 ### Änderungshistorie (TRB1)
 
