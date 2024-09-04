@@ -1,7 +1,7 @@
 # Unterstützungsbedarfe
 
 Ein Unterstützungsbedarf ist ein Datenschutzbedarf einer Person nach Wissen bzw. Unterstützung, um mit personenbezogenen Daten adäquat umgehen zu können.
-## Unabdingbare Bedarfe
+## Unabdingbar
 
 ### Genereller Nutzen (UBD1)
 
@@ -35,7 +35,7 @@ Als Betroffener möchte ich die Möglichkeiten der Transparenz und Selbstbestimm
 
 
 
-## Gewünschte Bedarfe 
+## Gewünscht 
 
 ### Anwendungsorientierung (UBD3)
 
@@ -69,7 +69,7 @@ Als Betroffener möchte ich lernen, was eine Verletzung des Schutzes personenbez
 
 **Beispiel:** Auf einer Themenseite im Cockpit finde ich eine allgemein verständliche Erläuterung, was eine Verletzung des Schutzes personenbezogener Daten und die möglichen Folgen für mich bzw. meine Daten sind.
 
-## Nice-to-haves
+## Nice-to-have
 
 ### Prozess-Wissen für Betroffene (UBD11)
 
