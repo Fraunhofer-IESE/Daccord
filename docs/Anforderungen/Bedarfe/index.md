@@ -1,6 +1,6 @@
 # Bedarfe
 
-Das Forschungsvorhaben und Vorgängerprojekt "TrUSD" hat gezeigt, dass es verschiedene Arten von Bedarfen gibt, die von Nutzer\*innen von Datenschutzmaßnahmen erhoben werden sollten. Diese Bedarfe können unterschieden werden in Bedarfe von Betroffenen, von Datennutzer\*innen und von Nutzer\*innen digitaler Lösungen zur Umsetzung von Datenschmutzmaßnahmen. Die letztgenannte Gruppe von Nutzer\*innen umfasst in der Regel sowohl Betroffene als auch Datennutzer*innen. Hinsichtlich ihrer Priorität wird bei den Bedarfen jeweils unterschieden zwischen unabdingbaren Bedarfen, gewünschten Bedarfen und Nice-to-haves.
+Das Forschungsvorhaben und Vorgängerprojekt "TrUSD" hat gezeigt, dass es verschiedene Arten von Bedarfen gibt, die von Nutzer\*innen von Datenschutzmaßnahmen erhoben werden sollten. Diese Bedarfe können unterschieden werden in Bedarfe von Betroffenen, von Datennutzer\*innen und von Nutzer\*innen digitaler Lösungen zur Umsetzung von Datenschmutzmaßnahmen. Die letztgenannte Gruppe von Nutzer\*innen umfasst in der Regel sowohl Betroffene als auch Datennutzer*innen. Hinsichtlich der Priorität wird bei den Bedarfen jeweils unterschieden zwischen "unabdingbar", "gewünscht" Bedarfen und "nice-to-have".
 
 ## **![](../../assets/images/team.svg) Bedarfe der Betroffenen** 
 
