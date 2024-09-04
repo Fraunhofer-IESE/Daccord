@@ -2,7 +2,7 @@
 
 Ein Selbstbestimmungsbedarf ist ein Datenschutzedarf einer Person nach eigenem Einfluss auf die Verarbeitung der sie betreffenden Daten.
 
-## Unabdingbare Bedarfe
+## Unabdingbar
 
 ### Explizite Bildfreigabe (SBB1)
 
@@ -66,7 +66,7 @@ Als Betroffener möchte ich dass der Zugriff auf meine Daten nur erfolgt, wenn d
 **Beispiel:** Da ich eingestellt habe, dass ich grundsätzlich nur per E-Mail kontaktiert werden möchte, sollte meine Handynummer nur dann zusammen mit meiner E-Mail-Adresse weitergegeben werden, wenn dafür ein plausibler und eindeutiger Zweck vorliegt (z. B. Erreichbarkeit für Paketzusteller während der Zustellung, Erreichbarkeit für Veranstalter an Konferenztagen).
 
 
-## Gewünschte Bedarfe
+## Gewünscht
 
 ### Vorgefertigte Formulare (SBB4)
 
@@ -104,7 +104,7 @@ Als Betroffener möchte ich die Daten-Archivierungszeiträume für meine Daten f
 
 **Beispiel:** Da von mir immer nur aktuelle Informationen erscheinen sollen, kann ich bei Postings und Bildbeiträgen einstellen, dass diese nach sechs Monaten automatisch wieder verschwinden.
 
-## Nice-to-haves
+## Nice-to-have
 
 ### Löschen nicht benötigter Daten (SBB9)
 
