@@ -2,7 +2,7 @@
 
 Ein Datennutzungsbedarf ist ein Datenschutzbedarf eines Datennutzers zur Verarbeitung personenbezogener Daten, einschließlich die Möglichkeit, auf die Daten zuzugreifen.
 
-## Unabdingbare Bedarfe 
+## Unabdingbar 
 
 ### Prüfung von Änderungen (DNB1)
 
@@ -24,7 +24,7 @@ Als Datennutzer möchte ich auf einen Blick sehen und überprüfen können, für
 **Beispiel:** Als Werbetreibender kann ich gezielt auswählen, welche Ökosystemteilnehmer ich zu welchen Zwecken kontaktieren darf (z. B. für Marketing oder Werbung).
 
 
-## Gewünschte Bedarfe
+## Gewünscht
 
 ### Allgemeiner Datenübersicht (DNB2)
 
@@ -32,7 +32,7 @@ Als Datennutzer möchte ich auf einen Blick sehen und überprüfen können, welc
 
 **Beispiel:** Alle Daten, die für eine Veranstaltung die ich organisiere relevant sind, stellt das Datenschutz-Cockpit mir in einer Übersicht zur Verfügung.
 
-## Nice-to-haves
+## Nice-to-have
 
 ### Erinnerungsfunktion (DNB3)
 
