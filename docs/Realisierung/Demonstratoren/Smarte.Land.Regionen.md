@@ -8,9 +8,9 @@ Unter der Leitung des Fraunhofer IESE werden in [Smarte.Land.Regionen (S.L.R.)](
 
 Da in den Lösungen verschiedenste Arten von Daten verarbeitet werden können und Vertrauen gerade im kommunalen Kontext ein wichtiger Faktor ist, bieten sich Datenschutz-Cockpits hier gut an, damit Bürgerinnen und Bürger sich lösungsübergreifend über Datenverarbeitungen in diesem Ökosystem informieren können und ihr Selbstbestimmungsrecht wahrnehmen. Um dies zu ermöglichen bietet das Datenschutz-Cockpit auch entsprechende Sichten für die Lösungsanbieter.
 
-Der Demonstrator zeigt im wesentlichen folgende Abläufe:
+Der Demonstrator zeigt im Wesentlichen folgende Abläufe:
 - Lösungsanbieter ändert Datenschutzerklärung
-- Bürger informiert sich über Änderungen in der neuen Datenschutzerklärungen
+- Bürger informiert sich über Änderungen in der neuen Datenschutzerklärung
 - Bürger ändert die Berechtigungen einer Lösung
 - Bürger nimmt sein Recht auf Datenauskunft wahr
 - Lösungsanbieter bearbeitet Datenauskunft
@@ -22,7 +22,7 @@ Der Demonstrator zeigt im wesentlichen folgende Abläufe:
 
 ## Einbettung in den IESE-Demo-Bereich
 
-Das Fraunhofer IESE betreibt einen Demo-Bereich, in dem wissenschaftliche Erkenntnisse und Produkte des Instituts für interessierte Besucher aus Wissenschaft, Wirtschaft und Politik anfassbar demonstriert werden. Dieser Demo-Bereich besteht aus mehreren "Kuben", die sich jeweils einem konkreten Schwerpunktthema widmen, darunter der Kubus "Datensouveränität und Cybersicherheit". In diesem Kubus wird der hier beschriebene Demonstrator auf dem bereits erwähnten, interaktiven Touch-Tisch gezeigt. Die folgenden Fotos vermitteln einen Eindruck des aktuellen Zustandes.
+Das Fraunhofer IESE betreibt einen Demo-Bereich, in dem wissenschaftliche Erkenntnisse und Produkte des Instituts für interessierte Besucher aus Wissenschaft, Wirtschaft und Politik anfassbar demonstriert werden. Dieser Demo-Bereich besteht aus mehreren "Kuben", die sich jeweils einem konkreten Schwerpunktthema widmen, darunter der Kubus "Datensouveränität und Cybersicherheit". In diesem Kubus wird der hier beschriebene Demonstrator auf einem interaktiven Touch-Tisch gezeigt. Die folgenden Fotos vermitteln einen Eindruck des aktuellen Zustandes.
 
 ![Blick in den Kubus "Datensouveränität und Cybersicherheit"](Showroom1.jpg)
 
