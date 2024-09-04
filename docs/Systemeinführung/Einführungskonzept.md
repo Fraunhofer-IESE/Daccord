@@ -224,7 +224,7 @@ Die Einführung einer neuen Technologie oder digitalen Lösung in ein Unternehme
 
 [^2]: Vgl. Zink, K.J.; Bosse, C.K. (2019) Arbeit 4.0 im Mittelstand. Chancen und Herausforderungen des digitalen Wandels für KMU. Berlin, Heidelberg: Springer.
 
-[3]: Vgl. Deutinger, G. (2017) Kommunikation im ‚Change. Erfolgreich kommunizieren in Veränderungsprozessen (2. Aufl.). Berlin: Springer Gabler. 
+[^3]: Vgl. Deutinger, G. (2017) Kommunikation im ‚Change. Erfolgreich kommunizieren in Veränderungsprozessen (2. Aufl.). Berlin: Springer Gabler. 
 
 [^4]: Vgl. Schlicher, K.D.; Paruzel, A.; Steinmann, B.; Maier, G.W. (2018) Change Management für die Einführung digitaler Arbeitswelten. In: Maier, G.; Engels, G.; Steffen, E. (Hrsg.) Handbuch Gestaltung digitaler und vernetzter Arbeitswelten. Springer Reference Psychologie. Berlin, Heidelberg: Springer. 
 
@@ -276,3 +276,8 @@ Die Einführung einer neuen Technologie oder digitalen Lösung in ein Unternehme
 
 [^28]: C. K. Bosse, V. Hellge, D. Schröder, S. Dupont (2019) in: C. K. Bosse, K. J. Zink (Hrsg. 2019): Arbeit 4.0 im Mittelstand. Berlin. 
 
+****
+
+| [![](/Daccord/assets/images/backward-solid.svg) Systemeinführung](./) | [Befähigungskonzept ![](/Daccord/assets/images/forward-solid.svg)](<Befähigungskonzept>) |
+
+****
