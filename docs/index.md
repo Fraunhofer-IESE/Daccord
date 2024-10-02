@@ -208,6 +208,7 @@ Von uns durchgeführte Veranstaltungen finden Sie [hier](<Lesestoff/Veranstaltun
   - Florian Dehling ([GitHub](https://github.com/herr-dehling))
 - **[Insitut für Technologie und Arbeit](https://www.ita-kl.de/)**
   - Andreas Weßner
+  - Johanna Pfenning
 - **[Universität des Saarlandes](https://www.uni-saarland.de/)**
   - Prof. Dr. Christoph Sorge
   - Bianca Steffes
