@@ -8,7 +8,7 @@ Mit der fortschreitenden Digitalisierung der Gesundheitsbranche und der wachsend
 
 ## **![](../../assets/images/mountain-city.svg) Smarte.Land.Regionen**
 
-<mark>tbd.</mark>
+Der Einsatz neuer technischer Möglichkeiten ist entscheidend, um das Lebens- und Arbeitsumfeld, insbesondere in ländlichen Regionen, attraktiv zu gestalten. Unter der Leitung des Fraunhofer IESE werden die digitale Plattform „DEUTSCHLAND.DIGITAL“ sowie dazugehörige Anwendungen entwickelt und erforscht. Dieses Szenario ist ebenfalls Teil unseres interaktiven Demonstrators, den wir bereits oben angesprochen hatten.
 
 [Zum Demonstrator "Smarte.Land.Regionen"](<Smarte.Land.Regionen>)
 
