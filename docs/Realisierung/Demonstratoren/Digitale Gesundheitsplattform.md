@@ -2,20 +2,24 @@
 
 ## Hintergrund
 
-Im Zentrum dieses Demonstrators steht eine digitale Plattform, welche die Vermittlung von Gesundheitsdaten zwischen Patienten und medizinischem Fachpersonal bietet. 
+Im Zentrum des Demonstrators steht eine digitale Plattform, die den sicheren Austausch von Gesundheitsdaten zwischen Patienten und medizinischem Fachpersonal ermöglicht. Ein integraler Bestandteil dieser Plattform ist das Datenschutz-Cockpit, welches Patienten Transparenz über die Datenverarbeitung bietet und ihnen erlaubt, ihre Datenschutzrechte aktiv wahrzunehmen. Durch das Cockpit können sie nicht nur Einblicke in die Nutzung ihrer Daten erhalten, sondern auch gezielt Freigaben erteilen oder einschränken. Gleichzeitig haben auch Datennutzer, wie Ärzte oder Pflegedienste, über das Cockpit Zugriff auf maßgeschneiderte Ansichten, die ihre Datenanforderungen regeln.
 
-Teil dieser Plattform ist das Datenschutz-Cockpit, über welches Patienten sich über Datenverarbeitungen in diesem Ökosystem informieren können und ihr Selbstbestimmungsrecht wahrnehmen. Um dies zu ermöglichen, bietet das Datenschutz-Cockpit auch entsprechende Sichten für die Datennutzer (also das medizinische Fachpersonal) und ist mit der Sicherheitslösung "MYDATA" verbunden, um vom Nutzer getroffene Einstellungen direkt umzusetzen.
+Das Datenschutz-Cockpit ist eng mit der Sicherheitslösung "MYDATA" verknüpft, die die getroffenen Einstellungen automatisch umsetzt und eine feingranulare Kontrolle der Datenverarbeitung sicherstellt.
 
-Der Demonstrator zeigt im Wesentlichen folgende Abläufe:
-- Patient gibt Daten für Arzt frei
-- Arzt wird über neue Daten informiert
-- Pflegedienst stellt Datenanfrage an Patienten
-- Patient bearbeitet Datenanfrage und schränkt die Verarbeitung ein
-- MYDATA maskiert die Daten entsprechend den im Datenschutz-Cockpit eingestellten Regeln
+Der Demonstrator zeigt folgende zentrale Abläufe, gestützt durch unser Datenschutz-Cockpit:
+
+- Ein Pflegedienst stellt eine gezielte Datenanfrage an den Patienten.
+- Der Patient gibt seine Gesundheitsdaten für den Pflegedienst frei.
+- Der Pflegedienst wird über die neuen freigegebenen Daten informiert.
+- Der Patient bearbeitet die Datenfreigabe und schränkt die Datenverarbeitung ein.
+- Die Sicherheitslösung MYDATA maskiert die Daten gemäß den im Datenschutz-Cockpit festgelegten Vorgaben.
+- Der Pflegedienst ändert seine Datenschutzerklärung.
+- Der Patient verlangt eine Datenauskunft nach DSGVO Art. 15.
+- Es tritt eine Notfallsituation auf, die eine Abwägung zwischen Datenschutz und Gesundheit erfordert.
 
 ## Demonstrator
 
-<video src="Daccord-Cockpit_Health.mp4" controls="controls" style="max-width: 960px;"></video>
+<video src="Demonstrator_IESE_Health.mp4" controls="controls" style="max-width: 960px;"></video>
 
 ## Einbettung in den IESE-Demo-Bereich
 
