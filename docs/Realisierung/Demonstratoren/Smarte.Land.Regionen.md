@@ -37,19 +37,19 @@ Die hier gezeigten Screenshots verdeutlichen die Funktionen und Abläufe.
   <div class="mySlides fade">
     <div class="numbertext">2 / 11</div>
     <img src="./SLR/03 - DeutschlandDigita Konto.png" style="width:100%">
-    <div class="text">Deutschland.Digital &copy; Fraunhofer IESE</div>
+    <div class="text">DEUTSCHLAND.DIGITAL &copy; Fraunhofer IESE</div>
   </div>
    
   <div class="mySlides fade">
     <div class="numbertext">3 / 11</div>
     <img src="./SLR/06 - Georg DSC LandRaeume hinzugefuegt.png" style="width:100%">
-    <div class="text">&Uuml;bersicht über die Neuigkeiten - Landr&auml;me wurde hinzugef&uuml;gt &copy; Fraunhofer IESE</div>
+    <div class="text">&Uuml;bersicht über die Neuigkeiten - LandR&auml;ume wurde hinzugef&uuml;gt &copy; Fraunhofer IESE</div>
   </div>
    
   <div class="mySlides fade">
     <div class="numbertext">4 / 11</div>
     <img src="./SLR/07 - Georg DSC LandRaeume Uebersicht.png" style="width:100%">
-    <div class="text">Detailseite zur L&ouml;sung Landr&auml;ume &copy; Fraunhofer IESE</div>
+    <div class="text">Detailseite zur L&ouml;sung LandR&auml;ume &copy; Fraunhofer IESE</div>
   </div>
    
   <div class="mySlides fade">
