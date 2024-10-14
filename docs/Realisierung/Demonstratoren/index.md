@@ -1,16 +1,16 @@
 # Demonstratoren
 
+## **![](../../assets/images/user-doctor.svg) Digitale Gesundheitsplattform** 
+
+Mit der fortschreitenden Digitalisierung der Gesundheitsbranche und der wachsenden Beliebtheit von Fitness-Trackern werden zunehmend hochsensible Patientendaten ausgetauscht. Dieses Anwendungsbeispiel zeigt die Vorteile eines Datenschutz-Cockpits in diesem Kontext und veranschaulicht das Zusammenspiel zwischen Datenschutz-Cockpits und technischen Maßnahmen. Zu diesem Zweck wurde ein interaktiver Demonstrator entwickelt, der auch in unserem IESE-Showroom besichtigt werden kann.
+
+[Zum Demonstrator "Digitale Gesundheitsplattform"](<Digitale Gesundheitsplattform>)
+
 ## **![](../../assets/images/mountain-city.svg) Smarte.Land.Regionen**
 
 <mark>tbd.</mark>
 
 [Zum Demonstrator "Smarte.Land.Regionen"](<Smarte.Land.Regionen>)
-
-## **![](../../assets/images/user-doctor.svg) Digitale Gesundheitsplattform** 
-
-<mark>tbd.</mark>
-
-[Zum Demonstrator "Digitale Gesundheitsplattform"](<Digitale Gesundheitsplattform>)
 
 ## **![](../../assets/images/talking.svg) Kommunikationsplattform für Unternehmen**
 
