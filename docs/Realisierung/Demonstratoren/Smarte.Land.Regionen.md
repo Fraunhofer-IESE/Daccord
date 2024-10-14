@@ -1,10 +1,14 @@
 # Smarte.Land.Regionen
 
+<link rel="stylesheet" href="/Daccord/assets/css/slideshow.css">
+
 ## Hintergrund
 
-Der Einsatz neuer technischer Möglichkeiten ist entscheidend, um das Lebens- und Arbeitsumfeld gerade in ländlichen Regionen attraktiv zu halten. Dies gilt insbesondere für zukunftsrelevante Bereiche wie etwa E-Mobilität, E-Learning und Bildung, Telemedizin oder die flexible, ortsunabhängige Gestaltung von Arbeit. Auch soziale und kulturelle Angebote auf dem Land können von digitalen Vernetzungs- und Bewerbungsmethoden profitieren.
+Der Einsatz neuer technischer Möglichkeiten ist entscheidend, um das Lebens- und Arbeitsumfeld, insbesondere in ländlichen Regionen, attraktiv zu gestalten. Dies gilt vor allem für zukunftsrelevante Bereiche wie E-Mobilität, E-Learning, Telemedizin oder die flexible, ortsunabhängige Gestaltung der Arbeit. Auch soziale und kulturelle Angebote auf dem Land können von digitalen Vernetzungs- und Vermarktungsmethoden profitieren.
 
-Unter der Leitung des Fraunhofer IESE werden in [Smarte.Land.Regionen (S.L.R.)](https://www.landkreise.digital/) Lösungen (analog zu Apps / Anwendungen) erforscht und entwickelt, die über eine digitale Plattform zur Verfügung gestellt werden. Im Zentrum steht die Frage: Welche digitalen Software-Lösungen können auf welche Weise den für das Modellvorhaben ausgewählten ländlichen Landkreisen helfen, sich digital gut für die Zukunft aufzustellen?
+Unter der Leitung des Fraunhofer IESE werden die digitale Plattform „DEUTSCHLAND.DIGITAL“ sowie dazugehörige Anwendungen entwickelt und erforscht. Im Mittelpunkt steht die Frage: Welche digitalen Software-Lösungen können ländlichen Kreisen helfen, sich zukunftssicher digital aufzustellen?
+
+Der zentrale Dienst der Plattform, den wir in diesem Demonstrator zeigen, ist der Digitale Marktplatz. Über diesen Marktplatz können Landkreise (z. B. Göllheim) digitale Lösungen (z. B. LandRäume, kuubu) für ihre Bürger (z. B. Georg) lizensieren. Anschließend können die Bürger diese Lösungen (in der Regel kostenlos) über den Marktplatz beziehen und nutzen.
 
 Da in den Lösungen verschiedenste Arten von Daten verarbeitet werden können und Vertrauen gerade im kommunalen Kontext ein wichtiger Faktor ist, bieten sich Datenschutz-Cockpits hier gut an, damit Bürgerinnen und Bürger sich lösungsübergreifend über Datenverarbeitungen in diesem Ökosystem informieren können und ihr Selbstbestimmungsrecht wahrnehmen. Um dies zu ermöglichen bietet das Datenschutz-Cockpit auch entsprechende Sichten für die Lösungsanbieter.
 
@@ -16,9 +20,79 @@ Der Demonstrator zeigt im Wesentlichen folgende Abläufe:
 - Lösungsanbieter bearbeitet Datenauskunft
 - Bürger lädt seine Daten herunter
 
+Die grundlegenden Abläufe sind mit denen aus dem vorherigen Beispiel, der [digitalen Gesundheitsplattform](<Digitale Gesundheitsplattform>), vergleichbar. Wir empfehlen daher, zuerst das dort gezeigte Demo-Video anzusehen.
+
 ## Demonstrator
 
-<video src="Daccord-Cockpit_SLR.mp4" controls="controls" style="max-width: 960px;"></video>
+<div class="slideshow-container">
+
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 11</div>
+    <img src="./SLR/01 - Start.png" style="width:100%">
+    <div class="text">&Uuml;bersicht über das Digitale &Ouml;kosystem &copy; Fraunhofer IESE</div>
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 11</div>
+    <img src="./SLR/03 - DeutschlandDigita Konto.png" style="width:100%">
+    <div class="text">Deutschland.Digital &copy; Fraunhofer IESE</div>
+  </div>
+   
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 11</div>
+    <img src="./SLR/06 - Georg DSC LandRaeume hinzugefuegt.png" style="width:100%">
+    <div class="text">&UUml;bersicht über die Neuigkeiten - Landr&auml;me wurde hinzugef&uuml;gt &copy; Fraunhofer IESE</div>
+  </div>
+   
+  <div class="mySlides fade">
+    <div class="numbertext">4 / 11</div>
+    <img src="./SLR/07 - Georg DSC LandRaeume Uebersicht.png" style="width:100%">
+    <div class="text">Detailseite zur L&ouml;sung Landr&auml;ume &copy; Fraunhofer IESE</div>
+  </div>
+   
+  <div class="mySlides fade">
+    <div class="numbertext">5 / 11</div>
+    <img src="./SLR/09 - Georg DSC - Diensteuebersicht.png" style="width:100%">
+    <div class="text">&Uuml;bersicht &uuml;ber die L&ouml;sungen &copy; Fraunhofer IESE</div>
+  </div>
+   
+  <div class="mySlides fade">
+    <div class="numbertext">6 / 11</div>
+    <img src="./SLR/09 - Georg DSC - Diensteuebersicht.png" style="width:100%">
+    <div class="text">&Uuml;bersicht &uuml;ber die LandR&auml;ume-Nutzer &copy; Fraunhofer IESE</div>
+  </div>
+   
+  <div class="mySlides fade">
+    <div class="numbertext">7 / 11</div>
+    <img src="./SLR/15 - LandRaeume Datenschutzerklaerung Ansicht und Bearbeiten.png" style="width:100%">
+    <div class="text">LandR&auml;ume bearbeitet seine Datenschutzerkl&auml;rung &copy; Fraunhofer IESE</div>
+  </div>
+ 
+   <div class="mySlides fade">
+    <div class="numbertext">8 / 11</div>
+    <img src="./SLR/19 - Georg DSC Ansicht Aenderungen.png" style="width:100%">
+    <div class="text">Georg pr%uuml;ft die &Auml;nderungen &copy; Fraunhofer IESE</div>
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">9 / 11</div>
+    <img src="./SLR/22 - Georg DSC Datenanfrage LandRaeume gesendet.png" style="width:100%">
+    <div class="text">Georg stellt eine Datenanfrage &copy; Fraunhofer IESE</div>
+  </div>
+  
+  <div class="mySlides fade">
+    <div class="numbertext">10 / 11</div>
+    <img src="./SLR/24 - Sarah DSC Datenanfrage Ansicht.png" style="width:100%">
+    <div class="text">LandR&auml;ume bearbeitet die Datenanfrage &copy; Fraunhofer IESE</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">11 / 11</div>
+    <img src="./SLR/28 - Georg DSC Datendownload.png" style="width:100%">
+    <div class="text">Georg l&auml;dt die Daten herunter &copy; Fraunhofer IESE</div>
+  </div>
+ 
+</div>
 
 ## Einbettung in den IESE-Demo-Bereich
 

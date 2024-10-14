@@ -22,9 +22,9 @@ Ziel dieses Anwendungsbeispiels war es, die D’accord-Konzepte und die adaptive
 
 Im Rahmen der Anforderungserhebung an das Datenschutz-Cockpit wurden bei der HK Business Solutions interne Workshops durchgeführt. Anschließend wurden Experteninterviews mit Vertretern aus vier Kundenunternehmen geführt. Auf diese Weise wurden insgesamt 50 Anwendungsfälle identifiziert (siehe Beispiele in den Abbildungen), die den Funktionsumfang definierten:
 
-![Use-Case-Diagramm des Datenschutz-Cockpits](<HKBS-I-02.png>)
+![Use-Case-Diagramm des Datenschutz-Cockpits](<./Kommunikationsplattform/HKBS-I-02.png>)
 
-![Beispiel-Use-Cases des Datenschutz-Cockpits](<HKBS-I-03.png>)
+![Beispiel-Use-Cases des Datenschutz-Cockpits](<./Kommunikationsplattform/HKBS-I-03.png>)
 
 Als wichtigste Akteure für die Anwendungsfälle wurden identifiziert:
 
@@ -33,7 +33,7 @@ Als wichtigste Akteure für die Anwendungsfälle wurden identifiziert:
 - Content-Manager: kümmert sich um die inhaltliche Pflege des Datenschutz-Cockpits
 - Betroffene: alle Personen bei anderen Organisationen, deren personenbezogene Daten erhoben bzw. verarbeitet werden
 
-![Übersicht: Datenschutz-Cockpit, Organisationen und Akteure](<HKBS-I-01.png>)
+![Übersicht: Datenschutz-Cockpit, Organisationen und Akteure](<./Kommunikationsplattform/HKBS-I-01.png>)
 
 Zudem wurde entschieden, welche Betroffenenrechte im Cockpit-Demonstrator umgesetzt werden sollten:
 
@@ -49,7 +49,7 @@ Im Anschluss an die Konzepterstellung und die Durchführung einer technischen Ma
 ### Interaktion im Datenschutz-Cockpit (Video)
 (Stand: August 2024)
 
-<video src="Daccord-Cockpit_HKBS.mp4" controls="controls" style="max-width: 960px;"></video>
+<video src="./Kommunikationsplattform/Daccord-Cockpit_HKBS.mp4" controls="controls" style="max-width: 960px;"></video>
 
 ### Benutzeroberfläche des Datenschutz-Cockpits (Slideshow)
 (Stand: August 2024)
@@ -58,175 +58,175 @@ Im Anschluss an die Konzepterstellung und die Durchführung einer technischen Ma
 
   <div class="mySlides fade">
     <div class="numbertext">1 / 29</div>
-    <img src="HKBS_01_login.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_01_login.JPG" style="width:100%">
     <div class="text">Login-Screen des Datenschutz-Cockpits. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">2 / 29</div>
-    <img src="HKBS_02_startseite.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_02_startseite.JPG" style="width:100%">
     <div class="text">Startseite des Datenschutz-Cockpits. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">3 / 29</div>
-    <img src="HKBS_03_glossar.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_03_glossar.JPG" style="width:100%">
     <div class="text">Datenschutz-Glossar mit allgemeinverständlichen Erklärungen datenschutzrelevanter Begriffe und Verweisen auf relevante Quellen. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">4 / 29</div>
-    <img src="HKBS_04_glossareintrag.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_04_glossareintrag.JPG" style="width:100%">
     <div class="text">Beispieleintrag im Datenschutz-Glossar. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">5 / 29</div>
-    <img src="HKBS_05_ds-bei-hkbs.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_05_ds-bei-hkbs.JPG" style="width:100%">
     <div class="text">Übersicht “Datenschutz bei HKBS”. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">6 / 29</div>
-    <img src="HKBS_06_richtlinien.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_06_richtlinien.JPG" style="width:100%">
     <div class="text">Richtlinien u. ä., die den Umgang mit personenbezogenen Daten im digitalen Ökosystem regeln. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">7 / 29</div>
-    <img src="HKBS_07_richtlinien-beispiel.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_07_richtlinien-beispiel.JPG" style="width:100%">
     <div class="text">Beispiel für eine interne Richtlinie. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">8 / 29</div>
-    <img src="HKBS_08_vertraege.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_08_vertraege.JPG" style="width:100%">
     <div class="text">Verträge (insbesondere mit externen Datenverarbeitern), die den Umgang mit personenbezogenen Daten im digitalen Ökosystem regeln. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">9 / 29</div>
-    <img src="HKBS_09_neuer-vertrag.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_09_neuer-vertrag.JPG" style="width:100%">
     <div class="text">Maske zum Anlegen eines neuen Vertrags. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">10 / 29</div>
-    <img src="HKBS_10_audits.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_10_audits.JPG" style="width:100%">
     <div class="text">Audits/Reviews – Übersicht. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">11 / 29</div>
-    <img src="HKBS_11_neues-audit.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_11_neues-audit.JPG" style="width:100%">
     <div class="text">Maske zum Dokumentieren eines Datenschutz-Audits. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">12 / 29</div>
-    <img src="HKBS_12_schulungen.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_12_schulungen.JPG" style="width:100%">
     <div class="text">Durchgeführte Schulungen zum Umgang mit personenbezogenen Daten im digitalen Ökosystem. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">13 / 29</div>
-    <img src="HKBS_13_neue-schulung.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_13_neue-schulung.JPG" style="width:100%">
     <div class="text">Maske zum Dokumentieren einer Schulung. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">14 / 29</div>
-    <img src="HKBS_14_verarbeitungsverzeichnis.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_14_verarbeitungsverzeichnis.JPG" style="width:100%">
     <div class="text">Verarbeitungsverzeichnis – Übersicht. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">15 / 29</div>
-    <img src="HKBS_15_verarbeitungsverzeichnis-beispiel.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_15_verarbeitungsverzeichnis-beispiel.JPG" style="width:100%">
     <div class="text">Beispieleintrag im Verarbeitungsverzeichnis. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">16 / 29</div>
-    <img src="HKBS_16_tom.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_16_tom.JPG" style="width:100%">
     <div class="text">Verzeichnis der technischen und organisatorischen Maßnahmen (TOM). &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">17 / 29</div>
-    <img src="HKBS_17_tom-beispiel.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_17_tom-beispiel.JPG" style="width:100%">
     <div class="text">TOM-Beispieleintrag. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">18 / 29</div>
-    <img src="HKBS_18_dsfa.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_18_dsfa.JPG" style="width:100%">
     <div class="text">Verzeichnis der Datenschutz-Folgenabschätzungen (DSFA). &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">19 / 29</div>
-    <img src="HKBS_19_neue-dsfa.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_19_neue-dsfa.JPG" style="width:100%">
     <div class="text">Maske zum Dokumentieren einer DSFA. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">20 / 29</div>
-    <img src="HKBS_20_datenkategorien.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_20_datenkategorien.JPG" style="width:100%">
     <div class="text">Datenkategorien mit Beschreibung, Quelle, Zweck und Empfänger. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">21 / 29</div>
-    <img src="HKBS_21_dienste-zwecke.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_21_dienste-zwecke.JPG" style="width:100%">
     <div class="text">Dienste und Zwecke inkl. Rechtsgrundlagen. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">22 / 29</div>
-    <img src="HKBS_22_eigene-daten-aendern.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_22_eigene-daten-aendern.JPG" style="width:100%">
     <div class="text">Übersicht der eigenen personenbezogenen Daten. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">23 / 29</div>
-    <img src="HKBS_23_eigene-daten-exportieren.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_23_eigene-daten-exportieren.JPG" style="width:100%">
     <div class="text">Datenexport als PDF. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">24 / 29</div>
-    <img src="HKBS_24_einwilligungen-anfragen.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_24_einwilligungen-anfragen.JPG" style="width:100%">
     <div class="text">Einwilligungen und Anfragen. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">25 / 29</div>
-    <img src="HKBS_25_anfrage-beispiel.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_25_anfrage-beispiel.JPG" style="width:100%">
     <div class="text">Beispielanfrage. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">26 / 29</div>
-    <img src="HKBS_26_meldungen.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_26_meldungen.JPG" style="width:100%">
     <div class="text">HKBS-Meldungen zum Datenschutz. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">27 / 29</div>
-    <img src="HKBS_27_neue_meldung.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_27_neue_meldung.JPG" style="width:100%">
     <div class="text">Maske zum Erstellen einer neuen Meldung. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">28 / 29</div>
-    <img src="HKBS_28_benutzerverwaltung.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_28_benutzerverwaltung.JPG" style="width:100%">
     <div class="text">Administrationsoberfläche: Benutzerverwaltung. &copy; HK Business Solutions GmbH</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">29 / 29</div>
-    <img src="HKBS_29_rolle-aendern.JPG" style="width:100%">
+    <img src="./Kommunikationsplattform/HKBS_29_rolle-aendern.JPG" style="width:100%">
     <div class="text">Administrationsoberfläche: Rollenzuweisungen. &copy; HK Business Solutions GmbH</div>
   </div>
 
