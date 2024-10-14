@@ -24,6 +24,8 @@ Die grundlegenden Abläufe sind mit denen aus dem vorherigen Beispiel, der [digi
 
 ## Demonstrator
 
+Die hier gezeigten Screenshots verdeutlichen die Funktionen und Abläufe.
+
 <div class="slideshow-container">
 
   <div class="mySlides fade">
