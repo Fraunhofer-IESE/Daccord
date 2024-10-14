@@ -111,6 +111,8 @@ Die hier gezeigten Screenshots verdeutlichen die Funktionen und Abläufe.
   <span class="dot" onclick="currentSlide(11)"></span>
 </div>
 
+<script src="/Daccord/assets/scripts/slideshow.js"></script>
+
 
 ## Einbettung in den IESE-Demo-Bereich
 
