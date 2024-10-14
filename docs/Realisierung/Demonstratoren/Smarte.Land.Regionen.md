@@ -43,7 +43,7 @@ Die hier gezeigten Screenshots verdeutlichen die Funktionen und Abläufe.
   <div class="mySlides fade">
     <div class="numbertext">3 / 11</div>
     <img src="./SLR/06 - Georg DSC LandRaeume hinzugefuegt.png" style="width:100%">
-    <div class="text">&UUml;bersicht über die Neuigkeiten - Landr&auml;me wurde hinzugef&uuml;gt &copy; Fraunhofer IESE</div>
+    <div class="text">&Uuml;bersicht über die Neuigkeiten - Landr&auml;me wurde hinzugef&uuml;gt &copy; Fraunhofer IESE</div>
   </div>
    
   <div class="mySlides fade">
@@ -73,7 +73,7 @@ Die hier gezeigten Screenshots verdeutlichen die Funktionen und Abläufe.
    <div class="mySlides fade">
     <div class="numbertext">8 / 11</div>
     <img src="./SLR/19 - Georg DSC Ansicht Aenderungen.png" style="width:100%">
-    <div class="text">Georg pr%uuml;ft die &Auml;nderungen &copy; Fraunhofer IESE</div>
+    <div class="text">Georg pr&uuml;ft die &Auml;nderungen &copy; Fraunhofer IESE</div>
   </div>
   
   <div class="mySlides fade">
