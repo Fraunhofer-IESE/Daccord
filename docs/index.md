@@ -76,7 +76,7 @@
 	  </li>
 	  <li><a href="Bewertung">Bewertung</a>
 		<ul>
-		  <li><a href="Bewertung(Evaluationskonzept">Evaluationskonzept</a></li>
+		  <li><a href="Bewertung/Evaluationskonzept">Evaluationskonzept</a></li>
 		  <li><a href="Bewertung/Kriterienkataloge">Kriterienkataloge des D’accord-Qualitätsmodells</a></li>
 		</ul>
 	  </li>
