@@ -40,7 +40,7 @@
     - [Digitale Gesundheitsplattform](<Realisierung/Demonstratoren/Digitale Gesundheitsplattform>)
     - [Kommunikationsplattform](<Realisierung/Demonstratoren/Kommunikationsplattform>)
 - [Bewertung](<Bewertung>)
-  - [Evaluationskonzept](<Bewertung(Evaluationskonzept>)
+  - [Evaluationskonzept](<Bewertung/Evaluationskonzept>)
   - [Kriterienkataloge des D'accord-Qualitätsmodells](<Bewertung/Kriterienkataloge>)
 - [Systemeinführung](<Systemeinführung>)
   - [Konzepte zur Einführung von Datenschutz-Cockpits](<Systemeinführung/Einführungskonzept>)
