@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fraunhofer-iese.github.io/Daccord/sitemap.xml
