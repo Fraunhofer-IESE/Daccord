@@ -148,10 +148,6 @@ Als Betroffener möchte ich wissen, ob die Übertragung bzw. Weiterleitung perso
 
 Als Betroffener möchte ich zum Zeitpunkt der Erhebung wissen, welche Daten zu welchem Zweck von den Beteiligten des digitalen Ökosystems erhoben werden, damit ich mich darauf einstellen kann.
 
-#### Priorität
-
-<mark>tbd.</mark>
-
 **Beispiel:** Bei einem Formular, in das ich meine Daten eingebe, ist erläutert, wofür die einzelnen Daten später verwendet werden.
 
 

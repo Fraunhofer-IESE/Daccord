@@ -124,11 +124,6 @@ Als Betroffener möchte ich die Nutzung der mich betreffenden personenbezogenen 
 
 Als Betroffener möchte ich meine Datenschutzeinstellungen unkompliziert über die Grenzen des digitalen Ökosystems hinweg austauschen, damit ich diese nur einmal festlegen muss.
 
-#### Priorität
-
-<mark>tbd.</mark>
-
-
 **Beispiel:** Als Nutzer eines PIMS, Datenschutz- oder Einstellungsagenten kann ich meine Datenschutzeinstellungen auf Knopfdruck in das digitale Ökosystem übernehmen, etwa durch eine entsprechende REST- oder SOAP-Schnittstelle.
 
 
