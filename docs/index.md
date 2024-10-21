@@ -39,6 +39,13 @@
 			</ul>
 		  </li>
 		  <li><a href="Anforderungen/Anwendungsfälle">Anwendungsfälle</a></li>
+		  <li><a href="Anforderungen/Anforderungen">Anforderungen</a>
+			<ul>
+			  <li><a href="Anforderungen/Anforderungen/Interaktionsanforderungen">Interaktionsanforderungen</a></li>
+			  <li><a href="Anforderungen/Anforderungen/Prozessanforderungen">Prozessanforderungen</a></li>
+			  <li><a href="Anforderungen/Anforderungen/Systemanforderungen">Systemanforderungen</a></li>
+			</ul>
+		  </li>
 		  <li><a href="Anforderungen/Qualitätsmodell">Qualitätsmodell</a></li>
 		</ul>
 	  </li>
