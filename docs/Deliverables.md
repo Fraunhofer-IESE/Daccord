@@ -22,7 +22,7 @@ Nicht Teil der öffentlichen Dokumentation.
 	  - [Bedarfe](<Anforderungen/Bedarfe>)
 		- [Transparenzbedarfe](<Anforderungen/Bedarfe/Transparenzbedarfe>)
 		- [Selbstbestimmungsbedarfe](<Anforderungen/Bedarfe/Selbstbestimmungsbedarfe>)
-		- [Bedarfe der Datennutzer](<Anforderungen/Bedarfe/Bedarfe der Datennutzer>)
+		- [Datennutzungsbedarfe](<Anforderungen/Bedarfe/Datennutzungsbedarfe>)
 		- [Unterstützungsbedarfe](<Anforderungen/Bedarfe/Unterstützungsbedarfe>)
 	  - [Anforderungen](<Anforderungen/Anforderungen>)
 		- [Interaktionsanforderungen](<Anforderungen/Anforderungen/Interaktionsanforderungen>)
@@ -42,12 +42,12 @@ Nicht Teil der öffentlichen Dokumentation.
   - [Kriterienkataloge des D'accord-Qualitätsmodells](<Bewertung/Kriterienkataloge>)
 - D3.3 Dokumentierte D’accord-Konzepte, -Modelle und -Schnittstellen in einer adaptiven Werkzeugsammlung
 	- [Adaptive Werkzeugsammlung auf GitHub](<https://fraunhofer-iese.github.io/Daccord/>)
-	- [Architekturkonzept](<realisierung/architekturkonzept>)
-		- [system context and domain model](<realisierung/architekturkonzept/system-context>)
-		- [architecture drivers](<realisierung/architekturkonzept/drivers>)
-		- [system decomposition](<realisierung/architekturkonzept/decomposition>)
-		- [quality concepts](<realisierung/architekturkonzept/quality>)
-		- [further notes](<realisierung/architekturkonzept/conclusion>)
+	- [Architekturkonzept](<Realisierung/Architekturkonzept>)
+		- [system context and domain model](<Realisierung/Architekturkonzept/system-context>)
+		- [architecture drivers](<Realisierung/Architekturkonzept/drivers>)
+		- [system decomposition](<Realisierung/Architekturkonzept/decomposition>)
+		- [quality concepts](<Realisierung/Architekturkonzept/quality>)
+		- [further notes](<Realisierung/Architekturkonzept/conclusion>)
 
 ## Arbeitspaket 4 (Interaktionskonzepte)
 
