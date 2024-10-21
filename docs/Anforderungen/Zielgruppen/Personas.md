@@ -1,6 +1,6 @@
 # Personas
 
-Personas sind fiktive, archetypische Charaktere, die im Projekt entwickelt wurden, um die potenziellen Nutzerinnen und Nutzer eines DSC zu repräsentieren. Der Einsatz von Personas ist eine effektive Methode, um das Verhalten und die Bedürfnisse von Nutzerinnen und Nutzern besser zu verstehen und auf dieser Grundlage Produkte und Dienstleistungen zu entwickeln, die den Anforderungen und Erwartungen der Nutzenden entsprechen.
+Personas sind fiktive, archetypische Charaktere, die im Projekt entwickelt wurden, um die potenziellen Nutzerinnen und Nutzer eines Datenschutz-Cockpits zu repräsentieren. Der Einsatz von Personas ist eine effektive Methode, um das Verhalten und die Bedürfnisse von Nutzerinnen und Nutzern besser zu verstehen und auf dieser Grundlage Produkte und Dienstleistungen zu entwickeln, die den Anforderungen und Erwartungen der Nutzenden entsprechen.
 
 Personas ermöglichen eine differenzierte Auseinandersetzung mit den Fähigkeiten, Bedürfnissen und Erwartungen unterschiedlicher Nutzergruppen. Sie haben sich als wertvolles Instrument der Nutzeranalyse etabliert, da sie dazu beitragen, unterschiedliche, relevante Nutzertypen griffig zu charakterisieren und sich in ihre Perspektive hineinzuversetzen.
 
@@ -10,7 +10,7 @@ Die Entwicklung und Verwendung von Personas kann helfen, besser zu verstehen, wi
 
 Im vorliegenden Fall könnten die Extreme z.B. durch die Persona einer Person repräsentiert werden, die wenig Erfahrung oder Motivation hat, ihre Datensouveränität durchzusetzen und einer anderen Persona mit besonders ausgeprägter digitaler Kompetenz darstellt, für die Datenschutz überdies ein zentrales Anliegen ist. Dieser Ansatz ist etabliert und wird unter anderem in den Arbeiten von Dupree et al. (2016), Mettler/Wulf (2019) und Schomakers et al. (2018) hervorgehoben.
 
-Im Projektkontext wurden Privacy Personas auf Basis der Verbrauchertypen des vom Bundesministerium des Innern und für Heimat (BMI) geförderten gemeinnützigen Bündnisses "Deutschland sicher im Netz e.V." (DsiN) entwickelt. Diese Personas decken die Bandbreite der Bedürfnisse und Kompetenzen deutscher Internetnutzerinnen und –nutzer in Bezug auf Informationssicherheit ab und waren nicht nur im Kontext digitaler Ökosysteme in Deutschland, sondern insbesondere bereits für die Konzeption der gebrauchstauglichen Datenschutzfunktionen des DSC relevant. 
+Im Projektkontext wurden Privacy Personas auf Basis der Verbrauchertypen des vom Bundesministerium des Innern und für Heimat (BMI) geförderten gemeinnützigen Bündnisses "Deutschland sicher im Netz e.V." (DsiN) entwickelt. Diese Personas decken die Bandbreite der Bedürfnisse und Kompetenzen deutscher Internetnutzerinnen und –nutzer in Bezug auf Informationssicherheit ab und waren nicht nur im Kontext digitaler Ökosysteme in Deutschland, sondern insbesondere bereits für die Konzeption der gebrauchstauglichen Datenschutzfunktionen des Datenschutz-Cockpits relevant. 
 
 Folgende Personas wurden im Projekt entwickelt:
 
