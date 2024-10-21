@@ -35,7 +35,7 @@ Greta N. - die Gutgläubige: 28 Jahre alt, nutzt das Internet 10-20 Stunden/Woch
 Arne N. – der Antreiber: 46 Jahre, Internetnutzung 10-30 Stunden/Woche, bevorzugt mobile Geräte. Er ist sich der Bedeutung des Datenschutzes bewusst und prüft neue Plattformen erst nach gründlicher Lektüre der Datenschutzerklärungen.
 
 ## Bedachtsame Nutzer:innen
-![](persona_arne.jpg)
+![](persona_bernd.jpg)
 
 Bernd N. - der Vorsichtige: 54 Jahre, Internetnutzung 10-30 Stunden/Woche, bevorzugt mobile Geräte. Für ihn steht die Sicherheit seiner persönlichen Daten an erster Stelle. Er liest Datenschutzerklärungen genau, um seine Einstellungen zu optimieren.
 
