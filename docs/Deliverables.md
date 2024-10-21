@@ -53,7 +53,7 @@ Nicht Teil der öffentlichen Dokumentation.
 
 - D4.1 Dokumentierte Sammlung von Interaktionskonzepten für Datenschutz-Cockpits
     - [Interaktionspatterns](<Realisierung/UX-Design/Interaktionspatterns>)
-- D4.2
+- D4.2 Technische Demonstratoren zu ausgewählten Interaktionskonzepten
 	- [Privacy Interaction Concepts for digital ecosystems](https://das.h-brs.de/privacyinteractionconcepts/)
 
 ## Arbeitspaket 5 (Lehr- und Lernfomate)
@@ -68,7 +68,8 @@ Nicht Teil der öffentlichen Dokumentation.
 
 ## Arbeitspaket 6 (Umsetzbarkeit)
 
-- D6.1 Studien zu Teilkonzepten - Aufgegangen in D6.2
+- D6.1 Studien zu Teilkonzepten 
+	- Aufgegangen in D6.2
 - D6.2 Mockups zu Teilkonzepten
     - [Interaktionsdesigns für zentrale Datenschutz-Cockpits](<Realisierung/UX-Design/Zentrale Datenschutz-Cockpits>)
       - [Datengeber](<Realisierung/UX-Design/Zentrale Datenschutz-Cockpits/Datengeber>)
@@ -84,7 +85,8 @@ Nicht Teil der öffentlichen Dokumentation.
 
 - D7.1 Evaluationskonzept
 	- [Evaluationskonzept](<Bewertung/Evaluationskonzept>)
-- D7.2 Evaluationsergebnisse - Evaluationsergebnisse werden als Teil der jeweiligen Deliverables / Abschnitte diskutiert. 
+- D7.2 Evaluationsergebnisse 
+	- Evaluationsergebnisse werden als Teil der jeweiligen Deliverables / Abschnitte diskutiert. 
 
 ## Arbeitspaket 8 (Rechtliche und soziale Implikationen)
 
