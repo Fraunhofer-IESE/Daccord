@@ -35,8 +35,9 @@ Auf dieser Seite sind die im Rahmen von D’accord entstandenen Konferenz-, Work
 
 - **Denis Feth & Svenja Polst:**  Benutzerfreundliche Umsetzung von Datensouveränität in Digitalen Ökosystemen. Whitepaper, 2023. Verfügbar unter: https://www.iese.fraunhofer.de/content/dam/iese/dokumente/leistungen/benutzerfreundliche_umsetzung_von_datensouveraenitaet_in_digitalen_oekosystemen-fraunhofer_iese.pdf
 - **Denis Feth:**  Benutzerfreundliche Umsetzung von Datensouveränität in Digitalen Ökosystemen. Keynote, 8. Usable Security und Privacy Workshop 2022. Verfügbar unter: https://daccord-projekt.de/WP/wp-content/uploads/2022/10/Feth-2022-Datensouveraenitaet-in-Digitalen-Oekosystemen-slides.pdf
-- **Hartmut Schmitt & Denis Feth:**  Warum Datenschutz nicht der Feind sein muss. Gastbeitrag, UIG-Magazin,2022. Verfügbar unter: https://www.kompetenzzentrum-usability.digital/kos/WNetz?art=News.show&id=1932
-- **Hartmut Schmitt & Eduard C. Groen:**  Erreichen von Usable Privacy durch die Einbindung bewährter RE-Methoden im Human-Centered-Design-Prozess. Vortrag, Diskussionsaustausch „Menschenzentriertes RE“ der Fachgruppe Requirements Engineering der Gesellschaft für Informatik,2022. Verfügbar unter: https://daccord-projekt.de/WP/wp-content/uploads/2022/11/FGRE-Diskussionsautausch_Schmitt-Groen.pdf
+- **Eduard C. Groen, Hannah Deters, Jakob Droste, Hartmut Schmitt:** Requirements for cross-cutting qualities: Integrating explainability and privacy as a first step towards a stakeholder needs taxonomy. Requirements Engineering Magazine, 2026. Verfügbar unter: https://re-magazine.ireb.org/articles/requirements-for-cross-cutting-qualities
+- **Hartmut Schmitt & Denis Feth:**  Warum Datenschutz nicht der Feind sein muss. Gastbeitrag, UIG-Magazin, 2022. Verfügbar unter: https://www.kompetenzzentrum-usability.digital/kos/WNetz?art=News.show&id=1932
+- **Hartmut Schmitt & Eduard C. Groen:**  Erreichen von Usable Privacy durch die Einbindung bewährter RE-Methoden im Human-Centered-Design-Prozess. Vortrag, Diskussionsaustausch „Menschenzentriertes RE“ der Fachgruppe Requirements Engineering der Gesellschaft für Informatik, 2022. Verfügbar unter: https://daccord-projekt.de/WP/wp-content/uploads/2022/11/FGRE-Diskussionsautausch_Schmitt-Groen.pdf
 
 ****
 
